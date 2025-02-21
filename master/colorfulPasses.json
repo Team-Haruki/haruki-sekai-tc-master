@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "presentSentence": "此為「七彩通行證」的購買獎勵。",
+        "expireDays": 30,
+        "dailyPaidGachaSpinLimit": 2,
+        "livePointMultiple": 2,
+        "boostRecoveryLimit": 20,
+        "dailyAutoLimit": 20
+    }
+]

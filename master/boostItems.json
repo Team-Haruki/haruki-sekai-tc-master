@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "LIVE BONUS飲料（小）",
+        "recoveryValue": 1,
+        "flavorText": "恢復1 LIVE BONUS。"
+    },
+    {
+        "id": 2,
+        "name": "LIVE BONUS飲料（大）",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 3,
+        "name": "情人節巧克力",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 4,
+        "name": "白色情人節棉花糖",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 5,
+        "name": "[限定]炸雞塊君 普通份量",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 6,
+        "name": "萬聖節餅乾",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 7,
+        "name": "布里歐",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 8,
+        "name": "聖誕節蛋糕",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 9,
+        "name": "甘酒",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 10,
+        "name": "[限定]泡麵",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 11,
+        "name": "[限定]寶礦力水得",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 12,
+        "name": "蔥",
+        "recoveryValue": 1,
+        "flavorText": "恢復1 LIVE BONUS。"
+    },
+    {
+        "id": 13,
+        "name": "「初音未來16週年紀念」慶祝蛋糕",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 14,
+        "name": "Hello Kitty的蘋果",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 15,
+        "name": "3900's LIVE BONUS飲料(大)",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 1001,
+        "name": "月餅",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 1002,
+        "name": "蔥 ",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 1004,
+        "name": "酒",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 1005,
+        "name": "果汁",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 1006,
+        "name": "紅白米糕",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 1007,
+        "name": "鮪魚",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 1008,
+        "name": "冰棒",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 1009,
+        "name": "粽子",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    },
+    {
+        "id": 1010,
+        "name": "棒棒糖",
+        "recoveryValue": 10,
+        "flavorText": "恢復10 LIVE BONUS。"
+    }
+]
