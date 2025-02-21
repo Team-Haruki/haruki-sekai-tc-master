@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "招募票券",
+        "assetbundleName": "gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 2,
+        "name": "★3以上必中票券",
+        "assetbundleName": "over_the_3_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 3,
+        "name": "1週年紀念10連免費招募票券",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 4,
+        "name": "[2023新春]10連免費招募票券",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 5,
+        "name": "初音未來日慶祝活動招募票券",
+        "assetbundleName": "gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 6,
+        "name": "[2週年紀念]10連免費招募票券",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 7,
+        "name": "[2024新春]10連免費招募票券",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 8,
+        "name": "[3900's]10連免費招募票券",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 9,
+        "name": "[邀請朋友]必中★4成員招募票券",
+        "assetbundleName": "gacha_ticket_star4",
+        "gachaDisplayType": "having"
+    },
+    {
+        "id": 10,
+        "name": "[即將滿3週年]10連免費招募",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 11,
+        "name": "[邀請朋友]必中★4成員招募票券",
+        "assetbundleName": "gacha_ticket_star4",
+        "gachaDisplayType": "having"
+    },
+    {
+        "id": 12,
+        "name": "[新手應援]必中1名★4成員10連招募票券",
+        "assetbundleName": "gacha_10_ticket_star4",
+        "gachaDisplayType": "having"
+    },
+    {
+        "id": 13,
+        "name": "[3週年紀念]10連免費招募票券",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 14,
+        "name": "[2025新春]10連免費招募票券",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 15,
+        "name": "3900's 10連免費招募票券",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 16,
+        "name": "3900's必中★4成員招募票券",
+        "assetbundleName": "gacha_ticket_star4",
+        "gachaDisplayType": "having"
+    }
+]
