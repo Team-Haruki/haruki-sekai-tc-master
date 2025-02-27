@@ -6,7 +6,16 @@
         "seq": 1,
         "releaseConditionId": 5,
         "caption": "虛擬歌手ver.",
-        "characters": [],
+        "characters": [
+            {
+                "id": 1,
+                "musicId": 1,
+                "musicVocalId": 1,
+                "characterType": "game_character",
+                "characterId": 21,
+                "seq": 10
+            }
+        ],
         "assetbundleName": "0001_01",
         "archiveDisplayType": "normal",
         "archivePublishedAt": 1623310031000
