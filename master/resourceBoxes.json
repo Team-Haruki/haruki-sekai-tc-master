@@ -5911,6 +5911,13 @@
         "assetbundleName": null,
         "resourceBoxPurpose": "billing_shop_item",
         "name": null,
+        "id": 30108,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "billing_shop_item",
+        "name": null,
         "id": 40001,
         "resourceBoxType": "expand"
     },
@@ -5919,6 +5926,13 @@
         "resourceBoxPurpose": "billing_shop_item",
         "name": null,
         "id": 40002,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "billing_shop_item",
+        "name": null,
+        "id": 50001,
         "resourceBoxType": "expand"
     },
     {
@@ -85375,7 +85389,301 @@
         "assetbundleName": null,
         "resourceBoxPurpose": "gacha_ceil_exchange",
         "name": null,
+        "id": 1178,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 1179,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 1180,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 1181,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 1182,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 9998,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
         "id": 9999,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40001,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40002,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40003,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40004,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40005,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40006,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40007,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40008,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40009,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40010,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40011,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40012,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40013,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40014,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40015,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40016,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40017,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40018,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40019,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40020,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40021,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40022,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40023,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40024,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40025,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40026,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40027,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40028,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40029,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40030,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40031,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40032,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40033,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40034,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40035,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gacha_ceil_exchange",
+        "name": null,
+        "id": 40036,
         "resourceBoxType": "expand"
     },
     {
@@ -88021,6 +88329,13 @@
         "assetbundleName": null,
         "resourceBoxPurpose": "gift_detail",
         "name": null,
+        "id": 10066,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "gift_detail",
+        "name": null,
         "id": 9999999,
         "resourceBoxType": "expand"
     },
@@ -89780,6 +90095,13 @@
         "name": "[3.5週年紀念]登入活動的報酬",
         "id": 1108,
         "resourceBoxType": "list"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "login_bonus",
+        "name": "[花里實乃理]HAPPY BIRTHDAY登入活動的報酬",
+        "id": 1109,
+        "resourceBoxType": "expand"
     },
     {
         "assetbundleName": null,
@@ -99173,13 +99495,6 @@
         "resourceBoxPurpose": "master_lesson_reward",
         "name": "GIFT-uniform[異色3]",
         "id": 1335,
-        "resourceBoxType": "expand"
-    },
-    {
-        "assetbundleName": null,
-        "resourceBoxPurpose": "master_lesson_reward",
-        "name": null,
-        "id": 99999,
         "resourceBoxType": "expand"
     },
     {
@@ -112761,6 +113076,174 @@
         "name": "偵探[其他顏色3]",
         "id": 1528,
         "resourceBoxType": "costume_3d"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1687,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1688,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1689,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1690,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1691,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1692,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1693,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1694,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1695,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1696,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1697,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1698,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1699,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1700,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1701,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1702,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1703,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1704,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1705,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1706,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1707,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1708,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1709,
+        "resourceBoxType": "expand"
+    },
+    {
+        "assetbundleName": null,
+        "resourceBoxPurpose": "mission_reward",
+        "name": "劇場版公開記念スタンプミッション報酬",
+        "id": 1710,
+        "resourceBoxType": "expand"
     },
     {
         "assetbundleName": null,
