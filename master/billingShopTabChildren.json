@@ -4,7 +4,7 @@
     "seq": 101,
     "billingShopTabParentId": 1,
     "billingShopItemType": "jewel",
-    "name": "常驻"
+    "name": "常駐"
   },
   {
     "id": 102,
@@ -46,7 +46,7 @@
     "seq": 301,
     "billingShopTabParentId": 3,
     "billingShopItemType": "costume_3d",
-    "name": "常驻"
+    "name": "常駐"
   },
   {
     "id": 302,
