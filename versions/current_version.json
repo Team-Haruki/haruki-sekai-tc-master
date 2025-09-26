@@ -2,10 +2,10 @@
   "systemProfile": "production",
   "appVersion": "5.2.0",
   "multiPlayVersion": "miku",
-  "dataVersion": "5.2.0.3",
+  "dataVersion": "5.2.0.7",
   "assetVersion": "5.2.0",
   "appHash": "41fd71f2-f715-bc10-5852-0a9d8542f760",
   "assetHash": null,
   "appVersionStatus": "available",
-  "cdnVersion": 193
+  "cdnVersion": 197
 }
