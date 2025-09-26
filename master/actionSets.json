@@ -35637,6 +35637,84 @@
     "releaseConditionId": 114508
   },
   {
+    "id": 2382,
+    "areaId": 2,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_band_19_001",
+    "scriptId": "as_ev_band_19_001",
+    "characterIds": [
+      280,
+      279
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1761894000000,
+    "releaseConditionId": 114608
+  },
+  {
+    "id": 2383,
+    "areaId": 13,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_band_19_002",
+    "scriptId": "as_ev_band_19_002",
+    "characterIds": [
+      279,
+      281
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1761894000000,
+    "releaseConditionId": 114608
+  },
+  {
+    "id": 2384,
+    "areaId": 5,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_band_19_003",
+    "scriptId": "as_ev_band_19_003",
+    "characterIds": [
+      279,
+      317
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1761894000000,
+    "releaseConditionId": 114608
+  },
+  {
+    "id": 2385,
+    "areaId": 5,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_band_19_004",
+    "scriptId": "as_ev_band_19_004",
+    "characterIds": [
+      305,
+      311,
+      317
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1761894000000,
+    "releaseConditionId": 114608
+  },
+  {
+    "id": 2386,
+    "areaId": 13,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_band_19_005",
+    "scriptId": "as_ev_band_19_005",
+    "characterIds": [
+      278,
+      279,
+      281,
+      280
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1761894000000,
+    "releaseConditionId": 114608
+  },
+  {
     "id": 2387,
     "areaId": 4,
     "actionSetType": "normal",
@@ -35648,7 +35726,7 @@
       278
     ],
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1759161600000,
+    "archivePublishedAt": 1761840000000,
     "releaseConditionId": 114208
   },
   {
@@ -35663,7 +35741,7 @@
       291
     ],
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1759161600000,
+    "archivePublishedAt": 1761840000000,
     "releaseConditionId": 113708
   },
   {
@@ -35678,7 +35756,7 @@
       306
     ],
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1759161600000,
+    "archivePublishedAt": 1761840000000,
     "releaseConditionId": 113708
   },
   {
@@ -35693,7 +35771,7 @@
       287
     ],
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1759161600000,
+    "archivePublishedAt": 1761840000000,
     "releaseConditionId": 114508
   },
   {
@@ -35708,7 +35786,7 @@
       292
     ],
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1759161600000,
+    "archivePublishedAt": 1761840000000,
     "releaseConditionId": 114508
   },
   {
