@@ -4466,6 +4466,7 @@
         "arranger": "cosMo@暴走P"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -4499,6 +4500,7 @@
         "arranger": "sasakure.UK"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -4532,6 +4534,7 @@
         "arranger": "黒魔"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -6752,6 +6755,7 @@
         "arranger": "Rockwell"
       }
     ],
+    "musicCollaborationId": 2,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -6785,6 +6789,7 @@
         "arranger": "-"
       }
     ],
+    "musicCollaborationId": 2,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -6818,6 +6823,7 @@
         "arranger": "くじら"
       }
     ],
+    "musicCollaborationId": 2,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -6851,6 +6857,7 @@
         "arranger": "ピノキオピー"
       }
     ],
+    "musicCollaborationId": 2,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -6884,6 +6891,7 @@
         "arranger": "Mitchie M"
       }
     ],
+    "musicCollaborationId": 2,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -9086,6 +9094,7 @@
         "arranger": "HoneyWorks"
       }
     ],
+    "musicCollaborationId": 3,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -10211,6 +10220,7 @@
         "arranger": "キノシタ"
       }
     ],
+    "musicCollaborationId": 4,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -13889,6 +13899,7 @@
         "arranger": "ぬゆり"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -13922,6 +13933,7 @@
         "arranger": "かめりあ"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -13955,6 +13967,7 @@
         "arranger": "Ponchi♪"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -16611,6 +16624,7 @@
         "arranger": "tepe (OTOIRO) "
       }
     ],
+    "musicCollaborationId": 7,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
