@@ -8743,6 +8743,16 @@
   },
   {
     "customProfileResourceType": "collection",
+    "id": 10008,
+    "seq": 10008,
+    "name": "[MIKU EXPO 2025 ASIA紀念]插圖",
+    "pronunciation": "[MIKU EXPO 2025 ASIA紀念]插圖",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/collection/mk",
+    "fileName": "pic_expo_2025"
+  },
+  {
+    "customProfileResourceType": "collection",
     "id": 10018,
     "seq": 10090,
     "name": "鮭魚（飾品）",

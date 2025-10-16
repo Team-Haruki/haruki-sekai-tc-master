@@ -35741,7 +35741,7 @@
       291
     ],
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1761840000000,
+    "archivePublishedAt": 1761753600000,
     "releaseConditionId": 113708
   },
   {
@@ -35756,7 +35756,7 @@
       306
     ],
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1761840000000,
+    "archivePublishedAt": 1761753600000,
     "releaseConditionId": 113708
   },
   {
@@ -35771,7 +35771,7 @@
       287
     ],
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1761840000000,
+    "archivePublishedAt": 1761753600000,
     "releaseConditionId": 114508
   },
   {
@@ -35786,8 +35786,163 @@
       292
     ],
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1761840000000,
+    "archivePublishedAt": 1761753600000,
     "releaseConditionId": 114508
+  },
+  {
+    "id": 2392,
+    "areaId": 3,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_shuffle_50_001",
+    "scriptId": "as_ev_shuffle_50_001",
+    "characterIds": [
+      290,
+      279,
+      281,
+      285
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1762758000000,
+    "releaseConditionId": 114708
+  },
+  {
+    "id": 2393,
+    "areaId": 2,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_shuffle_50_002",
+    "scriptId": "as_ev_shuffle_50_002",
+    "characterIds": [
+      279,
+      290
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1762758000000,
+    "releaseConditionId": 114708
+  },
+  {
+    "id": 2394,
+    "areaId": 4,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_shuffle_50_003",
+    "scriptId": "as_ev_shuffle_50_003",
+    "characterIds": [
+      285,
+      281
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1762758000000,
+    "releaseConditionId": 114708
+  },
+  {
+    "id": 2395,
+    "areaId": 2,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_shuffle_50_004",
+    "scriptId": "as_ev_shuffle_50_004",
+    "characterIds": [
+      290,
+      285
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1762758000000,
+    "releaseConditionId": 114708
+  },
+  {
+    "id": 2396,
+    "areaId": 17,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_shuffle_50_005",
+    "scriptId": "as_ev_shuffle_50_005",
+    "characterIds": [
+      305,
+      281,
+      279
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1762758000000,
+    "releaseConditionId": 114708
+  },
+  {
+    "id": 2397,
+    "areaId": 1,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_wonder_19_001",
+    "scriptId": "as_ev_wonder_19_001",
+    "characterIds": [
+      291,
+      292,
+      293,
+      290
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763622000000,
+    "releaseConditionId": 114808
+  },
+  {
+    "id": 2398,
+    "areaId": 1,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_wonder_19_002",
+    "scriptId": "as_ev_wonder_19_002",
+    "characterIds": [
+      290,
+      293
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763622000000,
+    "releaseConditionId": 114808
+  },
+  {
+    "id": 2399,
+    "areaId": 2,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_wonder_19_003",
+    "scriptId": "as_ev_wonder_19_003",
+    "characterIds": [
+      291,
+      292
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763622000000,
+    "releaseConditionId": 114808
+  },
+  {
+    "id": 2400,
+    "areaId": 20,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_wonder_19_004",
+    "scriptId": "as_ev_wonder_19_004",
+    "characterIds": [
+      314,
+      292
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763622000000,
+    "releaseConditionId": 114808
+  },
+  {
+    "id": 2401,
+    "areaId": 9,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_wonder_19_005",
+    "scriptId": "as_ev_wonder_19_005",
+    "characterIds": [
+      302,
+      292
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763622000000,
+    "releaseConditionId": 114808
   },
   {
     "id": 2417,

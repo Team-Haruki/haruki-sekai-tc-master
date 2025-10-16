@@ -2360,6 +2360,62 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 372,
+    "gachaId": 611,
+    "name": "[MEIKO]HAPPY ANNIVERSARY招募貼紙",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1765436400000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 373,
+    "gachaId": 615,
+    "name": "於落葉紛飛的茶館招募貼紙",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1766203200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 374,
+    "gachaId": 616,
+    "name": "[復刻]秋色漸濃黃昏時招募貼紙",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1766289600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 375,
+    "gachaId": 617,
+    "name": "[復刻]搖曳飄盪少女招募貼紙",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1766289600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 376,
+    "gachaId": 618,
+    "name": "[東雲彰人]HAPPY BIRTHDAY招募貼紙",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1766041200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 377,
+    "gachaId": 622,
+    "name": "爭逐霸權的崇高騎士招募貼紙",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1767067200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 378,
+    "gachaId": 624,
+    "name": "That flower, once more招募貼紙",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1768017600000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 392,
     "gachaId": 657,
     "name": "[劇場版世界計畫上映紀念]Recollection招募貼紙",
