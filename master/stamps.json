@@ -8392,7 +8392,7 @@
     "assetbundleName": "stamp0715",
     "balloonAssetbundleName": "balloon_stamp_01",
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1730185200000,
+    "archivePublishedAt": 1761840000000,
     "description": "從貼圖商店購入"
   },
   {
@@ -10885,6 +10885,58 @@
     "archiveDisplayType": "none",
     "archivePublishedAt": 1759464000000,
     "description": "參加「月光下的中秋應援祭！2025」"
+  },
+  {
+    "id": 10069,
+    "stampType": "illustration",
+    "seq": 100690,
+    "name": "要選哪個呢?",
+    "assetbundleName": "stamp10072",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "gameCharacterUnitId": 5,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763611200000,
+    "description": "從貼圖商店購買"
+  },
+  {
+    "id": 10070,
+    "stampType": "illustration",
+    "seq": 100700,
+    "name": "吃完要振作起來哦",
+    "assetbundleName": "stamp10069",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 6,
+    "gameCharacterUnitId": 6,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763611200000,
+    "description": "從貼圖商店購買"
+  },
+  {
+    "id": 10071,
+    "stampType": "illustration",
+    "seq": 100710,
+    "name": "甜甜的祝福送給你!",
+    "assetbundleName": "stamp10070",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 7,
+    "gameCharacterUnitId": 7,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763611200000,
+    "description": "從貼圖商店購買"
+  },
+  {
+    "id": 10072,
+    "stampType": "illustration",
+    "seq": 100720,
+    "name": "想和你分享的幸福",
+    "assetbundleName": "stamp10071",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 8,
+    "gameCharacterUnitId": 8,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763611200000,
+    "description": "從貼圖商店購買"
   },
   {
     "id": 101021,

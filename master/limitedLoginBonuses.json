@@ -1554,6 +1554,20 @@
     ]
   },
   {
+    "id": 105,
+    "startAt": 1761840000000,
+    "endAt": 1762012799000,
+    "assetbundleName": "halloween_2024",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 229,
+        "limitedLoginBonusId": 105,
+        "day": 1,
+        "resourceBoxId": 141
+      }
+    ]
+  },
+  {
     "id": 106,
     "startAt": 1766505600000,
     "endAt": 1766678399000,
@@ -3093,7 +3107,7 @@
         "id": 1177,
         "limitedLoginBonusId": 1060,
         "day": 1,
-        "resourceBoxId": 1109
+        "resourceBoxId": 1158
       }
     ]
   },
@@ -3359,7 +3373,7 @@
         "id": 1196,
         "limitedLoginBonusId": 1079,
         "day": 1,
-        "resourceBoxId": 1140
+        "resourceBoxId": 1159
       }
     ]
   },
@@ -3660,6 +3674,132 @@
         "limitedLoginBonusId": 1091,
         "day": 1,
         "resourceBoxId": 1157
+      }
+    ]
+  },
+  {
+    "id": 1092,
+    "startAt": 1762272000000,
+    "endAt": 1762358399000,
+    "assetbundleName": "mikuexpo_202501",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1232,
+        "limitedLoginBonusId": 1092,
+        "day": 1,
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
+    "id": 1093,
+    "startAt": 1762531200000,
+    "endAt": 1762617599000,
+    "assetbundleName": "mikuexpo_202501",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1233,
+        "limitedLoginBonusId": 1093,
+        "day": 1,
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
+    "id": 1094,
+    "startAt": 1762876800000,
+    "endAt": 1762963199000,
+    "assetbundleName": "mikuexpo_202501",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1234,
+        "limitedLoginBonusId": 1094,
+        "day": 1,
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
+    "id": 1095,
+    "startAt": 1763222400000,
+    "endAt": 1763308799000,
+    "assetbundleName": "mikuexpo_202501",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1235,
+        "limitedLoginBonusId": 1095,
+        "day": 1,
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "startAt": 1763481600000,
+    "endAt": 1763567999000,
+    "assetbundleName": "mikuexpo_202501",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1236,
+        "limitedLoginBonusId": 1096,
+        "day": 1,
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
+    "id": 1097,
+    "startAt": 1763740800000,
+    "endAt": 1763827199000,
+    "assetbundleName": "mikuexpo_202501",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1237,
+        "limitedLoginBonusId": 1097,
+        "day": 1,
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
+    "id": 1098,
+    "startAt": 1764086400000,
+    "endAt": 1764172799000,
+    "assetbundleName": "mikuexpo_202501",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1238,
+        "limitedLoginBonusId": 1098,
+        "day": 1,
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
+    "id": 1099,
+    "startAt": 1764345600000,
+    "endAt": 1764431999000,
+    "assetbundleName": "mikuexpo_202501",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1239,
+        "limitedLoginBonusId": 1099,
+        "day": 1,
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
+    "id": 1100,
+    "startAt": 1762272000000,
+    "endAt": 1764518399000,
+    "assetbundleName": "mikuexpo_202502",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1240,
+        "limitedLoginBonusId": 1100,
+        "day": 1,
+        "resourceBoxId": 1161
       }
     ]
   },

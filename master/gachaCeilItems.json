@@ -2218,7 +2218,7 @@
   {
     "id": 353,
     "gachaId": 563,
-    "name": "回憶慶典招募貼紙",
+    "name": "Recollection Festival招募貼紙",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1759291200000,
     "convertResourceBoxId": 2
@@ -2370,7 +2370,7 @@
   {
     "id": 373,
     "gachaId": 615,
-    "name": "於落葉紛飛的茶館招募貼紙",
+    "name": "落葉紛飛 在茶館招募招募貼紙",
     "assetbundleName": "ceil_item",
     "convertStartAt": 1766203200000,
     "convertResourceBoxId": 2
@@ -2378,7 +2378,7 @@
   {
     "id": 374,
     "gachaId": 616,
-    "name": "[復刻]秋色漸濃黃昏時招募貼紙",
+    "name": "[復刻]在漸入秋宵的黃昏時招募貼紙",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1766289600000,
     "convertResourceBoxId": 2
@@ -2410,7 +2410,7 @@
   {
     "id": 378,
     "gachaId": 624,
-    "name": "That flower, once more招募貼紙",
+    "name": "That flower,once more招募貼紙",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1768017600000,
     "convertResourceBoxId": 2

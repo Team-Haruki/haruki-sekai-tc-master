@@ -198,6 +198,12 @@
     "flavorText": "恢復10 LIVE BONUS。"
   },
   {
+    "id": 1011,
+    "name": "[MIKU EXPO 2025 ASIA紀念]爆米花×1",
+    "recoveryValue": 10,
+    "flavorText": "恢復10 LIVE BONUS。"
+  },
+  {
     "id": 3000,
     "name": "生日蛋糕",
     "recoveryValue": 10,
