@@ -8545,7 +8545,7 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_30177",
+    "assetbundleName": "shop_shop_30177",
     "resourceBoxId": 30487,
     "startAt": 1770566400000,
     "endAt": 1771775999000,
