@@ -2004,6 +2004,20 @@
     ]
   },
   {
+    "id": 205,
+    "startAt": 1770436800000,
+    "endAt": 1771603199000,
+    "assetbundleName": "sanrio_collab_2026",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 364,
+        "limitedLoginBonusId": 205,
+        "day": 1,
+        "resourceBoxId": 104
+      }
+    ]
+  },
+  {
     "id": 1022,
     "startAt": 1676304000000,
     "endAt": 1676476740000,
@@ -3289,7 +3303,7 @@
         "id": 1189,
         "limitedLoginBonusId": 1072,
         "day": 1,
-        "resourceBoxId": 1109
+        "resourceBoxId": 1181
       }
     ]
   },
