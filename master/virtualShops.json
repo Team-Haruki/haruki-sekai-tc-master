@@ -6406,6 +6406,23 @@
     "virtualShopDisplayType": "out_of_scope"
   },
   {
+    "id": 304,
+    "name": "カウントダウンライブ/ハッピーニューイヤーライブ",
+    "virtualShopItems": [
+      {
+        "id": 489,
+        "virtualShopId": 304,
+        "virtualShopItemType": "coordinate",
+        "seq": 99816,
+        "resourceBoxId": 385,
+        "costPaidJewel": 1000,
+        "startAt": 1767164400000
+      }
+    ],
+    "virtualShopType": "event",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
     "id": 305,
     "name": "2026甘酒商店",
     "virtualShopItems": [
