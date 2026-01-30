@@ -6517,6 +6517,24 @@
     "virtualShopDisplayType": "out_of_scope"
   },
   {
+    "id": 317,
+    "name": "[復刻]サンリオキャラクターズコラボ",
+    "virtualShopItems": [
+      {
+        "id": 515,
+        "virtualShopId": 317,
+        "virtualShopItemType": "coordinate",
+        "seq": 10,
+        "resourceBoxId": 308,
+        "costPaidJewel": 1000,
+        "startAt": 1770436800000,
+        "endAt": 1771603199000
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
     "id": 1003,
     "name": "元旦2024",
     "virtualShopItems": [
