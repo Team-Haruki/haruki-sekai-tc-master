@@ -379,7 +379,7 @@
     "id": 48,
     "seq": 10502,
     "name": "限定招募貼紙交換券",
-    "flavorText": "可以配合限定招募貼紙，\n交換期間限定、七彩慶典限定、常駐成員。",
+    "flavorText": "可以配合限定招募貼紙，\n交換期間限定、七彩限定、常駐成員。",
     "canUse": false,
     "materialType": "gacha_ceil_ticket"
   },
@@ -1416,6 +1416,102 @@
     "seq": 10616,
     "name": "[4.5週年紀念]禮物券",
     "flavorText": "可使用[4.5週年紀念]禮物券交換報酬。\n使用期限：2025/4/22 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 172,
+    "seq": 20002,
+    "name": "「連線LIVE Dreamscape」連線LIVE ver. Vocal兌換卡",
+    "flavorText": "可兌換在「連線LIVE 25點，Nightcord見。×虛擬歌手 Dreamscape」公演中發表之歌曲的連線LIVE ver. Vocal。",
+    "canUse": false,
+    "materialType": "auto_exchange_music_vocal_ticket"
+  },
+  {
+    "id": 173,
+    "seq": 10617,
+    "name": "電子雞碎片",
+    "flavorText": "可至電子雞碎片交換所交換報酬。\n使用期限：2026/10/12 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 176,
+    "seq": 30003,
+    "name": "慶典露水（虞美人紅）",
+    "flavorText": "為了栽種穗波慶祝生日的花時所需的露水。\n※僅能使用於2026年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 179,
+    "seq": 30006,
+    "name": "慶典露水（肅穆藍）",
+    "flavorText": "為了栽種遙慶祝生日的花時所需的露水。\n※僅能使用於2026年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 200,
+    "seq": 10618,
+    "name": "紅色旋律水滴",
+    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 201,
+    "seq": 10619,
+    "name": "藍色旋律水滴",
+    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 202,
+    "seq": 10620,
+    "name": "紫色旋律水滴",
+    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 203,
+    "seq": 10621,
+    "name": "彩虹旋律水滴",
+    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 204,
+    "seq": 10622,
+    "name": "彩虹旋律",
+    "flavorText": "限定期間內可於我的「世界」的「轉換器」使用。\n使用期限：2026/10/25 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 211,
+    "seq": 10623,
+    "name": "金牌",
+    "flavorText": "可至金牌交換所交換報酬。\n使用期限：2026/10/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 214,
+    "seq": 214,
+    "name": "紀念★4成員券",
+    "flavorText": "可在紀念★4成員券交換所交換喜歡的★4成員。",
+    "canUse": false,
+    "materialType": "card_ticket"
+  },
+  {
+    "id": 215,
+    "seq": 10625,
+    "name": "紀念禮物券",
+    "flavorText": "可至紀念禮物券交換所交換報酬。\n使用期限：2026/11/30 11:59",
     "canUse": false,
     "materialType": "common"
   },
