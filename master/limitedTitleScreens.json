@@ -1,17 +1,5 @@
 [
   {
-    "id": 9,
-    "priority": 2,
-    "downloadStartAt": 1758988800000,
-    "downloadEndAt": 1790683199000,
-    "displayStartAt": 1758988800000,
-    "displayEndAt": 1790683199000,
-    "bgAssetbundleName": "anniversary_4th_bg",
-    "logoAssetbundleName": "anniversary_4th_logo",
-    "bgmAssetbundleName": "bgm_title_2024",
-    "startEffectAssetbundleName": "default_start_effect"
-  },
-  {
     "id": 10,
     "priority": 3,
     "downloadStartAt": 1790697600000,
