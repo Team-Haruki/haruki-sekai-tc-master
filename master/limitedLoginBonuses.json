@@ -1829,8 +1829,8 @@
   },
   {
     "id": 122,
-    "startAt": 1774540800000,
-    "endAt": 1774627199000,
+    "startAt": 1774281600000,
+    "endAt": 1774367999000,
     "assetbundleName": "4-5th_pre_anniversary",
     "limitedLoginBonusDetails": [
       {
@@ -1843,8 +1843,8 @@
   },
   {
     "id": 123,
-    "startAt": 1774627200000,
-    "endAt": 1774713599000,
+    "startAt": 1774368000000,
+    "endAt": 1774454399000,
     "assetbundleName": "4-5th_pre_anniversary",
     "limitedLoginBonusDetails": [
       {
@@ -1857,8 +1857,8 @@
   },
   {
     "id": 124,
-    "startAt": 1774713600000,
-    "endAt": 1774799999000,
+    "startAt": 1774454400000,
+    "endAt": 1774540799000,
     "assetbundleName": "4-5th_pre_anniversary",
     "limitedLoginBonusDetails": [
       {
@@ -1871,8 +1871,8 @@
   },
   {
     "id": 125,
-    "startAt": 1774843200000,
-    "endAt": 1775937599000,
+    "startAt": 1774584000000,
+    "endAt": 1775764799000,
     "assetbundleName": "4-5th_anniversary",
     "limitedLoginBonusDetails": [
       {
@@ -3016,6 +3016,20 @@
         "limitedLoginBonusId": 205,
         "day": 1,
         "resourceBoxId": 104
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "startAt": 1772985600000,
+    "endAt": 1773071999000,
+    "assetbundleName": "mikusday_2026",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 366,
+        "limitedLoginBonusId": 207,
+        "day": 1,
+        "resourceBoxId": 222
       }
     ]
   },
@@ -4880,6 +4894,48 @@
         "limitedLoginBonusId": 1102,
         "day": 7,
         "resourceBoxId": 1189
+      }
+    ]
+  },
+  {
+    "id": 1103,
+    "startAt": 1774540800000,
+    "endAt": 1774627199000,
+    "assetbundleName": "4-5th_pre_anniversary",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1249,
+        "limitedLoginBonusId": 1103,
+        "day": 1,
+        "resourceBoxId": 1192
+      }
+    ]
+  },
+  {
+    "id": 1104,
+    "startAt": 1774627200000,
+    "endAt": 1774713599000,
+    "assetbundleName": "4-5th_pre_anniversary",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1250,
+        "limitedLoginBonusId": 1104,
+        "day": 1,
+        "resourceBoxId": 1193
+      }
+    ]
+  },
+  {
+    "id": 1105,
+    "startAt": 1774713600000,
+    "endAt": 1774799999000,
+    "assetbundleName": "4-5th_pre_anniversary",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1251,
+        "limitedLoginBonusId": 1105,
+        "day": 1,
+        "resourceBoxId": 1194
       }
     ]
   },

@@ -10780,6 +10780,19 @@
     "description": "KAITO的角色等級達168後獲得"
   },
   {
+    "id": 940,
+    "stampType": "illustration",
+    "seq": 11670,
+    "name": "[貼圖]未來：傳達到了喔",
+    "assetbundleName": "stamp0940",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 21,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1772985600000,
+    "description": "參加「初音未來日紀念登入活動」獲得"
+  },
+  {
     "id": 10001,
     "stampType": "illustration",
     "seq": 100010,
