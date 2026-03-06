@@ -4352,6 +4352,10 @@
     "musicTag": "all"
   },
   {
+    "musicId": 699,
+    "musicTag": "all"
+  },
+  {
     "musicId": 719,
     "musicTag": "all"
   },
@@ -5385,6 +5389,10 @@
   },
   {
     "musicId": 719,
+    "musicTag": "vocaloid"
+  },
+  {
+    "musicId": 699,
     "musicTag": "vocaloid"
   },
   {

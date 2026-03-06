@@ -4788,6 +4788,10 @@
     "value": "刪除並前往\n我的「世界」"
   },
   {
+    "wordingKey": "MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER_REWARD",
+    "value": "此爲入選主題「%s」百景的報酬。"
+  },
+  {
     "wordingKey": "NORMAL",
     "value": "NORMAL"
   },
@@ -15129,7 +15133,7 @@
   },
   {
     "wordingKey": "WORD_UP_TO_START",
-    "value": "距離開演還剩"
+    "value": "距離開場還剩"
   },
   {
     "wordingKey": "WORD_USE",

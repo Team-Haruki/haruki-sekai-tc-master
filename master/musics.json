@@ -18810,6 +18810,39 @@
     "isFullLength": false
   },
   {
+    "id": 699,
+    "seq": 1162301,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "Catch the Wave",
+    "pronunciation": "きゃっちざうぇーぶ",
+    "creatorArtistId": 1,
+    "lyricist": "kz",
+    "composer": "kz",
+    "arranger": "kz",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_699",
+    "publishedAt": 1773061200000,
+    "releasedAt": 1567008000000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "Catch the Wave",
+        "creator": "livetune",
+        "lyricist": "kz",
+        "composer": "kz",
+        "arranger": "kz"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 719,
     "seq": 1161001,
     "releaseConditionId": 5,

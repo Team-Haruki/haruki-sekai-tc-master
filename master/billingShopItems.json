@@ -8567,6 +8567,36 @@
     "billingShopTabChildId": 301
   },
   {
+    "id": 30199,
+    "seq": 300615,
+    "billingShopItemType": "value_set",
+    "name": "39！Thank You組合包",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1019",
+    "resourceBoxId": 30058,
+    "label": "期間限定",
+    "startAt": 1772942400000,
+    "endAt": 1773331199000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 204
+  },
+  {
+    "id": 30200,
+    "seq": 300736,
+    "billingShopItemType": "costume_3d",
+    "name": "小恶魔主题服装",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30179",
+    "resourceBoxId": 30817,
+    "startAt": 1773417600000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 301
+  },
+  {
     "id": 50001,
     "seq": 300611,
     "billingShopItemType": "value_set",
@@ -12998,6 +13028,20 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 472,
     "startAt": 1790827200000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 301
+  },
+  {
+    "id": 300990,
+    "seq": 300990,
+    "billingShopItemType": "costume_3d",
+    "name": "2025年初音未來日限定衣装",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300990",
+    "resourceBoxId": 515,
+    "startAt": 1772985600000,
     "purchaseOption": "exchange",
     "billingShopTabChildId": 301
   },
