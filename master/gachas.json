@@ -102201,6 +102201,5254 @@
     }
   },
   {
+    "id": 757,
+    "gachaType": "ceil",
+    "name": "Another sparkle Stars招募",
+    "seq": 500,
+    "assetbundleName": "ab_gacha_757",
+    "startAt": 1782187200000,
+    "endAt": 1783396799000,
+    "isShowPeriod": true,
+    "gachaCeilItemId": 440,
+    "wishSelectCount": 0,
+    "wishFixedSelectCount": 0,
+    "wishLimitedSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "cardRarityType": "rarity_4",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 176284,
+        "gachaId": 757,
+        "cardId": 2,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176285,
+        "gachaId": 757,
+        "cardId": 3,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176286,
+        "gachaId": 757,
+        "cardId": 4,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176287,
+        "gachaId": 757,
+        "cardId": 6,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176288,
+        "gachaId": 757,
+        "cardId": 7,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176289,
+        "gachaId": 757,
+        "cardId": 10,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176290,
+        "gachaId": 757,
+        "cardId": 11,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176291,
+        "gachaId": 757,
+        "cardId": 14,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176292,
+        "gachaId": 757,
+        "cardId": 15,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176293,
+        "gachaId": 757,
+        "cardId": 18,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176294,
+        "gachaId": 757,
+        "cardId": 19,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176295,
+        "gachaId": 757,
+        "cardId": 22,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176296,
+        "gachaId": 757,
+        "cardId": 23,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176297,
+        "gachaId": 757,
+        "cardId": 26,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176298,
+        "gachaId": 757,
+        "cardId": 27,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176299,
+        "gachaId": 757,
+        "cardId": 30,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176300,
+        "gachaId": 757,
+        "cardId": 31,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176301,
+        "gachaId": 757,
+        "cardId": 34,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176302,
+        "gachaId": 757,
+        "cardId": 35,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176303,
+        "gachaId": 757,
+        "cardId": 38,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176304,
+        "gachaId": 757,
+        "cardId": 39,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176305,
+        "gachaId": 757,
+        "cardId": 42,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176306,
+        "gachaId": 757,
+        "cardId": 43,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176307,
+        "gachaId": 757,
+        "cardId": 46,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176308,
+        "gachaId": 757,
+        "cardId": 47,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176309,
+        "gachaId": 757,
+        "cardId": 50,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176310,
+        "gachaId": 757,
+        "cardId": 51,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176311,
+        "gachaId": 757,
+        "cardId": 54,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176312,
+        "gachaId": 757,
+        "cardId": 55,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176313,
+        "gachaId": 757,
+        "cardId": 58,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176314,
+        "gachaId": 757,
+        "cardId": 59,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176315,
+        "gachaId": 757,
+        "cardId": 62,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176316,
+        "gachaId": 757,
+        "cardId": 63,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176317,
+        "gachaId": 757,
+        "cardId": 66,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176318,
+        "gachaId": 757,
+        "cardId": 67,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176319,
+        "gachaId": 757,
+        "cardId": 70,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176320,
+        "gachaId": 757,
+        "cardId": 71,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176321,
+        "gachaId": 757,
+        "cardId": 74,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176322,
+        "gachaId": 757,
+        "cardId": 75,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176323,
+        "gachaId": 757,
+        "cardId": 78,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176324,
+        "gachaId": 757,
+        "cardId": 79,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176325,
+        "gachaId": 757,
+        "cardId": 82,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176326,
+        "gachaId": 757,
+        "cardId": 83,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176327,
+        "gachaId": 757,
+        "cardId": 84,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176328,
+        "gachaId": 757,
+        "cardId": 85,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176329,
+        "gachaId": 757,
+        "cardId": 86,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176330,
+        "gachaId": 757,
+        "cardId": 87,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176331,
+        "gachaId": 757,
+        "cardId": 88,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176332,
+        "gachaId": 757,
+        "cardId": 90,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176333,
+        "gachaId": 757,
+        "cardId": 91,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176334,
+        "gachaId": 757,
+        "cardId": 92,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176335,
+        "gachaId": 757,
+        "cardId": 94,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176336,
+        "gachaId": 757,
+        "cardId": 95,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176337,
+        "gachaId": 757,
+        "cardId": 96,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176338,
+        "gachaId": 757,
+        "cardId": 98,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176339,
+        "gachaId": 757,
+        "cardId": 99,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176340,
+        "gachaId": 757,
+        "cardId": 102,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176341,
+        "gachaId": 757,
+        "cardId": 103,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176342,
+        "gachaId": 757,
+        "cardId": 106,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176343,
+        "gachaId": 757,
+        "cardId": 107,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176344,
+        "gachaId": 757,
+        "cardId": 109,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176345,
+        "gachaId": 757,
+        "cardId": 110,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176346,
+        "gachaId": 757,
+        "cardId": 111,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176347,
+        "gachaId": 757,
+        "cardId": 112,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176348,
+        "gachaId": 757,
+        "cardId": 113,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176349,
+        "gachaId": 757,
+        "cardId": 114,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176350,
+        "gachaId": 757,
+        "cardId": 115,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176351,
+        "gachaId": 757,
+        "cardId": 116,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176352,
+        "gachaId": 757,
+        "cardId": 117,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176353,
+        "gachaId": 757,
+        "cardId": 118,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176354,
+        "gachaId": 757,
+        "cardId": 119,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176355,
+        "gachaId": 757,
+        "cardId": 120,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176356,
+        "gachaId": 757,
+        "cardId": 121,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176357,
+        "gachaId": 757,
+        "cardId": 122,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176358,
+        "gachaId": 757,
+        "cardId": 123,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176359,
+        "gachaId": 757,
+        "cardId": 124,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176360,
+        "gachaId": 757,
+        "cardId": 125,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176361,
+        "gachaId": 757,
+        "cardId": 126,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176362,
+        "gachaId": 757,
+        "cardId": 127,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176363,
+        "gachaId": 757,
+        "cardId": 128,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176364,
+        "gachaId": 757,
+        "cardId": 129,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176365,
+        "gachaId": 757,
+        "cardId": 130,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176366,
+        "gachaId": 757,
+        "cardId": 131,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176367,
+        "gachaId": 757,
+        "cardId": 132,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176368,
+        "gachaId": 757,
+        "cardId": 133,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176369,
+        "gachaId": 757,
+        "cardId": 134,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176370,
+        "gachaId": 757,
+        "cardId": 135,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176371,
+        "gachaId": 757,
+        "cardId": 136,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176372,
+        "gachaId": 757,
+        "cardId": 137,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176373,
+        "gachaId": 757,
+        "cardId": 138,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176374,
+        "gachaId": 757,
+        "cardId": 139,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176375,
+        "gachaId": 757,
+        "cardId": 140,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176376,
+        "gachaId": 757,
+        "cardId": 141,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176377,
+        "gachaId": 757,
+        "cardId": 142,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176378,
+        "gachaId": 757,
+        "cardId": 143,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176379,
+        "gachaId": 757,
+        "cardId": 144,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176380,
+        "gachaId": 757,
+        "cardId": 145,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176381,
+        "gachaId": 757,
+        "cardId": 146,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176382,
+        "gachaId": 757,
+        "cardId": 147,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176383,
+        "gachaId": 757,
+        "cardId": 148,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176384,
+        "gachaId": 757,
+        "cardId": 149,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176385,
+        "gachaId": 757,
+        "cardId": 150,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176386,
+        "gachaId": 757,
+        "cardId": 151,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176387,
+        "gachaId": 757,
+        "cardId": 152,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176388,
+        "gachaId": 757,
+        "cardId": 153,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176389,
+        "gachaId": 757,
+        "cardId": 154,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176390,
+        "gachaId": 757,
+        "cardId": 155,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176391,
+        "gachaId": 757,
+        "cardId": 156,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176392,
+        "gachaId": 757,
+        "cardId": 157,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176393,
+        "gachaId": 757,
+        "cardId": 158,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176394,
+        "gachaId": 757,
+        "cardId": 159,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176395,
+        "gachaId": 757,
+        "cardId": 160,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176396,
+        "gachaId": 757,
+        "cardId": 161,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176397,
+        "gachaId": 757,
+        "cardId": 162,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176398,
+        "gachaId": 757,
+        "cardId": 163,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176399,
+        "gachaId": 757,
+        "cardId": 164,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176400,
+        "gachaId": 757,
+        "cardId": 165,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176401,
+        "gachaId": 757,
+        "cardId": 166,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176402,
+        "gachaId": 757,
+        "cardId": 167,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176403,
+        "gachaId": 757,
+        "cardId": 168,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176404,
+        "gachaId": 757,
+        "cardId": 169,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176405,
+        "gachaId": 757,
+        "cardId": 170,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176406,
+        "gachaId": 757,
+        "cardId": 171,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176407,
+        "gachaId": 757,
+        "cardId": 172,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176408,
+        "gachaId": 757,
+        "cardId": 173,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176409,
+        "gachaId": 757,
+        "cardId": 174,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176410,
+        "gachaId": 757,
+        "cardId": 175,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176411,
+        "gachaId": 757,
+        "cardId": 176,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176412,
+        "gachaId": 757,
+        "cardId": 177,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176413,
+        "gachaId": 757,
+        "cardId": 178,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176414,
+        "gachaId": 757,
+        "cardId": 179,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176415,
+        "gachaId": 757,
+        "cardId": 182,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176416,
+        "gachaId": 757,
+        "cardId": 183,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176417,
+        "gachaId": 757,
+        "cardId": 184,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176418,
+        "gachaId": 757,
+        "cardId": 185,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176419,
+        "gachaId": 757,
+        "cardId": 186,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176420,
+        "gachaId": 757,
+        "cardId": 187,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176421,
+        "gachaId": 757,
+        "cardId": 188,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176422,
+        "gachaId": 757,
+        "cardId": 189,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176423,
+        "gachaId": 757,
+        "cardId": 190,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176424,
+        "gachaId": 757,
+        "cardId": 191,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176425,
+        "gachaId": 757,
+        "cardId": 192,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176426,
+        "gachaId": 757,
+        "cardId": 193,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176427,
+        "gachaId": 757,
+        "cardId": 194,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176428,
+        "gachaId": 757,
+        "cardId": 197,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176429,
+        "gachaId": 757,
+        "cardId": 198,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176430,
+        "gachaId": 757,
+        "cardId": 199,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176431,
+        "gachaId": 757,
+        "cardId": 200,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176432,
+        "gachaId": 757,
+        "cardId": 201,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176433,
+        "gachaId": 757,
+        "cardId": 202,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176434,
+        "gachaId": 757,
+        "cardId": 203,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176435,
+        "gachaId": 757,
+        "cardId": 204,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176436,
+        "gachaId": 757,
+        "cardId": 205,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176437,
+        "gachaId": 757,
+        "cardId": 206,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176438,
+        "gachaId": 757,
+        "cardId": 207,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176439,
+        "gachaId": 757,
+        "cardId": 208,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176440,
+        "gachaId": 757,
+        "cardId": 209,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176441,
+        "gachaId": 757,
+        "cardId": 210,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176442,
+        "gachaId": 757,
+        "cardId": 211,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176443,
+        "gachaId": 757,
+        "cardId": 214,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176444,
+        "gachaId": 757,
+        "cardId": 215,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176445,
+        "gachaId": 757,
+        "cardId": 216,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176446,
+        "gachaId": 757,
+        "cardId": 217,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176447,
+        "gachaId": 757,
+        "cardId": 218,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176448,
+        "gachaId": 757,
+        "cardId": 219,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176449,
+        "gachaId": 757,
+        "cardId": 220,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176450,
+        "gachaId": 757,
+        "cardId": 221,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176451,
+        "gachaId": 757,
+        "cardId": 222,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176452,
+        "gachaId": 757,
+        "cardId": 223,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176453,
+        "gachaId": 757,
+        "cardId": 224,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176454,
+        "gachaId": 757,
+        "cardId": 225,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176455,
+        "gachaId": 757,
+        "cardId": 226,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176456,
+        "gachaId": 757,
+        "cardId": 229,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176457,
+        "gachaId": 757,
+        "cardId": 230,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176458,
+        "gachaId": 757,
+        "cardId": 231,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176459,
+        "gachaId": 757,
+        "cardId": 232,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176460,
+        "gachaId": 757,
+        "cardId": 233,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176461,
+        "gachaId": 757,
+        "cardId": 234,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176462,
+        "gachaId": 757,
+        "cardId": 235,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176463,
+        "gachaId": 757,
+        "cardId": 236,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176464,
+        "gachaId": 757,
+        "cardId": 237,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176465,
+        "gachaId": 757,
+        "cardId": 238,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176466,
+        "gachaId": 757,
+        "cardId": 239,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176467,
+        "gachaId": 757,
+        "cardId": 240,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176468,
+        "gachaId": 757,
+        "cardId": 241,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176469,
+        "gachaId": 757,
+        "cardId": 244,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176470,
+        "gachaId": 757,
+        "cardId": 245,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176471,
+        "gachaId": 757,
+        "cardId": 246,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176472,
+        "gachaId": 757,
+        "cardId": 247,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176473,
+        "gachaId": 757,
+        "cardId": 248,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176474,
+        "gachaId": 757,
+        "cardId": 249,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176475,
+        "gachaId": 757,
+        "cardId": 250,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176476,
+        "gachaId": 757,
+        "cardId": 251,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176477,
+        "gachaId": 757,
+        "cardId": 252,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176478,
+        "gachaId": 757,
+        "cardId": 253,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176479,
+        "gachaId": 757,
+        "cardId": 254,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176480,
+        "gachaId": 757,
+        "cardId": 255,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176481,
+        "gachaId": 757,
+        "cardId": 256,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176482,
+        "gachaId": 757,
+        "cardId": 257,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176483,
+        "gachaId": 757,
+        "cardId": 258,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176484,
+        "gachaId": 757,
+        "cardId": 261,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176485,
+        "gachaId": 757,
+        "cardId": 262,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176486,
+        "gachaId": 757,
+        "cardId": 263,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176487,
+        "gachaId": 757,
+        "cardId": 264,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176488,
+        "gachaId": 757,
+        "cardId": 265,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176489,
+        "gachaId": 757,
+        "cardId": 266,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176490,
+        "gachaId": 757,
+        "cardId": 267,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176491,
+        "gachaId": 757,
+        "cardId": 268,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176492,
+        "gachaId": 757,
+        "cardId": 269,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176493,
+        "gachaId": 757,
+        "cardId": 270,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176494,
+        "gachaId": 757,
+        "cardId": 271,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176495,
+        "gachaId": 757,
+        "cardId": 272,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176496,
+        "gachaId": 757,
+        "cardId": 273,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176497,
+        "gachaId": 757,
+        "cardId": 276,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176498,
+        "gachaId": 757,
+        "cardId": 277,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176499,
+        "gachaId": 757,
+        "cardId": 278,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176500,
+        "gachaId": 757,
+        "cardId": 279,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176501,
+        "gachaId": 757,
+        "cardId": 280,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176502,
+        "gachaId": 757,
+        "cardId": 281,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176503,
+        "gachaId": 757,
+        "cardId": 282,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176504,
+        "gachaId": 757,
+        "cardId": 283,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176505,
+        "gachaId": 757,
+        "cardId": 284,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176506,
+        "gachaId": 757,
+        "cardId": 285,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176507,
+        "gachaId": 757,
+        "cardId": 286,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176508,
+        "gachaId": 757,
+        "cardId": 287,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176509,
+        "gachaId": 757,
+        "cardId": 288,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176510,
+        "gachaId": 757,
+        "cardId": 294,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176511,
+        "gachaId": 757,
+        "cardId": 296,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176512,
+        "gachaId": 757,
+        "cardId": 297,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176513,
+        "gachaId": 757,
+        "cardId": 298,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176514,
+        "gachaId": 757,
+        "cardId": 299,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176515,
+        "gachaId": 757,
+        "cardId": 300,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176516,
+        "gachaId": 757,
+        "cardId": 301,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176517,
+        "gachaId": 757,
+        "cardId": 302,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176518,
+        "gachaId": 757,
+        "cardId": 303,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176519,
+        "gachaId": 757,
+        "cardId": 304,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176520,
+        "gachaId": 757,
+        "cardId": 305,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176521,
+        "gachaId": 757,
+        "cardId": 309,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176522,
+        "gachaId": 757,
+        "cardId": 310,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176523,
+        "gachaId": 757,
+        "cardId": 311,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176524,
+        "gachaId": 757,
+        "cardId": 313,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176525,
+        "gachaId": 757,
+        "cardId": 314,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176526,
+        "gachaId": 757,
+        "cardId": 315,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176527,
+        "gachaId": 757,
+        "cardId": 316,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176528,
+        "gachaId": 757,
+        "cardId": 317,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176529,
+        "gachaId": 757,
+        "cardId": 319,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176530,
+        "gachaId": 757,
+        "cardId": 320,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176531,
+        "gachaId": 757,
+        "cardId": 321,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176532,
+        "gachaId": 757,
+        "cardId": 322,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176533,
+        "gachaId": 757,
+        "cardId": 323,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176534,
+        "gachaId": 757,
+        "cardId": 326,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176535,
+        "gachaId": 757,
+        "cardId": 327,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176536,
+        "gachaId": 757,
+        "cardId": 328,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176537,
+        "gachaId": 757,
+        "cardId": 330,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176538,
+        "gachaId": 757,
+        "cardId": 331,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176539,
+        "gachaId": 757,
+        "cardId": 332,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176540,
+        "gachaId": 757,
+        "cardId": 333,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176541,
+        "gachaId": 757,
+        "cardId": 334,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176542,
+        "gachaId": 757,
+        "cardId": 341,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176543,
+        "gachaId": 757,
+        "cardId": 342,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176544,
+        "gachaId": 757,
+        "cardId": 343,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176545,
+        "gachaId": 757,
+        "cardId": 344,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176546,
+        "gachaId": 757,
+        "cardId": 345,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176547,
+        "gachaId": 757,
+        "cardId": 353,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176548,
+        "gachaId": 757,
+        "cardId": 354,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176549,
+        "gachaId": 757,
+        "cardId": 356,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176550,
+        "gachaId": 757,
+        "cardId": 357,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176551,
+        "gachaId": 757,
+        "cardId": 358,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176552,
+        "gachaId": 757,
+        "cardId": 359,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176553,
+        "gachaId": 757,
+        "cardId": 360,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176554,
+        "gachaId": 757,
+        "cardId": 361,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176555,
+        "gachaId": 757,
+        "cardId": 362,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176556,
+        "gachaId": 757,
+        "cardId": 363,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176557,
+        "gachaId": 757,
+        "cardId": 364,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176558,
+        "gachaId": 757,
+        "cardId": 365,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176559,
+        "gachaId": 757,
+        "cardId": 371,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176560,
+        "gachaId": 757,
+        "cardId": 372,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176561,
+        "gachaId": 757,
+        "cardId": 373,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176562,
+        "gachaId": 757,
+        "cardId": 374,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176563,
+        "gachaId": 757,
+        "cardId": 375,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176564,
+        "gachaId": 757,
+        "cardId": 376,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176565,
+        "gachaId": 757,
+        "cardId": 377,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176566,
+        "gachaId": 757,
+        "cardId": 380,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176567,
+        "gachaId": 757,
+        "cardId": 381,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176568,
+        "gachaId": 757,
+        "cardId": 382,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176569,
+        "gachaId": 757,
+        "cardId": 383,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176570,
+        "gachaId": 757,
+        "cardId": 384,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176571,
+        "gachaId": 757,
+        "cardId": 388,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176572,
+        "gachaId": 757,
+        "cardId": 389,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176573,
+        "gachaId": 757,
+        "cardId": 391,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176574,
+        "gachaId": 757,
+        "cardId": 392,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176575,
+        "gachaId": 757,
+        "cardId": 393,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176576,
+        "gachaId": 757,
+        "cardId": 394,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176577,
+        "gachaId": 757,
+        "cardId": 395,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176578,
+        "gachaId": 757,
+        "cardId": 397,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176579,
+        "gachaId": 757,
+        "cardId": 398,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176580,
+        "gachaId": 757,
+        "cardId": 399,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176581,
+        "gachaId": 757,
+        "cardId": 400,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176582,
+        "gachaId": 757,
+        "cardId": 401,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176583,
+        "gachaId": 757,
+        "cardId": 408,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176584,
+        "gachaId": 757,
+        "cardId": 409,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176585,
+        "gachaId": 757,
+        "cardId": 410,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176586,
+        "gachaId": 757,
+        "cardId": 411,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176587,
+        "gachaId": 757,
+        "cardId": 412,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176588,
+        "gachaId": 757,
+        "cardId": 413,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176589,
+        "gachaId": 757,
+        "cardId": 414,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176590,
+        "gachaId": 757,
+        "cardId": 416,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176591,
+        "gachaId": 757,
+        "cardId": 417,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176592,
+        "gachaId": 757,
+        "cardId": 418,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176593,
+        "gachaId": 757,
+        "cardId": 419,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176594,
+        "gachaId": 757,
+        "cardId": 420,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176595,
+        "gachaId": 757,
+        "cardId": 425,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176596,
+        "gachaId": 757,
+        "cardId": 426,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176597,
+        "gachaId": 757,
+        "cardId": 428,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176598,
+        "gachaId": 757,
+        "cardId": 429,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176599,
+        "gachaId": 757,
+        "cardId": 430,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176600,
+        "gachaId": 757,
+        "cardId": 431,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176601,
+        "gachaId": 757,
+        "cardId": 432,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176602,
+        "gachaId": 757,
+        "cardId": 434,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176603,
+        "gachaId": 757,
+        "cardId": 435,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176604,
+        "gachaId": 757,
+        "cardId": 436,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176605,
+        "gachaId": 757,
+        "cardId": 437,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176606,
+        "gachaId": 757,
+        "cardId": 438,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176607,
+        "gachaId": 757,
+        "cardId": 443,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176608,
+        "gachaId": 757,
+        "cardId": 444,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176609,
+        "gachaId": 757,
+        "cardId": 445,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176610,
+        "gachaId": 757,
+        "cardId": 446,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176611,
+        "gachaId": 757,
+        "cardId": 447,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176612,
+        "gachaId": 757,
+        "cardId": 448,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176613,
+        "gachaId": 757,
+        "cardId": 449,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176614,
+        "gachaId": 757,
+        "cardId": 450,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176615,
+        "gachaId": 757,
+        "cardId": 451,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176616,
+        "gachaId": 757,
+        "cardId": 452,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176617,
+        "gachaId": 757,
+        "cardId": 453,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176618,
+        "gachaId": 757,
+        "cardId": 454,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176619,
+        "gachaId": 757,
+        "cardId": 461,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176620,
+        "gachaId": 757,
+        "cardId": 462,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176621,
+        "gachaId": 757,
+        "cardId": 463,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176622,
+        "gachaId": 757,
+        "cardId": 464,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176623,
+        "gachaId": 757,
+        "cardId": 465,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176624,
+        "gachaId": 757,
+        "cardId": 466,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176625,
+        "gachaId": 757,
+        "cardId": 467,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176626,
+        "gachaId": 757,
+        "cardId": 469,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176627,
+        "gachaId": 757,
+        "cardId": 470,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176628,
+        "gachaId": 757,
+        "cardId": 471,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176629,
+        "gachaId": 757,
+        "cardId": 472,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176630,
+        "gachaId": 757,
+        "cardId": 473,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176631,
+        "gachaId": 757,
+        "cardId": 478,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176632,
+        "gachaId": 757,
+        "cardId": 479,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176633,
+        "gachaId": 757,
+        "cardId": 481,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176634,
+        "gachaId": 757,
+        "cardId": 482,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176635,
+        "gachaId": 757,
+        "cardId": 483,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176636,
+        "gachaId": 757,
+        "cardId": 484,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176637,
+        "gachaId": 757,
+        "cardId": 485,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176638,
+        "gachaId": 757,
+        "cardId": 486,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176639,
+        "gachaId": 757,
+        "cardId": 487,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176640,
+        "gachaId": 757,
+        "cardId": 488,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176641,
+        "gachaId": 757,
+        "cardId": 489,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176642,
+        "gachaId": 757,
+        "cardId": 490,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176643,
+        "gachaId": 757,
+        "cardId": 496,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176644,
+        "gachaId": 757,
+        "cardId": 497,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176645,
+        "gachaId": 757,
+        "cardId": 499,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176646,
+        "gachaId": 757,
+        "cardId": 500,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176647,
+        "gachaId": 757,
+        "cardId": 501,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176648,
+        "gachaId": 757,
+        "cardId": 502,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176649,
+        "gachaId": 757,
+        "cardId": 503,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176650,
+        "gachaId": 757,
+        "cardId": 504,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176651,
+        "gachaId": 757,
+        "cardId": 505,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176652,
+        "gachaId": 757,
+        "cardId": 506,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176653,
+        "gachaId": 757,
+        "cardId": 507,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176654,
+        "gachaId": 757,
+        "cardId": 508,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176655,
+        "gachaId": 757,
+        "cardId": 515,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176656,
+        "gachaId": 757,
+        "cardId": 517,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176657,
+        "gachaId": 757,
+        "cardId": 518,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176658,
+        "gachaId": 757,
+        "cardId": 519,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176659,
+        "gachaId": 757,
+        "cardId": 520,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176660,
+        "gachaId": 757,
+        "cardId": 521,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176661,
+        "gachaId": 757,
+        "cardId": 522,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176662,
+        "gachaId": 757,
+        "cardId": 523,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176663,
+        "gachaId": 757,
+        "cardId": 524,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176664,
+        "gachaId": 757,
+        "cardId": 525,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176665,
+        "gachaId": 757,
+        "cardId": 526,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176666,
+        "gachaId": 757,
+        "cardId": 531,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176667,
+        "gachaId": 757,
+        "cardId": 532,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176668,
+        "gachaId": 757,
+        "cardId": 535,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176669,
+        "gachaId": 757,
+        "cardId": 536,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176670,
+        "gachaId": 757,
+        "cardId": 537,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176671,
+        "gachaId": 757,
+        "cardId": 538,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176672,
+        "gachaId": 757,
+        "cardId": 539,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176673,
+        "gachaId": 757,
+        "cardId": 540,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176674,
+        "gachaId": 757,
+        "cardId": 541,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176675,
+        "gachaId": 757,
+        "cardId": 542,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176676,
+        "gachaId": 757,
+        "cardId": 543,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176677,
+        "gachaId": 757,
+        "cardId": 544,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176678,
+        "gachaId": 757,
+        "cardId": 548,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176679,
+        "gachaId": 757,
+        "cardId": 549,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176680,
+        "gachaId": 757,
+        "cardId": 551,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176681,
+        "gachaId": 757,
+        "cardId": 552,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176682,
+        "gachaId": 757,
+        "cardId": 553,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176683,
+        "gachaId": 757,
+        "cardId": 554,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176684,
+        "gachaId": 757,
+        "cardId": 555,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176685,
+        "gachaId": 757,
+        "cardId": 556,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176686,
+        "gachaId": 757,
+        "cardId": 557,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176687,
+        "gachaId": 757,
+        "cardId": 558,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176688,
+        "gachaId": 757,
+        "cardId": 559,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176689,
+        "gachaId": 757,
+        "cardId": 560,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176690,
+        "gachaId": 757,
+        "cardId": 568,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176691,
+        "gachaId": 757,
+        "cardId": 569,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176692,
+        "gachaId": 757,
+        "cardId": 571,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176693,
+        "gachaId": 757,
+        "cardId": 572,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176694,
+        "gachaId": 757,
+        "cardId": 573,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176695,
+        "gachaId": 757,
+        "cardId": 574,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176696,
+        "gachaId": 757,
+        "cardId": 575,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176697,
+        "gachaId": 757,
+        "cardId": 576,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176698,
+        "gachaId": 757,
+        "cardId": 577,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176699,
+        "gachaId": 757,
+        "cardId": 578,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176700,
+        "gachaId": 757,
+        "cardId": 579,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176701,
+        "gachaId": 757,
+        "cardId": 580,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176702,
+        "gachaId": 757,
+        "cardId": 586,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176703,
+        "gachaId": 757,
+        "cardId": 587,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176704,
+        "gachaId": 757,
+        "cardId": 589,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176705,
+        "gachaId": 757,
+        "cardId": 590,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176706,
+        "gachaId": 757,
+        "cardId": 591,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176707,
+        "gachaId": 757,
+        "cardId": 592,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176708,
+        "gachaId": 757,
+        "cardId": 593,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176709,
+        "gachaId": 757,
+        "cardId": 595,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176710,
+        "gachaId": 757,
+        "cardId": 596,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176711,
+        "gachaId": 757,
+        "cardId": 597,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176712,
+        "gachaId": 757,
+        "cardId": 598,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176713,
+        "gachaId": 757,
+        "cardId": 599,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176714,
+        "gachaId": 757,
+        "cardId": 603,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176715,
+        "gachaId": 757,
+        "cardId": 604,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176716,
+        "gachaId": 757,
+        "cardId": 606,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176717,
+        "gachaId": 757,
+        "cardId": 607,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176718,
+        "gachaId": 757,
+        "cardId": 608,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176719,
+        "gachaId": 757,
+        "cardId": 609,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176720,
+        "gachaId": 757,
+        "cardId": 610,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176721,
+        "gachaId": 757,
+        "cardId": 612,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176722,
+        "gachaId": 757,
+        "cardId": 613,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176723,
+        "gachaId": 757,
+        "cardId": 614,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176724,
+        "gachaId": 757,
+        "cardId": 615,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176725,
+        "gachaId": 757,
+        "cardId": 616,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176726,
+        "gachaId": 757,
+        "cardId": 623,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176727,
+        "gachaId": 757,
+        "cardId": 624,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176728,
+        "gachaId": 757,
+        "cardId": 625,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176729,
+        "gachaId": 757,
+        "cardId": 626,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176730,
+        "gachaId": 757,
+        "cardId": 627,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176731,
+        "gachaId": 757,
+        "cardId": 628,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176732,
+        "gachaId": 757,
+        "cardId": 630,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176733,
+        "gachaId": 757,
+        "cardId": 631,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176734,
+        "gachaId": 757,
+        "cardId": 632,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176735,
+        "gachaId": 757,
+        "cardId": 633,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176736,
+        "gachaId": 757,
+        "cardId": 634,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176737,
+        "gachaId": 757,
+        "cardId": 639,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176738,
+        "gachaId": 757,
+        "cardId": 640,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176739,
+        "gachaId": 757,
+        "cardId": 642,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176740,
+        "gachaId": 757,
+        "cardId": 643,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176741,
+        "gachaId": 757,
+        "cardId": 644,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176742,
+        "gachaId": 757,
+        "cardId": 645,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176743,
+        "gachaId": 757,
+        "cardId": 646,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176744,
+        "gachaId": 757,
+        "cardId": 648,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176745,
+        "gachaId": 757,
+        "cardId": 649,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176746,
+        "gachaId": 757,
+        "cardId": 650,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176747,
+        "gachaId": 757,
+        "cardId": 651,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176748,
+        "gachaId": 757,
+        "cardId": 652,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176749,
+        "gachaId": 757,
+        "cardId": 657,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176750,
+        "gachaId": 757,
+        "cardId": 658,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176751,
+        "gachaId": 757,
+        "cardId": 659,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176752,
+        "gachaId": 757,
+        "cardId": 660,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176753,
+        "gachaId": 757,
+        "cardId": 661,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176754,
+        "gachaId": 757,
+        "cardId": 662,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176755,
+        "gachaId": 757,
+        "cardId": 663,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176756,
+        "gachaId": 757,
+        "cardId": 664,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176757,
+        "gachaId": 757,
+        "cardId": 665,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176758,
+        "gachaId": 757,
+        "cardId": 666,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176759,
+        "gachaId": 757,
+        "cardId": 667,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176760,
+        "gachaId": 757,
+        "cardId": 668,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176761,
+        "gachaId": 757,
+        "cardId": 675,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176762,
+        "gachaId": 757,
+        "cardId": 676,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176763,
+        "gachaId": 757,
+        "cardId": 677,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176764,
+        "gachaId": 757,
+        "cardId": 678,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176765,
+        "gachaId": 757,
+        "cardId": 679,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176766,
+        "gachaId": 757,
+        "cardId": 680,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176767,
+        "gachaId": 757,
+        "cardId": 681,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176768,
+        "gachaId": 757,
+        "cardId": 683,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176769,
+        "gachaId": 757,
+        "cardId": 684,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176770,
+        "gachaId": 757,
+        "cardId": 685,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176771,
+        "gachaId": 757,
+        "cardId": 686,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176772,
+        "gachaId": 757,
+        "cardId": 687,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176773,
+        "gachaId": 757,
+        "cardId": 692,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176774,
+        "gachaId": 757,
+        "cardId": 693,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176775,
+        "gachaId": 757,
+        "cardId": 694,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176776,
+        "gachaId": 757,
+        "cardId": 695,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176777,
+        "gachaId": 757,
+        "cardId": 696,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176778,
+        "gachaId": 757,
+        "cardId": 697,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176779,
+        "gachaId": 757,
+        "cardId": 698,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176780,
+        "gachaId": 757,
+        "cardId": 700,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176781,
+        "gachaId": 757,
+        "cardId": 701,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176782,
+        "gachaId": 757,
+        "cardId": 702,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176783,
+        "gachaId": 757,
+        "cardId": 703,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176784,
+        "gachaId": 757,
+        "cardId": 704,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176785,
+        "gachaId": 757,
+        "cardId": 711,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176786,
+        "gachaId": 757,
+        "cardId": 712,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176787,
+        "gachaId": 757,
+        "cardId": 714,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176788,
+        "gachaId": 757,
+        "cardId": 715,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176789,
+        "gachaId": 757,
+        "cardId": 716,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176790,
+        "gachaId": 757,
+        "cardId": 717,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176791,
+        "gachaId": 757,
+        "cardId": 718,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176792,
+        "gachaId": 757,
+        "cardId": 719,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176793,
+        "gachaId": 757,
+        "cardId": 720,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176794,
+        "gachaId": 757,
+        "cardId": 721,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176795,
+        "gachaId": 757,
+        "cardId": 722,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176796,
+        "gachaId": 757,
+        "cardId": 723,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176797,
+        "gachaId": 757,
+        "cardId": 724,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176798,
+        "gachaId": 757,
+        "cardId": 725,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176799,
+        "gachaId": 757,
+        "cardId": 726,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176800,
+        "gachaId": 757,
+        "cardId": 727,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176801,
+        "gachaId": 757,
+        "cardId": 728,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176802,
+        "gachaId": 757,
+        "cardId": 729,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176803,
+        "gachaId": 757,
+        "cardId": 730,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176804,
+        "gachaId": 757,
+        "cardId": 731,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176805,
+        "gachaId": 757,
+        "cardId": 732,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176806,
+        "gachaId": 757,
+        "cardId": 733,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176807,
+        "gachaId": 757,
+        "cardId": 734,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176808,
+        "gachaId": 757,
+        "cardId": 735,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176809,
+        "gachaId": 757,
+        "cardId": 736,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176810,
+        "gachaId": 757,
+        "cardId": 737,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176811,
+        "gachaId": 757,
+        "cardId": 738,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176812,
+        "gachaId": 757,
+        "cardId": 739,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176813,
+        "gachaId": 757,
+        "cardId": 740,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176814,
+        "gachaId": 757,
+        "cardId": 741,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176815,
+        "gachaId": 757,
+        "cardId": 742,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176816,
+        "gachaId": 757,
+        "cardId": 743,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176817,
+        "gachaId": 757,
+        "cardId": 744,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176818,
+        "gachaId": 757,
+        "cardId": 745,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176819,
+        "gachaId": 757,
+        "cardId": 746,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176820,
+        "gachaId": 757,
+        "cardId": 747,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176821,
+        "gachaId": 757,
+        "cardId": 748,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176822,
+        "gachaId": 757,
+        "cardId": 749,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176823,
+        "gachaId": 757,
+        "cardId": 750,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176824,
+        "gachaId": 757,
+        "cardId": 751,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176825,
+        "gachaId": 757,
+        "cardId": 752,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176826,
+        "gachaId": 757,
+        "cardId": 753,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176827,
+        "gachaId": 757,
+        "cardId": 754,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176828,
+        "gachaId": 757,
+        "cardId": 755,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176829,
+        "gachaId": 757,
+        "cardId": 756,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176830,
+        "gachaId": 757,
+        "cardId": 757,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176831,
+        "gachaId": 757,
+        "cardId": 758,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176832,
+        "gachaId": 757,
+        "cardId": 759,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176833,
+        "gachaId": 757,
+        "cardId": 766,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176834,
+        "gachaId": 757,
+        "cardId": 768,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176835,
+        "gachaId": 757,
+        "cardId": 769,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176836,
+        "gachaId": 757,
+        "cardId": 770,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176837,
+        "gachaId": 757,
+        "cardId": 771,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176838,
+        "gachaId": 757,
+        "cardId": 772,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176839,
+        "gachaId": 757,
+        "cardId": 773,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176840,
+        "gachaId": 757,
+        "cardId": 774,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176841,
+        "gachaId": 757,
+        "cardId": 775,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176842,
+        "gachaId": 757,
+        "cardId": 776,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176843,
+        "gachaId": 757,
+        "cardId": 777,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176844,
+        "gachaId": 757,
+        "cardId": 782,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176845,
+        "gachaId": 757,
+        "cardId": 783,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176846,
+        "gachaId": 757,
+        "cardId": 789,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176847,
+        "gachaId": 757,
+        "cardId": 791,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176848,
+        "gachaId": 757,
+        "cardId": 792,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176849,
+        "gachaId": 757,
+        "cardId": 793,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176850,
+        "gachaId": 757,
+        "cardId": 794,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176851,
+        "gachaId": 757,
+        "cardId": 795,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176852,
+        "gachaId": 757,
+        "cardId": 799,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176853,
+        "gachaId": 757,
+        "cardId": 800,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176854,
+        "gachaId": 757,
+        "cardId": 828,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176855,
+        "gachaId": 757,
+        "cardId": 829,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176856,
+        "gachaId": 757,
+        "cardId": 830,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176857,
+        "gachaId": 757,
+        "cardId": 831,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176858,
+        "gachaId": 757,
+        "cardId": 832,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176859,
+        "gachaId": 757,
+        "cardId": 833,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176860,
+        "gachaId": 757,
+        "cardId": 834,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176861,
+        "gachaId": 757,
+        "cardId": 835,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176862,
+        "gachaId": 757,
+        "cardId": 836,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176863,
+        "gachaId": 757,
+        "cardId": 837,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176864,
+        "gachaId": 757,
+        "cardId": 845,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176865,
+        "gachaId": 757,
+        "cardId": 846,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176866,
+        "gachaId": 757,
+        "cardId": 852,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176867,
+        "gachaId": 757,
+        "cardId": 853,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176868,
+        "gachaId": 757,
+        "cardId": 854,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176869,
+        "gachaId": 757,
+        "cardId": 855,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176870,
+        "gachaId": 757,
+        "cardId": 856,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176871,
+        "gachaId": 757,
+        "cardId": 857,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176872,
+        "gachaId": 757,
+        "cardId": 858,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176873,
+        "gachaId": 757,
+        "cardId": 864,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176874,
+        "gachaId": 757,
+        "cardId": 865,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176875,
+        "gachaId": 757,
+        "cardId": 867,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176876,
+        "gachaId": 757,
+        "cardId": 868,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176877,
+        "gachaId": 757,
+        "cardId": 869,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176878,
+        "gachaId": 757,
+        "cardId": 870,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176879,
+        "gachaId": 757,
+        "cardId": 871,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176880,
+        "gachaId": 757,
+        "cardId": 873,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176881,
+        "gachaId": 757,
+        "cardId": 874,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176882,
+        "gachaId": 757,
+        "cardId": 875,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176883,
+        "gachaId": 757,
+        "cardId": 876,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176884,
+        "gachaId": 757,
+        "cardId": 877,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176885,
+        "gachaId": 757,
+        "cardId": 881,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176886,
+        "gachaId": 757,
+        "cardId": 882,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176887,
+        "gachaId": 757,
+        "cardId": 888,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176888,
+        "gachaId": 757,
+        "cardId": 890,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176889,
+        "gachaId": 757,
+        "cardId": 891,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176890,
+        "gachaId": 757,
+        "cardId": 892,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176891,
+        "gachaId": 757,
+        "cardId": 893,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176892,
+        "gachaId": 757,
+        "cardId": 894,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176893,
+        "gachaId": 757,
+        "cardId": 901,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176894,
+        "gachaId": 757,
+        "cardId": 902,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176895,
+        "gachaId": 757,
+        "cardId": 903,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176896,
+        "gachaId": 757,
+        "cardId": 904,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176897,
+        "gachaId": 757,
+        "cardId": 905,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176898,
+        "gachaId": 757,
+        "cardId": 906,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176899,
+        "gachaId": 757,
+        "cardId": 907,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176900,
+        "gachaId": 757,
+        "cardId": 909,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176901,
+        "gachaId": 757,
+        "cardId": 910,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176902,
+        "gachaId": 757,
+        "cardId": 911,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176903,
+        "gachaId": 757,
+        "cardId": 912,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176904,
+        "gachaId": 757,
+        "cardId": 913,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176905,
+        "gachaId": 757,
+        "cardId": 918,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176906,
+        "gachaId": 757,
+        "cardId": 919,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176907,
+        "gachaId": 757,
+        "cardId": 925,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176908,
+        "gachaId": 757,
+        "cardId": 927,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176909,
+        "gachaId": 757,
+        "cardId": 928,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176910,
+        "gachaId": 757,
+        "cardId": 929,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176911,
+        "gachaId": 757,
+        "cardId": 930,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176912,
+        "gachaId": 757,
+        "cardId": 931,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176913,
+        "gachaId": 757,
+        "cardId": 936,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176914,
+        "gachaId": 757,
+        "cardId": 937,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176915,
+        "gachaId": 757,
+        "cardId": 938,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176916,
+        "gachaId": 757,
+        "cardId": 939,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176917,
+        "gachaId": 757,
+        "cardId": 940,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176918,
+        "gachaId": 757,
+        "cardId": 941,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176919,
+        "gachaId": 757,
+        "cardId": 942,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176920,
+        "gachaId": 757,
+        "cardId": 943,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176921,
+        "gachaId": 757,
+        "cardId": 944,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176922,
+        "gachaId": 757,
+        "cardId": 945,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176923,
+        "gachaId": 757,
+        "cardId": 946,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176924,
+        "gachaId": 757,
+        "cardId": 947,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176925,
+        "gachaId": 757,
+        "cardId": 954,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176926,
+        "gachaId": 757,
+        "cardId": 955,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176927,
+        "gachaId": 757,
+        "cardId": 956,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176928,
+        "gachaId": 757,
+        "cardId": 957,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176929,
+        "gachaId": 757,
+        "cardId": 958,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176930,
+        "gachaId": 757,
+        "cardId": 959,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176931,
+        "gachaId": 757,
+        "cardId": 960,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176932,
+        "gachaId": 757,
+        "cardId": 961,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176933,
+        "gachaId": 757,
+        "cardId": 962,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176934,
+        "gachaId": 757,
+        "cardId": 963,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176935,
+        "gachaId": 757,
+        "cardId": 964,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176936,
+        "gachaId": 757,
+        "cardId": 965,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176937,
+        "gachaId": 757,
+        "cardId": 971,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176938,
+        "gachaId": 757,
+        "cardId": 972,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176939,
+        "gachaId": 757,
+        "cardId": 973,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176940,
+        "gachaId": 757,
+        "cardId": 974,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176941,
+        "gachaId": 757,
+        "cardId": 975,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176942,
+        "gachaId": 757,
+        "cardId": 976,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176943,
+        "gachaId": 757,
+        "cardId": 977,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176944,
+        "gachaId": 757,
+        "cardId": 990,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176945,
+        "gachaId": 757,
+        "cardId": 991,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176946,
+        "gachaId": 757,
+        "cardId": 993,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176947,
+        "gachaId": 757,
+        "cardId": 994,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176948,
+        "gachaId": 757,
+        "cardId": 995,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176949,
+        "gachaId": 757,
+        "cardId": 996,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176950,
+        "gachaId": 757,
+        "cardId": 997,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176951,
+        "gachaId": 757,
+        "cardId": 998,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176952,
+        "gachaId": 757,
+        "cardId": 999,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176953,
+        "gachaId": 757,
+        "cardId": 1000,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176954,
+        "gachaId": 757,
+        "cardId": 1001,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176955,
+        "gachaId": 757,
+        "cardId": 1002,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176956,
+        "gachaId": 757,
+        "cardId": 1009,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176957,
+        "gachaId": 757,
+        "cardId": 1011,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176958,
+        "gachaId": 757,
+        "cardId": 1012,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176959,
+        "gachaId": 757,
+        "cardId": 1013,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176960,
+        "gachaId": 757,
+        "cardId": 1014,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176961,
+        "gachaId": 757,
+        "cardId": 1015,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176962,
+        "gachaId": 757,
+        "cardId": 1016,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176963,
+        "gachaId": 757,
+        "cardId": 1017,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176964,
+        "gachaId": 757,
+        "cardId": 1018,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176965,
+        "gachaId": 757,
+        "cardId": 1019,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176966,
+        "gachaId": 757,
+        "cardId": 1020,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176967,
+        "gachaId": 757,
+        "cardId": 1025,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176968,
+        "gachaId": 757,
+        "cardId": 1026,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176969,
+        "gachaId": 757,
+        "cardId": 1028,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176970,
+        "gachaId": 757,
+        "cardId": 1029,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176971,
+        "gachaId": 757,
+        "cardId": 1030,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176972,
+        "gachaId": 757,
+        "cardId": 1031,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176973,
+        "gachaId": 757,
+        "cardId": 1032,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176974,
+        "gachaId": 757,
+        "cardId": 1034,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176975,
+        "gachaId": 757,
+        "cardId": 1035,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176976,
+        "gachaId": 757,
+        "cardId": 1036,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176977,
+        "gachaId": 757,
+        "cardId": 1037,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176978,
+        "gachaId": 757,
+        "cardId": 1038,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 176979,
+        "gachaId": 757,
+        "cardId": 1045,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176980,
+        "gachaId": 757,
+        "cardId": 1046,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176981,
+        "gachaId": 757,
+        "cardId": 1047,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176982,
+        "gachaId": 757,
+        "cardId": 1050,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176983,
+        "gachaId": 757,
+        "cardId": 1051,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176984,
+        "gachaId": 757,
+        "cardId": 1052,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176985,
+        "gachaId": 757,
+        "cardId": 1065,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176986,
+        "gachaId": 757,
+        "cardId": 1066,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176987,
+        "gachaId": 757,
+        "cardId": 1067,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176988,
+        "gachaId": 757,
+        "cardId": 1097,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176989,
+        "gachaId": 757,
+        "cardId": 1098,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176990,
+        "gachaId": 757,
+        "cardId": 1099,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176991,
+        "gachaId": 757,
+        "cardId": 1110,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176992,
+        "gachaId": 757,
+        "cardId": 1111,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176993,
+        "gachaId": 757,
+        "cardId": 1112,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176994,
+        "gachaId": 757,
+        "cardId": 1122,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176995,
+        "gachaId": 757,
+        "cardId": 1123,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176996,
+        "gachaId": 757,
+        "cardId": 1124,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176997,
+        "gachaId": 757,
+        "cardId": 1133,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176998,
+        "gachaId": 757,
+        "cardId": 1134,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 176999,
+        "gachaId": 757,
+        "cardId": 1135,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 177000,
+        "gachaId": 757,
+        "cardId": 1139,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 177001,
+        "gachaId": 757,
+        "cardId": 1140,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 177002,
+        "gachaId": 757,
+        "cardId": 1141,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 177003,
+        "gachaId": 757,
+        "cardId": 1156,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 177004,
+        "gachaId": 757,
+        "cardId": 1157,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 177005,
+        "gachaId": 757,
+        "cardId": 1158,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 177006,
+        "gachaId": 757,
+        "cardId": 1174,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 177007,
+        "gachaId": 757,
+        "cardId": 1175,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 177008,
+        "gachaId": 757,
+        "cardId": 1176,
+        "weight": 4046,
+        "isWish": false
+      },
+      {
+        "id": 177009,
+        "gachaId": 757,
+        "cardId": 1189,
+        "weight": 400000,
+        "isWish": false
+      },
+      {
+        "id": 177010,
+        "gachaId": 757,
+        "cardId": 1190,
+        "weight": 400000,
+        "isWish": false
+      },
+      {
+        "id": 177011,
+        "gachaId": 757,
+        "cardId": 1191,
+        "weight": 400000,
+        "isWish": false
+      },
+      {
+        "id": 177012,
+        "gachaId": 757,
+        "cardId": 1192,
+        "weight": 400000,
+        "isWish": false
+      }
+    ],
+    "gachaBehaviors": [
+      {
+        "id": 3068,
+        "gachaId": 757,
+        "gachaBehaviorType": "once_a_day",
+        "spinCount": 1,
+        "executeLimit": 1,
+        "groupId": 1,
+        "priority": 1,
+        "resourceCategory": "free_resource",
+        "gachaSpinnableType": "colorful_pass"
+      },
+      {
+        "id": 3069,
+        "gachaId": 757,
+        "gachaBehaviorType": "once_a_day",
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1,
+        "executeLimit": 1,
+        "groupId": 1,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3070,
+        "gachaId": 757,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 1500,
+        "spinCount": 10,
+        "executeLimit": 1,
+        "groupId": 2,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3071,
+        "gachaId": 757,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1,
+        "groupId": 3,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3072,
+        "gachaId": 757,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1,
+        "groupId": 3,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3073,
+        "gachaId": 757,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10,
+        "groupId": 4,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3074,
+        "gachaId": 757,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 3000,
+        "spinCount": 10,
+        "groupId": 4,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      }
+    ],
+    "gachaPickups": [
+      {
+        "gachaId": 757,
+        "cardId": 1189
+      },
+      {
+        "gachaId": 757,
+        "cardId": 1190
+      },
+      {
+        "gachaId": 757,
+        "cardId": 1191
+      },
+      {
+        "gachaId": 757,
+        "cardId": 1192
+      }
+    ],
+    "gachaInformation": {
+      "gachaId": 757,
+      "summary": "「Another sparkle Stars招募」登場！\n\n此招募中有4名團體活動限定的新成員登場，且與同稀有度成員相比，這4名新成員有更高的出現機率。\n\n本招募必定會出現★2以上成員。\n選擇「10連招募」則必定會出現一名★3以上成員。\n\n此外，一人限定可使用付費水晶×1500的優惠價格進行1次「10連招募」。\n\n【新成員】\n・團體活動限定成員\n\n★4[無法抓住的「心願」] 星乃一歌\n★4[王牌選手！] 天馬咲希\n★4[懷抱對將來的憧憬] 望月穗波\n★4[與夥伴談笑] 日野森志步\n\n首次獲得部分★4成員時，會附帶「演出服裝」或「3DMV特殊片段」。\n此外，獲得「演出服裝」後，即可以透過「服飾店」為其他也可穿戴同款服裝的角色製作服裝。\n其他可穿著該服裝角色的「演出服裝」可能會有部分設計不同，或是飾品增減。\n請由[成員]→[演出服裝]畫面進行確認。\n\n將附帶3DMV特殊片段的成員專精等級提升至2，即可解鎖 將該成員編入指定播放3DMV的團體中即可播放片段。\n\n■關於招募貼紙\n每藉由「Another sparkle Stars招募」招募1人時，可以獲得1張「Another sparkle Stars招募貼紙」。\n可使用300張「Another sparkle Stars招募貼紙」，交換「Another sparkle Stars招募」的招募貼紙交換所內的成員。\n可以使用10張「Another sparkle Stars招募貼紙」，交換「Another sparkle Stars招募」的招募貼紙交換所內的「限定招募貼紙交換券」。\n可使用1張「Another sparkle Stars招募貼紙」交換「Another sparkle Stars招募」的招募貼紙交換所內的5個「心願碎片」。\n此外，在交換「Another sparkle Stars招募」的招募貼紙交換所內的成員時，每交換1名成員，最多僅能使用10張「限定招募貼紙交換券」。\n※「七彩通行證～PRECIOUS～」的特典「1日1次免費招募」將無法獲得「Another sparkle Stars招募貼紙」。",
+      "description": "・「1日1次付費招募」以及「單次限定招募」僅能使用付費水晶。\n・本招募的對象為七彩通行證的特典「『1日1次付費招募』可招募2次」，以及「七彩通行證～PRECIOUS～」的特典「1日1次免費招募」。\n・「1日1次付費招募」以及「1日1次免費招募」會在每天04:00重置。\n・「1日1次付費招募」會在進行「1日1次免費招募」後出現。\n・若已在其他招募使用「1日1次免費招募」，直到下次重置之前，將無法在本招募使用「1日1次免費招募」。\n・使用「1日1次免費招募」進行的招募不會獲得招募票券。\n・招募附贈點數不適用於本招募。\n・可以消耗免費水晶的招募也可以使用招募票券。\n・招募票券將代替免費水晶優先消耗。\n・優先消耗免費水晶。\n・出現的成員均為特訓前的狀態。\n・招募時可能會出現相同成員。\n・重複獲得的成員將自動送至休息室。\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n・使用[10連招募]時，若沒有招募到任何一名★3以上的成員，則最後一次招募會改從必中出現機率表中重新抽取。\n・可以從出現機率分頁中確認成員的出現機率。\n・可以從招募頁面確認新成員的數值與技能等詳細內容。\n・請從出現機率分頁中，確認附帶演出服裝的成員。\n・請從出現機率分頁中，確認附帶3DMV特殊片段的成員。\n・在進行招募後強制關閉遊戲，或因中斷網路連線而未正常顯示招募結果畫面，仍會正常取得成員。請至成員清單或休息室確認。\n・「Another sparkle Stars招募貼紙」交換期限至2026/8/6 11:59為止。超過交換期限後，每1張招募貼紙會轉換為5個「心願碎片」。\n・本招募中登場的團體活動限定新成員，今後也會在同一團體的活動招募中登場，亦有可能在其他招募中登場，但出現機率可能會與本次招募不同。\n・本招募中再次登場的團體活動限定成員，今後也會在同一團體的活動招募中登場，亦有可能在其他招募中登場。\n・活動時間若有變更，恕不另行通知。"
+    }
+  },
+  {
     "id": 842,
     "gachaType": "beginner",
     "name": "新手應援紀念選擇招募",
