@@ -1,145 +1,145 @@
 [
   {
-    "id": 1,
-    "seq": 90,
+    "beginnerMissionCategory": "normal",
     "beginnerMissionType": "read_unit_story_theme_park",
-    "beginnerMissionCategory": "normal",
+    "id": 1,
     "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 14
+      }
+    ],
     "sentence": "觀賞Wonderlands×Showtime的序幕吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 14
-      }
-    ]
+    "seq": 90
   },
   {
-    "id": 2,
-    "seq": 70,
+    "beginnerMissionCategory": "normal",
     "beginnerMissionType": "read_unit_story_idol",
-    "beginnerMissionCategory": "normal",
+    "id": 2,
     "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 14
+      }
+    ],
     "sentence": "觀賞MORE MORE JUMP！的序幕吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 14
-      }
-    ]
+    "seq": 70
   },
   {
-    "id": 3,
-    "seq": 80,
+    "beginnerMissionCategory": "normal",
     "beginnerMissionType": "read_unit_story_street",
-    "beginnerMissionCategory": "normal",
+    "id": 3,
     "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 14
+      }
+    ],
     "sentence": "觀賞Vivid BAD SQUAD的序幕吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 14
-      }
-    ]
+    "seq": 80
   },
   {
-    "id": 4,
-    "seq": 60,
+    "beginnerMissionCategory": "normal",
     "beginnerMissionType": "read_unit_story_light_sound",
-    "beginnerMissionCategory": "normal",
+    "id": 4,
     "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 14
+      }
+    ],
     "sentence": "觀賞Leo/need的序幕吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 14
-      }
-    ]
+    "seq": 60
   },
   {
-    "id": 5,
-    "seq": 100,
+    "beginnerMissionCategory": "normal",
     "beginnerMissionType": "read_unit_story_school_refusal",
-    "beginnerMissionCategory": "normal",
+    "id": 5,
     "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 14
+      }
+    ],
     "sentence": "觀賞25點，Nightcord見。的序幕吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 14
-      }
-    ]
+    "seq": 100
   },
   {
-    "id": 6,
-    "seq": 110,
+    "beginnerMissionCategory": "normal",
     "beginnerMissionType": "read_unit_story_piapro",
-    "beginnerMissionCategory": "normal",
+    "id": 6,
     "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 14
+      }
+    ],
     "sentence": "觀賞虛擬歌手的劇情吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 14
-      }
-    ]
+    "seq": 110
   },
   {
-    "id": 7,
-    "seq": 30,
+    "beginnerMissionCategory": "normal",
     "beginnerMissionType": "clear_multi_live",
-    "beginnerMissionCategory": "normal",
+    "id": 7,
     "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 14
+      }
+    ],
     "sentence": "通過1次多人LIVE吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 14
-      }
-    ]
+    "seq": 30
   },
   {
-    "id": 8,
-    "seq": 20,
+    "beginnerMissionCategory": "normal",
     "beginnerMissionType": "buy_music",
-    "beginnerMissionCategory": "normal",
+    "id": 8,
     "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 14
+      }
+    ],
     "sentence": "在唱片行交換歌曲吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 14
-      }
-    ]
+    "seq": 20
   },
   {
-    "id": 10,
-    "seq": 40,
+    "beginnerMissionCategory": "normal",
     "beginnerMissionType": "make_costume_3d",
-    "beginnerMissionCategory": "normal",
+    "id": 10,
     "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 14
+      }
+    ],
     "sentence": "製作演出服裝吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 14
-      }
-    ]
+    "seq": 40
   },
   {
-    "id": 11,
-    "seq": 55,
-    "beginnerMissionType": "buy_area_item",
     "beginnerMissionCategory": "normal",
+    "beginnerMissionType": "buy_area_item",
+    "id": 11,
     "requirement": 1,
-    "sentence": "交換區域道具吧。",
     "rewards": [
       {
         "resourceBoxId": 14
       }
-    ]
+    ],
+    "sentence": "交換區域道具吧。",
+    "seq": 55
   },
   {
-    "id": 13,
-    "seq": 10,
-    "beginnerMissionType": "achieve_beginner_mission",
     "beginnerMissionCategory": "special",
+    "beginnerMissionType": "achieve_beginner_mission",
+    "id": 13,
     "requirement": 10,
-    "sentence": "通過所有的起跑衝刺任務吧。",
     "rewards": [
       {
         "resourceBoxId": 7
       }
-    ]
+    ],
+    "sentence": "通過所有的起跑衝刺任務吧。",
+    "seq": 10
   }
 ]

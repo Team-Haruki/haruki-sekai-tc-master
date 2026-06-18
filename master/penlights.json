@@ -1,946 +1,946 @@
 [
   {
+    "assetbundleName": "penlight_0001",
+    "defaultPenlightColorId": 1,
     "id": 1,
-    "seq": 1,
     "name": "預設",
     "pronunciation": "でふぉると",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_0001"
+    "seq": 1
   },
   {
+    "assetbundleName": "penlight_0002",
+    "defaultPenlightColorId": 22,
     "id": 2,
-    "seq": 2,
     "name": "蔥型應援棒",
     "pronunciation": "ねぎのぺんらいと",
-    "defaultPenlightColorId": 22,
-    "assetbundleName": "penlight_0002"
+    "seq": 2
   },
   {
+    "assetbundleName": "penlight_0003",
+    "defaultPenlightColorId": 3,
     "id": 3,
-    "seq": 3,
     "name": "星型應援棒",
     "pronunciation": "ほしのぺんらいと",
-    "defaultPenlightColorId": 3,
-    "assetbundleName": "penlight_0003"
+    "seq": 3
   },
   {
+    "assetbundleName": "penlight_0004",
+    "defaultPenlightColorId": 8,
     "id": 4,
-    "seq": 4,
     "name": "心型應援棒",
     "pronunciation": "はーとのぺんらいと",
-    "defaultPenlightColorId": 8,
-    "assetbundleName": "penlight_0004"
+    "seq": 4
   },
   {
+    "assetbundleName": "penlight_0005",
+    "defaultPenlightColorId": 26,
     "id": 5,
-    "seq": 5,
     "name": "2022年應援棒",
     "pronunciation": "にせんにじゅういちねんぺんらいと",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0005"
+    "seq": 5
   },
   {
+    "assetbundleName": "penlight_0006",
+    "defaultPenlightColorId": 7,
     "id": 6,
-    "seq": 6,
     "name": "雪花應援棒",
     "pronunciation": "すのーくりすたるぺんらいと",
-    "defaultPenlightColorId": 7,
-    "assetbundleName": "penlight_0006"
+    "seq": 6
   },
   {
+    "assetbundleName": "penlight_0007",
+    "defaultPenlightColorId": 1,
     "id": 7,
-    "seq": 7,
     "name": "穗波的指揮棒應援棒",
     "pronunciation": "ほなみのたくとぺんらいと",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_0007"
+    "seq": 7
   },
   {
+    "assetbundleName": "penlight_0008",
+    "defaultPenlightColorId": 1,
     "id": 8,
-    "seq": 8,
     "name": "閃耀水滴",
     "pronunciation": "きらめきのぺんらいと",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_0008"
+    "seq": 8
   },
   {
+    "assetbundleName": "penlight_0009",
+    "defaultPenlightColorId": 13,
     "id": 9,
-    "seq": 9,
     "name": "古典應援棒",
     "pronunciation": "くらしかるぺんらいと",
-    "defaultPenlightColorId": 13,
-    "assetbundleName": "penlight_0009"
+    "seq": 9
   },
   {
+    "assetbundleName": "penlight_0010",
+    "defaultPenlightColorId": 32,
     "id": 10,
-    "seq": 10,
     "name": "納西瑟斯的畫筆",
     "pronunciation": "なーしさすのえふで",
-    "defaultPenlightColorId": 32,
-    "assetbundleName": "penlight_0010"
+    "seq": 10
   },
   {
+    "assetbundleName": "penlight_0011",
+    "defaultPenlightColorId": 30,
     "id": 11,
-    "seq": 11,
     "name": "超喜歡團扇應援棒",
     "pronunciation": "だいすきうちわぺんらいと",
-    "defaultPenlightColorId": 30,
-    "assetbundleName": "penlight_0011"
+    "seq": 11
   },
   {
+    "assetbundleName": "penlight_0012",
+    "defaultPenlightColorId": 10,
     "id": 12,
-    "seq": 12,
     "name": "雪洞燈應援棒",
     "pronunciation": "ぼんぼりぺんらいと",
-    "defaultPenlightColorId": 10,
-    "assetbundleName": "penlight_0012"
+    "seq": 12
   },
   {
+    "assetbundleName": "penlight_0013",
+    "defaultPenlightColorId": 29,
     "id": 13,
-    "seq": 13,
     "name": "羽翼應援棒",
     "pronunciation": "つばさのぺんらいと",
-    "defaultPenlightColorId": 29,
-    "assetbundleName": "penlight_0013"
+    "seq": 13
   },
   {
+    "assetbundleName": "penlight_0014",
+    "defaultPenlightColorId": 25,
     "id": 14,
-    "seq": 14,
     "name": "櫻花飄落應援棒",
     "pronunciation": "ひらひらさくらぺんらいと",
-    "defaultPenlightColorId": 25,
-    "assetbundleName": "penlight_0014"
+    "seq": 14
   },
   {
+    "assetbundleName": "penlight_0015",
+    "defaultPenlightColorId": 7,
     "id": 15,
-    "seq": 15,
     "name": "幽靈應援棒",
     "pronunciation": "ごーすとぺんらいと",
-    "defaultPenlightColorId": 7,
-    "assetbundleName": "penlight_0015"
+    "seq": 15
   },
   {
+    "assetbundleName": "penlight_0016",
+    "defaultPenlightColorId": 28,
     "id": 16,
-    "seq": 16,
     "name": "LIVE票券風格應援棒",
     "pronunciation": "らいぶちけっとふうぺんらいと",
-    "defaultPenlightColorId": 28,
-    "assetbundleName": "penlight_0016"
+    "seq": 16
   },
   {
+    "assetbundleName": "penlight_0017",
+    "defaultPenlightColorId": 26,
     "id": 17,
-    "seq": 17,
     "name": "決心的麥克風應援棒",
     "pronunciation": "けついのまいくらいと",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0017"
+    "seq": 17
   },
   {
+    "assetbundleName": "penlight_0018",
+    "defaultPenlightColorId": 27,
     "id": 18,
-    "seq": 18,
     "name": "晴天娃娃應援棒",
     "pronunciation": "てるてるぺんらいと",
-    "defaultPenlightColorId": 27,
-    "assetbundleName": "penlight_0018"
+    "seq": 18
   },
   {
+    "assetbundleName": "penlight_0019",
+    "defaultPenlightColorId": 1,
     "id": 19,
-    "seq": 19,
     "name": "康乃馨應援棒",
     "pronunciation": "かーねーしょんのぺんらいと",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_0019"
+    "seq": 19
   },
   {
+    "assetbundleName": "penlight_0020",
+    "defaultPenlightColorId": 3,
     "id": 20,
-    "seq": 20,
     "name": "鍵盤風格應援棒",
     "pronunciation": "すたーきーぼーどぺんらいと",
-    "defaultPenlightColorId": 3,
-    "assetbundleName": "penlight_0020"
+    "seq": 20
   },
   {
+    "assetbundleName": "penlight_0021",
+    "defaultPenlightColorId": 23,
     "id": 21,
-    "seq": 21,
     "name": "向日葵應援棒",
     "pronunciation": "さんふらわーらいと",
-    "defaultPenlightColorId": 23,
-    "assetbundleName": "penlight_0021"
+    "seq": 21
   },
   {
+    "assetbundleName": "penlight_0022",
+    "defaultPenlightColorId": 10,
     "id": 22,
-    "seq": 22,
     "name": "美人魚的貝殼應援棒",
     "pronunciation": "にんぎょひめのしぇるらいと",
-    "defaultPenlightColorId": 10,
-    "assetbundleName": "penlight_0022"
+    "seq": 22
   },
   {
+    "assetbundleName": "penlight_0023",
+    "defaultPenlightColorId": 26,
     "id": 23,
-    "seq": 23,
     "name": "忘卻的蘋果應援棒",
     "pronunciation": "ぼうきゃくのあっぷるらいと",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0023"
+    "seq": 23
   },
   {
+    "assetbundleName": "penlight_0024",
+    "defaultPenlightColorId": 22,
     "id": 24,
-    "seq": 24,
     "name": "「世界」應援棒",
     "pronunciation": "せかいのぺんらいと",
-    "defaultPenlightColorId": 22,
-    "assetbundleName": "penlight_0024"
+    "seq": 24
   },
   {
+    "assetbundleName": "penlight_0025",
+    "defaultPenlightColorId": 22,
     "id": 25,
-    "seq": 25,
     "name": "1st Anniversary應援棒",
     "pronunciation": "ふぁーすとあにばーさりーぺんらいと",
-    "defaultPenlightColorId": 22,
-    "assetbundleName": "penlight_0025"
+    "seq": 25
   },
   {
+    "assetbundleName": "penlight_0026",
+    "defaultPenlightColorId": 1,
     "id": 26,
-    "seq": 26,
     "name": "蘭姆葡萄應援棒",
     "pronunciation": "らむれーずんぺんらいと",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_0026"
+    "seq": 26
   },
   {
+    "assetbundleName": "penlight_0027",
+    "defaultPenlightColorId": 23,
     "id": 27,
-    "seq": 27,
     "name": "萬聖節蝙蝠應援棒",
     "pronunciation": "はろうぃんばっとぺんらいと",
-    "defaultPenlightColorId": 23,
-    "assetbundleName": "penlight_0027"
+    "seq": 27
   },
   {
+    "assetbundleName": "penlight_0028",
+    "defaultPenlightColorId": 24,
     "id": 28,
-    "seq": 28,
     "name": "天球儀應援棒",
     "pronunciation": "てんたいぺんらいと",
-    "defaultPenlightColorId": 24,
-    "assetbundleName": "penlight_0028"
+    "seq": 28
   },
   {
+    "assetbundleName": "penlight_0029",
+    "defaultPenlightColorId": 2,
     "id": 29,
-    "seq": 29,
     "name": "時鐘型應援棒",
     "pronunciation": "くろっくぺんらいと",
-    "defaultPenlightColorId": 2,
-    "assetbundleName": "penlight_0029"
+    "seq": 29
   },
   {
+    "assetbundleName": "penlight_0030",
+    "defaultPenlightColorId": 22,
     "id": 30,
-    "seq": 30,
     "name": "鉛筆應援棒",
     "pronunciation": "ぺんしるぺんらいと",
-    "defaultPenlightColorId": 22,
-    "assetbundleName": "penlight_0030"
+    "seq": 30
   },
   {
+    "assetbundleName": "penlight_0031",
+    "defaultPenlightColorId": 30,
     "id": 31,
-    "seq": 31,
     "name": "RTVL應援棒",
     "pronunciation": "くらっしゅぺんらいと",
-    "defaultPenlightColorId": 30,
-    "assetbundleName": "penlight_0031"
+    "seq": 31
   },
   {
+    "assetbundleName": "penlight_0032",
+    "defaultPenlightColorId": 3,
     "id": 32,
-    "seq": 32,
     "name": "快樂鈴鐺應援棒",
     "pronunciation": "はっぴーべるぺんらいと",
-    "defaultPenlightColorId": 3,
-    "assetbundleName": "penlight_0032"
+    "seq": 32
   },
   {
+    "assetbundleName": "penlight_0033",
+    "defaultPenlightColorId": 26,
     "id": 33,
-    "seq": 33,
     "name": "慶祝新年應援棒",
     "pronunciation": "がしょうぺんらいと",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0033"
+    "seq": 33
   },
   {
+    "assetbundleName": "penlight_0034",
+    "defaultPenlightColorId": 15,
     "id": 34,
-    "seq": 34,
     "name": "旋轉木馬應援棒",
     "pronunciation": "めりーごーらんどぺんらいと",
-    "defaultPenlightColorId": 15,
-    "assetbundleName": "penlight_0034"
+    "seq": 34
   },
   {
+    "assetbundleName": "penlight_0035",
+    "defaultPenlightColorId": 8,
     "id": 35,
-    "seq": 35,
     "name": "棒棒糖應援棒",
     "pronunciation": "ろりぽっぷぺんらいと",
-    "defaultPenlightColorId": 8,
-    "assetbundleName": "penlight_0035"
+    "seq": 35
   },
   {
+    "assetbundleName": "penlight_0036",
+    "defaultPenlightColorId": 24,
     "id": 36,
-    "seq": 36,
     "name": "晴朗應援棒",
     "pronunciation": "かいせいぺんらいと",
-    "defaultPenlightColorId": 24,
-    "assetbundleName": "penlight_0036"
+    "seq": 36
   },
   {
+    "assetbundleName": "penlight_0037",
+    "defaultPenlightColorId": 25,
     "id": 37,
-    "seq": 37,
     "name": "魔法棒應援棒",
     "pronunciation": "まじかるすてっきらいと",
-    "defaultPenlightColorId": 25,
-    "assetbundleName": "penlight_0037"
+    "seq": 37
   },
   {
+    "assetbundleName": "penlight_0038",
+    "defaultPenlightColorId": 28,
     "id": 38,
-    "seq": 38,
     "name": "拼圖應援棒",
     "pronunciation": "ぱずるぴーすらいと",
-    "defaultPenlightColorId": 28,
-    "assetbundleName": "penlight_0038"
+    "seq": 38
   },
   {
+    "assetbundleName": "penlight_0039",
+    "defaultPenlightColorId": 27,
     "id": 39,
-    "seq": 39,
     "name": "企鵝應援棒",
     "pronunciation": "ぺんぎんぺんらいと",
-    "defaultPenlightColorId": 27,
-    "assetbundleName": "penlight_0039"
+    "seq": 39
   },
   {
+    "assetbundleName": "penlight_0040",
+    "defaultPenlightColorId": 32,
     "id": 40,
-    "seq": 40,
     "name": "針筒應援棒",
     "pronunciation": "ちゅうしゃきぺんらいと",
-    "defaultPenlightColorId": 32,
-    "assetbundleName": "penlight_0040"
+    "seq": 40
   },
   {
+    "assetbundleName": "penlight_0041",
+    "defaultPenlightColorId": 5,
     "id": 41,
-    "seq": 41,
     "name": "大聲公應援棒",
     "pronunciation": "めがほんぺんらいと",
-    "defaultPenlightColorId": 5,
-    "assetbundleName": "penlight_0041"
+    "seq": 41
   },
   {
+    "assetbundleName": "penlight_0042",
+    "defaultPenlightColorId": 10,
     "id": 42,
-    "seq": 42,
     "name": "蜘蛛應援棒",
     "pronunciation": "すぱいだーぺんらいと",
-    "defaultPenlightColorId": 10,
-    "assetbundleName": "penlight_0042"
+    "seq": 42
   },
   {
+    "assetbundleName": "penlight_0043",
+    "defaultPenlightColorId": 12,
     "id": 43,
-    "seq": 50,
     "name": "傑克南瓜燈",
     "pronunciation": "じゃっくおらんたん",
-    "defaultPenlightColorId": 12,
-    "assetbundleName": "penlight_0043"
+    "seq": 50
   },
   {
+    "assetbundleName": "penlight_0044",
+    "defaultPenlightColorId": 2,
     "id": 44,
-    "seq": 58,
     "name": "元旦的富士山應援棒",
     "pronunciation": "はつふじぺんらいと",
-    "defaultPenlightColorId": 2,
-    "assetbundleName": "penlight_0044"
+    "seq": 58
   },
   {
+    "assetbundleName": "penlight_0045",
+    "defaultPenlightColorId": 29,
     "id": 45,
-    "seq": 44,
     "name": "果昔應援棒",
     "pronunciation": "すむーじーぺんらいと",
-    "defaultPenlightColorId": 29,
-    "assetbundleName": "penlight_0045"
+    "seq": 44
   },
   {
+    "assetbundleName": "penlight_0046",
+    "defaultPenlightColorId": 32,
     "id": 46,
-    "seq": 45,
     "name": "銀蓮花應援棒",
     "pronunciation": "あねもねぺんらいと",
-    "defaultPenlightColorId": 32,
-    "assetbundleName": "penlight_0046"
+    "seq": 45
   },
   {
+    "assetbundleName": "penlight_0047",
+    "defaultPenlightColorId": 32,
     "id": 47,
-    "seq": 46,
     "name": "蔥蘭應援棒",
     "pronunciation": "ぜふぃらんさすのぺんらいと",
-    "defaultPenlightColorId": 32,
-    "assetbundleName": "penlight_0047"
+    "seq": 46
   },
   {
+    "assetbundleName": "penlight_0048",
+    "defaultPenlightColorId": 22,
     "id": 48,
-    "seq": 47,
     "name": "「2nd ANNIVERSARY SPECIAL STAGE」應援棒",
     "pronunciation": "せかんどあにばーさりーすぺしゃるすてーじぺんらいと",
-    "defaultPenlightColorId": 22,
-    "assetbundleName": "penlight_0048"
+    "seq": 47
   },
   {
+    "assetbundleName": "penlight_0049",
+    "defaultPenlightColorId": 7,
     "id": 49,
-    "seq": 48,
     "name": "應援扇 遙",
     "pronunciation": "おうえんうちわはるか",
-    "defaultPenlightColorId": 7,
-    "assetbundleName": "penlight_0049"
+    "seq": 48
   },
   {
+    "assetbundleName": "penlight_0050",
+    "defaultPenlightColorId": 4,
     "id": 50,
-    "seq": 49,
     "name": "應援扇 穗波",
     "pronunciation": "おうえんうちわほなみ",
-    "defaultPenlightColorId": 4,
-    "assetbundleName": "penlight_0050"
+    "seq": 49
   },
   {
+    "assetbundleName": "penlight_0051",
+    "defaultPenlightColorId": 26,
     "id": 51,
-    "seq": 51,
     "name": "應援扇 MEIKO",
     "pronunciation": "おうえんうちわめいこ",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0051"
+    "seq": 51
   },
   {
+    "assetbundleName": "penlight_0052",
+    "defaultPenlightColorId": 12,
     "id": 52,
-    "seq": 52,
     "name": "應援扇 彰人",
     "pronunciation": "おうえんうちわあきと",
-    "defaultPenlightColorId": 12,
-    "assetbundleName": "penlight_0052"
+    "seq": 52
   },
   {
+    "assetbundleName": "penlight_0053",
+    "defaultPenlightColorId": 9,
     "id": 53,
-    "seq": 55,
     "name": "應援扇 雫",
     "pronunciation": "おうえんうちわしずく",
-    "defaultPenlightColorId": 9,
-    "assetbundleName": "penlight_0053"
+    "seq": 55
   },
   {
+    "assetbundleName": "penlight_0054",
+    "defaultPenlightColorId": 23,
     "id": 54,
-    "seq": 57,
     "name": "應援扇 鈴",
     "pronunciation": "おうえんうちわりん",
-    "defaultPenlightColorId": 23,
-    "assetbundleName": "penlight_0054"
+    "seq": 57
   },
   {
+    "assetbundleName": "penlight_0055",
+    "defaultPenlightColorId": 24,
     "id": 55,
-    "seq": 56,
     "name": "應援扇 連",
     "pronunciation": "おうえんうちわれん",
-    "defaultPenlightColorId": 24,
-    "assetbundleName": "penlight_0055"
+    "seq": 56
   },
   {
+    "assetbundleName": "penlight_0056",
+    "defaultPenlightColorId": 5,
     "id": 56,
-    "seq": 59,
     "name": "應援扇 志步",
     "pronunciation": "おうえんうちわしほ",
-    "defaultPenlightColorId": 5,
-    "assetbundleName": "penlight_0056"
+    "seq": 59
   },
   {
+    "assetbundleName": "penlight_0057",
+    "defaultPenlightColorId": 19,
     "id": 57,
-    "seq": 60,
     "name": "應援扇 真冬",
     "pronunciation": "おうえんうちわまふゆ",
-    "defaultPenlightColorId": 19,
-    "assetbundleName": "penlight_0057"
+    "seq": 60
   },
   {
+    "assetbundleName": "penlight_0058",
+    "defaultPenlightColorId": 25,
     "id": 58,
-    "seq": 61,
     "name": "應援扇 流歌",
     "pronunciation": "おうえんうちわるか",
-    "defaultPenlightColorId": 25,
-    "assetbundleName": "penlight_0058"
+    "seq": 61
   },
   {
+    "assetbundleName": "penlight_0059",
+    "defaultPenlightColorId": 18,
     "id": 59,
-    "seq": 62,
     "name": "應援扇 奏",
     "pronunciation": "おうえんうちわかなで",
-    "defaultPenlightColorId": 18,
-    "assetbundleName": "penlight_0059"
+    "seq": 62
   },
   {
+    "assetbundleName": "penlight_0060",
+    "defaultPenlightColorId": 27,
     "id": 60,
-    "seq": 64,
     "name": "應援扇 KAITO",
     "pronunciation": "おうえんうちわかいと",
-    "defaultPenlightColorId": 27,
-    "assetbundleName": "penlight_0060"
+    "seq": 64
   },
   {
+    "assetbundleName": "penlight_0061",
+    "defaultPenlightColorId": 10,
     "id": 61,
-    "seq": 66,
     "name": "應援扇 心羽",
     "pronunciation": "おうえんうちわこはね",
-    "defaultPenlightColorId": 10,
-    "assetbundleName": "penlight_0061"
+    "seq": 66
   },
   {
+    "assetbundleName": "penlight_0062",
+    "defaultPenlightColorId": 8,
     "id": 62,
-    "seq": 69,
     "name": "應援扇 愛莉",
     "pronunciation": "おうえんうちわあいり",
-    "defaultPenlightColorId": 8,
-    "assetbundleName": "penlight_0062"
+    "seq": 69
   },
   {
+    "assetbundleName": "penlight_0063",
+    "defaultPenlightColorId": 6,
     "id": 63,
-    "seq": 70,
     "name": "應援扇 實乃理",
     "pronunciation": "おうえんうちわみのり",
-    "defaultPenlightColorId": 6,
-    "assetbundleName": "penlight_0063"
+    "seq": 70
   },
   {
+    "assetbundleName": "penlight_0064",
+    "defaultPenlightColorId": 20,
     "id": 64,
-    "seq": 71,
     "name": "應援扇 繪名",
     "pronunciation": "おうえんうちわえな",
-    "defaultPenlightColorId": 20,
-    "assetbundleName": "penlight_0064"
+    "seq": 71
   },
   {
+    "assetbundleName": "penlight_0065",
+    "defaultPenlightColorId": 3,
     "id": 65,
-    "seq": 73,
     "name": "應援扇 咲希",
     "pronunciation": "おうえんうちわさき",
-    "defaultPenlightColorId": 3,
-    "assetbundleName": "penlight_0065"
+    "seq": 73
   },
   {
+    "assetbundleName": "penlight_0066",
+    "defaultPenlightColorId": 14,
     "id": 66,
-    "seq": 75,
     "name": "應援扇 司",
     "pronunciation": "おうえんうちわつかさ",
-    "defaultPenlightColorId": 14,
-    "assetbundleName": "penlight_0066"
+    "seq": 75
   },
   {
+    "assetbundleName": "penlight_0067",
+    "defaultPenlightColorId": 13,
     "id": 67,
-    "seq": 76,
     "name": "應援扇 冬彌",
     "pronunciation": "おうえんうちわとうや",
-    "defaultPenlightColorId": 13,
-    "assetbundleName": "penlight_0067"
+    "seq": 76
   },
   {
+    "assetbundleName": "penlight_0068",
+    "defaultPenlightColorId": 17,
     "id": 68,
-    "seq": 77,
     "name": "應援扇 類",
     "pronunciation": "おうえんうちわるい",
-    "defaultPenlightColorId": 17,
-    "assetbundleName": "penlight_0068"
+    "seq": 77
   },
   {
+    "assetbundleName": "penlight_0069",
+    "defaultPenlightColorId": 16,
     "id": 69,
-    "seq": 81,
     "name": "應援扇 寧寧",
     "pronunciation": "おうえんうちわねね",
-    "defaultPenlightColorId": 16,
-    "assetbundleName": "penlight_0069"
+    "seq": 81
   },
   {
+    "assetbundleName": "penlight_0070",
+    "defaultPenlightColorId": 11,
     "id": 70,
-    "seq": 82,
     "name": "應援扇 杏",
     "pronunciation": "おうえんうちわあん",
-    "defaultPenlightColorId": 11,
-    "assetbundleName": "penlight_0070"
+    "seq": 82
   },
   {
+    "assetbundleName": "penlight_0071",
+    "defaultPenlightColorId": 2,
     "id": 71,
-    "seq": 9999,
     "name": "應援扇 一歌",
     "pronunciation": "おうえんうちわいちか",
-    "defaultPenlightColorId": 2,
-    "assetbundleName": "penlight_0071"
+    "seq": 9999
   },
   {
+    "assetbundleName": "penlight_0072",
+    "defaultPenlightColorId": 21,
     "id": 72,
-    "seq": 9999,
     "name": "應援扇 瑞希",
     "pronunciation": "おうえんうちわみずき",
-    "defaultPenlightColorId": 21,
-    "assetbundleName": "penlight_0072"
+    "seq": 9999
   },
   {
+    "assetbundleName": "penlight_0073",
+    "defaultPenlightColorId": 22,
     "id": 73,
-    "seq": 9999,
     "name": "應援扇 未來",
     "pronunciation": "おうえんうちわみく",
-    "defaultPenlightColorId": 22,
-    "assetbundleName": "penlight_0073"
+    "seq": 9999
   },
   {
+    "assetbundleName": "penlight_0074",
+    "defaultPenlightColorId": 15,
     "id": 74,
-    "seq": 9999,
     "name": "應援扇 笑夢",
     "pronunciation": "おうえんうちわえむ",
-    "defaultPenlightColorId": 15,
-    "assetbundleName": "penlight_0074"
+    "seq": 9999
   },
   {
+    "assetbundleName": "penlight_0075",
+    "defaultPenlightColorId": 27,
     "id": 75,
-    "seq": 53,
     "name": "水瓶座應援棒",
     "pronunciation": "みずがめざのぺんらいと",
-    "defaultPenlightColorId": 27,
-    "assetbundleName": "penlight_0075"
+    "seq": 53
   },
   {
+    "assetbundleName": "penlight_0076",
+    "defaultPenlightColorId": 27,
     "id": 76,
-    "seq": 54,
     "name": "飛機應援棒",
     "pronunciation": "ひこうきぺんらいと",
-    "defaultPenlightColorId": 27,
-    "assetbundleName": "penlight_0076"
+    "seq": 54
   },
   {
+    "assetbundleName": "penlight_0077",
+    "defaultPenlightColorId": 12,
     "id": 77,
-    "seq": 56,
     "name": "熱情的應援棒",
     "pronunciation": "ねつじょうのぺんらいと",
-    "defaultPenlightColorId": 12,
-    "assetbundleName": "penlight_0077"
+    "seq": 56
   },
   {
+    "assetbundleName": "penlight_0079",
+    "defaultPenlightColorId": 21,
     "id": 79,
-    "seq": 72,
     "name": "肉球應援棒",
     "pronunciation": "にくきゅうぺんらいと",
-    "defaultPenlightColorId": 21,
-    "assetbundleName": "penlight_0079"
+    "seq": 72
   },
   {
+    "assetbundleName": "penlight_0080",
+    "defaultPenlightColorId": 26,
     "id": 80,
-    "seq": 63,
     "name": "情人節花束",
     "pronunciation": "ばれんたいんぶーけ",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0080"
+    "seq": 63
   },
   {
+    "assetbundleName": "penlight_0081",
+    "defaultPenlightColorId": 26,
     "id": 81,
-    "seq": 65,
     "name": "黑騎士的劍光束",
     "pronunciation": "くろきしのけんらいと",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0081"
+    "seq": 65
   },
   {
+    "assetbundleName": "penlight_0082",
+    "defaultPenlightColorId": 2,
     "id": 82,
-    "seq": 68,
     "name": "糖果應援棒",
     "pronunciation": "きゃんでぃぺんらいと",
-    "defaultPenlightColorId": 2,
-    "assetbundleName": "penlight_0082"
+    "seq": 68
   },
   {
+    "assetbundleName": "penlight_0083",
+    "defaultPenlightColorId": 29,
     "id": 83,
-    "seq": 67,
     "name": "「JUMPIN！」應援棒",
     "pronunciation": "じゃんぴんぺんらいと",
-    "defaultPenlightColorId": 29,
-    "assetbundleName": "penlight_0083"
+    "seq": 67
   },
   {
+    "assetbundleName": "penlight_0084",
+    "defaultPenlightColorId": 28,
     "id": 84,
-    "seq": 74,
     "name": "「SPARKLE」應援棒",
     "pronunciation": "すぱーくるぺんらいと",
-    "defaultPenlightColorId": 28,
-    "assetbundleName": "penlight_0084"
+    "seq": 74
   },
   {
+    "assetbundleName": "penlight_0085",
+    "defaultPenlightColorId": 12,
     "id": 85,
-    "seq": 69,
     "name": "金魚應援棒",
     "pronunciation": "きんぎょのぺんらいと",
-    "defaultPenlightColorId": 12,
-    "assetbundleName": "penlight_0085"
+    "seq": 69
   },
   {
+    "assetbundleName": "penlight_0086",
+    "defaultPenlightColorId": 4,
     "id": 86,
-    "seq": 78,
     "name": "提燈妖怪應援棒",
     "pronunciation": "ちょうちんおばけらいと",
-    "defaultPenlightColorId": 4,
-    "assetbundleName": "penlight_0086"
+    "seq": 78
   },
   {
+    "assetbundleName": "penlight_0087",
+    "defaultPenlightColorId": 16,
     "id": 87,
-    "seq": 80,
     "name": "水族箱應援棒",
     "pronunciation": "あくありうむぺんらいと",
-    "defaultPenlightColorId": 16,
-    "assetbundleName": "penlight_0087"
+    "seq": 80
   },
   {
+    "assetbundleName": "penlight_0088",
+    "defaultPenlightColorId": 32,
     "id": 88,
-    "seq": 79,
     "name": "「moment」應援棒",
     "pronunciation": "もーめんとぺんらいと",
-    "defaultPenlightColorId": 32,
-    "assetbundleName": "penlight_0088"
+    "seq": 79
   },
   {
+    "assetbundleName": "penlight_0089",
+    "defaultPenlightColorId": 23,
     "id": 89,
-    "seq": 83,
     "name": "「STORIES」應援棒",
     "pronunciation": "すとーりーずぺんらいと",
-    "defaultPenlightColorId": 23,
-    "assetbundleName": "penlight_0089"
+    "seq": 83
   },
   {
+    "assetbundleName": "penlight_0090",
+    "defaultPenlightColorId": 26,
     "id": 90,
-    "seq": 84,
     "name": "草莓聖代應援棒",
     "pronunciation": "いちごぱふぇぺんらいと",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0090"
+    "seq": 84
   },
   {
+    "assetbundleName": "penlight_0091",
+    "defaultPenlightColorId": 26,
     "id": 91,
-    "seq": 86,
     "name": "RAD WEEKEND應援棒",
     "pronunciation": "れっどうぃーけんどぺんらいと",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0091"
+    "seq": 86
   },
   {
+    "assetbundleName": "penlight_0092",
+    "defaultPenlightColorId": 19,
     "id": 92,
-    "seq": 87,
     "name": "波波熊的應援棒",
     "pronunciation": "くまのぽぽさんぺんらいと",
-    "defaultPenlightColorId": 19,
-    "assetbundleName": "penlight_0092"
+    "seq": 87
   },
   {
+    "assetbundleName": "penlight_0093",
+    "defaultPenlightColorId": 9,
     "id": 93,
-    "seq": 90,
     "name": "「世界」的閃亮亮應援棒",
     "pronunciation": "せかいのきらきらぺんらいと",
-    "defaultPenlightColorId": 9,
-    "assetbundleName": "penlight_0093"
+    "seq": 90
   },
   {
+    "assetbundleName": "penlight_0094",
+    "defaultPenlightColorId": 7,
     "id": 94,
-    "seq": 92,
     "name": "「3rd ANNIVERSARY Memorial Stage」應援棒",
     "pronunciation": "さーどあにばーさりーめもりあるすてーじぺんらいと",
-    "defaultPenlightColorId": 7,
-    "assetbundleName": "penlight_0094"
+    "seq": 92
   },
   {
+    "assetbundleName": "penlight_0095",
+    "defaultPenlightColorId": 32,
     "id": 95,
-    "seq": 93,
     "name": "25點，Nightcord見。應援棒",
     "pronunciation": "にじゅうごじないとこーどでぺんらいと",
-    "defaultPenlightColorId": 32,
-    "assetbundleName": "penlight_0095"
+    "seq": 93
   },
   {
+    "assetbundleName": "penlight_0096",
+    "defaultPenlightColorId": 1,
     "id": 96,
-    "seq": 94,
     "name": "場記板應援棒",
     "pronunciation": "かちんこぺんらいと",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_0096"
+    "seq": 94
   },
   {
+    "assetbundleName": "penlight_0097",
+    "defaultPenlightColorId": 4,
     "id": 97,
-    "seq": 96,
     "name": "破魔箭應援棒",
     "pronunciation": "はまやぺんらいと",
-    "defaultPenlightColorId": 4,
-    "assetbundleName": "penlight_0097"
+    "seq": 96
   },
   {
+    "assetbundleName": "penlight_0098",
+    "defaultPenlightColorId": 4,
     "id": 98,
-    "seq": 95,
     "name": "紙鶴應援棒",
     "pronunciation": "おりづるぺんらいと",
-    "defaultPenlightColorId": 4,
-    "assetbundleName": "penlight_0098"
+    "seq": 95
   },
   {
+    "assetbundleName": "penlight_0099",
+    "defaultPenlightColorId": 30,
     "id": 99,
-    "seq": 97,
     "name": "Vivid BAD SQUAD應援棒",
     "pronunciation": "びびっどばっどすくぁっどぺんらいと",
-    "defaultPenlightColorId": 30,
-    "assetbundleName": "penlight_0099"
+    "seq": 97
   },
   {
+    "assetbundleName": "penlight_0100",
+    "defaultPenlightColorId": 23,
     "id": 100,
-    "seq": 98,
     "name": "蜂蜜醃檸檬應援棒",
     "pronunciation": "れもんのはちみつづけぺんらいと",
-    "defaultPenlightColorId": 23,
-    "assetbundleName": "penlight_0100"
+    "seq": 98
   },
   {
+    "assetbundleName": "penlight_0101",
+    "defaultPenlightColorId": 31,
     "id": 101,
-    "seq": 99,
     "name": "Wonderlands×Showtime應援棒",
     "pronunciation": "わんだーらんずしょうたいむぺんらいと",
-    "defaultPenlightColorId": 31,
-    "assetbundleName": "penlight_0101"
+    "seq": 99
   },
   {
+    "assetbundleName": "penlight_0102",
+    "defaultPenlightColorId": 26,
     "id": 102,
-    "seq": 102,
     "name": "牡丹應援棒",
     "pronunciation": "ぼたんのぺんらいと",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0102"
+    "seq": 102
   },
   {
+    "assetbundleName": "penlight_0103",
+    "defaultPenlightColorId": 29,
     "id": 103,
-    "seq": 103,
     "name": "MORE MORE JUMP！應援棒",
     "pronunciation": "もあもあじゃんぷぺんらいと",
-    "defaultPenlightColorId": 29,
-    "assetbundleName": "penlight_0103"
+    "seq": 103
   },
   {
+    "assetbundleName": "penlight_0104",
+    "defaultPenlightColorId": 1,
     "id": 104,
-    "seq": 104,
     "name": "「RESONANCE BEATS!!」應援棒",
     "pronunciation": "れぞなんすびーつぺんらいと",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_0104"
+    "seq": 104
   },
   {
+    "assetbundleName": "penlight_0105",
+    "defaultPenlightColorId": 7,
     "id": 105,
-    "seq": 105,
     "name": "押花應援棒",
     "pronunciation": "おしばなぺんらいと",
-    "defaultPenlightColorId": 7,
-    "assetbundleName": "penlight_0105"
+    "seq": 105
   },
   {
+    "assetbundleName": "penlight_0106",
+    "defaultPenlightColorId": 30,
     "id": 106,
-    "seq": 106,
     "name": "贏家應援棒",
     "pronunciation": "しょうしゃのぺんらいと",
-    "defaultPenlightColorId": 30,
-    "assetbundleName": "penlight_0106"
+    "seq": 106
   },
   {
+    "assetbundleName": "penlight_0107",
+    "defaultPenlightColorId": 28,
     "id": 107,
-    "seq": 107,
     "name": "Leo/need應援棒",
     "pronunciation": "れおにーどぺんらいと",
-    "defaultPenlightColorId": 28,
-    "assetbundleName": "penlight_0107"
+    "seq": 107
   },
   {
+    "assetbundleName": "penlight_0108",
+    "defaultPenlightColorId": 11,
     "id": 108,
-    "seq": 108,
     "name": "小號應援棒",
     "pronunciation": "とらんぺっとぺんらいと",
-    "defaultPenlightColorId": 11,
-    "assetbundleName": "penlight_0108"
+    "seq": 108
   },
   {
+    "assetbundleName": "penlight_0109",
+    "defaultPenlightColorId": 22,
     "id": 109,
-    "seq": 109,
     "name": "虛擬歌手應援棒",
     "pronunciation": "ばーちゃるしんがーぺんらいと",
-    "defaultPenlightColorId": 22,
-    "assetbundleName": "penlight_0109"
+    "seq": 109
   },
   {
+    "assetbundleName": "penlight_0110",
+    "defaultPenlightColorId": 1,
     "id": 110,
-    "seq": 111,
     "name": "「4th ANNIVERSARY Brilliant Stage」應援棒",
     "pronunciation": "ふぉーすあにばーさりーぶりりあんとすてーじぺんらいと",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_0110"
+    "seq": 111
   },
   {
+    "assetbundleName": "penlight_0111",
+    "defaultPenlightColorId": 7,
     "id": 111,
-    "seq": 110,
     "name": "汽水應援棒",
     "pronunciation": "さいだーぺんらいと",
-    "defaultPenlightColorId": 7,
-    "assetbundleName": "penlight_0111"
+    "seq": 110
   },
   {
+    "assetbundleName": "penlight_0112",
+    "defaultPenlightColorId": 3,
     "id": 112,
-    "seq": 112,
     "name": "喵喵電子琴應援棒",
     "pronunciation": "にゃーぼーどぺんらいと",
-    "defaultPenlightColorId": 3,
-    "assetbundleName": "penlight_0112"
+    "seq": 112
   },
   {
+    "assetbundleName": "penlight_0113",
+    "defaultPenlightColorId": 31,
     "id": 113,
-    "seq": 113,
     "name": "楓葉應援棒",
     "pronunciation": "こうようぺんらいと",
-    "defaultPenlightColorId": 31,
-    "assetbundleName": "penlight_0113"
+    "seq": 113
   },
   {
+    "assetbundleName": "penlight_0114",
+    "defaultPenlightColorId": 8,
     "id": 114,
-    "seq": 114,
     "name": "蝴蝶應援棒",
     "pronunciation": "ばたふらいぺんらいと",
-    "defaultPenlightColorId": 8,
-    "assetbundleName": "penlight_0114"
+    "seq": 114
   },
   {
+    "assetbundleName": "penlight_0115",
+    "defaultPenlightColorId": 9,
     "id": 115,
-    "seq": 115,
     "name": "手持鏡應援棒",
     "pronunciation": "てかがみぺんらいと",
-    "defaultPenlightColorId": 9,
-    "assetbundleName": "penlight_0115"
+    "seq": 115
   },
   {
+    "assetbundleName": "penlight_0116",
+    "defaultPenlightColorId": 26,
     "id": 116,
-    "seq": 116,
     "name": "劍玉應援棒",
     "pronunciation": "けんだまぺんらいと",
-    "defaultPenlightColorId": 26,
-    "assetbundleName": "penlight_0116"
+    "seq": 116
   },
   {
+    "assetbundleName": "penlight_0117",
+    "defaultPenlightColorId": 1,
     "id": 117,
-    "seq": 117,
     "name": "「Ensemble in SEKAI」應援棒",
     "pronunciation": "あんさんぶるいんせかいぺんらいと",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_0117"
+    "seq": 117
   },
   {
+    "assetbundleName": "penlight_0118",
+    "defaultPenlightColorId": 1,
     "id": 118,
-    "seq": 118,
     "name": "「Dreamscape」應援棒",
     "pronunciation": "れぞなんすびーつぺんらいと",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_0118"
+    "seq": 118
   },
   {
+    "assetbundleName": "penlight_1000",
+    "defaultPenlightColorId": 1,
     "id": 1000,
-    "seq": 1000,
     "name": "中秋柿子應援棒",
     "pronunciation": "かり",
-    "defaultPenlightColorId": 1,
-    "assetbundleName": "penlight_1000"
+    "seq": 1000
   }
 ]

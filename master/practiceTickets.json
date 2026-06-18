@@ -1,566 +1,566 @@
 [
   {
+    "exp": 200,
+    "flavorText": "使成員獲得200EXP。透過LIVE等方式取得。",
     "id": 1,
-    "name": "練習譜（初級）",
-    "exp": 200,
-    "flavorText": "使成員獲得200EXP。透過LIVE等方式取得。"
+    "name": "練習譜（初級）"
   },
   {
+    "exp": 10000,
+    "flavorText": "使成員獲得10000EXP。透過活動等方式取得。",
     "id": 2,
-    "name": "練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "使成員獲得10000EXP。透過活動等方式取得。"
+    "name": "練習譜（中級）"
   },
   {
+    "exp": 50000,
+    "flavorText": "使成員獲得50000EXP。透過活動等方式取得。",
     "id": 3,
-    "name": "練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "使成員獲得50000EXP。透過活動等方式取得。"
+    "name": "練習譜（高級）"
   },
   {
+    "characterId": 1,
+    "exp": 200,
+    "flavorText": "一歌的成員獲得200EXP。",
     "id": 10101,
-    "characterId": 1,
-    "name": "一歌的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "一歌的成員獲得200EXP。"
+    "name": "一歌的練習譜（初級）"
   },
   {
+    "characterId": 1,
+    "exp": 10000,
+    "flavorText": "一歌的成員獲得10000EXP。",
     "id": 10102,
-    "characterId": 1,
-    "name": "一歌的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "一歌的成員獲得10000EXP。"
+    "name": "一歌的練習譜（中級）"
   },
   {
+    "characterId": 1,
+    "exp": 50000,
+    "flavorText": "一歌的成員獲得50000EXP。",
     "id": 10103,
-    "characterId": 1,
-    "name": "一歌的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "一歌的成員獲得50000EXP。"
+    "name": "一歌的練習譜（高級）"
   },
   {
+    "characterId": 2,
+    "exp": 200,
+    "flavorText": "咲希的成員獲得200EXP。",
     "id": 10201,
-    "characterId": 2,
-    "name": "咲希的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "咲希的成員獲得200EXP。"
+    "name": "咲希的練習譜（初級）"
   },
   {
+    "characterId": 2,
+    "exp": 10000,
+    "flavorText": "咲希的成員獲得10000EXP。",
     "id": 10202,
-    "characterId": 2,
-    "name": "咲希的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "咲希的成員獲得10000EXP。"
+    "name": "咲希的練習譜（中級）"
   },
   {
+    "characterId": 2,
+    "exp": 50000,
+    "flavorText": "咲希的成員獲得50000EXP。",
     "id": 10203,
-    "characterId": 2,
-    "name": "咲希的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "咲希的成員獲得50000EXP。"
+    "name": "咲希的練習譜（高級）"
   },
   {
+    "characterId": 3,
+    "exp": 200,
+    "flavorText": "穗波的成員獲得200EXP。",
     "id": 10301,
-    "characterId": 3,
-    "name": "穗波的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "穗波的成員獲得200EXP。"
+    "name": "穗波的練習譜（初級）"
   },
   {
+    "characterId": 3,
+    "exp": 10000,
+    "flavorText": "穂波的成員獲得10000EXP。",
     "id": 10302,
-    "characterId": 3,
-    "name": "穂波的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "穂波的成員獲得10000EXP。"
+    "name": "穂波的練習譜（中級）"
   },
   {
+    "characterId": 3,
+    "exp": 50000,
+    "flavorText": "穂波的成員獲得50000EXP。",
     "id": 10303,
-    "characterId": 3,
-    "name": "穂波的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "穂波的成員獲得50000EXP。"
+    "name": "穂波的練習譜（高級）"
   },
   {
+    "characterId": 4,
+    "exp": 200,
+    "flavorText": "志步的成員獲得200EXP。",
     "id": 10401,
-    "characterId": 4,
-    "name": "志步的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "志步的成員獲得200EXP。"
+    "name": "志步的練習譜（初級）"
   },
   {
+    "characterId": 4,
+    "exp": 10000,
+    "flavorText": "志歩的成員獲得10000EXP。",
     "id": 10402,
-    "characterId": 4,
-    "name": "志歩的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "志歩的成員獲得10000EXP。"
+    "name": "志歩的練習譜（中級）"
   },
   {
+    "characterId": 4,
+    "exp": 50000,
+    "flavorText": "志歩的成員獲得50000EXP。",
     "id": 10403,
-    "characterId": 4,
-    "name": "志歩的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "志歩的成員獲得50000EXP。"
+    "name": "志歩的練習譜（高級）"
   },
   {
+    "characterId": 5,
+    "exp": 200,
+    "flavorText": "實乃理的成員獲得200EXP。",
     "id": 10501,
-    "characterId": 5,
-    "name": "實乃理的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "實乃理的成員獲得200EXP。"
+    "name": "實乃理的練習譜（初級）"
   },
   {
+    "characterId": 5,
+    "exp": 10000,
+    "flavorText": "實乃理的成員獲得10000EXP。",
     "id": 10502,
-    "characterId": 5,
-    "name": "實乃理的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "實乃理的成員獲得10000EXP。"
+    "name": "實乃理的練習譜（中級）"
   },
   {
+    "characterId": 5,
+    "exp": 50000,
+    "flavorText": "實乃理的成員獲得50000EXP。",
     "id": 10503,
-    "characterId": 5,
-    "name": "實乃理的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "實乃理的成員獲得50000EXP。"
+    "name": "實乃理的練習譜（高級）"
   },
   {
+    "characterId": 6,
+    "exp": 200,
+    "flavorText": "遙的成員獲得200EXP。",
     "id": 10601,
-    "characterId": 6,
-    "name": "遙的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "遙的成員獲得200EXP。"
+    "name": "遙的練習譜（初級）"
   },
   {
+    "characterId": 6,
+    "exp": 10000,
+    "flavorText": "遙的成員獲得10000EXP。",
     "id": 10602,
-    "characterId": 6,
-    "name": "遙的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "遙的成員獲得10000EXP。"
+    "name": "遙的練習譜（中級）"
   },
   {
+    "characterId": 6,
+    "exp": 50000,
+    "flavorText": "遙的成員獲得50000EXP。",
     "id": 10603,
-    "characterId": 6,
-    "name": "遙的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "遙的成員獲得50000EXP。"
+    "name": "遙的練習譜（高級）"
   },
   {
+    "characterId": 7,
+    "exp": 200,
+    "flavorText": "愛莉的成員獲得200EXP。",
     "id": 10701,
-    "characterId": 7,
-    "name": "愛莉的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "愛莉的成員獲得200EXP。"
+    "name": "愛莉的練習譜（初級）"
   },
   {
+    "characterId": 7,
+    "exp": 10000,
+    "flavorText": "愛莉的成員獲得10000EXP。",
     "id": 10702,
-    "characterId": 7,
-    "name": "愛莉的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "愛莉的成員獲得10000EXP。"
+    "name": "愛莉的練習譜（中級）"
   },
   {
+    "characterId": 7,
+    "exp": 50000,
+    "flavorText": "愛莉的成員獲得50000EXP。",
     "id": 10703,
-    "characterId": 7,
-    "name": "愛莉的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "愛莉的成員獲得50000EXP。"
+    "name": "愛莉的練習譜（高級）"
   },
   {
+    "characterId": 8,
+    "exp": 200,
+    "flavorText": "雫的成員獲得200EXP。",
     "id": 10801,
-    "characterId": 8,
-    "name": "雫的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "雫的成員獲得200EXP。"
+    "name": "雫的練習譜（初級）"
   },
   {
+    "characterId": 8,
+    "exp": 10000,
+    "flavorText": "雫的成員獲得10000EXP。",
     "id": 10802,
-    "characterId": 8,
-    "name": "雫的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "雫的成員獲得10000EXP。"
+    "name": "雫的練習譜（中級）"
   },
   {
+    "characterId": 8,
+    "exp": 50000,
+    "flavorText": "雫的成員獲得50000EXP。",
     "id": 10803,
-    "characterId": 8,
-    "name": "雫的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "雫的成員獲得50000EXP。"
+    "name": "雫的練習譜（高級）"
   },
   {
+    "characterId": 9,
+    "exp": 200,
+    "flavorText": "心羽的成員獲得200EXP。",
     "id": 10901,
-    "characterId": 9,
-    "name": "心羽的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "心羽的成員獲得200EXP。"
+    "name": "心羽的練習譜（初級）"
   },
   {
+    "characterId": 9,
+    "exp": 10000,
+    "flavorText": "心羽的成員獲得10000EXP。",
     "id": 10902,
-    "characterId": 9,
-    "name": "心羽的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "心羽的成員獲得10000EXP。"
+    "name": "心羽的練習譜（中級）"
   },
   {
+    "characterId": 9,
+    "exp": 50000,
+    "flavorText": "心羽的成員獲得50000EXP。",
     "id": 10903,
-    "characterId": 9,
-    "name": "心羽的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "心羽的成員獲得50000EXP。"
+    "name": "心羽的練習譜（高級）"
   },
   {
+    "characterId": 10,
+    "exp": 200,
+    "flavorText": "杏的成員獲得200EXP。",
     "id": 11001,
-    "characterId": 10,
-    "name": "杏的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "杏的成員獲得200EXP。"
+    "name": "杏的練習譜（初級）"
   },
   {
+    "characterId": 10,
+    "exp": 10000,
+    "flavorText": "杏的成員獲得10000EXP。",
     "id": 11002,
-    "characterId": 10,
-    "name": "杏的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "杏的成員獲得10000EXP。"
+    "name": "杏的練習譜（中級）"
   },
   {
+    "characterId": 10,
+    "exp": 50000,
+    "flavorText": "杏的成員獲得50000EXP。",
     "id": 11003,
-    "characterId": 10,
-    "name": "杏的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "杏的成員獲得50000EXP。"
+    "name": "杏的練習譜（高級）"
   },
   {
+    "characterId": 11,
+    "exp": 200,
+    "flavorText": "彰人的成員獲得200EXP。",
     "id": 11101,
-    "characterId": 11,
-    "name": "彰人的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "彰人的成員獲得200EXP。"
+    "name": "彰人的練習譜（初級）"
   },
   {
+    "characterId": 11,
+    "exp": 10000,
+    "flavorText": "彰人的成員獲得10000EXP。",
     "id": 11102,
-    "characterId": 11,
-    "name": "彰人的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "彰人的成員獲得10000EXP。"
+    "name": "彰人的練習譜（中級）"
   },
   {
+    "characterId": 11,
+    "exp": 50000,
+    "flavorText": "彰人的成員獲得50000EXP。",
     "id": 11103,
-    "characterId": 11,
-    "name": "彰人的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "彰人的成員獲得50000EXP。"
+    "name": "彰人的練習譜（高級）"
   },
   {
+    "characterId": 12,
+    "exp": 200,
+    "flavorText": "冬彌的成員獲得200EXP。",
     "id": 11201,
-    "characterId": 12,
-    "name": "冬彌的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "冬彌的成員獲得200EXP。"
+    "name": "冬彌的練習譜（初級）"
   },
   {
+    "characterId": 12,
+    "exp": 10000,
+    "flavorText": "冬彌的成員獲得10000EXP。",
     "id": 11202,
-    "characterId": 12,
-    "name": "冬彌的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "冬彌的成員獲得10000EXP。"
+    "name": "冬彌的練習譜（中級）"
   },
   {
+    "characterId": 12,
+    "exp": 50000,
+    "flavorText": "冬彌的成員獲得50000EXP。",
     "id": 11203,
-    "characterId": 12,
-    "name": "冬彌的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "冬彌的成員獲得50000EXP。"
+    "name": "冬彌的練習譜（高級）"
   },
   {
+    "characterId": 13,
+    "exp": 200,
+    "flavorText": "司的成員獲得200EXP。",
     "id": 11301,
-    "characterId": 13,
-    "name": "司的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "司的成員獲得200EXP。"
+    "name": "司的練習譜（初級）"
   },
   {
+    "characterId": 13,
+    "exp": 10000,
+    "flavorText": "司的成員獲得10000EXP。",
     "id": 11302,
-    "characterId": 13,
-    "name": "司的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "司的成員獲得10000EXP。"
+    "name": "司的練習譜（中級）"
   },
   {
+    "characterId": 13,
+    "exp": 50000,
+    "flavorText": "司的成員獲得50000EXP。",
     "id": 11303,
-    "characterId": 13,
-    "name": "司的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "司的成員獲得50000EXP。"
+    "name": "司的練習譜（高級）"
   },
   {
+    "characterId": 14,
+    "exp": 200,
+    "flavorText": "笑夢的成員獲得200EXP。",
     "id": 11401,
-    "characterId": 14,
-    "name": "笑夢的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "笑夢的成員獲得200EXP。"
+    "name": "笑夢的練習譜（初級）"
   },
   {
+    "characterId": 14,
+    "exp": 10000,
+    "flavorText": "笑夢的成員獲得10000EXP。",
     "id": 11402,
-    "characterId": 14,
-    "name": "笑夢的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "笑夢的成員獲得10000EXP。"
+    "name": "笑夢的練習譜（中級）"
   },
   {
+    "characterId": 14,
+    "exp": 50000,
+    "flavorText": "笑夢的成員獲得50000EXP。",
     "id": 11403,
-    "characterId": 14,
-    "name": "笑夢的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "笑夢的成員獲得50000EXP。"
+    "name": "笑夢的練習譜（高級）"
   },
   {
+    "characterId": 15,
+    "exp": 200,
+    "flavorText": "寧寧的成員獲得200EXP。",
     "id": 11501,
-    "characterId": 15,
-    "name": "寧寧的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "寧寧的成員獲得200EXP。"
+    "name": "寧寧的練習譜（初級）"
   },
   {
+    "characterId": 15,
+    "exp": 10000,
+    "flavorText": "寧寧的成員獲得10000EXP。",
     "id": 11502,
-    "characterId": 15,
-    "name": "寧寧的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "寧寧的成員獲得10000EXP。"
+    "name": "寧寧的練習譜（中級）"
   },
   {
+    "characterId": 15,
+    "exp": 50000,
+    "flavorText": "寧寧的成員獲得50000EXP。",
     "id": 11503,
-    "characterId": 15,
-    "name": "寧寧的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "寧寧的成員獲得50000EXP。"
+    "name": "寧寧的練習譜（高級）"
   },
   {
+    "characterId": 16,
+    "exp": 200,
+    "flavorText": "類的成員獲得200EXP。",
     "id": 11601,
-    "characterId": 16,
-    "name": "類的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "類的成員獲得200EXP。"
+    "name": "類的練習譜（初級）"
   },
   {
+    "characterId": 16,
+    "exp": 10000,
+    "flavorText": "類的成員獲得10000EXP。",
     "id": 11602,
-    "characterId": 16,
-    "name": "類的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "類的成員獲得10000EXP。"
+    "name": "類的練習譜（中級）"
   },
   {
+    "characterId": 16,
+    "exp": 50000,
+    "flavorText": "類的成員獲得50000EXP。",
     "id": 11603,
-    "characterId": 16,
-    "name": "類的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "類的成員獲得50000EXP。"
+    "name": "類的練習譜（高級）"
   },
   {
+    "characterId": 17,
+    "exp": 200,
+    "flavorText": "奏的成員獲得200EXP。",
     "id": 11701,
-    "characterId": 17,
-    "name": "奏的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "奏的成員獲得200EXP。"
+    "name": "奏的練習譜（初級）"
   },
   {
+    "characterId": 17,
+    "exp": 10000,
+    "flavorText": "奏的成員獲得10000EXP。",
     "id": 11702,
-    "characterId": 17,
-    "name": "奏的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "奏的成員獲得10000EXP。"
+    "name": "奏的練習譜（中級）"
   },
   {
+    "characterId": 17,
+    "exp": 50000,
+    "flavorText": "奏的成員獲得50000EXP。",
     "id": 11703,
-    "characterId": 17,
-    "name": "奏的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "奏的成員獲得50000EXP。"
+    "name": "奏的練習譜（高級）"
   },
   {
+    "characterId": 18,
+    "exp": 200,
+    "flavorText": "真冬的成員獲得200EXP。",
     "id": 11801,
-    "characterId": 18,
-    "name": "真冬的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "真冬的成員獲得200EXP。"
+    "name": "真冬的練習譜（初級）"
   },
   {
+    "characterId": 18,
+    "exp": 10000,
+    "flavorText": "真冬的成員獲得10000EXP。",
     "id": 11802,
-    "characterId": 18,
-    "name": "真冬的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "真冬的成員獲得10000EXP。"
+    "name": "真冬的練習譜（中級）"
   },
   {
+    "characterId": 18,
+    "exp": 50000,
+    "flavorText": "真冬的成員獲得50000EXP。",
     "id": 11803,
-    "characterId": 18,
-    "name": "真冬的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "真冬的成員獲得50000EXP。"
+    "name": "真冬的練習譜（高級）"
   },
   {
+    "characterId": 19,
+    "exp": 200,
+    "flavorText": "繪名的成員獲得200EXP。",
     "id": 11901,
-    "characterId": 19,
-    "name": "繪名的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "繪名的成員獲得200EXP。"
+    "name": "繪名的練習譜（初級）"
   },
   {
+    "characterId": 19,
+    "exp": 10000,
+    "flavorText": "繪名的成員獲得10000EXP。",
     "id": 11902,
-    "characterId": 19,
-    "name": "繪名的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "繪名的成員獲得10000EXP。"
+    "name": "繪名的練習譜（中級）"
   },
   {
+    "characterId": 19,
+    "exp": 50000,
+    "flavorText": "繪名的成員獲得50000EXP。",
     "id": 11903,
-    "characterId": 19,
-    "name": "繪名的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "繪名的成員獲得50000EXP。"
+    "name": "繪名的練習譜（高級）"
   },
   {
+    "characterId": 20,
+    "exp": 200,
+    "flavorText": "瑞希的成員獲得200EXP。",
     "id": 12001,
-    "characterId": 20,
-    "name": "瑞希的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "瑞希的成員獲得200EXP。"
+    "name": "瑞希的練習譜（初級）"
   },
   {
+    "characterId": 20,
+    "exp": 10000,
+    "flavorText": "瑞希的成員獲得10000EXP。",
     "id": 12002,
-    "characterId": 20,
-    "name": "瑞希的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "瑞希的成員獲得10000EXP。"
+    "name": "瑞希的練習譜（中級）"
   },
   {
+    "characterId": 20,
+    "exp": 50000,
+    "flavorText": "瑞希的成員獲得50000EXP。",
     "id": 12003,
-    "characterId": 20,
-    "name": "瑞希的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "瑞希的成員獲得50000EXP。"
+    "name": "瑞希的練習譜（高級）"
   },
   {
+    "characterId": 21,
+    "exp": 200,
+    "flavorText": "未來的成員獲得200EXP。",
     "id": 12101,
-    "characterId": 21,
-    "name": "未來的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "未來的成員獲得200EXP。"
+    "name": "未來的練習譜（初級）"
   },
   {
+    "characterId": 21,
+    "exp": 10000,
+    "flavorText": "未來的成員獲得10000EXP。",
     "id": 12102,
-    "characterId": 21,
-    "name": "未來的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "未來的成員獲得10000EXP。"
+    "name": "未來的練習譜（中級）"
   },
   {
+    "characterId": 21,
+    "exp": 50000,
+    "flavorText": "未來的成員獲得50000EXP。",
     "id": 12103,
-    "characterId": 21,
-    "name": "未來的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "未來的成員獲得50000EXP。"
+    "name": "未來的練習譜（高級）"
   },
   {
+    "characterId": 22,
+    "exp": 200,
+    "flavorText": "鈴的成員獲得200EXP。",
     "id": 12201,
-    "characterId": 22,
-    "name": "鈴的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "鈴的成員獲得200EXP。"
+    "name": "鈴的練習譜（初級）"
   },
   {
+    "characterId": 22,
+    "exp": 10000,
+    "flavorText": "鈴的成員獲得10000EXP。",
     "id": 12202,
-    "characterId": 22,
-    "name": "鈴的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "鈴的成員獲得10000EXP。"
+    "name": "鈴的練習譜（中級）"
   },
   {
+    "characterId": 22,
+    "exp": 50000,
+    "flavorText": "鈴的成員獲得50000EXP。",
     "id": 12203,
-    "characterId": 22,
-    "name": "鈴的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "鈴的成員獲得50000EXP。"
+    "name": "鈴的練習譜（高級）"
   },
   {
+    "characterId": 23,
+    "exp": 200,
+    "flavorText": "連的成員獲得200EXP。",
     "id": 12301,
-    "characterId": 23,
-    "name": "連的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "連的成員獲得200EXP。"
+    "name": "連的練習譜（初級）"
   },
   {
+    "characterId": 23,
+    "exp": 10000,
+    "flavorText": "連的成員獲得10000EXP。",
     "id": 12302,
-    "characterId": 23,
-    "name": "連的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "連的成員獲得10000EXP。"
+    "name": "連的練習譜（中級）"
   },
   {
+    "characterId": 23,
+    "exp": 50000,
+    "flavorText": "連的成員獲得50000EXP。",
     "id": 12303,
-    "characterId": 23,
-    "name": "連的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "連的成員獲得50000EXP。"
+    "name": "連的練習譜（高級）"
   },
   {
+    "characterId": 24,
+    "exp": 200,
+    "flavorText": "流歌的成員獲得200EXP。",
     "id": 12401,
-    "characterId": 24,
-    "name": "流歌的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "流歌的成員獲得200EXP。"
+    "name": "流歌的練習譜（初級）"
   },
   {
+    "characterId": 24,
+    "exp": 10000,
+    "flavorText": "流歌的成員獲得10000EXP。",
     "id": 12402,
-    "characterId": 24,
-    "name": "流歌的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "流歌的成員獲得10000EXP。"
+    "name": "流歌的練習譜（中級）"
   },
   {
+    "characterId": 24,
+    "exp": 50000,
+    "flavorText": "流歌的成員獲得50000EXP。",
     "id": 12403,
-    "characterId": 24,
-    "name": "流歌的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "流歌的成員獲得50000EXP。"
+    "name": "流歌的練習譜（高級）"
   },
   {
+    "characterId": 25,
+    "exp": 200,
+    "flavorText": "MEIKO的成員獲得200EXP。",
     "id": 12501,
-    "characterId": 25,
-    "name": "MEIKO的練習譜（初級）",
-    "exp": 200,
-    "flavorText": "MEIKO的成員獲得200EXP。"
+    "name": "MEIKO的練習譜（初級）"
   },
   {
+    "characterId": 25,
+    "exp": 10000,
+    "flavorText": "MEIKO的成員獲得10000EXP。",
     "id": 12502,
-    "characterId": 25,
-    "name": "MEIKO的練習譜（中級）",
-    "exp": 10000,
-    "flavorText": "MEIKO的成員獲得10000EXP。"
+    "name": "MEIKO的練習譜（中級）"
   },
   {
+    "characterId": 25,
+    "exp": 50000,
+    "flavorText": "MEIKO的成員獲得50000EXP。",
     "id": 12503,
-    "characterId": 25,
-    "name": "MEIKO的練習譜（高級）",
-    "exp": 50000,
-    "flavorText": "MEIKO的成員獲得50000EXP。"
+    "name": "MEIKO的練習譜（高級）"
   },
   {
-    "id": 12601,
     "characterId": 26,
-    "name": "KAITO的練習譜（初級）",
     "exp": 200,
-    "flavorText": "KAITO的成員獲得200EXP。"
+    "flavorText": "KAITO的成員獲得200EXP。",
+    "id": 12601,
+    "name": "KAITO的練習譜（初級）"
   },
   {
-    "id": 12602,
     "characterId": 26,
-    "name": "KAITO的練習譜（中級）",
     "exp": 10000,
-    "flavorText": "KAITO的成員獲得10000EXP。"
+    "flavorText": "KAITO的成員獲得10000EXP。",
+    "id": 12602,
+    "name": "KAITO的練習譜（中級）"
   },
   {
-    "id": 12603,
     "characterId": 26,
-    "name": "KAITO的練習譜（高級）",
     "exp": 50000,
-    "flavorText": "KAITO的成員獲得50000EXP。"
+    "flavorText": "KAITO的成員獲得50000EXP。",
+    "id": 12603,
+    "name": "KAITO的練習譜（高級）"
   }
 ]

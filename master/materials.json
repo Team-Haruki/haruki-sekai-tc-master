@@ -1,1614 +1,1614 @@
 [
   {
+    "canUse": false,
+    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
     "id": 1,
-    "seq": 10001,
+    "materialType": "common",
     "name": "可愛碎片",
-    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10001
   },
   {
+    "canUse": false,
+    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
     "id": 2,
-    "seq": 10002,
+    "materialType": "common",
     "name": "帥氣碎片",
-    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10002
   },
   {
+    "canUse": false,
+    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
     "id": 3,
-    "seq": 10003,
+    "materialType": "common",
     "name": "純真碎片",
-    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10003
   },
   {
+    "canUse": false,
+    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
     "id": 4,
-    "seq": 10004,
+    "materialType": "common",
     "name": "快樂碎片",
-    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10004
   },
   {
+    "canUse": false,
+    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
     "id": 5,
-    "seq": 10005,
+    "materialType": "common",
     "name": "神秘碎片",
-    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10005
   },
   {
+    "canUse": false,
+    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
     "id": 6,
-    "seq": 10006,
+    "materialType": "common",
     "name": "可愛寶石",
-    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10006
   },
   {
+    "canUse": false,
+    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
     "id": 7,
-    "seq": 10007,
+    "materialType": "common",
     "name": "帥氣寶石",
-    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10007
   },
   {
+    "canUse": false,
+    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
     "id": 8,
-    "seq": 10008,
+    "materialType": "common",
     "name": "純真寶石",
-    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10008
   },
   {
+    "canUse": false,
+    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
     "id": 9,
-    "seq": 10009,
+    "materialType": "common",
     "name": "快樂寶石",
-    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10009
   },
   {
+    "canUse": false,
+    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
     "id": 10,
-    "seq": 10010,
+    "materialType": "common",
     "name": "神秘寶石",
-    "flavorText": "解鎖卡片劇情或交換區域道具所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10010
   },
   {
+    "canUse": false,
+    "flavorText": "製作服裝所需的道具。透過LIVE等方式取得。",
     "id": 11,
-    "seq": 10011,
+    "materialType": "costume",
     "name": "魔法布",
-    "flavorText": "製作服裝所需的道具。透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "costume"
+    "seq": 10011
   },
   {
+    "canUse": false,
+    "flavorText": "製作服裝所需的道具。透過LIVE等方式取得。",
     "id": 12,
-    "seq": 10012,
+    "materialType": "costume",
     "name": "魔法線",
-    "flavorText": "製作服裝所需的道具。透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "costume"
+    "seq": 10012
   },
   {
-    "id": 13,
-    "seq": 10013,
-    "name": "音樂卡",
+    "canUse": false,
     "flavorText": "可在唱片行交換歌曲。透過任務或劇情等方式取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 13,
+    "materialType": "music",
+    "name": "音樂卡",
+    "seq": 10013
   },
   {
-    "id": 14,
-    "seq": 10014,
-    "name": "奇蹟寶石",
+    "canUse": false,
     "flavorText": "解鎖特訓或卡片劇情所需的道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "special_training"
+    "id": 14,
+    "materialType": "special_training",
+    "name": "奇蹟寶石",
+    "seq": 10014
   },
   {
-    "id": 15,
-    "seq": 10101,
-    "name": "心願碎片",
+    "canUse": false,
     "flavorText": "技能升級所需的道具。\n在休息室中以★2、★3成員交換取得。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 15,
+    "materialType": "master_lesson",
+    "name": "心願碎片",
+    "seq": 10101
   },
   {
-    "id": 16,
-    "seq": 10201,
-    "name": "心願純結晶",
+    "canUse": false,
     "flavorText": "技能升級所需的道具。\n在休息室中以★4成員交換取得。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 16,
+    "materialType": "master_lesson",
+    "name": "心願純結晶",
+    "seq": 10201
   },
   {
-    "id": 17,
-    "seq": 10015,
-    "name": "不可思議的種子",
+    "canUse": false,
     "flavorText": "送去園藝社可交換區域道具。\n透過LIVE等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "id": 17,
+    "materialType": "common",
+    "name": "不可思議的種子",
+    "seq": 10015
   },
   {
-    "id": 18,
-    "seq": 10302,
-    "name": "一歌的主唱卡",
+    "canUse": false,
     "flavorText": "可交換一歌的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 18,
+    "materialType": "music",
+    "name": "一歌的主唱卡",
+    "seq": 10302
   },
   {
-    "id": 19,
-    "seq": 10303,
-    "name": "咲希的主唱卡",
+    "canUse": false,
     "flavorText": "可交換咲希的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 19,
+    "materialType": "music",
+    "name": "咲希的主唱卡",
+    "seq": 10303
   },
   {
-    "id": 20,
-    "seq": 10304,
-    "name": "穗波的主唱卡",
+    "canUse": false,
     "flavorText": "可交換穗波的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 20,
+    "materialType": "music",
+    "name": "穗波的主唱卡",
+    "seq": 10304
   },
   {
-    "id": 21,
-    "seq": 10305,
-    "name": "志步的主唱卡",
+    "canUse": false,
     "flavorText": "可交換志步的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 21,
+    "materialType": "music",
+    "name": "志步的主唱卡",
+    "seq": 10305
   },
   {
-    "id": 22,
-    "seq": 10306,
-    "name": "實乃理的主唱卡",
+    "canUse": false,
     "flavorText": "可交換實乃理的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 22,
+    "materialType": "music",
+    "name": "實乃理的主唱卡",
+    "seq": 10306
   },
   {
-    "id": 23,
-    "seq": 10307,
-    "name": "遙的主唱卡",
+    "canUse": false,
     "flavorText": "可交換遙的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 23,
+    "materialType": "music",
+    "name": "遙的主唱卡",
+    "seq": 10307
   },
   {
-    "id": 24,
-    "seq": 10308,
-    "name": "愛莉的主唱卡",
+    "canUse": false,
     "flavorText": "可交換愛莉的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 24,
+    "materialType": "music",
+    "name": "愛莉的主唱卡",
+    "seq": 10308
   },
   {
-    "id": 25,
-    "seq": 10309,
-    "name": "雫的主唱卡",
+    "canUse": false,
     "flavorText": "可交換雫的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 25,
+    "materialType": "music",
+    "name": "雫的主唱卡",
+    "seq": 10309
   },
   {
-    "id": 26,
-    "seq": 10310,
-    "name": "心羽的主唱卡",
+    "canUse": false,
     "flavorText": "可交換心羽的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 26,
+    "materialType": "music",
+    "name": "心羽的主唱卡",
+    "seq": 10310
   },
   {
-    "id": 27,
-    "seq": 10311,
-    "name": "杏的主唱卡",
+    "canUse": false,
     "flavorText": "可交換杏的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 27,
+    "materialType": "music",
+    "name": "杏的主唱卡",
+    "seq": 10311
   },
   {
-    "id": 28,
-    "seq": 10312,
-    "name": "彰人的主唱卡",
+    "canUse": false,
     "flavorText": "可交換彰人的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 28,
+    "materialType": "music",
+    "name": "彰人的主唱卡",
+    "seq": 10312
   },
   {
-    "id": 29,
-    "seq": 10313,
-    "name": "冬彌的主唱卡",
+    "canUse": false,
     "flavorText": "可交換冬彌的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 29,
+    "materialType": "music",
+    "name": "冬彌的主唱卡",
+    "seq": 10313
   },
   {
-    "id": 30,
-    "seq": 10314,
-    "name": "司的主唱卡",
+    "canUse": false,
     "flavorText": "可交換司的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 30,
+    "materialType": "music",
+    "name": "司的主唱卡",
+    "seq": 10314
   },
   {
-    "id": 31,
-    "seq": 10315,
-    "name": "笑夢的主唱卡",
+    "canUse": false,
     "flavorText": "可交換笑夢的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 31,
+    "materialType": "music",
+    "name": "笑夢的主唱卡",
+    "seq": 10315
   },
   {
-    "id": 32,
-    "seq": 10316,
-    "name": "寧寧的主唱卡",
+    "canUse": false,
     "flavorText": "可交換寧寧的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 32,
+    "materialType": "music",
+    "name": "寧寧的主唱卡",
+    "seq": 10316
   },
   {
-    "id": 33,
-    "seq": 10317,
-    "name": "類的主唱卡",
+    "canUse": false,
     "flavorText": "可交換類的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 33,
+    "materialType": "music",
+    "name": "類的主唱卡",
+    "seq": 10317
   },
   {
-    "id": 34,
-    "seq": 10318,
-    "name": "奏的主唱卡",
+    "canUse": false,
     "flavorText": "可交換奏的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 34,
+    "materialType": "music",
+    "name": "奏的主唱卡",
+    "seq": 10318
   },
   {
-    "id": 35,
-    "seq": 10319,
-    "name": "真冬的主唱卡",
+    "canUse": false,
     "flavorText": "可交換真冬的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 35,
+    "materialType": "music",
+    "name": "真冬的主唱卡",
+    "seq": 10319
   },
   {
-    "id": 36,
-    "seq": 10320,
-    "name": "繪名的主唱卡",
+    "canUse": false,
     "flavorText": "可交換繪名的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 36,
+    "materialType": "music",
+    "name": "繪名的主唱卡",
+    "seq": 10320
   },
   {
-    "id": 37,
-    "seq": 10321,
-    "name": "瑞希的主唱卡",
+    "canUse": false,
     "flavorText": "可交換瑞希的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 37,
+    "materialType": "music",
+    "name": "瑞希的主唱卡",
+    "seq": 10321
   },
   {
-    "id": 38,
-    "seq": 10322,
-    "name": "初音未來的主唱卡",
+    "canUse": false,
     "flavorText": "可交換初音未來的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 38,
+    "materialType": "music",
+    "name": "初音未來的主唱卡",
+    "seq": 10322
   },
   {
-    "id": 39,
-    "seq": 10323,
-    "name": "鏡音鈴的主唱卡",
+    "canUse": false,
     "flavorText": "可交換鏡音鈴的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 39,
+    "materialType": "music",
+    "name": "鏡音鈴的主唱卡",
+    "seq": 10323
   },
   {
-    "id": 40,
-    "seq": 10324,
-    "name": "鏡音連的主唱卡",
+    "canUse": false,
     "flavorText": "可交換鏡音連的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 40,
+    "materialType": "music",
+    "name": "鏡音連的主唱卡",
+    "seq": 10324
   },
   {
-    "id": 41,
-    "seq": 10325,
-    "name": "巡音流歌的主唱卡",
+    "canUse": false,
     "flavorText": "可交換巡音流歌的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 41,
+    "materialType": "music",
+    "name": "巡音流歌的主唱卡",
+    "seq": 10325
   },
   {
-    "id": 42,
-    "seq": 10326,
-    "name": "MEIKO的主唱卡",
+    "canUse": false,
     "flavorText": "可交換MEIKO的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 42,
+    "materialType": "music",
+    "name": "MEIKO的主唱卡",
+    "seq": 10326
   },
   {
-    "id": 43,
-    "seq": 10327,
-    "name": "KAITO的主唱卡",
+    "canUse": false,
     "flavorText": "可交換KAITO的Another Vocal ver歌曲。\n透過角色等級報酬取得。",
-    "canUse": false,
-    "materialType": "music"
+    "id": 43,
+    "materialType": "music",
+    "name": "KAITO的主唱卡",
+    "seq": 10327
   },
   {
-    "id": 44,
-    "seq": 10015,
-    "name": "貼圖交換券",
+    "canUse": false,
     "flavorText": "可在貼圖商店交換貼圖。\n透過角色等級報酬等方式取得。",
-    "canUse": false,
-    "materialType": "common"
+    "id": 44,
+    "materialType": "common",
+    "name": "貼圖交換券",
+    "seq": 10015
   },
   {
-    "id": 45,
-    "seq": 45,
-    "name": "★3成員選擇券",
+    "canUse": false,
     "flavorText": "可在★3票券交換所交換喜歡的★3成員。",
-    "canUse": false,
-    "materialType": "card_ticket"
+    "id": 45,
+    "materialType": "card_ticket",
+    "name": "★3成員選擇券",
+    "seq": 45
   },
   {
+    "canUse": false,
+    "flavorText": "可在★4票券交換所交換喜歡的★4成員。",
     "id": 46,
-    "seq": 46,
+    "materialType": "card_ticket",
     "name": "★4成員選擇券",
-    "flavorText": "可在★4票券交換所交換喜歡的★4成員。",
-    "canUse": false,
-    "materialType": "card_ticket"
+    "seq": 46
   },
   {
-    "id": 47,
-    "seq": 10501,
-    "name": "招募貼紙交換券",
+    "canUse": false,
     "flavorText": "可以配合一般招募貼紙，交換常駐成員。",
-    "canUse": false,
-    "materialType": "gacha_ceil_ticket"
+    "id": 47,
+    "materialType": "gacha_ceil_ticket",
+    "name": "招募貼紙交換券",
+    "seq": 10501
   },
   {
-    "id": 48,
-    "seq": 10502,
-    "name": "限定招募貼紙交換券",
+    "canUse": false,
     "flavorText": "可以配合限定招募貼紙，\n交換期間限定、七彩限定、常駐成員。",
-    "canUse": false,
-    "materialType": "gacha_ceil_ticket"
+    "id": 48,
+    "materialType": "gacha_ceil_ticket",
+    "name": "限定招募貼紙交換券",
+    "seq": 10502
   },
   {
-    "id": 49,
-    "seq": 10301,
-    "name": "主唱卡交換券",
+    "canUse": false,
     "flavorText": "可在主唱卡交換所中，交換任意角色的主唱卡。",
-    "canUse": false,
-    "materialType": "vocal_card_ticket"
+    "id": 49,
+    "materialType": "vocal_card_ticket",
+    "name": "主唱卡交換券",
+    "seq": 10301
   },
   {
+    "canUse": false,
+    "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
     "id": 50,
-    "seq": 10328,
+    "materialType": "vocal_card_ticket",
     "name": "Leo/need\n 主唱卡交換券",
-    "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
-    "canUse": false,
-    "materialType": "vocal_card_ticket"
+    "seq": 10328
   },
   {
+    "canUse": false,
+    "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
     "id": 51,
-    "seq": 10329,
+    "materialType": "vocal_card_ticket",
     "name": "MORE MORE JUMP！\n 主唱卡交換券",
-    "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
-    "canUse": false,
-    "materialType": "vocal_card_ticket"
+    "seq": 10329
   },
   {
+    "canUse": false,
+    "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
     "id": 52,
-    "seq": 10330,
+    "materialType": "vocal_card_ticket",
     "name": "Vivid BAD SQUAD\n 主唱卡交換券",
-    "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
-    "canUse": false,
-    "materialType": "vocal_card_ticket"
+    "seq": 10330
   },
   {
+    "canUse": false,
+    "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
     "id": 53,
-    "seq": 10331,
+    "materialType": "vocal_card_ticket",
     "name": "Wonderlands×Showtime\n 主唱卡交換券",
-    "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
-    "canUse": false,
-    "materialType": "vocal_card_ticket"
+    "seq": 10331
   },
   {
+    "canUse": false,
+    "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
     "id": 54,
-    "seq": 10332,
+    "materialType": "vocal_card_ticket",
     "name": "25點，Nightcord見。\n 主唱卡交換券",
-    "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
-    "canUse": false,
-    "materialType": "vocal_card_ticket"
+    "seq": 10332
   },
   {
-    "id": 55,
-    "seq": 55,
-    "name": "新手限定選擇券",
+    "canUse": false,
     "flavorText": "[新手限定]可在★4成員交換所中，交換★4成員。",
-    "canUse": false,
-    "materialType": "card_ticket"
+    "id": 55,
+    "materialType": "card_ticket",
+    "name": "新手限定選擇券",
+    "seq": 55
   },
   {
-    "id": 56,
-    "seq": 56,
-    "name": "[新春2022]★3成員選擇券",
+    "canUse": false,
     "flavorText": "[新春2022]可在★3成員交換所中，交換★3成員。",
-    "canUse": false,
-    "materialType": "card_ticket"
+    "id": 56,
+    "materialType": "card_ticket",
+    "name": "[新春2022]★3成員選擇券",
+    "seq": 56
   },
   {
-    "id": 57,
-    "seq": 10016,
-    "name": "祈願水滴",
+    "canUse": false,
     "flavorText": "將區域道具提升到特定等級的必備道具。",
-    "canUse": false,
-    "materialType": "common"
+    "id": 57,
+    "materialType": "common",
+    "name": "祈願水滴",
+    "seq": 10016
   },
   {
+    "canUse": false,
+    "flavorText": "可在★4票券交換所交換喜歡的★4成員。",
     "id": 58,
-    "seq": 57,
+    "materialType": "card_ticket",
     "name": "★4成員選擇券",
-    "flavorText": "可在★4票券交換所交換喜歡的★4成員。",
-    "canUse": false,
-    "materialType": "card_ticket"
+    "seq": 57
   },
   {
+    "canUse": false,
+    "flavorText": "可在★4票券交換所交換喜歡的★4成員。",
     "id": 59,
-    "seq": 58,
+    "materialType": "card_ticket",
     "name": "★4成員選擇券",
-    "flavorText": "可在★4票券交換所交換喜歡的★4成員。",
-    "canUse": false,
-    "materialType": "card_ticket"
+    "seq": 58
   },
   {
-    "id": 60,
-    "seq": 10401,
-    "name": "一歌的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿一歌心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿一歌心願的小瓶子。\n可獲得一歌的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 60,
+    "materialType": "character_rank_exp_ticket",
+    "name": "一歌的心願小瓶子",
+    "seq": 10401
   },
   {
-    "id": 61,
-    "seq": 10402,
-    "name": "咲希的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿咲希心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿咲希心願的小瓶子。\n可獲得咲希的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 61,
+    "materialType": "character_rank_exp_ticket",
+    "name": "咲希的心願小瓶子",
+    "seq": 10402
   },
   {
-    "id": 62,
-    "seq": 10403,
-    "name": "穗波的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿穗波心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿穗波心願的小瓶子。\n可獲得穗波的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 62,
+    "materialType": "character_rank_exp_ticket",
+    "name": "穗波的心願小瓶子",
+    "seq": 10403
   },
   {
-    "id": 63,
-    "seq": 10404,
-    "name": "志步的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿志步心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿志步心願的小瓶子。\n可獲得志步的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 63,
+    "materialType": "character_rank_exp_ticket",
+    "name": "志步的心願小瓶子",
+    "seq": 10404
   },
   {
-    "id": 64,
-    "seq": 10405,
-    "name": "實乃理的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿實乃理心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿實乃理心願的小瓶子。\n可獲得實乃理的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 64,
+    "materialType": "character_rank_exp_ticket",
+    "name": "實乃理的心願小瓶子",
+    "seq": 10405
   },
   {
-    "id": 65,
-    "seq": 10406,
-    "name": "遙的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿遙心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿遙心願的小瓶子。\n可獲得遙的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 65,
+    "materialType": "character_rank_exp_ticket",
+    "name": "遙的心願小瓶子",
+    "seq": 10406
   },
   {
-    "id": 66,
-    "seq": 10407,
-    "name": "愛莉的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿愛莉心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿愛莉心願的小瓶子。\n可獲得愛莉的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 66,
+    "materialType": "character_rank_exp_ticket",
+    "name": "愛莉的心願小瓶子",
+    "seq": 10407
   },
   {
-    "id": 67,
-    "seq": 10408,
-    "name": "雫的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿雫心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿雫心願的小瓶子。\n可獲得雫的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 67,
+    "materialType": "character_rank_exp_ticket",
+    "name": "雫的心願小瓶子",
+    "seq": 10408
   },
   {
-    "id": 68,
-    "seq": 10409,
-    "name": "心羽的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿心羽心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿心羽心願的小瓶子。\n可獲得心羽的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 68,
+    "materialType": "character_rank_exp_ticket",
+    "name": "心羽的心願小瓶子",
+    "seq": 10409
   },
   {
-    "id": 69,
-    "seq": 10410,
-    "name": "杏的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿杏心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿杏心願的小瓶子。\n可獲得杏的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 69,
+    "materialType": "character_rank_exp_ticket",
+    "name": "杏的心願小瓶子",
+    "seq": 10410
   },
   {
-    "id": 70,
-    "seq": 10411,
-    "name": "彰人的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿彰人心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿彰人心願的小瓶子。\n可獲得彰人的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 70,
+    "materialType": "character_rank_exp_ticket",
+    "name": "彰人的心願小瓶子",
+    "seq": 10411
   },
   {
-    "id": 71,
-    "seq": 10412,
-    "name": "冬彌的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿冬彌心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿冬彌心願的小瓶子。\n可獲得冬彌的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 71,
+    "materialType": "character_rank_exp_ticket",
+    "name": "冬彌的心願小瓶子",
+    "seq": 10412
   },
   {
-    "id": 72,
-    "seq": 10413,
-    "name": "司的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿司心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿司心願的小瓶子。\n可獲得司的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 72,
+    "materialType": "character_rank_exp_ticket",
+    "name": "司的心願小瓶子",
+    "seq": 10413
   },
   {
-    "id": 73,
-    "seq": 10414,
-    "name": "笑夢的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿笑夢心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿笑夢心願的小瓶子。\n可獲得笑夢的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 73,
+    "materialType": "character_rank_exp_ticket",
+    "name": "笑夢的心願小瓶子",
+    "seq": 10414
   },
   {
-    "id": 74,
-    "seq": 10415,
-    "name": "寧寧的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿寧寧心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿寧寧心願的小瓶子。\n可獲得寧寧的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 74,
+    "materialType": "character_rank_exp_ticket",
+    "name": "寧寧的心願小瓶子",
+    "seq": 10415
   },
   {
-    "id": 75,
-    "seq": 10416,
-    "name": "類的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿類心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿類心願的小瓶子。\n可獲得類的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 75,
+    "materialType": "character_rank_exp_ticket",
+    "name": "類的心願小瓶子",
+    "seq": 10416
   },
   {
-    "id": 76,
-    "seq": 10417,
-    "name": "奏的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿奏心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿奏心願的小瓶子。\n可獲得奏的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 76,
+    "materialType": "character_rank_exp_ticket",
+    "name": "奏的心願小瓶子",
+    "seq": 10417
   },
   {
-    "id": 77,
-    "seq": 10418,
-    "name": "真冬的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿真冬心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿真冬心願的小瓶子。\n可獲得真冬的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 77,
+    "materialType": "character_rank_exp_ticket",
+    "name": "真冬的心願小瓶子",
+    "seq": 10418
   },
   {
-    "id": 78,
-    "seq": 10419,
-    "name": "繪名的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿繪名心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿繪名心願的小瓶子。\n可獲得繪名的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 78,
+    "materialType": "character_rank_exp_ticket",
+    "name": "繪名的心願小瓶子",
+    "seq": 10419
   },
   {
-    "id": 79,
-    "seq": 10420,
-    "name": "瑞希的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿瑞希心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿瑞希心願的小瓶子。\n可獲得瑞希的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 79,
+    "materialType": "character_rank_exp_ticket",
+    "name": "瑞希的心願小瓶子",
+    "seq": 10420
   },
   {
-    "id": 80,
-    "seq": 10421,
-    "name": "初音未來的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿初音未來心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿未來心願的小瓶子。\n可獲得未來的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 80,
+    "materialType": "character_rank_exp_ticket",
+    "name": "初音未來的心願小瓶子",
+    "seq": 10421
   },
   {
-    "id": 81,
-    "seq": 10422,
-    "name": "鏡音鈴的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿鏡音鈴心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿鈴心願的小瓶子。\n可獲得鈴的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 81,
+    "materialType": "character_rank_exp_ticket",
+    "name": "鏡音鈴的心願小瓶子",
+    "seq": 10422
   },
   {
-    "id": 82,
-    "seq": 10423,
-    "name": "鏡音連的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿鏡音連心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿連心願的小瓶子。\n可獲得連的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 82,
+    "materialType": "character_rank_exp_ticket",
+    "name": "鏡音連的心願小瓶子",
+    "seq": 10423
   },
   {
-    "id": 83,
-    "seq": 10424,
-    "name": "巡音流歌的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿巡音流歌心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿流歌心願的小瓶子。\n可獲得流歌的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 83,
+    "materialType": "character_rank_exp_ticket",
+    "name": "巡音流歌的心願小瓶子",
+    "seq": 10424
   },
   {
-    "id": 84,
-    "seq": 10425,
-    "name": "MEIKO的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿MEIKO心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿MEIKO心願的小瓶子。\n可獲得MEIKO的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 84,
+    "materialType": "character_rank_exp_ticket",
+    "name": "MEIKO的心願小瓶子",
+    "seq": 10425
   },
   {
-    "id": 85,
-    "seq": 10426,
-    "name": "KAITO的心願小瓶子",
+    "canUse": true,
+    "changeFlavorTextAt": 1743249600000,
     "flavorText": "裝滿KAITO心願的小瓶子。\n可能總有一天能在「世界」中使用。",
     "flavorText2": "裝滿KAITO心願的小瓶子。\n可獲得KAITO的1角色EXP。",
-    "changeFlavorTextAt": 1743249600000,
-    "canUse": true,
-    "materialType": "character_rank_exp_ticket"
+    "id": 85,
+    "materialType": "character_rank_exp_ticket",
+    "name": "KAITO的心願小瓶子",
+    "seq": 10426
   },
   {
-    "id": 86,
-    "seq": 10017,
-    "name": "卡片劇情票券",
+    "canUse": false,
     "flavorText": "在解鎖卡片劇情時，可代替碎片、寶石做使用的票券。可透過水晶商店獲得。",
-    "canUse": false,
-    "materialType": "card_episode_release_ticket"
+    "id": 86,
+    "materialType": "card_episode_release_ticket",
+    "name": "卡片劇情票券",
+    "seq": 10017
   },
   {
-    "id": 87,
-    "seq": 10601,
-    "name": "3900's 票券",
+    "canUse": false,
     "flavorText": "可至3900's交換所交換報酬。\n使用期限：2024/05/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 87,
+    "materialType": "common",
+    "name": "3900's 票券",
+    "seq": 10601
   },
   {
-    "id": 88,
-    "seq": 20001,
-    "name": "「連線LIVE RESONANCE BEATS!!」連線LIVE ver. Vocal兌換卡",
+    "canUse": false,
     "flavorText": "可兌換在「連線LIVE Leo/need × Vivid BAD SQUAD RESONANCE BEATS!!」公演中發表之歌曲的連線LIVE ver. Vocal。",
-    "canUse": false,
-    "materialType": "auto_exchange_music_vocal_ticket"
+    "id": 88,
+    "materialType": "auto_exchange_music_vocal_ticket",
+    "name": "「連線LIVE RESONANCE BEATS!!」連線LIVE ver. Vocal兌換卡",
+    "seq": 20001
   },
   {
-    "id": 89,
-    "seq": 10602,
-    "name": "白色花瓣",
+    "canUse": false,
     "flavorText": "因虛擬歌手們的心願而盛開的花朵花瓣。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 89,
+    "materialType": "common",
+    "name": "白色花瓣",
+    "seq": 10602
   },
   {
-    "id": 90,
-    "seq": 10603,
-    "name": "藍色花瓣",
+    "canUse": false,
     "flavorText": "因Leo/need全體成員的心願而盛開的花朵花瓣。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 90,
+    "materialType": "common",
+    "name": "藍色花瓣",
+    "seq": 10603
   },
   {
-    "id": 91,
-    "seq": 10604,
-    "name": "綠色花瓣",
+    "canUse": false,
     "flavorText": "因MORE MORE JUMP！全體成員的心願而盛開的花朵花瓣。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 91,
+    "materialType": "common",
+    "name": "綠色花瓣",
+    "seq": 10604
   },
   {
-    "id": 92,
-    "seq": 10605,
-    "name": "紅色花瓣",
+    "canUse": false,
     "flavorText": "因Vivid BAD SQUAD全體成員的心願而盛開的花朵花瓣。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 92,
+    "materialType": "common",
+    "name": "紅色花瓣",
+    "seq": 10605
   },
   {
-    "id": 93,
-    "seq": 10606,
-    "name": "橘色花瓣",
+    "canUse": false,
     "flavorText": "因Wonderlands×Showtime全體成員的心願而盛開的花朵花瓣。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 93,
+    "materialType": "common",
+    "name": "橘色花瓣",
+    "seq": 10606
   },
   {
-    "id": 94,
-    "seq": 10607,
-    "name": "紫色花瓣",
+    "canUse": false,
     "flavorText": "因25點，Nightcord見。全體成員的心願而盛開的花朵花瓣。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 94,
+    "materialType": "common",
+    "name": "紫色花瓣",
+    "seq": 10607
   },
   {
-    "id": 95,
-    "seq": 10608,
-    "name": "白色幸運之花",
+    "canUse": false,
     "flavorText": "因虛擬歌手全體成員的心願而盛開的花朵花瓣。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 95,
+    "materialType": "common",
+    "name": "白色幸運之花",
+    "seq": 10608
   },
   {
-    "id": 96,
-    "seq": 10609,
-    "name": "藍色幸運之花",
+    "canUse": false,
     "flavorText": "因Leo/need全體成員的心願而盛開的花朵。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 96,
+    "materialType": "common",
+    "name": "藍色幸運之花",
+    "seq": 10609
   },
   {
-    "id": 97,
-    "seq": 10610,
-    "name": "綠色幸運之花",
+    "canUse": false,
     "flavorText": "因MORE MORE JUMP！全體成員的心願而盛開的花朵。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 97,
+    "materialType": "common",
+    "name": "綠色幸運之花",
+    "seq": 10610
   },
   {
-    "id": 98,
-    "seq": 10611,
-    "name": "紅色幸運之花",
+    "canUse": false,
     "flavorText": "因Vivid BAD SQUAD全體成員的心願而盛開的花朵。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 98,
+    "materialType": "common",
+    "name": "紅色幸運之花",
+    "seq": 10611
   },
   {
-    "id": 99,
-    "seq": 10612,
-    "name": "橘色幸運之花",
+    "canUse": false,
     "flavorText": "因Wonderlands×Showtime全體成員的心願而盛開的花朵。可使用於幸運之花遊行交換所。\n使用期限：2024/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 99,
+    "materialType": "common",
+    "name": "橘色幸運之花",
+    "seq": 10612
   },
   {
-    "id": 100,
-    "seq": 10613,
-    "name": "紫色幸運之花",
+    "canUse": false,
     "flavorText": "因25點，Nightcord見。全體成員的心願而盛開的花朵。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 100,
+    "materialType": "common",
+    "name": "紫色幸運之花",
+    "seq": 10613
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員一歌技能的所需道具。",
     "id": 101,
-    "seq": 10102,
+    "materialType": "master_lesson",
     "name": "一歌的心願碎片",
-    "flavorText": "提升成員一歌技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10102
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員咲希技能的所需道具。",
     "id": 102,
-    "seq": 10103,
+    "materialType": "master_lesson",
     "name": "咲希的心願碎片",
-    "flavorText": "提升成員咲希技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10103
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員穗波技能的所需道具。",
     "id": 103,
-    "seq": 10104,
+    "materialType": "master_lesson",
     "name": "穗波的心願碎片",
-    "flavorText": "提升成員穗波技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10104
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員志步技能的所需道具。",
     "id": 104,
-    "seq": 10105,
+    "materialType": "master_lesson",
     "name": "志步的心願碎片",
-    "flavorText": "提升成員志步技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10105
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員實乃理技能的所需道具。",
     "id": 105,
-    "seq": 10106,
+    "materialType": "master_lesson",
     "name": "實乃理的心願碎片",
-    "flavorText": "提升成員實乃理技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10106
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員遙技能的所需道具。",
     "id": 106,
-    "seq": 10107,
+    "materialType": "master_lesson",
     "name": "遙的心願碎片",
-    "flavorText": "提升成員遙技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10107
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員愛莉技能的所需道具。",
     "id": 107,
-    "seq": 10108,
+    "materialType": "master_lesson",
     "name": "愛莉的心願碎片",
-    "flavorText": "提升成員愛莉技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10108
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員雫技能的所需道具。",
     "id": 108,
-    "seq": 10109,
+    "materialType": "master_lesson",
     "name": "雫的心願碎片",
-    "flavorText": "提升成員雫技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10109
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員心羽技能的所需道具。",
     "id": 109,
-    "seq": 10110,
+    "materialType": "master_lesson",
     "name": "心羽的心願碎片",
-    "flavorText": "提升成員心羽技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10110
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員杏技能的所需道具。",
     "id": 110,
-    "seq": 10111,
+    "materialType": "master_lesson",
     "name": "杏的心願碎片",
-    "flavorText": "提升成員杏技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10111
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員彰人技能的所需道具。",
     "id": 111,
-    "seq": 10112,
+    "materialType": "master_lesson",
     "name": "彰人的心願碎片",
-    "flavorText": "提升成員彰人技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10112
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員冬彌技能的所需道具。",
     "id": 112,
-    "seq": 10113,
+    "materialType": "master_lesson",
     "name": "冬彌的心願碎片",
-    "flavorText": "提升成員冬彌技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10113
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員司技能的所需道具。",
     "id": 113,
-    "seq": 10114,
+    "materialType": "master_lesson",
     "name": "司的心願碎片",
-    "flavorText": "提升成員司技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10114
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員笑夢技能的所需道具。",
     "id": 114,
-    "seq": 10115,
+    "materialType": "master_lesson",
     "name": "笑夢的心願碎片",
-    "flavorText": "提升成員笑夢技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10115
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員寧寧技能的所需道具。",
     "id": 115,
-    "seq": 10116,
+    "materialType": "master_lesson",
     "name": "寧寧的心願碎片",
-    "flavorText": "提升成員寧寧技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10116
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員類技能的所需道具。",
     "id": 116,
-    "seq": 10117,
+    "materialType": "master_lesson",
     "name": "類的心願碎片",
-    "flavorText": "提升成員類技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10117
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員奏技能的所需道具。",
     "id": 117,
-    "seq": 10118,
+    "materialType": "master_lesson",
     "name": "奏的心願碎片",
-    "flavorText": "提升成員奏技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10118
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員真冬技能的所需道具。",
     "id": 118,
-    "seq": 10119,
+    "materialType": "master_lesson",
     "name": "真冬的心願碎片",
-    "flavorText": "提升成員真冬技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10119
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員繪名技能的所需道具。",
     "id": 119,
-    "seq": 10120,
+    "materialType": "master_lesson",
     "name": "繪名的心願碎片",
-    "flavorText": "提升成員繪名技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10120
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員瑞希技能的所需道具。",
     "id": 120,
-    "seq": 10121,
+    "materialType": "master_lesson",
     "name": "瑞希的心願碎片",
-    "flavorText": "提升成員瑞希技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10121
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員未來技能的所需道具。",
     "id": 121,
-    "seq": 10122,
+    "materialType": "master_lesson",
     "name": "初音未來的心願碎片",
-    "flavorText": "提升成員未來技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10122
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員鈴技能的所需道具。",
     "id": 122,
-    "seq": 10123,
+    "materialType": "master_lesson",
     "name": "鏡音鈴的心願碎片",
-    "flavorText": "提升成員鈴技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10123
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員連技能的所需道具。",
     "id": 123,
-    "seq": 10124,
+    "materialType": "master_lesson",
     "name": "鏡音連的心願碎片",
-    "flavorText": "提升成員連技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10124
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員流歌技能的所需道具。",
     "id": 124,
-    "seq": 10125,
+    "materialType": "master_lesson",
     "name": "巡音流歌的心願碎片",
-    "flavorText": "提升成員流歌技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10125
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員MEIKO技能的所需道具。",
     "id": 125,
-    "seq": 10126,
+    "materialType": "master_lesson",
     "name": "MEIKO的心願碎片",
-    "flavorText": "提升成員MEIKO技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10126
   },
   {
+    "canUse": false,
+    "flavorText": "提升成員KAITO技能的所需道具。",
     "id": 126,
-    "seq": 10127,
+    "materialType": "master_lesson",
     "name": "KAITO的心願碎片",
-    "flavorText": "提升成員KAITO技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10127
   },
   {
+    "canUse": false,
+    "flavorText": "提升Leo/need成員技能的所需道具。",
     "id": 127,
-    "seq": 10128,
+    "materialType": "master_lesson",
     "name": "Leo/need的心願碎片",
-    "flavorText": "提升Leo/need成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10128
   },
   {
+    "canUse": false,
+    "flavorText": "提升MORE MORE JUMP！成員技能的所需道具。",
     "id": 128,
-    "seq": 10129,
+    "materialType": "master_lesson",
     "name": "MORE MORE JUMP！的心願碎片",
-    "flavorText": "提升MORE MORE JUMP！成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10129
   },
   {
+    "canUse": false,
+    "flavorText": "提升Vivid BAD SQUAD成員技能的所需道具。",
     "id": 129,
-    "seq": 10130,
+    "materialType": "master_lesson",
     "name": "Vivid BAD SQUAD的心願碎片",
-    "flavorText": "提升Vivid BAD SQUAD成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10130
   },
   {
+    "canUse": false,
+    "flavorText": "提升Wonderlands×Showtime成員技能的所需道具。",
     "id": 130,
-    "seq": 10131,
+    "materialType": "master_lesson",
     "name": "Wonderlands×Showtime的心願碎片",
-    "flavorText": "提升Wonderlands×Showtime成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10131
   },
   {
+    "canUse": false,
+    "flavorText": "提升25點，Nightcord見。成員技能的所需道具。",
     "id": 131,
-    "seq": 10132,
+    "materialType": "master_lesson",
     "name": "25點，Nightcord見。的心願碎片",
-    "flavorText": "提升25點，Nightcord見。成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10132
   },
   {
+    "canUse": false,
+    "flavorText": "提升虛擬歌手成員技能的所需道具。",
     "id": 132,
-    "seq": 10133,
+    "materialType": "master_lesson",
     "name": "虛擬歌手的心願碎片",
-    "flavorText": "提升虛擬歌手成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "seq": 10133
   },
   {
-    "id": 133,
-    "seq": 10202,
-    "name": "一歌的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員一歌技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 133,
+    "materialType": "master_lesson",
+    "name": "一歌的心願純結晶",
+    "seq": 10202
   },
   {
-    "id": 134,
-    "seq": 10203,
-    "name": "咲希的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員咲希技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 134,
+    "materialType": "master_lesson",
+    "name": "咲希的心願純結晶",
+    "seq": 10203
   },
   {
-    "id": 135,
-    "seq": 10204,
-    "name": "穗波的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員穗波技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 135,
+    "materialType": "master_lesson",
+    "name": "穗波的心願純結晶",
+    "seq": 10204
   },
   {
-    "id": 136,
-    "seq": 10205,
-    "name": "志步的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員志步技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 136,
+    "materialType": "master_lesson",
+    "name": "志步的心願純結晶",
+    "seq": 10205
   },
   {
-    "id": 137,
-    "seq": 10206,
-    "name": "實乃理的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員實乃理技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 137,
+    "materialType": "master_lesson",
+    "name": "實乃理的心願純結晶",
+    "seq": 10206
   },
   {
-    "id": 138,
-    "seq": 10207,
-    "name": "遙的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員遙技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 138,
+    "materialType": "master_lesson",
+    "name": "遙的心願純結晶",
+    "seq": 10207
   },
   {
-    "id": 139,
-    "seq": 10208,
-    "name": "愛莉的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員愛莉技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 139,
+    "materialType": "master_lesson",
+    "name": "愛莉的心願純結晶",
+    "seq": 10208
   },
   {
-    "id": 140,
-    "seq": 10209,
-    "name": "雫的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員雫技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 140,
+    "materialType": "master_lesson",
+    "name": "雫的心願純結晶",
+    "seq": 10209
   },
   {
-    "id": 141,
-    "seq": 10210,
-    "name": "心羽的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員心羽技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 141,
+    "materialType": "master_lesson",
+    "name": "心羽的心願純結晶",
+    "seq": 10210
   },
   {
-    "id": 142,
-    "seq": 10211,
-    "name": "杏的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員杏技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 142,
+    "materialType": "master_lesson",
+    "name": "杏的心願純結晶",
+    "seq": 10211
   },
   {
-    "id": 143,
-    "seq": 10212,
-    "name": "彰人的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員彰人技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 143,
+    "materialType": "master_lesson",
+    "name": "彰人的心願純結晶",
+    "seq": 10212
   },
   {
-    "id": 144,
-    "seq": 10213,
-    "name": "冬彌的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員冬彌技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 144,
+    "materialType": "master_lesson",
+    "name": "冬彌的心願純結晶",
+    "seq": 10213
   },
   {
-    "id": 145,
-    "seq": 10214,
-    "name": "司的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員司技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 145,
+    "materialType": "master_lesson",
+    "name": "司的心願純結晶",
+    "seq": 10214
   },
   {
-    "id": 146,
-    "seq": 10215,
-    "name": "笑夢的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員笑夢技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 146,
+    "materialType": "master_lesson",
+    "name": "笑夢的心願純結晶",
+    "seq": 10215
   },
   {
-    "id": 147,
-    "seq": 10216,
-    "name": "寧寧的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員寧寧技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 147,
+    "materialType": "master_lesson",
+    "name": "寧寧的心願純結晶",
+    "seq": 10216
   },
   {
-    "id": 148,
-    "seq": 10217,
-    "name": "類的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員類技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 148,
+    "materialType": "master_lesson",
+    "name": "類的心願純結晶",
+    "seq": 10217
   },
   {
-    "id": 149,
-    "seq": 10218,
-    "name": "奏的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員奏技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 149,
+    "materialType": "master_lesson",
+    "name": "奏的心願純結晶",
+    "seq": 10218
   },
   {
-    "id": 150,
-    "seq": 10219,
-    "name": "真冬的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員真冬技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 150,
+    "materialType": "master_lesson",
+    "name": "真冬的心願純結晶",
+    "seq": 10219
   },
   {
-    "id": 151,
-    "seq": 10220,
-    "name": "繪名的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員繪名技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 151,
+    "materialType": "master_lesson",
+    "name": "繪名的心願純結晶",
+    "seq": 10220
   },
   {
-    "id": 152,
-    "seq": 10221,
-    "name": "瑞希的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員瑞希技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 152,
+    "materialType": "master_lesson",
+    "name": "瑞希的心願純結晶",
+    "seq": 10221
   },
   {
-    "id": 153,
-    "seq": 10222,
-    "name": "初音未來的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員未來技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 153,
+    "materialType": "master_lesson",
+    "name": "初音未來的心願純結晶",
+    "seq": 10222
   },
   {
-    "id": 154,
-    "seq": 10223,
-    "name": "鏡音鈴的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員鈴技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 154,
+    "materialType": "master_lesson",
+    "name": "鏡音鈴的心願純結晶",
+    "seq": 10223
   },
   {
-    "id": 155,
-    "seq": 10224,
-    "name": "鏡音連的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員連技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 155,
+    "materialType": "master_lesson",
+    "name": "鏡音連的心願純結晶",
+    "seq": 10224
   },
   {
-    "id": 156,
-    "seq": 10225,
-    "name": "巡音流歌的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員流歌技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 156,
+    "materialType": "master_lesson",
+    "name": "巡音流歌的心願純結晶",
+    "seq": 10225
   },
   {
-    "id": 157,
-    "seq": 10226,
-    "name": "MEIKO的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員MEIKO技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 157,
+    "materialType": "master_lesson",
+    "name": "MEIKO的心願純結晶",
+    "seq": 10226
   },
   {
-    "id": 158,
-    "seq": 10227,
-    "name": "KAITO的心願純結晶",
+    "canUse": false,
     "flavorText": "提升成員KAITO技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 158,
+    "materialType": "master_lesson",
+    "name": "KAITO的心願純結晶",
+    "seq": 10227
   },
   {
-    "id": 159,
-    "seq": 10228,
-    "name": "Leo/need的心願純結晶",
+    "canUse": false,
     "flavorText": "提升Leo/need成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 159,
+    "materialType": "master_lesson",
+    "name": "Leo/need的心願純結晶",
+    "seq": 10228
   },
   {
-    "id": 160,
-    "seq": 10229,
-    "name": "MORE MORE JUMP！的心願純結晶",
+    "canUse": false,
     "flavorText": "提升MORE MORE JUMP！成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 160,
+    "materialType": "master_lesson",
+    "name": "MORE MORE JUMP！的心願純結晶",
+    "seq": 10229
   },
   {
-    "id": 161,
-    "seq": 10230,
-    "name": "Vivid BAD SQUAD的心願純結晶",
+    "canUse": false,
     "flavorText": "提升Vivid BAD SQUAD成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 161,
+    "materialType": "master_lesson",
+    "name": "Vivid BAD SQUAD的心願純結晶",
+    "seq": 10230
   },
   {
-    "id": 162,
-    "seq": 10231,
-    "name": "Wonderlands×Showtime的心願純結晶",
+    "canUse": false,
     "flavorText": "提升Wonderlands×Showtime成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 162,
+    "materialType": "master_lesson",
+    "name": "Wonderlands×Showtime的心願純結晶",
+    "seq": 10231
   },
   {
-    "id": 163,
-    "seq": 10232,
-    "name": "25點，Nightcord見。的心願純結晶",
+    "canUse": false,
     "flavorText": "提升25點，Nightcord見。成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 163,
+    "materialType": "master_lesson",
+    "name": "25點，Nightcord見。的心願純結晶",
+    "seq": 10232
   },
   {
-    "id": 164,
-    "seq": 10233,
-    "name": "虛擬歌手的心願純結晶",
+    "canUse": false,
     "flavorText": "提升虛擬歌手成員技能的所需道具。",
-    "canUse": false,
-    "materialType": "master_lesson"
+    "id": 164,
+    "materialType": "master_lesson",
+    "name": "虛擬歌手的心願純結晶",
+    "seq": 10233
   },
   {
-    "id": 165,
-    "seq": 165,
-    "name": "紀念★4成員劵",
+    "canUse": false,
     "flavorText": "可在紀念★4成員劵交換所交換喜歡的★4成員。",
-    "canUse": false,
-    "materialType": "card_ticket"
+    "id": 165,
+    "materialType": "card_ticket",
+    "name": "紀念★4成員劵",
+    "seq": 165
   },
   {
-    "id": 166,
-    "seq": 10614,
-    "name": "百變幸運之花",
+    "canUse": false,
     "flavorText": "因大家的心願而盛開的花朵。可使用於幸運之花遊行交換所。\n使用期限：2025/11/14 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 166,
+    "materialType": "common",
+    "name": "百變幸運之花",
+    "seq": 10614
   },
   {
-    "id": 167,
-    "seq": 165167,
-    "name": "[劇場版]★2成員券",
+    "canUse": false,
     "flavorText": "可在[劇場版]★2成員券交換所交換喜歡的★2成員。",
-    "canUse": false,
-    "materialType": "card_ticket"
+    "id": 167,
+    "materialType": "card_ticket",
+    "name": "[劇場版]★2成員券",
+    "seq": 165167
   },
   {
-    "id": 168,
-    "seq": 200000,
-    "name": "七彩記憶",
+    "canUse": false,
     "flavorText": "閃耀著七彩光輝的回憶碎片。\n可用來交換特定記憶。",
-    "canUse": false,
-    "materialType": "common"
+    "id": 168,
+    "materialType": "common",
+    "name": "七彩記憶",
+    "seq": 200000
   },
   {
-    "id": 169,
-    "seq": 200001,
-    "name": "「連線LIVE Ensemble in SEKAI」連線LIVE ver. Vocal兌換卡",
+    "canUse": false,
     "flavorText": "可兌換在「連線LIVE 特別版 世界計畫×偶像夢幻祭2 Ensemble in SEKAI」公演中發表之歌曲的連線LIVE ver. Vocal。",
-    "canUse": false,
-    "materialType": "auto_exchange_music_vocal_ticket"
+    "id": 169,
+    "materialType": "auto_exchange_music_vocal_ticket",
+    "name": "「連線LIVE Ensemble in SEKAI」連線LIVE ver. Vocal兌換卡",
+    "seq": 200001
   },
   {
-    "id": 170,
-    "seq": 10615,
-    "name": "世界碎片",
+    "canUse": false,
     "flavorText": "可至世界碎片交換所交換報酬。\n使用期限：2026/4/22 11:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 170,
+    "materialType": "common",
+    "name": "世界碎片",
+    "seq": 10615
   },
   {
-    "id": 171,
-    "seq": 10616,
-    "name": "[4.5週年紀念]禮物券",
+    "canUse": false,
     "flavorText": "可使用[4.5週年紀念]禮物券交換報酬。\n使用期限：2026/4/22 11:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 171,
+    "materialType": "common",
+    "name": "[4.5週年紀念]禮物券",
+    "seq": 10616
   },
   {
-    "id": 172,
-    "seq": 20002,
-    "name": "「連線LIVE Dreamscape」連線LIVE ver. Vocal兌換卡",
+    "canUse": false,
     "flavorText": "可兌換在「連線LIVE 25點，Nightcord見。×虛擬歌手 Dreamscape」公演中發表之歌曲的連線LIVE ver. Vocal。",
-    "canUse": false,
-    "materialType": "auto_exchange_music_vocal_ticket"
+    "id": 172,
+    "materialType": "auto_exchange_music_vocal_ticket",
+    "name": "「連線LIVE Dreamscape」連線LIVE ver. Vocal兌換卡",
+    "seq": 20002
   },
   {
-    "id": 173,
-    "seq": 10617,
-    "name": "電子雞碎片",
+    "canUse": false,
     "flavorText": "可至電子雞碎片交換所交換報酬。\n使用期限：2026/10/12 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 173,
+    "materialType": "common",
+    "name": "電子雞碎片",
+    "seq": 10617
   },
   {
-    "id": 176,
-    "seq": 30003,
-    "name": "慶典露水（虞美人紅）",
+    "canUse": false,
     "flavorText": "為了栽種穗波慶祝生日的花時所需的露水。\n※僅能使用於2026年的生日活動。",
-    "canUse": false,
-    "materialType": "birthday_party_delivery"
+    "id": 176,
+    "materialType": "birthday_party_delivery",
+    "name": "慶典露水（虞美人紅）",
+    "seq": 30003
   },
   {
-    "id": 179,
-    "seq": 30006,
-    "name": "慶典露水（肅穆藍）",
+    "canUse": false,
     "flavorText": "為了栽種遙慶祝生日的花時所需的露水。\n※僅能使用於2026年的生日活動。",
-    "canUse": false,
-    "materialType": "birthday_party_delivery"
+    "id": 179,
+    "materialType": "birthday_party_delivery",
+    "name": "慶典露水（肅穆藍）",
+    "seq": 30006
   },
   {
+    "canUse": false,
+    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
     "id": 200,
-    "seq": 10618,
+    "materialType": "common",
     "name": "紅色旋律水滴",
-    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10618
   },
   {
+    "canUse": false,
+    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
     "id": 201,
-    "seq": 10619,
+    "materialType": "common",
     "name": "藍色旋律水滴",
-    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10619
   },
   {
+    "canUse": false,
+    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
     "id": 202,
-    "seq": 10620,
+    "materialType": "common",
     "name": "紫色旋律水滴",
-    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10620
   },
   {
+    "canUse": false,
+    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
     "id": 203,
-    "seq": 10621,
+    "materialType": "common",
     "name": "彩虹旋律水滴",
-    "flavorText": "可至Bright Memories 活動交換所交換報酬。\n使用期限：2026/10/31 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "seq": 10621
   },
   {
-    "id": 204,
-    "seq": 10622,
-    "name": "彩虹旋律",
+    "canUse": false,
     "flavorText": "限定期間內可於我的「世界」的「轉換器」使用。\n使用期限：2026/10/25 11:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 204,
+    "materialType": "common",
+    "name": "彩虹旋律",
+    "seq": 10622
   },
   {
-    "id": 211,
-    "seq": 10623,
-    "name": "金牌",
+    "canUse": false,
     "flavorText": "可至金牌交換所交換報酬。\n使用期限：2026/10/31 23:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 211,
+    "materialType": "common",
+    "name": "金牌",
+    "seq": 10623
   },
   {
-    "id": 214,
-    "seq": 214,
-    "name": "紀念★4成員券",
+    "canUse": false,
     "flavorText": "可在紀念★4成員券交換所交換喜歡的★4成員。",
-    "canUse": false,
-    "materialType": "card_ticket"
+    "id": 214,
+    "materialType": "card_ticket",
+    "name": "紀念★4成員券",
+    "seq": 214
   },
   {
-    "id": 215,
-    "seq": 10625,
-    "name": "紀念禮物券",
+    "canUse": false,
     "flavorText": "可至紀念禮物券交換所交換報酬。\n使用期限：2026/11/30 11:59",
-    "canUse": false,
-    "materialType": "common"
+    "id": 215,
+    "materialType": "common",
+    "name": "紀念禮物券",
+    "seq": 10625
   },
   {
+    "canUse": false,
+    "flavorText": "七彩通行證",
     "id": 1001,
-    "seq": 1001,
+    "materialType": "web_ticket",
     "name": "七彩通行證～BASIC～交換券",
-    "flavorText": "七彩通行證",
-    "canUse": false,
-    "materialType": "web_ticket"
+    "seq": 1001
   },
   {
-    "id": 1002,
-    "seq": 1002,
-    "name": "高階任務通行證交換券",
+    "canUse": false,
     "flavorText": "高階任務通行證",
-    "canUse": false,
-    "materialType": "web_ticket"
+    "id": 1002,
+    "materialType": "web_ticket",
+    "name": "高階任務通行證交換券",
+    "seq": 1002
   },
   {
-    "id": 1003,
-    "seq": 1003,
-    "name": "高階任務通行證交換券（進階版）",
+    "canUse": false,
     "flavorText": "高階任務通行證（進階版）",
-    "canUse": false,
-    "materialType": "web_ticket"
+    "id": 1003,
+    "materialType": "web_ticket",
+    "name": "高階任務通行證交換券（進階版）",
+    "seq": 1003
   },
   {
-    "id": 1004,
-    "seq": 1004,
-    "name": "七彩通行證～PRECIOUS～交換券",
+    "canUse": false,
     "flavorText": "七彩通行證",
-    "canUse": false,
-    "materialType": "web_ticket"
+    "id": 1004,
+    "materialType": "web_ticket",
+    "name": "七彩通行證～PRECIOUS～交換券",
+    "seq": 1004
   },
   {
-    "id": 1005,
-    "seq": 1005,
-    "name": "我的「世界」任務通行證交換券",
+    "canUse": false,
     "flavorText": "我的「世界」任務通行證交換券",
-    "canUse": false,
-    "materialType": "web_ticket"
+    "id": 1005,
+    "materialType": "web_ticket",
+    "name": "我的「世界」任務通行證交換券",
+    "seq": 1005
   },
   {
-    "id": 1006,
-    "seq": 1006,
-    "name": "高階任務通行證交換券（升級包）",
+    "canUse": false,
     "flavorText": "高階任務通行證交換券（升級包）",
-    "canUse": false,
-    "materialType": "web_ticket"
+    "id": 1006,
+    "materialType": "web_ticket",
+    "name": "高階任務通行證交換券（升級包）",
+    "seq": 1006
   },
   {
-    "id": 1009,
-    "seq": 1009,
-    "name": "通行證組合包交換券",
+    "canUse": false,
     "flavorText": "[通行證組合包]高階任務通行證+我的「世界」任務通行證交換券",
-    "canUse": false,
-    "materialType": "web_ticket"
+    "id": 1009,
+    "materialType": "web_ticket",
+    "name": "通行證組合包交換券",
+    "seq": 1009
   },
   {
-    "id": 1010,
-    "seq": 1010,
-    "name": "世界通行證交換券",
+    "canUse": false,
     "flavorText": "世界通行證交換券",
-    "canUse": false,
-    "materialType": "web_ticket"
+    "id": 1010,
+    "materialType": "web_ticket",
+    "name": "世界通行證交換券",
+    "seq": 1010
   },
   {
-    "id": 3002,
-    "seq": 90,
-    "name": "回响点数",
+    "canUse": false,
     "flavorText": "可用于升级回响称号",
-    "canUse": false,
-    "materialType": "common"
+    "id": 3002,
+    "materialType": "common",
+    "name": "回响点数",
+    "seq": 90
   },
   {
-    "id": 3005,
-    "seq": 3005,
-    "name": "派對徽章",
+    "canUse": false,
     "flavorText": "可在夏日兌換所交換喜歡的獎勵。",
-    "canUse": false,
-    "materialType": "common"
+    "id": 3005,
+    "materialType": "common",
+    "name": "派對徽章",
+    "seq": 3005
   },
   {
-    "id": 4001,
-    "seq": 4001,
-    "name": "[劇場版]交換幣",
+    "canUse": false,
     "flavorText": "[劇場版]交換幣",
-    "canUse": false,
-    "materialType": "card_ticket"
+    "id": 4001,
+    "materialType": "card_ticket",
+    "name": "[劇場版]交換幣",
+    "seq": 4001
   },
   {
-    "id": 4002,
-    "seq": 4002,
-    "name": "「摩爾加納像」設計圖的兌換券。",
-    "flavorText": "「摩爾加納像」設計圖的兌換券。",
     "canUse": false,
-    "materialType": "common"
+    "flavorText": "「摩爾加納像」設計圖的兌換券。",
+    "id": 4002,
+    "materialType": "common",
+    "name": "「摩爾加納像」設計圖的兌換券。",
+    "seq": 4002
   }
 ]

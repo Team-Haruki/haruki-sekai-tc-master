@@ -1,107 +1,107 @@
 [
   {
+    "billingShopItemType": "jewel",
+    "billingShopTabParentId": 1,
     "id": 101,
-    "seq": 101,
-    "billingShopTabParentId": 1,
-    "billingShopItemType": "jewel",
-    "name": "常駐"
+    "name": "常駐",
+    "seq": 101
   },
   {
+    "billingShopItemType": "jewel",
+    "billingShopTabParentId": 1,
     "id": 102,
-    "seq": 102,
-    "billingShopTabParentId": 1,
-    "billingShopItemType": "jewel",
-    "name": "限定"
+    "name": "限定",
+    "seq": 102
   },
   {
+    "billingShopItemType": "value_set",
+    "billingShopTabParentId": 2,
     "id": 201,
-    "seq": 201,
-    "billingShopTabParentId": 2,
-    "billingShopItemType": "value_set",
-    "name": "招募應援"
+    "name": "招募應援",
+    "seq": 201
   },
   {
+    "billingShopItemType": "value_set",
+    "billingShopTabParentId": 2,
     "id": 202,
-    "seq": 202,
-    "billingShopTabParentId": 2,
-    "billingShopItemType": "value_set",
-    "name": "新手獨享"
+    "name": "新手獨享",
+    "seq": 202
   },
   {
+    "billingShopItemType": "value_set",
+    "billingShopTabParentId": 2,
     "id": 203,
-    "seq": 203,
-    "billingShopTabParentId": 2,
-    "billingShopItemType": "value_set",
-    "name": "體力補給"
+    "name": "體力補給",
+    "seq": 203
   },
   {
+    "billingShopItemType": "value_set",
+    "billingShopTabParentId": 2,
     "id": 204,
-    "seq": 204,
-    "billingShopTabParentId": 2,
-    "billingShopItemType": "value_set",
-    "name": "成長陪伴"
+    "name": "成長陪伴",
+    "seq": 204
   },
   {
+    "billingShopItemType": "value_set",
+    "billingShopTabParentId": 2,
     "id": 205,
-    "seq": 205,
-    "billingShopTabParentId": 2,
-    "billingShopItemType": "value_set",
-    "name": "造型裝扮"
+    "name": "造型裝扮",
+    "seq": 205
   },
   {
+    "billingShopItemType": "value_set",
+    "billingShopTabParentId": 2,
     "id": 206,
-    "seq": 206,
-    "billingShopTabParentId": 2,
-    "billingShopItemType": "value_set",
-    "name": "LIVE應援棒"
+    "name": "LIVE應援棒",
+    "seq": 206
   },
   {
+    "billingShopItemType": "value_set",
+    "billingShopTabParentId": 2,
     "id": 207,
-    "seq": 207,
-    "billingShopTabParentId": 2,
-    "billingShopItemType": "value_set",
-    "name": "LIVE動作"
+    "name": "LIVE動作",
+    "seq": 207
   },
   {
+    "billingShopItemType": "costume_3d",
+    "billingShopTabParentId": 3,
     "id": 301,
-    "seq": 301,
-    "billingShopTabParentId": 3,
-    "billingShopItemType": "costume_3d",
-    "name": "常駐"
+    "name": "常駐",
+    "seq": 301
   },
   {
+    "billingShopItemType": "costume_3d",
+    "billingShopTabParentId": 3,
     "id": 302,
-    "seq": 302,
-    "billingShopTabParentId": 3,
-    "billingShopItemType": "costume_3d",
-    "name": "限定"
+    "name": "限定",
+    "seq": 302
   },
   {
-    "id": 401,
-    "seq": 401,
-    "billingShopTabParentId": 4,
     "billingShopItemType": "live_mission_pass",
-    "name": "高階任務\n通行證"
-  },
-  {
-    "id": 402,
-    "seq": 402,
     "billingShopTabParentId": 4,
+    "id": 401,
+    "name": "高階任務\n通行證",
+    "seq": 401
+  },
+  {
     "billingShopItemType": "mysekai_mission_pass",
-    "name": "我的「世界」\n任務通行證"
+    "billingShopTabParentId": 4,
+    "id": 402,
+    "name": "我的「世界」\n任務通行證",
+    "seq": 402
   },
   {
-    "id": 501,
-    "seq": 501,
-    "billingShopTabParentId": 5,
     "billingShopItemType": "colorful_pass_v2",
-    "name": "七彩通行證"
+    "billingShopTabParentId": 5,
+    "id": 501,
+    "name": "七彩通行證",
+    "seq": 501
   },
   {
-    "id": 502,
-    "seq": 502,
-    "billingShopTabParentId": 5,
     "billingShopItemType": "mysekai_colorful_pass",
-    "name": "世界通行證"
+    "billingShopTabParentId": 5,
+    "id": 502,
+    "name": "世界通行證",
+    "seq": 502
   }
 ]

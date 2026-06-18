@@ -1,38 +1,38 @@
 [
   {
+    "characterArchiveVoiceTagType": "live_cutin",
     "id": 1,
-    "seq": 10,
-    "characterArchiveVoiceTagType": "live_cutin",
-    "name": "相互對話"
+    "name": "相互對話",
+    "seq": 10
   },
   {
-    "id": 2,
-    "seq": 30,
     "characterArchiveVoiceTagType": "live_result",
-    "name": "結果"
+    "id": 2,
+    "name": "結果",
+    "seq": 30
   },
   {
-    "id": 3,
-    "seq": 40,
     "characterArchiveVoiceTagType": "birthday",
-    "name": "慶祝"
+    "id": 3,
+    "name": "慶祝",
+    "seq": 40
   },
   {
-    "id": 4,
-    "seq": 50,
     "characterArchiveVoiceTagType": "season",
-    "name": "季節活動"
+    "id": 4,
+    "name": "季節活動",
+    "seq": 50
   },
   {
-    "id": 5,
-    "seq": 60,
     "characterArchiveVoiceTagType": "normal",
-    "name": "一般"
+    "id": 5,
+    "name": "一般",
+    "seq": 60
   },
   {
-    "id": 6,
-    "seq": 20,
     "characterArchiveVoiceTagType": "live_cutin",
-    "name": "情誼相互對話"
+    "id": 6,
+    "name": "情誼相互對話",
+    "seq": 20
   }
 ]

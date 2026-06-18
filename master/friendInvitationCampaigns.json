@@ -1,1506 +1,1499 @@
 [
   {
-    "id": 1,
-    "groupId": 1,
-    "title": "[2週年紀念]歡迎來到「世界」大作戰！！",
     "assetbundleName": "friend_invitation",
-    "startAt": 1696003200000,
-    "progressEndAt": 1698767999000,
-    "receiveRewardEndAt": 1699631999000,
     "closedAt": 1699891199000,
+    "groupId": 1,
+    "id": 1,
     "missions": [
       {
         "id": 1,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 1,
         "reward": [
           {
-            "id": 1,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 1,
             "resourceBoxId": 1
           }
         ]
       },
       {
         "id": 2,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 2,
         "reward": [
           {
-            "id": 2,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 2,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 3,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 3,
         "reward": [
           {
-            "id": 3,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 3,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 4,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 4,
         "reward": [
           {
-            "id": 4,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 4,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 5,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 5,
         "reward": [
           {
-            "id": 5,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 5,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 6,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 6,
         "reward": [
           {
-            "id": 6,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 6,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 7,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 7,
         "reward": [
           {
-            "id": 7,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 7,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 8,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 8,
         "reward": [
           {
-            "id": 8,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 8,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 9,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 9,
         "reward": [
           {
-            "id": 9,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 9,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 10,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 10,
         "reward": [
           {
-            "id": 10,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 10,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 11,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 1,
         "reward": [
           {
-            "id": 11,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 11,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 12,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 2,
         "reward": [
           {
-            "id": 12,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 12,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 13,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 3,
         "reward": [
           {
-            "id": 1,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 1,
             "resourceBoxId": 1
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1699631999000
+    "progressEndAt": 1698767999000,
+    "rewardReceiveEndAt": 1699631999000,
+    "startAt": 1696003200000,
+    "title": "[2週年紀念]歡迎來到「世界」大作戰！！"
   },
   {
-    "id": 2,
-    "groupId": 1,
-    "title": "2.5週年邀請朋友活動（第3次）",
     "assetbundleName": "friend_invitation_3rd_anniv",
-    "startAt": 1727539200000,
-    "progressEndAt": 1729785599000,
-    "receiveRewardEndAt": 1730563199000,
     "closedAt": 1732463999000,
+    "groupId": 1,
+    "id": 2,
     "missions": [
       {
         "id": 14,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 1,
         "reward": [
           {
-            "id": 15,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 15,
             "resourceBoxId": 7
           },
           {
-            "id": 16,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 16,
             "resourceBoxId": 8
           }
         ]
       },
       {
         "id": 15,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 2,
         "reward": [
           {
-            "id": 2,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 2,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 16,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 3,
         "reward": [
           {
-            "id": 3,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 3,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 17,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 4,
         "reward": [
           {
-            "id": 4,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 4,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 18,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 5,
         "reward": [
           {
-            "id": 5,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 5,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 19,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 6,
         "reward": [
           {
-            "id": 6,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 6,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 20,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 7,
         "reward": [
           {
-            "id": 7,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 7,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 21,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 8,
         "reward": [
           {
-            "id": 8,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 8,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 22,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 9,
         "reward": [
           {
-            "id": 9,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 9,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 23,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 10,
         "reward": [
           {
-            "id": 10,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 10,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 24,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 1,
         "reward": [
           {
-            "id": 11,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 11,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 25,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 2,
         "reward": [
           {
-            "id": 12,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 12,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 26,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 3,
         "reward": [
           {
-            "id": 15,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 15,
             "resourceBoxId": 7
           },
           {
-            "id": 16,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 16,
             "resourceBoxId": 8
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1730563199000
+    "progressEndAt": 1729785599000,
+    "rewardReceiveEndAt": 1730563199000,
+    "startAt": 1727539200000,
+    "title": "2.5週年邀請朋友活動（第3次）"
   },
   {
-    "id": 3,
-    "groupId": 1,
-    "title": "[4週年紀念]歡迎來到「世界」大作戰！！",
     "assetbundleName": "friend_invitation_4th_anniv",
-    "startAt": 1759032000000,
-    "progressEndAt": 1761062399000,
-    "receiveRewardEndAt": 1761926399000,
     "closedAt": 1762185599000,
+    "groupId": 1,
+    "id": 3,
     "missions": [
       {
         "id": 27,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 1,
         "reward": [
           {
-            "id": 15,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 15,
             "resourceBoxId": 7
           },
           {
-            "id": 16,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 16,
             "resourceBoxId": 8
           }
         ]
       },
       {
         "id": 28,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 2,
         "reward": [
           {
-            "id": 2,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 2,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 29,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 3,
         "reward": [
           {
-            "id": 3,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 3,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 30,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 4,
         "reward": [
           {
-            "id": 4,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 4,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 31,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 5,
         "reward": [
           {
-            "id": 5,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 5,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 32,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 6,
         "reward": [
           {
-            "id": 6,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 6,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 33,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 7,
         "reward": [
           {
-            "id": 7,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 7,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 34,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 8,
         "reward": [
           {
-            "id": 8,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 8,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 35,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 9,
         "reward": [
           {
-            "id": 9,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 9,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 36,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 10,
         "reward": [
           {
-            "id": 10,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 10,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 37,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
         "requirement": 5,
         "reward": [
           {
-            "id": 11,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 11,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 38,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
         "requirement": 10,
         "reward": [
           {
-            "id": 12,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 12,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 39,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
         "requirement": 20,
         "reward": [
           {
-            "id": 15,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 15,
             "resourceBoxId": 7
           },
           {
-            "id": 16,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 16,
             "resourceBoxId": 8
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1761926399000
+    "progressEndAt": 1761062399000,
+    "rewardReceiveEndAt": 1761926399000,
+    "startAt": 1759032000000,
+    "title": "[4週年紀念]歡迎來到「世界」大作戰！！"
   },
   {
-    "id": 4,
-    "groupId": 2,
-    "title": "[5週年紀念]歡迎來到「世界」大作戰！！",
     "assetbundleName": "friend_invitation_5th_anniv",
-    "startAt": 1790654400000,
-    "progressEndAt": 1792598399000,
-    "receiveRewardEndAt": 1793462399000,
     "closedAt": 1793721599000,
+    "groupId": 2,
+    "id": 4,
     "missions": [
       {
         "id": 40,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 1,
         "reward": [
           {
-            "id": 17,
-            "countGroupId": 101,
             "count": 1,
+            "countGroupId": 101,
+            "id": 17,
             "resourceBoxId": 9
           }
         ]
       },
       {
         "id": 41,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 2,
         "reward": [
           {
-            "id": 18,
-            "countGroupId": 102,
             "count": 1,
+            "countGroupId": 102,
+            "id": 18,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 42,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 3,
         "reward": [
           {
-            "id": 19,
-            "countGroupId": 103,
             "count": 1,
+            "countGroupId": 103,
+            "id": 19,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 43,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 4,
         "reward": [
           {
-            "id": 20,
-            "countGroupId": 104,
             "count": 1,
+            "countGroupId": 104,
+            "id": 20,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 44,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 5,
         "reward": [
           {
-            "id": 21,
-            "countGroupId": 105,
             "count": 1,
+            "countGroupId": 105,
+            "id": 21,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 45,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 6,
         "reward": [
           {
-            "id": 22,
-            "countGroupId": 106,
             "count": 1,
+            "countGroupId": 106,
+            "id": 22,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 46,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 7,
         "reward": [
           {
-            "id": 23,
-            "countGroupId": 107,
             "count": 1,
+            "countGroupId": 107,
+            "id": 23,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 47,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 8,
         "reward": [
           {
-            "id": 24,
-            "countGroupId": 108,
             "count": 1,
+            "countGroupId": 108,
+            "id": 24,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 48,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 9,
         "reward": [
           {
-            "id": 25,
-            "countGroupId": 109,
             "count": 1,
+            "countGroupId": 109,
+            "id": 25,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 49,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 10,
         "reward": [
           {
-            "id": 26,
-            "countGroupId": 110,
             "count": 1,
+            "countGroupId": 110,
+            "id": 26,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 50,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
         "requirement": 5,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 201,
             "count": 1,
+            "countGroupId": 201,
+            "id": 27,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 51,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
         "requirement": 10,
         "reward": [
           {
-            "id": 28,
-            "countGroupId": 202,
             "count": 1,
+            "countGroupId": 202,
+            "id": 28,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 52,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
         "requirement": 20,
         "reward": [
           {
-            "id": 29,
-            "countGroupId": 203,
             "count": 1,
+            "countGroupId": 203,
+            "id": 29,
             "resourceBoxId": 9
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1793462399000
+    "progressEndAt": 1792598399000,
+    "rewardReceiveEndAt": 1793462399000,
+    "startAt": 1790654400000,
+    "title": "[5週年紀念]歡迎來到「世界」大作戰！！"
   },
   {
-    "id": 1001,
-    "groupId": 1,
-    "title": "[2.5週年紀念]歡迎來到「世界」大作戰！！",
     "assetbundleName": "friend_invitation",
-    "startAt": 1711728000000,
-    "progressEndAt": 1714492799000,
-    "receiveRewardEndAt": 1715356799000,
     "closedAt": 1715615999000,
+    "groupId": 1,
+    "id": 1001,
     "missions": [
       {
         "id": 1001,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 1,
         "reward": [
           {
-            "id": 1,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 1,
             "resourceBoxId": 1
           }
         ]
       },
       {
         "id": 1002,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 2,
         "reward": [
           {
-            "id": 2,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 2,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1003,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 3,
         "reward": [
           {
-            "id": 3,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 3,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1004,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 4,
         "reward": [
           {
-            "id": 4,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 4,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1005,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 5,
         "reward": [
           {
-            "id": 5,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 5,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1006,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 6,
         "reward": [
           {
-            "id": 6,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 6,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1007,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 7,
         "reward": [
           {
-            "id": 7,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 7,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1008,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 8,
         "reward": [
           {
-            "id": 8,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 8,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1009,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 9,
         "reward": [
           {
-            "id": 9,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 9,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1010,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 10,
         "reward": [
           {
-            "id": 10,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 10,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1011,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 1,
         "reward": [
           {
-            "id": 11,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 11,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 1012,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 2,
         "reward": [
           {
-            "id": 12,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 12,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 1013,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 3,
         "reward": [
           {
-            "id": 1,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 1,
             "resourceBoxId": 1
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1715356799000
+    "progressEndAt": 1714492799000,
+    "rewardReceiveEndAt": 1715356799000,
+    "startAt": 1711728000000,
+    "title": "[2.5週年紀念]歡迎來到「世界」大作戰！！"
   },
   {
-    "id": 1002,
-    "groupId": 1,
-    "title": "[3.5週年紀念]歡迎來到「世界」大作戰！！",
     "assetbundleName": "friend_invitation_3rd_anniv",
-    "startAt": 1743091200000,
-    "progressEndAt": 1746028799000,
-    "receiveRewardEndAt": 1746892799000,
     "closedAt": 1747151999000,
+    "groupId": 1,
+    "id": 1002,
     "missions": [
       {
         "id": 1014,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 1,
         "reward": [
           {
-            "id": 15,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 15,
             "resourceBoxId": 7
           },
           {
-            "id": 16,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 16,
             "resourceBoxId": 8
           }
         ]
       },
       {
         "id": 1015,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 2,
         "reward": [
           {
-            "id": 2,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 2,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1016,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 3,
         "reward": [
           {
-            "id": 3,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 3,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1017,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 4,
         "reward": [
           {
-            "id": 4,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 4,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1018,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 5,
         "reward": [
           {
-            "id": 5,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 5,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1019,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 6,
         "reward": [
           {
-            "id": 6,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 6,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1020,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 7,
         "reward": [
           {
-            "id": 7,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 7,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1021,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 8,
         "reward": [
           {
-            "id": 8,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 8,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1022,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 9,
         "reward": [
           {
-            "id": 9,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 9,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1023,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 10,
         "reward": [
           {
-            "id": 10,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 10,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1024,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 1,
         "reward": [
           {
-            "id": 11,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 11,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 1025,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 2,
         "reward": [
           {
-            "id": 12,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 12,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 1026,
-        "missionType": "guest",
         "missionCategoryId": 1,
+        "missionType": "guest",
         "name": "不跳過並觀看主線劇情吧",
         "requirement": 3,
         "reward": [
           {
-            "id": 15,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 15,
             "resourceBoxId": 7
           },
           {
-            "id": 16,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 16,
             "resourceBoxId": 8
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1746892799000
+    "progressEndAt": 1746028799000,
+    "rewardReceiveEndAt": 1746892799000,
+    "startAt": 1743091200000,
+    "title": "[3.5週年紀念]歡迎來到「世界」大作戰！！"
   },
   {
-    "id": 1003,
-    "groupId": 1,
-    "title": "[4.5週年紀念]歡迎來到「世界」大作戰！！",
     "assetbundleName": "friend_invitation_4th_anniv",
-    "startAt": 1774584000000,
-    "progressEndAt": 1776700799000,
-    "receiveRewardEndAt": 1777564799000,
     "closedAt": 1777823999000,
+    "groupId": 1,
+    "id": 1003,
     "missions": [
       {
         "id": 1027,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 1,
         "reward": [
           {
-            "id": 15,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 15,
             "resourceBoxId": 7
           },
           {
-            "id": 16,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 16,
             "resourceBoxId": 8
           }
         ]
       },
       {
         "id": 1028,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 2,
         "reward": [
           {
-            "id": 2,
-            "countGroupId": 2,
             "count": 1,
+            "countGroupId": 2,
+            "id": 2,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1029,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 3,
         "reward": [
           {
-            "id": 3,
-            "countGroupId": 3,
             "count": 1,
+            "countGroupId": 3,
+            "id": 3,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1030,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 4,
         "reward": [
           {
-            "id": 4,
-            "countGroupId": 4,
             "count": 1,
+            "countGroupId": 4,
+            "id": 4,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1031,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 5,
         "reward": [
           {
-            "id": 5,
-            "countGroupId": 5,
             "count": 1,
+            "countGroupId": 5,
+            "id": 5,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1032,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 6,
         "reward": [
           {
-            "id": 6,
-            "countGroupId": 6,
             "count": 1,
+            "countGroupId": 6,
+            "id": 6,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1033,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 7,
         "reward": [
           {
-            "id": 7,
-            "countGroupId": 7,
             "count": 1,
+            "countGroupId": 7,
+            "id": 7,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1034,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 8,
         "reward": [
           {
-            "id": 8,
-            "countGroupId": 8,
             "count": 1,
+            "countGroupId": 8,
+            "id": 8,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1035,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 9,
         "reward": [
           {
-            "id": 9,
-            "countGroupId": 9,
             "count": 1,
+            "countGroupId": 9,
+            "id": 9,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1036,
-        "missionType": "host",
         "missionCategoryId": 1,
+        "missionType": "host",
         "name": "邀請任務",
         "requirement": 10,
         "reward": [
           {
-            "id": 10,
-            "countGroupId": 10,
             "count": 1,
+            "countGroupId": 10,
+            "id": 10,
             "resourceBoxId": 2
           }
         ]
       },
       {
         "id": 1037,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
         "requirement": 5,
         "reward": [
           {
-            "id": 11,
-            "countGroupId": 11,
             "count": 1,
+            "countGroupId": 11,
+            "id": 11,
             "resourceBoxId": 3
           }
         ]
       },
       {
         "id": 1038,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
         "requirement": 10,
         "reward": [
           {
-            "id": 12,
-            "countGroupId": 12,
             "count": 1,
+            "countGroupId": 12,
+            "id": 12,
             "resourceBoxId": 4
           }
         ]
       },
       {
         "id": 1039,
-        "missionType": "guest",
         "missionCategoryId": 2,
+        "missionType": "guest",
         "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
         "requirement": 20,
         "reward": [
           {
-            "id": 15,
-            "countGroupId": 1,
             "count": 1,
+            "countGroupId": 1,
+            "id": 15,
             "resourceBoxId": 7
           },
           {
-            "id": 16,
-            "countGroupId": 1,
             "count": 2,
+            "countGroupId": 1,
+            "id": 16,
             "resourceBoxId": 8
           }
         ]
       }
     ],
-    "rewardReceiveEndAt": 1777564799000
+    "progressEndAt": 1776700799000,
+    "rewardReceiveEndAt": 1777564799000,
+    "startAt": 1774584000000,
+    "title": "[4.5週年紀念]歡迎來到「世界」大作戰！！"
   }
 ]

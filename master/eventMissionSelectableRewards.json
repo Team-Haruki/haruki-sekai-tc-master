@@ -1,232 +1,232 @@
 [
   {
-    "id": 1,
     "groupId": 1,
+    "id": 1,
     "resourceBoxId": 1
   },
   {
-    "id": 2,
     "groupId": 1,
+    "id": 2,
     "resourceBoxId": 2
   },
   {
-    "id": 3,
     "groupId": 1,
+    "id": 3,
     "resourceBoxId": 3
   },
   {
-    "id": 4,
     "groupId": 1,
+    "id": 4,
     "resourceBoxId": 4
   },
   {
-    "id": 5,
     "groupId": 1,
+    "id": 5,
     "resourceBoxId": 5
   },
   {
-    "id": 6,
     "groupId": 1,
+    "id": 6,
     "resourceBoxId": 6
   },
   {
-    "id": 7,
     "groupId": 1,
+    "id": 7,
     "resourceBoxId": 7
   },
   {
-    "id": 8,
     "groupId": 1,
+    "id": 8,
     "resourceBoxId": 8
   },
   {
-    "id": 1000,
     "groupId": 1001,
+    "id": 1000,
     "resourceBoxId": 400091
   },
   {
-    "id": 1001,
     "groupId": 1001,
+    "id": 1001,
     "resourceBoxId": 400092
   },
   {
-    "id": 1002,
     "groupId": 1001,
+    "id": 1002,
     "resourceBoxId": 400093
   },
   {
-    "id": 1003,
     "groupId": 1002,
+    "id": 1003,
     "resourceBoxId": 400094
   },
   {
-    "id": 1004,
     "groupId": 1002,
+    "id": 1004,
     "resourceBoxId": 400095
   },
   {
-    "id": 1005,
     "groupId": 1002,
+    "id": 1005,
     "resourceBoxId": 400096
   },
   {
-    "id": 1006,
     "groupId": 1002,
+    "id": 1006,
     "resourceBoxId": 400097
   },
   {
-    "id": 1007,
     "groupId": 1002,
+    "id": 1007,
     "resourceBoxId": 400098
   },
   {
-    "id": 1008,
     "groupId": 1002,
+    "id": 1008,
     "resourceBoxId": 400099
   },
   {
-    "id": 1009,
     "groupId": 1002,
+    "id": 1009,
     "resourceBoxId": 400100
   },
   {
-    "id": 1010,
     "groupId": 1003,
+    "id": 1010,
     "resourceBoxId": 400101
   },
   {
-    "id": 1011,
     "groupId": 1003,
+    "id": 1011,
     "resourceBoxId": 400102
   },
   {
-    "id": 1012,
     "groupId": 1003,
+    "id": 1012,
     "resourceBoxId": 400103
   },
   {
-    "id": 1013,
     "groupId": 1003,
+    "id": 1013,
     "resourceBoxId": 400104
   },
   {
-    "id": 1014,
     "groupId": 1003,
+    "id": 1014,
     "resourceBoxId": 400105
   },
   {
-    "id": 1015,
     "groupId": 1003,
+    "id": 1015,
     "resourceBoxId": 400106
   },
   {
-    "id": 1016,
     "groupId": 1003,
+    "id": 1016,
     "resourceBoxId": 400107
   },
   {
-    "id": 1017,
     "groupId": 1004,
+    "id": 1017,
     "resourceBoxId": 400108
   },
   {
-    "id": 1018,
     "groupId": 1004,
+    "id": 1018,
     "resourceBoxId": 400109
   },
   {
-    "id": 1019,
     "groupId": 1004,
+    "id": 1019,
     "resourceBoxId": 400110
   },
   {
-    "id": 1020,
     "groupId": 1004,
+    "id": 1020,
     "resourceBoxId": 400111
   },
   {
-    "id": 1021,
     "groupId": 1004,
+    "id": 1021,
     "resourceBoxId": 400112
   },
   {
-    "id": 1022,
     "groupId": 1004,
+    "id": 1022,
     "resourceBoxId": 400113
   },
   {
-    "id": 1023,
     "groupId": 1004,
+    "id": 1023,
     "resourceBoxId": 400114
   },
   {
-    "id": 1024,
     "groupId": 1005,
+    "id": 1024,
     "resourceBoxId": 400115
   },
   {
-    "id": 1025,
     "groupId": 1005,
+    "id": 1025,
     "resourceBoxId": 400116
   },
   {
-    "id": 1026,
     "groupId": 1005,
+    "id": 1026,
     "resourceBoxId": 400117
   },
   {
-    "id": 1027,
     "groupId": 1005,
+    "id": 1027,
     "resourceBoxId": 400118
   },
   {
-    "id": 1028,
     "groupId": 1005,
+    "id": 1028,
     "resourceBoxId": 400119
   },
   {
-    "id": 1029,
     "groupId": 1005,
+    "id": 1029,
     "resourceBoxId": 400120
   },
   {
-    "id": 1030,
     "groupId": 1005,
+    "id": 1030,
     "resourceBoxId": 400121
   },
   {
-    "id": 1031,
     "groupId": 1006,
+    "id": 1031,
     "resourceBoxId": 400122
   },
   {
-    "id": 1032,
     "groupId": 1006,
+    "id": 1032,
     "resourceBoxId": 400123
   },
   {
-    "id": 1033,
     "groupId": 1006,
+    "id": 1033,
     "resourceBoxId": 400124
   },
   {
-    "id": 1034,
     "groupId": 1006,
+    "id": 1034,
     "resourceBoxId": 400125
   },
   {
-    "id": 1035,
     "groupId": 1006,
+    "id": 1035,
     "resourceBoxId": 400126
   },
   {
-    "id": 1036,
     "groupId": 1006,
+    "id": 1036,
     "resourceBoxId": 400127
   },
   {
-    "id": 1037,
     "groupId": 1006,
+    "id": 1037,
     "resourceBoxId": 400128
   }
 ]
