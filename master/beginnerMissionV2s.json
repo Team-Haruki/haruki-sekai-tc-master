@@ -7,9 +7,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 3,
     "rewards": [
-      [
-        1464
-      ]
+      {
+        "resourceBoxId": 1464
+      }
     ]
   },
   {
@@ -20,9 +20,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -33,9 +33,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -46,9 +46,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -59,9 +59,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -72,9 +72,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -85,9 +85,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -98,9 +98,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -111,9 +111,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -124,9 +124,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -137,9 +137,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -150,9 +150,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -163,9 +163,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -176,9 +176,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -189,9 +189,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -203,9 +203,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -217,9 +217,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -231,9 +231,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -245,9 +245,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -259,9 +259,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -273,9 +273,9 @@
     "beginnerMissionV2Category": "normal",
     "requirement": 1,
     "rewards": [
-      [
-        14
-      ]
+      {
+        "resourceBoxId": 14
+      }
     ]
   },
   {
@@ -286,9 +286,9 @@
     "beginnerMissionV2Category": "complete",
     "requirement": 21,
     "rewards": [
-      [
-        15
-      ]
+      {
+        "resourceBoxId": 15
+      }
     ]
   }
 ]

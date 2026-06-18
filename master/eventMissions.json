@@ -8,9 +8,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -22,9 +22,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -36,9 +36,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -51,9 +51,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -65,9 +65,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「舞獅機器人的新年表演！」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -79,9 +79,9 @@
     "requirement1": 20000,
     "sentence": "在活動「舞獅機器人的新年表演！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -93,9 +93,9 @@
     "requirement1": 1,
     "sentence": "參加「舞獅機器人的新年表演！After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -108,9 +108,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -122,9 +122,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -136,9 +136,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -150,9 +150,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -165,9 +165,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -179,9 +179,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「夢想路上，朝著閃耀繁星」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -193,9 +193,9 @@
     "requirement1": 20000,
     "sentence": "在活動「夢想路上，朝著閃耀繁星」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -207,9 +207,9 @@
     "requirement1": 1,
     "sentence": "參加「夢想路上，朝著閃耀繁星After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -222,9 +222,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -236,9 +236,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -250,9 +250,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -264,9 +264,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -279,9 +279,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -293,9 +293,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Little Bravers！」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -307,9 +307,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Little Bravers！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -321,9 +321,9 @@
     "requirement1": 1,
     "sentence": "參加「Little Bravers！After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -336,9 +336,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -350,9 +350,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -364,9 +364,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -378,9 +378,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -393,9 +393,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -407,9 +407,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「蠟燭的香氣和回憶一起」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -421,9 +421,9 @@
     "requirement1": 20000,
     "sentence": "在活動「蠟燭的香氣和回憶一起」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -435,9 +435,9 @@
     "requirement1": 1,
     "sentence": "參加「蠟燭的香氣和回憶一起After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -450,9 +450,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -464,9 +464,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -478,9 +478,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -492,9 +492,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -507,9 +507,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -521,9 +521,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「在解開絲線的前方」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -535,9 +535,9 @@
     "requirement1": 20000,
     "sentence": "在活動「在解開絲線的前方」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -549,9 +549,9 @@
     "requirement1": 1,
     "sentence": "參加「在解開絲線的前方After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -564,9 +564,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -578,9 +578,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -592,9 +592,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -606,9 +606,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -621,9 +621,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -635,9 +635,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Kick it up a notch」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -649,9 +649,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Kick it up a notch」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -663,9 +663,9 @@
     "requirement1": 1,
     "sentence": "參加「Kick it up a notchAfter LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -678,9 +678,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -692,9 +692,9 @@
     "requirement1": 11,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -706,9 +706,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -720,9 +720,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -735,9 +735,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -749,9 +749,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Never Give Up Cooking！」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -763,9 +763,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Never Give Up Cooking！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -777,9 +777,9 @@
     "requirement1": 1,
     "sentence": "參加「Never Give Up Cooking！After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -792,9 +792,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -806,9 +806,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -820,9 +820,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -834,9 +834,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -849,9 +849,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -863,9 +863,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「追尋天空盡頭的鳳凰」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -877,9 +877,9 @@
     "requirement1": 20000,
     "sentence": "在活動「追尋天空盡頭的鳳凰」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -891,9 +891,9 @@
     "requirement1": 1,
     "sentence": "參加「追尋天空盡頭的鳳凰After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -906,9 +906,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -920,9 +920,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -934,9 +934,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -948,9 +948,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -963,9 +963,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -977,9 +977,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「互不交流的不和諧音」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -991,9 +991,9 @@
     "requirement1": 20000,
     "sentence": "在活動「互不交流的不和諧音」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1005,9 +1005,9 @@
     "requirement1": 1,
     "sentence": "參加「互不交流的不和諧音After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1020,9 +1020,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1034,9 +1034,9 @@
     "requirement1": 11,
     "sentence": "連續11日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1048,9 +1048,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1062,9 +1062,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1077,9 +1077,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1091,9 +1091,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「在街角的共鳴」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1105,9 +1105,9 @@
     "requirement1": 20000,
     "sentence": "在活動「在街角的共鳴」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1119,9 +1119,9 @@
     "requirement1": 1,
     "sentence": "參加「在街角的共鳴After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1134,9 +1134,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1148,9 +1148,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1162,9 +1162,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1176,9 +1176,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1191,9 +1191,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1205,9 +1205,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Get over it.」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1219,9 +1219,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Get over it.」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1233,9 +1233,9 @@
     "requirement1": 1,
     "sentence": "參加「Get over it.After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1248,9 +1248,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1262,9 +1262,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1276,9 +1276,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1290,9 +1290,9 @@
     "requirement1": 10,
     "sentence": "達成10首LIVE歌曲的FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1305,9 +1305,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1319,9 +1319,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Re-tie Friendship」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1333,9 +1333,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Re-tie Friendship」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1347,9 +1347,9 @@
     "requirement1": 1,
     "sentence": "參加「Re-tie FriendshipAfter LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1362,9 +1362,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1376,9 +1376,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1390,9 +1390,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1404,9 +1404,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1419,9 +1419,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1433,9 +1433,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「我們的逃生之路」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1447,9 +1447,9 @@
     "requirement1": 20000,
     "sentence": "在活動「我們的逃生之路」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1461,9 +1461,9 @@
     "requirement1": 1,
     "sentence": "參加「我們的逃生之路After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1476,9 +1476,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1490,9 +1490,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1504,9 +1504,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1518,9 +1518,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1533,9 +1533,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1547,9 +1547,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「出航前的一日遊」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1561,9 +1561,9 @@
     "requirement1": 20000,
     "sentence": "在活動「出航前的一日遊」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1575,9 +1575,9 @@
     "requirement1": 1,
     "sentence": "參加「出航前的一日遊After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1590,9 +1590,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1604,9 +1604,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1618,9 +1618,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1632,9 +1632,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1647,9 +1647,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1661,9 +1661,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「金絲雀在困境中歌唱」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1675,9 +1675,9 @@
     "requirement1": 20000,
     "sentence": "在活動「金絲雀在困境中歌唱」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1689,9 +1689,9 @@
     "requirement1": 1,
     "sentence": "參加「金絲雀在困境中歌唱After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1704,9 +1704,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1718,9 +1718,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1732,9 +1732,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1746,9 +1746,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1761,9 +1761,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1775,9 +1775,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「給在我身旁溫柔的你」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1789,9 +1789,9 @@
     "requirement1": 20000,
     "sentence": "在活動「給在我身旁溫柔的你」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1803,9 +1803,9 @@
     "requirement1": 1,
     "sentence": "參加「給在我身旁溫柔的你After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1818,9 +1818,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1832,9 +1832,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1846,9 +1846,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1860,9 +1860,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1875,9 +1875,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1889,9 +1889,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Light Up the Fire」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1903,9 +1903,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Light Up the Fire」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1917,9 +1917,9 @@
     "requirement1": 1,
     "sentence": "參加「Light Up the FireAfter LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1932,9 +1932,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -1946,9 +1946,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1960,9 +1960,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1974,9 +1974,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -1989,9 +1989,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2003,9 +2003,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「STEP by STEP！」的第8章活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2017,9 +2017,9 @@
     "requirement1": 20000,
     "sentence": "在活動「STEP by STEP！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2031,9 +2031,9 @@
     "requirement1": 1,
     "sentence": "參加「STEP by STEP！After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2046,9 +2046,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -2060,9 +2060,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2074,9 +2074,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2088,9 +2088,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2103,9 +2103,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2117,9 +2117,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「一生一次的百鬼夜行！？」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2131,9 +2131,9 @@
     "requirement1": 20000,
     "sentence": "在活動「一生一次的百鬼夜行！？」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2145,9 +2145,9 @@
     "requirement1": 1,
     "sentence": "參加「一生一次的百鬼夜行！？ After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2160,9 +2160,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -2174,9 +2174,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2188,9 +2188,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2202,9 +2202,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2217,9 +2217,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2231,9 +2231,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「向偽裝的我道別」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2245,9 +2245,9 @@
     "requirement1": 20000,
     "sentence": "在活動「向偽裝的我道別」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2259,9 +2259,9 @@
     "requirement1": 1,
     "sentence": "參加「向偽裝的我道別 After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2274,9 +2274,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -2288,9 +2288,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2302,9 +2302,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2316,9 +2316,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2331,9 +2331,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2345,9 +2345,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「相繫的，星星之歌」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2359,9 +2359,9 @@
     "requirement1": 20000,
     "sentence": "在活動「相繫的，星星之歌」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2373,9 +2373,9 @@
     "requirement1": 1,
     "sentence": "參加「相繫的，星星之歌 After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2388,9 +2388,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -2402,9 +2402,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2416,9 +2416,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2430,9 +2430,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2445,9 +2445,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2459,9 +2459,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「手忙腳亂 cafe ●REC!!」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2473,9 +2473,9 @@
     "requirement1": 20000,
     "sentence": "在活動「手忙腳亂 cafe ●REC!!」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2487,9 +2487,9 @@
     "requirement1": 1,
     "sentence": "參加「手忙腳亂 cafe ●REC!! After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2502,9 +2502,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -2516,9 +2516,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2530,9 +2530,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2544,9 +2544,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2559,9 +2559,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2573,9 +2573,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「On Your Feet」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2587,9 +2587,9 @@
     "requirement1": 20000,
     "sentence": "在活動「On Your Feet」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2601,9 +2601,9 @@
     "requirement1": 1,
     "sentence": "參加「On Your Feet After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2616,9 +2616,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -2630,9 +2630,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2644,9 +2644,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2658,9 +2658,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2673,9 +2673,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2687,9 +2687,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「我們的圓滿結局」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2701,9 +2701,9 @@
     "requirement1": 20000,
     "sentence": "在活動「我們的圓滿結局」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2715,9 +2715,9 @@
     "requirement1": 1,
     "sentence": "參加「我們的圓滿結局 After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2730,9 +2730,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -2744,9 +2744,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2758,9 +2758,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2772,9 +2772,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2787,9 +2787,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2801,9 +2801,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「響徹『世界』！Your Song」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2815,9 +2815,9 @@
     "requirement1": 20000,
     "sentence": "在活動「響徹『世界』！Your Song」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2829,9 +2829,9 @@
     "requirement1": 1,
     "sentence": "參加「響徹『世界』！Your Song  After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2844,9 +2844,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -2858,9 +2858,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2872,9 +2872,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2886,9 +2886,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2901,9 +2901,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2915,9 +2915,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「與妳編織的Precious memories」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2929,9 +2929,9 @@
     "requirement1": 20000,
     "sentence": "在活動「與妳編織的Precious memories」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2943,9 +2943,9 @@
     "requirement1": 1,
     "sentence": "參加「與妳編織的Precious memories After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2958,9 +2958,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -2972,9 +2972,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -2986,9 +2986,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3000,9 +3000,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3015,9 +3015,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3029,9 +3029,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Let's study hard！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3043,9 +3043,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Let's study hard！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3057,9 +3057,9 @@
     "requirement1": 1,
     "sentence": "參加「Let's study hard！ After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3072,9 +3072,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -3086,9 +3086,9 @@
     "requirement1": 11,
     "sentence": "連續11日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3100,9 +3100,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3114,9 +3114,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3129,9 +3129,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3143,9 +3143,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Hello, good day！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3157,9 +3157,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Hello, good day！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3171,9 +3171,9 @@
     "requirement1": 1,
     "sentence": "參加「Hello, good day！ After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3186,9 +3186,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -3200,9 +3200,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3214,9 +3214,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3228,9 +3228,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3243,9 +3243,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3257,9 +3257,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「BURN MY SOUL」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3271,9 +3271,9 @@
     "requirement1": 20000,
     "sentence": "在活動「BURN MY SOUL」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3285,9 +3285,9 @@
     "requirement1": 1,
     "sentence": "參加「BURN MY SOUL After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3300,9 +3300,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -3314,9 +3314,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3328,9 +3328,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3342,9 +3342,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3357,9 +3357,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3371,9 +3371,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Stick to your faith」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3385,9 +3385,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Stick to your faith」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3399,9 +3399,9 @@
     "requirement1": 1,
     "sentence": "參加「Stick to your faith After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3414,9 +3414,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -3428,9 +3428,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3442,9 +3442,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3456,9 +3456,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3471,9 +3471,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3485,9 +3485,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「引導那雙手的溫暖是」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3499,9 +3499,9 @@
     "requirement1": 20000,
     "sentence": "在活動「引導那雙手的溫暖是」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3513,9 +3513,9 @@
     "requirement1": 1,
     "sentence": "參加「引導那雙手的溫暖是 After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3528,9 +3528,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -3542,9 +3542,9 @@
     "requirement1": 12,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3556,9 +3556,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3570,9 +3570,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3585,9 +3585,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3599,9 +3599,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「在水底探尋身影 」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3613,9 +3613,9 @@
     "requirement1": 20000,
     "sentence": "在活動「在水底探尋身影 」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3627,9 +3627,9 @@
     "requirement1": 1,
     "sentence": "參加「在水底探尋身影  After LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3642,9 +3642,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -3656,9 +3656,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3670,9 +3670,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3684,9 +3684,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3699,9 +3699,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3713,9 +3713,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「將以你為主角的故事」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3727,9 +3727,9 @@
     "requirement1": 20000,
     "sentence": "在活動「將以你為主角的故事」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3741,9 +3741,9 @@
     "requirement1": 1,
     "sentence": "參加「將以你為主角的故事 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3756,9 +3756,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -3770,9 +3770,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3784,9 +3784,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3798,9 +3798,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3813,9 +3813,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3827,9 +3827,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「最棒的殺青！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3841,9 +3841,9 @@
     "requirement1": 20000,
     "sentence": "在活動「最棒的殺青！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3855,9 +3855,9 @@
     "requirement1": 1,
     "sentence": "參加「最棒的殺青！ AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3870,9 +3870,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -3884,9 +3884,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3898,9 +3898,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3912,9 +3912,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3927,9 +3927,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3941,9 +3941,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「東奔西跑保育員體驗！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3955,9 +3955,9 @@
     "requirement1": 20000,
     "sentence": "在活動「東奔西跑保育員體驗！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3969,9 +3969,9 @@
     "requirement1": 1,
     "sentence": "參加「東奔西跑保育員體驗！ AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -3984,9 +3984,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -3998,9 +3998,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4012,9 +4012,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4026,9 +4026,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4041,9 +4041,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4055,9 +4055,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「將那天演奏的音色」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4069,9 +4069,9 @@
     "requirement1": 20000,
     "sentence": "在活動「將那天演奏的音色」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4083,9 +4083,9 @@
     "requirement1": 1,
     "sentence": "參加「將那天演奏的音色 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4098,9 +4098,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -4112,9 +4112,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4126,9 +4126,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4140,9 +4140,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4155,9 +4155,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4169,9 +4169,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「在不變的溫暖旁」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4183,9 +4183,9 @@
     "requirement1": 20000,
     "sentence": "在活動「在不變的溫暖旁」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4197,9 +4197,9 @@
     "requirement1": 1,
     "sentence": "參加「在不變的溫暖旁 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4212,9 +4212,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -4226,9 +4226,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4240,9 +4240,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4254,9 +4254,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4269,9 +4269,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4283,9 +4283,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「BREAK DOWN THE WALL」的結尾吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4297,9 +4297,9 @@
     "requirement1": 20000,
     "sentence": "在活動「BREAK DOWN THE WALL」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4311,9 +4311,9 @@
     "requirement1": 1,
     "sentence": "參加「BREAK DOWN THE WALL AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4326,9 +4326,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -4340,9 +4340,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4354,9 +4354,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4368,9 +4368,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4383,9 +4383,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4397,9 +4397,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「逆光的鏡頭耀光」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4411,9 +4411,9 @@
     "requirement1": 20000,
     "sentence": "在活動「逆光的鏡頭耀光」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4425,9 +4425,9 @@
     "requirement1": 1,
     "sentence": "參加「逆光的鏡頭耀光 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4440,9 +4440,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -4454,9 +4454,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4468,9 +4468,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4482,9 +4482,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4497,9 +4497,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4511,9 +4511,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Take the Best Shot！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4525,9 +4525,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Take the Best Shot！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4539,9 +4539,9 @@
     "requirement1": 1,
     "sentence": "參加「Take the Best Shot！ AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4554,9 +4554,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -4568,9 +4568,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4582,9 +4582,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4596,9 +4596,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4611,9 +4611,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4625,9 +4625,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「將溫柔放在心中，勇敢引導」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4639,9 +4639,9 @@
     "requirement1": 20000,
     "sentence": "在活動「將溫柔放在心中，勇敢引導」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4653,9 +4653,9 @@
     "requirement1": 1,
     "sentence": "參加「將溫柔放在心中，勇敢引導 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4668,9 +4668,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -4682,9 +4682,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4696,9 +4696,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4710,9 +4710,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4725,9 +4725,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4739,9 +4739,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「被刻下的傷，總有一天」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4753,9 +4753,9 @@
     "requirement1": 20000,
     "sentence": "在活動「被刻下的傷，總有一天」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4767,9 +4767,9 @@
     "requirement1": 1,
     "sentence": "參加「被刻下的傷，總有一天 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4782,9 +4782,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -4796,9 +4796,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4810,9 +4810,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4824,9 +4824,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4839,9 +4839,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4853,9 +4853,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「悠閒的下午茶時光」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4867,9 +4867,9 @@
     "requirement1": 20000,
     "sentence": "在活動「悠閒的下午茶時光」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4881,9 +4881,9 @@
     "requirement1": 1,
     "sentence": "參加「悠閒的下午茶時光 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4896,9 +4896,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -4910,9 +4910,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4924,9 +4924,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4938,9 +4938,9 @@
     "requirement1": 10,
     "sentence": "達成10首LIVE歌曲的FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4953,9 +4953,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4967,9 +4967,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「朝向星星，啟航！」的結尾吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4981,9 +4981,9 @@
     "requirement1": 20000,
     "sentence": "在活動「朝向星星，啟航！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -4995,9 +4995,9 @@
     "requirement1": 1,
     "sentence": "參加「朝向星星，啟航！ AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5010,9 +5010,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -5024,9 +5024,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5038,9 +5038,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5052,9 +5052,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5067,9 +5067,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5081,9 +5081,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「The first concerto」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5095,9 +5095,9 @@
     "requirement1": 20000,
     "sentence": "在活動「The first concerto」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5109,9 +5109,9 @@
     "requirement1": 1,
     "sentence": "參加「The first concerto AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5124,9 +5124,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -5138,9 +5138,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5152,9 +5152,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5166,9 +5166,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5181,9 +5181,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5195,9 +5195,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Rise as ONE！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5209,9 +5209,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Rise as ONE！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5223,9 +5223,9 @@
     "requirement1": 1,
     "sentence": "參加「Rise as ONE！ AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5238,9 +5238,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -5252,9 +5252,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5266,9 +5266,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5280,9 +5280,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5295,9 +5295,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5309,9 +5309,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Knowing the Unseen」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5323,9 +5323,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Knowing the Unseen」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5337,9 +5337,9 @@
     "requirement1": 1,
     "sentence": "參加「Knowing the Unseen AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5352,9 +5352,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -5366,9 +5366,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5380,9 +5380,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5394,9 +5394,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5409,9 +5409,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5423,9 +5423,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Parallel Harmonies」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5437,9 +5437,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Parallel Harmonies」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5451,9 +5451,9 @@
     "requirement1": 1,
     "sentence": "參加「Parallel Harmonies AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5466,9 +5466,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -5480,9 +5480,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5494,9 +5494,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5508,9 +5508,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5523,9 +5523,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5537,9 +5537,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Whip the wimp girl!!」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5551,9 +5551,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Whip the wimp girl!!」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5565,9 +5565,9 @@
     "requirement1": 1,
     "sentence": "參加「Whip the wimp girl!! AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5580,9 +5580,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -5594,9 +5594,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5608,9 +5608,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5622,9 +5622,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5637,9 +5637,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5651,9 +5651,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「終將邁向盛開的舞台」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5665,9 +5665,9 @@
     "requirement1": 20000,
     "sentence": "在活動「終將邁向盛開的舞台」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5679,9 +5679,9 @@
     "requirement1": 1,
     "sentence": "參加「終將邁向盛開的舞台 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8000
-      ]
+      {
+        "resourceBoxId": 8000
+      }
     ]
   },
   {
@@ -5694,9 +5694,9 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": [
-      [
-        8001
-      ]
+      {
+        "resourceBoxId": 8001
+      }
     ]
   },
   {
@@ -5708,9 +5708,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5722,9 +5722,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5736,9 +5736,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5751,9 +5751,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5765,9 +5765,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「perspective for smile」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5779,9 +5779,9 @@
     "requirement1": 20000,
     "sentence": "在活動「perspective for smile」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5793,9 +5793,9 @@
     "requirement1": 1,
     "sentence": "參加「perspective for smile AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5818,9 +5818,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5832,9 +5832,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5846,9 +5846,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5861,9 +5861,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5875,9 +5875,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「大家一起直播♡WEDDING LIVE！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5889,9 +5889,9 @@
     "requirement1": 20000,
     "sentence": "在活動「大家一起直播♡WEDDING LIVE！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5903,9 +5903,9 @@
     "requirement1": 1,
     "sentence": "參加「大家一起直播♡WEDDING LIVE！ AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5928,9 +5928,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5942,9 +5942,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5956,9 +5956,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5971,9 +5971,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5985,9 +5985,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Lead to shine more」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -5999,9 +5999,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Lead to shine more」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6013,9 +6013,9 @@
     "requirement1": 1,
     "sentence": "參加「Lead to shine more AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6038,9 +6038,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6052,9 +6052,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6066,9 +6066,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6081,9 +6081,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6095,9 +6095,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「伸手抓住燈火」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6109,9 +6109,9 @@
     "requirement1": 20000,
     "sentence": "在活動「伸手抓住燈火」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6123,9 +6123,9 @@
     "requirement1": 1,
     "sentence": "參加「伸手抓住燈火 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6148,9 +6148,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6162,9 +6162,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6176,9 +6176,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6191,9 +6191,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6205,9 +6205,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「OVER RAD SQUAD!!」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6219,9 +6219,9 @@
     "requirement1": 20000,
     "sentence": "在活動「OVER RAD SQUAD!!」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6233,9 +6233,9 @@
     "requirement1": 1,
     "sentence": "參加「OVER RAD SQUAD!! AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6258,9 +6258,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6272,9 +6272,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6286,9 +6286,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6301,9 +6301,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6315,9 +6315,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「束手就擒！？天馬逮捕記」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6329,9 +6329,9 @@
     "requirement1": 20000,
     "sentence": "在活動「束手就擒！？天馬逮捕記」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6343,9 +6343,9 @@
     "requirement1": 1,
     "sentence": "參加「束手就擒！？天馬逮捕記 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6368,9 +6368,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6382,9 +6382,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6396,9 +6396,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6411,9 +6411,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6425,9 +6425,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「那一日仰望的夜空，終將通向我們的將來」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6439,9 +6439,9 @@
     "requirement1": 20000,
     "sentence": "在活動「那一日仰望的夜空，終將通向我們的將來」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6453,9 +6453,9 @@
     "requirement1": 1,
     "sentence": "參加「那一日仰望的夜空，終將通向我們的將來 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6478,9 +6478,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6492,9 +6492,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6506,9 +6506,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6521,9 +6521,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6535,9 +6535,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Chase my IDEAL IDOL!」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6549,9 +6549,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Chase my IDEAL IDOL!」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6563,9 +6563,9 @@
     "requirement1": 1,
     "sentence": "參加「Chase my IDEAL IDOL! AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6588,9 +6588,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6602,9 +6602,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6616,9 +6616,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6631,9 +6631,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6645,9 +6645,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「奏響美妙樂音！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6659,9 +6659,9 @@
     "requirement1": 20000,
     "sentence": "在活動「奏響美妙樂音！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6673,9 +6673,9 @@
     "requirement1": 1,
     "sentence": "參加「奏響美妙樂音！ AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6698,9 +6698,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6712,9 +6712,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6726,9 +6726,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6741,9 +6741,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6755,9 +6755,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「與你一同，在「世界」的起點」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6769,9 +6769,9 @@
     "requirement1": 20000,
     "sentence": "在活動「與你一同，在「世界」的起點」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6783,9 +6783,9 @@
     "requirement1": 1,
     "sentence": "參加「與你一同，在「世界」的起點 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6808,9 +6808,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6822,9 +6822,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6836,9 +6836,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6851,9 +6851,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6865,9 +6865,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Wonderhorror～！？的試膽大會！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6879,9 +6879,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Wonderhorror～！？的試膽大會！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6893,9 +6893,9 @@
     "requirement1": 1,
     "sentence": "參加「Wonderhorror～！？的試膽大會！ AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6918,9 +6918,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6932,9 +6932,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6946,9 +6946,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6961,9 +6961,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6975,9 +6975,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「鍛鍊FLY！Muscle Training！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -6989,9 +6989,9 @@
     "requirement1": 20000,
     "sentence": "在活動「鍛鍊FLY！Muscle Training！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7003,9 +7003,9 @@
     "requirement1": 1,
     "sentence": "參加「鍛鍊FLY！Muscle Training！ AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7028,9 +7028,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7042,9 +7042,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7056,9 +7056,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7071,9 +7071,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7085,9 +7085,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「This moment with you!」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7099,9 +7099,9 @@
     "requirement1": 20000,
     "sentence": "在活動「This moment with you!」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7113,9 +7113,9 @@
     "requirement1": 1,
     "sentence": "參加「This moment with you! AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7138,9 +7138,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7152,9 +7152,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7166,9 +7166,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7181,9 +7181,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7195,9 +7195,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「傾注心意！Dream Stage」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7209,9 +7209,9 @@
     "requirement1": 20000,
     "sentence": "在活動「傾注心意！Dream Stage」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7223,9 +7223,9 @@
     "requirement1": 1,
     "sentence": "參加「傾注心意！Dream Stage AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7248,9 +7248,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7262,9 +7262,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7276,9 +7276,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7291,9 +7291,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7305,9 +7305,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「荊棘之路通往何處」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7319,9 +7319,9 @@
     "requirement1": 20000,
     "sentence": "在活動「荊棘之路通往何處」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7333,9 +7333,9 @@
     "requirement1": 1,
     "sentence": "參加「荊棘之路通往何處 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7358,9 +7358,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7372,9 +7372,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7386,9 +7386,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7401,9 +7401,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7415,9 +7415,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Rekindle the flame」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7429,9 +7429,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Rekindle the flame」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7443,9 +7443,9 @@
     "requirement1": 1,
     "sentence": "參加「Rekindle the flame AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7468,9 +7468,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7482,9 +7482,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7496,9 +7496,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7511,9 +7511,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7525,9 +7525,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Happy Enjoy Music!」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7539,9 +7539,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Happy Enjoy Music!」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7553,9 +7553,9 @@
     "requirement1": 1,
     "sentence": "參加「Happy Enjoy Music! AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7578,9 +7578,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7592,9 +7592,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7606,9 +7606,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7621,9 +7621,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7635,9 +7635,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「當秋葉再次染紅之際」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7649,9 +7649,9 @@
     "requirement1": 20000,
     "sentence": "在活動「當秋葉再次染紅之際」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7663,9 +7663,9 @@
     "requirement1": 1,
     "sentence": "參加「當秋葉再次染紅之際 AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7688,9 +7688,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7702,9 +7702,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7716,9 +7716,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7731,9 +7731,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7745,9 +7745,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「The Power Of Regret」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7759,9 +7759,9 @@
     "requirement1": 20000,
     "sentence": "在活動「The Power Of Regret」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7773,9 +7773,9 @@
     "requirement1": 1,
     "sentence": "參加「The Power Of Regret AFTER LIVE」吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7798,9 +7798,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7812,9 +7812,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7826,9 +7826,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7841,9 +7841,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7855,9 +7855,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「我們會用傷痕纍纍的手」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7869,9 +7869,9 @@
     "requirement1": 20000,
     "sentence": "在活動「我們會用傷痕纍纍的手」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7883,9 +7883,9 @@
     "requirement1": 1,
     "sentence": "參加「我們會用傷痕纍纍的手 AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7908,9 +7908,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7922,9 +7922,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7936,9 +7936,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7951,9 +7951,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7965,9 +7965,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Grow glorious glow」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7979,9 +7979,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Grow glorious glow」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -7993,9 +7993,9 @@
     "requirement1": 1,
     "sentence": "參加「Grow glorious glow AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8018,9 +8018,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8032,9 +8032,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8046,9 +8046,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8061,9 +8061,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8075,9 +8075,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Special present for YOU！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8089,9 +8089,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Special present for YOU！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8103,9 +8103,9 @@
     "requirement1": 1,
     "sentence": "參加「Special present for YOU！ AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8128,9 +8128,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8142,9 +8142,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8156,9 +8156,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8171,9 +8171,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8185,9 +8185,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Unfading wishing」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8199,9 +8199,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Unfading wishing」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8213,9 +8213,9 @@
     "requirement1": 1,
     "sentence": "參加「Unfading wishing AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8238,9 +8238,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8252,9 +8252,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8266,9 +8266,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8281,9 +8281,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8295,9 +8295,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Time to take off！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8309,9 +8309,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Time to take off！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8323,9 +8323,9 @@
     "requirement1": 1,
     "sentence": "參加「Time to take off！ AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8348,9 +8348,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8362,9 +8362,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8376,9 +8376,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8391,9 +8391,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8405,9 +8405,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Show your shine」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8419,9 +8419,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Show your shine」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8433,9 +8433,9 @@
     "requirement1": 1,
     "sentence": "參加「Show your shine AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8458,9 +8458,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8472,9 +8472,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8486,9 +8486,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8501,9 +8501,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8515,9 +8515,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「將心意注入每一針」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8529,9 +8529,9 @@
     "requirement1": 20000,
     "sentence": "在活動「將心意注入每一針」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8543,9 +8543,9 @@
     "requirement1": 1,
     "sentence": "參加「將心意注入每一針 AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8568,9 +8568,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8582,9 +8582,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8596,9 +8596,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8611,9 +8611,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8625,9 +8625,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Rise and Strive」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8639,9 +8639,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Rise and Strive」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8653,9 +8653,9 @@
     "requirement1": 1,
     "sentence": "參加「Rise and Strive AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8678,9 +8678,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8692,9 +8692,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8706,9 +8706,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8721,9 +8721,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8735,9 +8735,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「昔日的Read-aloud」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8749,9 +8749,9 @@
     "requirement1": 20000,
     "sentence": "在活動「昔日的Read-aloud」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8763,9 +8763,9 @@
     "requirement1": 1,
     "sentence": "參加「昔日的Read-aloud AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8788,9 +8788,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8802,9 +8802,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8816,9 +8816,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8831,9 +8831,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8845,9 +8845,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Connect hearts message」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8859,9 +8859,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Connect hearts message」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8873,9 +8873,9 @@
     "requirement1": 1,
     "sentence": "參加「Connect hearts message AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8898,9 +8898,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8912,9 +8912,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8926,9 +8926,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8941,9 +8941,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8955,9 +8955,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「You are my HERO!!」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8969,9 +8969,9 @@
     "requirement1": 20000,
     "sentence": "在活動「You are my HERO!!」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -8983,9 +8983,9 @@
     "requirement1": 1,
     "sentence": "參加「You are my HERO!! AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9008,9 +9008,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9022,9 +9022,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9036,9 +9036,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9051,9 +9051,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9065,9 +9065,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Unreliable Notes」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9079,9 +9079,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Unreliable Notes」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9093,9 +9093,9 @@
     "requirement1": 1,
     "sentence": "參加「Unreliable Notes AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9118,9 +9118,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9132,9 +9132,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9146,9 +9146,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9161,9 +9161,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9175,9 +9175,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Find the dream view」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9189,9 +9189,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Find the dream view」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9203,9 +9203,9 @@
     "requirement1": 1,
     "sentence": "參加「Find the dream view AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9228,9 +9228,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9242,9 +9242,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9256,9 +9256,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9271,9 +9271,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9285,9 +9285,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Turning Pain into Drive 」的結尾吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9299,9 +9299,9 @@
     "requirement1": 10,
     "sentence": "在活動「Turning Pain into Drive」的交換所消耗10個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9313,9 +9313,9 @@
     "requirement1": 1,
     "sentence": "參加「Turning Pain into Drive AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9338,9 +9338,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9352,9 +9352,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9366,9 +9366,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9381,9 +9381,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9395,9 +9395,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Choices for the future」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9409,9 +9409,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Choices for the future」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9423,9 +9423,9 @@
     "requirement1": 1,
     "sentence": "參加「Choices for the future AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9448,9 +9448,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9462,9 +9462,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9476,9 +9476,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9491,9 +9491,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9505,9 +9505,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「然後，時針開始轉動」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9519,9 +9519,9 @@
     "requirement1": 20000,
     "sentence": "在活動「然後，時針開始轉動」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9533,9 +9533,9 @@
     "requirement1": 1,
     "sentence": "參加「然後，時針開始轉動 AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9558,9 +9558,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9572,9 +9572,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9586,9 +9586,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9601,9 +9601,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9615,9 +9615,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Dear my fellows」的結尾吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9629,9 +9629,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Dear my fellows」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9643,9 +9643,9 @@
     "requirement1": 1,
     "sentence": "參加「Dear my fellows AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9668,9 +9668,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9682,9 +9682,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9696,9 +9696,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9711,9 +9711,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9725,9 +9725,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Cheer with my Heart!」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9739,9 +9739,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Cheer with my Heart!」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9753,9 +9753,9 @@
     "requirement1": 1,
     "sentence": "參加「Cheer with my Heart! AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9778,9 +9778,9 @@
     "requirement1": 8,
     "sentence": "連續8日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9792,9 +9792,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9806,9 +9806,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9821,9 +9821,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9835,9 +9835,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Aim higher and higher！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9849,9 +9849,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Aim higher and higher！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9863,9 +9863,9 @@
     "requirement1": 1,
     "sentence": "參加「Aim higher and higher! AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9888,9 +9888,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9902,9 +9902,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9916,9 +9916,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9931,9 +9931,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9945,9 +9945,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「在泡沫的擁抱下 」的結尾吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9959,9 +9959,9 @@
     "requirement1": 20000,
     "sentence": "在活動「在泡沫的擁抱下」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9973,9 +9973,9 @@
     "requirement1": 1,
     "sentence": "參加「在泡沫的擁抱下 AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -9998,9 +9998,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10012,9 +10012,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10026,9 +10026,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10041,9 +10041,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10055,9 +10055,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「ordinary,yet special us」的結尾吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10069,9 +10069,9 @@
     "requirement1": 20000,
     "sentence": "在活動「ordinary,yet special us」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10083,9 +10083,9 @@
     "requirement1": 1,
     "sentence": "參加「ordinary, yet special us AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10108,9 +10108,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10122,9 +10122,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10136,9 +10136,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10151,9 +10151,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10165,9 +10165,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Deeper and deeper」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10179,9 +10179,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Deeper and deeper」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10193,9 +10193,9 @@
     "requirement1": 1,
     "sentence": "參加「Deeper and deeper AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10218,9 +10218,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10232,9 +10232,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10246,9 +10246,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10261,9 +10261,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10275,9 +10275,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Unsteady, still steady step」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10289,9 +10289,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Unsteady, still steady step」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10303,9 +10303,9 @@
     "requirement1": 1,
     "sentence": "參加「Unsteady, still steady step AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10328,9 +10328,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10342,9 +10342,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10356,9 +10356,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10371,9 +10371,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10385,9 +10385,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「start rolling! stars' crossing」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10399,9 +10399,9 @@
     "requirement1": 20000,
     "sentence": "在活動「start rolling! stars' crossing」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10413,9 +10413,9 @@
     "requirement1": 1,
     "sentence": "參加「start rolling! stars' crossing AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10438,9 +10438,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10452,9 +10452,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10466,9 +10466,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10481,9 +10481,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10495,9 +10495,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Competitive fire！」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10509,9 +10509,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Competitive fire！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10523,9 +10523,9 @@
     "requirement1": 1,
     "sentence": "參加「Competitive fire! AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10548,9 +10548,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10562,9 +10562,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10576,9 +10576,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10591,9 +10591,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10605,9 +10605,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「All ways Jump! with you 」的結尾吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10619,9 +10619,9 @@
     "requirement1": 20000,
     "sentence": "在活動「All ways Jump! with you」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10633,9 +10633,9 @@
     "requirement1": 1,
     "sentence": "參加「All ways Jump! with you AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10658,9 +10658,9 @@
     "requirement1": 7,
     "sentence": "連續7日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10672,9 +10672,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10686,9 +10686,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10701,9 +10701,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10715,9 +10715,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「將手伸向難解的明日」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10729,9 +10729,9 @@
     "requirement1": 20000,
     "sentence": "在活動「將手伸向難解的明日」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10743,9 +10743,9 @@
     "requirement1": 1,
     "sentence": "參加「將手伸向難解的明日 AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10768,9 +10768,9 @@
     "requirement1": 6,
     "sentence": "連續6日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10782,9 +10782,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10796,9 +10796,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10811,9 +10811,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10825,9 +10825,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Deep Dark For Light」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10839,9 +10839,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Deep Dark For Light」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10853,9 +10853,9 @@
     "requirement1": 1,
     "sentence": "參加「Deep Dark For Light AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10878,9 +10878,9 @@
     "requirement1": 13,
     "sentence": "連續13日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10892,9 +10892,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10906,9 +10906,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10921,9 +10921,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10935,9 +10935,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Link the Beats！」的結尾吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10949,9 +10949,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Link the Beats！」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10963,9 +10963,9 @@
     "requirement1": 1,
     "sentence": "參加「Link the Beats! AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -10988,9 +10988,9 @@
     "requirement1": 1,
     "sentence": "通過1次多人LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11002,9 +11002,9 @@
     "requirement1": 2,
     "sentence": "通過2次多人LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11016,9 +11016,9 @@
     "requirement1": 3,
     "sentence": "通過3次多人LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11030,9 +11030,9 @@
     "requirement1": 4,
     "sentence": "通過4次多人LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11044,9 +11044,9 @@
     "requirement1": 5,
     "sentence": "通過5次多人LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11058,9 +11058,9 @@
     "requirement1": 7,
     "sentence": "通過7次多人LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11072,9 +11072,9 @@
     "requirement1": 10,
     "sentence": "通過10次多人LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11097,9 +11097,9 @@
     "requirement1": 10,
     "sentence": "連續10日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11111,9 +11111,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11125,9 +11125,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11140,9 +11140,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11154,9 +11154,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「Our Golden Days」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11168,9 +11168,9 @@
     "requirement1": 20000,
     "sentence": "在活動「Our Golden Days」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11182,9 +11182,9 @@
     "requirement1": 1,
     "sentence": "參加「Our Golden Days AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11207,9 +11207,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11221,9 +11221,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11235,9 +11235,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11250,9 +11250,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11264,9 +11264,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「與你相繫的Heart Beat」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11278,9 +11278,9 @@
     "requirement1": 20000,
     "sentence": "在活動「與你相繫的Heart Beat」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11292,9 +11292,9 @@
     "requirement1": 1,
     "sentence": "參加「與你相繫的Heart Beat AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11317,9 +11317,9 @@
     "requirement1": 9,
     "sentence": "連續9日每天通過1次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11331,9 +11331,9 @@
     "requirement1": 50,
     "sentence": "通過50次LIVE吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11345,9 +11345,9 @@
     "requirement1": 10,
     "sentence": "在LIVE中達成10次FULL COMBO吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11360,9 +11360,9 @@
     "requirement2": 1,
     "sentence": "在LIVE中通過10首歌曲吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11374,9 +11374,9 @@
     "requirement1": 1,
     "sentence": "觀賞活動「交融的色彩一如昔日」最後一章的活動劇情吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11388,9 +11388,9 @@
     "requirement1": 20000,
     "sentence": "在活動「交融的色彩一如昔日」的交換所消耗20000個徽章吧。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {
@@ -11402,9 +11402,9 @@
     "requirement1": 1,
     "sentence": "參加「交融的色彩一如昔日 AFTER LIVE」吧 。",
     "rewards": [
-      [
-        8002
-      ]
+      {
+        "resourceBoxId": 8002
+      }
     ]
   },
   {

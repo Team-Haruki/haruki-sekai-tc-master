@@ -1,13 +1,13 @@
 [
   {
-    "id": 1,
+    "Id": 1,
     "seq": 1,
-    "exchangeCategory": "master_piece",
+    "ExchangeCategory": "master_piece",
     "materialExchangeType": "normal",
-    "name": "心願碎片",
+    "Name": "心願碎片",
     "assetbundleName": "icon_heartPiece",
-    "startAt": 1546272000000,
-    "materialExchanges": [
+    "StartAt": 1546272000000,
+    "MaterialExchanges": [
       {
         "id": 2,
         "materialExchangeSummaryId": 1,
@@ -397,14 +397,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 2,
+    "Id": 2,
     "seq": 40,
-    "exchangeCategory": "card_ticket",
+    "ExchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "★3成員",
+    "Name": "★3成員",
     "assetbundleName": "icon_memberTicket_star3",
-    "startAt": 1607324400000,
-    "materialExchanges": [
+    "StartAt": 1607324400000,
+    "MaterialExchanges": [
       {
         "id": 17,
         "materialExchangeSummaryId": 2,
@@ -2683,16 +2683,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 3,
+    "Id": 3,
     "seq": 20,
-    "exchangeCategory": "card_ticket",
+    "ExchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "★4成員",
+    "Name": "★4成員",
     "assetbundleName": "icon_memberTicket_star4",
-    "startAt": 1664467200000,
-    "endAt": 1669823999000,
+    "StartAt": 1664467200000,
+    "EndAt": 1669823999000,
     "notificationRemainHour": 168,
-    "materialExchanges": [
+    "MaterialExchanges": [
       {
         "id": 30001,
         "materialExchangeSummaryId": 3,
@@ -4274,14 +4274,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 4,
+    "Id": 4,
     "seq": 30,
-    "exchangeCategory": "vocal_card_ticket",
+    "ExchangeCategory": "vocal_card_ticket",
     "materialExchangeType": "normal",
-    "name": "主唱卡",
+    "Name": "主唱卡",
     "assetbundleName": "icon_vocalTicket",
-    "startAt": 1612076400000,
-    "materialExchanges": [
+    "StartAt": 1612076400000,
+    "MaterialExchanges": [
       {
         "id": 40001,
         "materialExchangeSummaryId": 4,
@@ -4940,14 +4940,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 5,
+    "Id": 5,
     "seq": 3,
-    "exchangeCategory": "gacha_seal",
+    "ExchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "name": "★2成員",
+    "Name": "★2成員",
     "assetbundleName": "icon_gachaSealTicket",
-    "startAt": 1546272000000,
-    "materialExchanges": [
+    "StartAt": 1546272000000,
+    "MaterialExchanges": [
       {
         "id": 50001,
         "materialExchangeSummaryId": 5,
@@ -8625,14 +8625,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 6,
+    "Id": 6,
     "seq": 2,
-    "exchangeCategory": "gacha_seal",
+    "ExchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "name": "★3成員",
+    "Name": "★3成員",
     "assetbundleName": "icon_gachaSealTicket",
-    "startAt": 1546272000000,
-    "materialExchanges": [
+    "StartAt": 1546272000000,
+    "MaterialExchanges": [
       {
         "id": 60001,
         "materialExchangeSummaryId": 6,
@@ -12214,14 +12214,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 7,
+    "Id": 7,
     "seq": 1,
-    "exchangeCategory": "gacha_seal",
+    "ExchangeCategory": "gacha_seal",
     "materialExchangeType": "normal",
-    "name": "★4成員",
+    "Name": "★4成員",
     "assetbundleName": "icon_gachaSealTicket",
-    "startAt": 1546272000000,
-    "materialExchanges": [
+    "StartAt": 1546272000000,
+    "MaterialExchanges": [
       {
         "id": 70001,
         "materialExchangeSummaryId": 7,
@@ -18336,14 +18336,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 8,
+    "Id": 8,
     "seq": 3,
-    "exchangeCategory": "card_ticket",
+    "ExchangeCategory": "card_ticket",
     "materialExchangeType": "beginner",
-    "name": "[新手限定]\n★4成員",
+    "Name": "[新手限定]\n★4成員",
     "assetbundleName": "icon_memberTicket_star4",
-    "startAt": 1036047600000,
-    "materialExchanges": [
+    "StartAt": 1036047600000,
+    "MaterialExchanges": [
       {
         "id": 80001,
         "materialExchangeSummaryId": 8,
@@ -25212,14 +25212,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 10,
+    "Id": 10,
     "seq": 2,
-    "exchangeCategory": "master_crystal",
+    "ExchangeCategory": "master_crystal",
     "materialExchangeType": "normal",
-    "name": "心願純結晶",
+    "Name": "心願純結晶",
     "assetbundleName": "icon_heartCrystal",
-    "startAt": 1546272000000,
-    "materialExchanges": [
+    "StartAt": 1546272000000,
+    "MaterialExchanges": [
       {
         "id": 100001,
         "materialExchangeSummaryId": 10,
@@ -25243,16 +25243,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 11,
+    "Id": 11,
     "seq": 20,
-    "exchangeCategory": "card_ticket",
+    "ExchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "★4成員",
+    "Name": "★4成員",
     "assetbundleName": "icon_memberTicket_star4",
-    "startAt": 1696003200000,
-    "endAt": 1699804799000,
+    "StartAt": 1696003200000,
+    "EndAt": 1699804799000,
     "notificationRemainHour": 168,
-    "materialExchanges": [
+    "MaterialExchanges": [
       {
         "id": 110001,
         "materialExchangeSummaryId": 11,
@@ -28221,16 +28221,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 12,
+    "Id": 12,
     "seq": 20,
-    "exchangeCategory": "card_ticket",
+    "ExchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "★4成員",
+    "Name": "★4成員",
     "assetbundleName": "icon_memberTicket_star4",
-    "startAt": 1727625600000,
-    "endAt": 1731427199000,
+    "StartAt": 1727625600000,
+    "EndAt": 1731427199000,
     "notificationRemainHour": 168,
-    "materialExchanges": [
+    "MaterialExchanges": [
       {
         "id": 120001,
         "materialExchangeSummaryId": 12,
@@ -32567,14 +32567,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 14,
+    "Id": 14,
     "seq": 1,
-    "exchangeCategory": "consume_material",
+    "ExchangeCategory": "consume_material",
     "materialExchangeType": "normal",
-    "name": "心願小瓶子交換",
+    "Name": "心願小瓶子交換",
     "assetbundleName": "icon_smallBottle",
-    "startAt": 1743249600000,
-    "materialExchanges": [
+    "StartAt": 1743249600000,
+    "MaterialExchanges": [
       {
         "id": 140001,
         "materialExchangeSummaryId": 14,
@@ -33125,14 +33125,14 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 15,
+    "Id": 15,
     "seq": 40,
-    "exchangeCategory": "common_ticket",
+    "ExchangeCategory": "common_ticket",
     "materialExchangeType": "normal",
-    "name": "限定\n招募貼紙交換券",
+    "Name": "限定\n招募貼紙交換券",
     "assetbundleName": "icon_gachaSealTicket_Limited",
-    "startAt": 1758988800000,
-    "materialExchanges": [
+    "StartAt": 1758988800000,
+    "MaterialExchanges": [
       {
         "id": 150001,
         "materialExchangeSummaryId": 15,
@@ -33156,16 +33156,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 17,
+    "Id": 17,
     "seq": 1,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 1,
-    "name": "幸運\n之花",
+    "Name": "幸運\n之花",
     "assetbundleName": "icon_fortuneFlower",
-    "startAt": 1758988800000,
-    "endAt": 1763135999000,
-    "materialExchanges": [
+    "StartAt": 1758988800000,
+    "EndAt": 1763135999000,
+    "MaterialExchanges": [
       {
         "id": 170001,
         "materialExchangeSummaryId": 17,
@@ -33689,67 +33689,67 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        1,
-        1,
-        1,
-        "material",
-        95,
-        "icon_fortuneFlower_wh"
-      ],
-      [
-        2,
-        1,
-        2,
-        "material",
-        96,
-        "icon_fortuneFlower_bl"
-      ],
-      [
-        3,
-        1,
-        3,
-        "material",
-        97,
-        "icon_fortuneFlower_gn"
-      ],
-      [
-        4,
-        1,
-        4,
-        "material",
-        98,
-        "icon_fortuneFlower_rd"
-      ],
-      [
-        5,
-        1,
-        5,
-        "material",
-        99,
-        "icon_fortuneFlower_yw"
-      ],
-      [
-        6,
-        1,
-        6,
-        "material",
-        100,
-        "icon_fortuneFlower_pr"
-      ]
+      {
+        "id": 1,
+        "groupId": 1,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 95,
+        "assetbundleName": "icon_fortuneFlower_wh"
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 96,
+        "assetbundleName": "icon_fortuneFlower_bl"
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 97,
+        "assetbundleName": "icon_fortuneFlower_gn"
+      },
+      {
+        "id": 4,
+        "groupId": 1,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 98,
+        "assetbundleName": "icon_fortuneFlower_rd"
+      },
+      {
+        "id": 5,
+        "groupId": 1,
+        "seq": 5,
+        "resourceType": "material",
+        "resourceId": 99,
+        "assetbundleName": "icon_fortuneFlower_yw"
+      },
+      {
+        "id": 6,
+        "groupId": 1,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 100,
+        "assetbundleName": "icon_fortuneFlower_pr"
+      }
     ]
   },
   {
-    "id": 18,
+    "Id": 18,
     "seq": 1,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 2,
-    "name": "花瓣",
+    "Name": "花瓣",
     "assetbundleName": "icon_fortuneGrass",
-    "startAt": 1758988800000,
-    "endAt": 1763135999000,
-    "materialExchanges": [
+    "StartAt": 1758988800000,
+    "EndAt": 1763135999000,
+    "MaterialExchanges": [
       {
         "id": 180001,
         "materialExchangeSummaryId": 18,
@@ -34136,67 +34136,67 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        7,
-        2,
-        1,
-        "material",
-        89,
-        "icon_fortuneGrass_wh"
-      ],
-      [
-        8,
-        2,
-        2,
-        "material",
-        90,
-        "icon_fortuneGrass_bl"
-      ],
-      [
-        9,
-        2,
-        3,
-        "material",
-        91,
-        "icon_fortuneGrass_gn"
-      ],
-      [
-        10,
-        2,
-        4,
-        "material",
-        92,
-        "icon_fortuneGrass_rd"
-      ],
-      [
-        11,
-        2,
-        5,
-        "material",
-        93,
-        "icon_fortuneGrass_yw"
-      ],
-      [
-        12,
-        2,
-        6,
-        "material",
-        94,
-        "icon_fortuneGrass_pr"
-      ]
+      {
+        "id": 7,
+        "groupId": 2,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 89,
+        "assetbundleName": "icon_fortuneGrass_wh"
+      },
+      {
+        "id": 8,
+        "groupId": 2,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 90,
+        "assetbundleName": "icon_fortuneGrass_bl"
+      },
+      {
+        "id": 9,
+        "groupId": 2,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 91,
+        "assetbundleName": "icon_fortuneGrass_gn"
+      },
+      {
+        "id": 10,
+        "groupId": 2,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 92,
+        "assetbundleName": "icon_fortuneGrass_rd"
+      },
+      {
+        "id": 11,
+        "groupId": 2,
+        "seq": 5,
+        "resourceType": "material",
+        "resourceId": 93,
+        "assetbundleName": "icon_fortuneGrass_yw"
+      },
+      {
+        "id": 12,
+        "groupId": 2,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 94,
+        "assetbundleName": "icon_fortuneGrass_pr"
+      }
     ]
   },
   {
-    "id": 19,
+    "Id": 19,
     "seq": 1,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 3,
-    "name": "百變\n幸運\n之花",
+    "Name": "百變\n幸運\n之花",
     "assetbundleName": "icon_miracleFortuneFlower",
-    "startAt": 1758988800000,
-    "endAt": 1763135999000,
-    "materialExchanges": [
+    "StartAt": 1758988800000,
+    "EndAt": 1763135999000,
+    "MaterialExchanges": [
       {
         "id": 190001,
         "materialExchangeSummaryId": 19,
@@ -34325,27 +34325,27 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        13,
-        3,
-        1,
-        "material",
-        166,
-        "icon_fortuneFlower_mi"
-      ]
+      {
+        "id": 13,
+        "groupId": 3,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 166,
+        "assetbundleName": "icon_fortuneFlower_mi"
+      }
     ]
   },
   {
-    "id": 20,
+    "Id": 20,
     "seq": 1,
-    "exchangeCategory": "card_ticket",
+    "ExchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "紀念\n★4成員\n劵",
+    "Name": "紀念\n★4成員\n劵",
     "assetbundleName": "icon_memberTicket_star4",
-    "startAt": 1758988800000,
-    "endAt": 1764518399000,
+    "StartAt": 1758988800000,
+    "EndAt": 1764518399000,
     "notificationRemainHour": 168,
-    "materialExchanges": [
+    "MaterialExchanges": [
       {
         "id": 200001,
         "materialExchangeSummaryId": 20,
@@ -39825,173 +39825,173 @@
       "materialExchangeFreebieType": "exchange_already_owned_card"
     },
     "materialExchangeFreebies": [
-      [
-        1,
-        1,
-        1,
-        1
-      ],
-      [
-        2,
-        1,
-        2,
-        2
-      ],
-      [
-        3,
-        1,
-        3,
-        3
-      ],
-      [
-        4,
-        1,
-        4,
-        4
-      ],
-      [
-        5,
-        1,
-        5,
-        5
-      ],
-      [
-        6,
-        1,
-        6,
-        6
-      ],
-      [
-        7,
-        1,
-        7,
-        7
-      ],
-      [
-        8,
-        1,
-        8,
-        8
-      ],
-      [
-        9,
-        1,
-        9,
-        9
-      ],
-      [
-        10,
-        1,
-        10,
-        10
-      ],
-      [
-        11,
-        1,
-        11,
-        11
-      ],
-      [
-        12,
-        1,
-        12,
-        12
-      ],
-      [
-        13,
-        1,
-        13,
-        13
-      ],
-      [
-        14,
-        1,
-        14,
-        14
-      ],
-      [
-        15,
-        1,
-        15,
-        15
-      ],
-      [
-        16,
-        1,
-        16,
-        16
-      ],
-      [
-        17,
-        1,
-        17,
-        17
-      ],
-      [
-        18,
-        1,
-        18,
-        18
-      ],
-      [
-        19,
-        1,
-        19,
-        19
-      ],
-      [
-        20,
-        1,
-        20,
-        20
-      ],
-      [
-        21,
-        1,
-        21,
-        21
-      ],
-      [
-        22,
-        1,
-        22,
-        22
-      ],
-      [
-        23,
-        1,
-        23,
-        23
-      ],
-      [
-        24,
-        1,
-        24,
-        24
-      ],
-      [
-        25,
-        1,
-        25,
-        25
-      ],
-      [
-        26,
-        1,
-        26,
-        26
-      ]
+      {
+        "id": 1,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 1,
+        "resourceBoxId": 1
+      },
+      {
+        "id": 2,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 2,
+        "resourceBoxId": 2
+      },
+      {
+        "id": 3,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 3,
+        "resourceBoxId": 3
+      },
+      {
+        "id": 4,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 4,
+        "resourceBoxId": 4
+      },
+      {
+        "id": 5,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 5,
+        "resourceBoxId": 5
+      },
+      {
+        "id": 6,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 6,
+        "resourceBoxId": 6
+      },
+      {
+        "id": 7,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 7,
+        "resourceBoxId": 7
+      },
+      {
+        "id": 8,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 8,
+        "resourceBoxId": 8
+      },
+      {
+        "id": 9,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 9,
+        "resourceBoxId": 9
+      },
+      {
+        "id": 10,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 10,
+        "resourceBoxId": 10
+      },
+      {
+        "id": 11,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 11,
+        "resourceBoxId": 11
+      },
+      {
+        "id": 12,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 12,
+        "resourceBoxId": 12
+      },
+      {
+        "id": 13,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 13,
+        "resourceBoxId": 13
+      },
+      {
+        "id": 14,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 14,
+        "resourceBoxId": 14
+      },
+      {
+        "id": 15,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 15,
+        "resourceBoxId": 15
+      },
+      {
+        "id": 16,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 16,
+        "resourceBoxId": 16
+      },
+      {
+        "id": 17,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 17,
+        "resourceBoxId": 17
+      },
+      {
+        "id": 18,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 18,
+        "resourceBoxId": 18
+      },
+      {
+        "id": 19,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 19,
+        "resourceBoxId": 19
+      },
+      {
+        "id": 20,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 20,
+        "resourceBoxId": 20
+      },
+      {
+        "id": 21,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 21,
+        "resourceBoxId": 21
+      },
+      {
+        "id": 22,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 22,
+        "resourceBoxId": 22
+      },
+      {
+        "id": 23,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 23,
+        "resourceBoxId": 23
+      },
+      {
+        "id": 24,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 24,
+        "resourceBoxId": 24
+      },
+      {
+        "id": 25,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 25,
+        "resourceBoxId": 25
+      },
+      {
+        "id": 26,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 26,
+        "resourceBoxId": 26
+      }
     ]
   },
   {
-    "id": 21,
+    "Id": 21,
     "seq": 3,
-    "exchangeCategory": "mysekai_material_game_character",
+    "ExchangeCategory": "mysekai_material_game_character",
     "materialExchangeType": "normal",
-    "name": "七彩記憶",
+    "Name": "七彩記憶",
     "assetbundleName": "icon_memoria",
-    "startAt": 1758988800000,
-    "materialExchanges": [
+    "StartAt": 1758988800000,
+    "MaterialExchanges": [
       {
         "id": 210001,
         "materialExchangeSummaryId": 21,
@@ -40550,93 +40550,93 @@
           }
         ],
         "materialExchangeRelationParents": [
-          [
-            1,
-            "用其他的記憶交換",
-            "icon_memoria_blank",
-            [
-              [
-                210021,
-                21002101
-              ],
-              [
-                210021,
-                21002102
-              ],
-              [
-                210021,
-                21002103
-              ],
-              [
-                210021,
-                21002104
-              ],
-              [
-                210021,
-                21002105
-              ],
-              [
-                210021,
-                21002106
-              ],
-              [
-                210021,
-                21002107
-              ],
-              [
-                210021,
-                21002108
-              ],
-              [
-                210021,
-                21002109
-              ],
-              [
-                210021,
-                21002110
-              ],
-              [
-                210021,
-                21002111
-              ],
-              [
-                210021,
-                21002112
-              ],
-              [
-                210021,
-                21002113
-              ],
-              [
-                210021,
-                21002114
-              ],
-              [
-                210021,
-                21002115
-              ],
-              [
-                210021,
-                21002116
-              ],
-              [
-                210021,
-                21002117
-              ],
-              [
-                210021,
-                21002118
-              ],
-              [
-                210021,
-                21002119
-              ],
-              [
-                210021,
-                21002120
-              ]
+          {
+            "id": 1,
+            "description": "用其他的記憶交換",
+            "assetbundleName": "icon_memoria_blank",
+            "materialExchangeRelationChildren": [
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002101
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002102
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002103
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002104
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002105
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002106
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002107
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002108
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002109
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002110
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002111
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002112
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002113
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002114
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002115
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002116
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002117
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002118
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002119
+              },
+              {
+                "materialExchangeId": 210021,
+                "materialExchangeCostGroupId": 21002120
+              }
             ]
-          ]
+          }
         ]
       },
       {
@@ -40817,93 +40817,93 @@
           }
         ],
         "materialExchangeRelationParents": [
-          [
-            2,
-            "用其他的記憶交換",
-            "icon_memoria_blank",
-            [
-              [
-                210022,
-                21002201
-              ],
-              [
-                210022,
-                21002202
-              ],
-              [
-                210022,
-                21002203
-              ],
-              [
-                210022,
-                21002204
-              ],
-              [
-                210022,
-                21002205
-              ],
-              [
-                210022,
-                21002206
-              ],
-              [
-                210022,
-                21002207
-              ],
-              [
-                210022,
-                21002208
-              ],
-              [
-                210022,
-                21002209
-              ],
-              [
-                210022,
-                21002210
-              ],
-              [
-                210022,
-                21002211
-              ],
-              [
-                210022,
-                21002212
-              ],
-              [
-                210022,
-                21002213
-              ],
-              [
-                210022,
-                21002214
-              ],
-              [
-                210022,
-                21002215
-              ],
-              [
-                210022,
-                21002216
-              ],
-              [
-                210022,
-                21002217
-              ],
-              [
-                210022,
-                21002218
-              ],
-              [
-                210022,
-                21002219
-              ],
-              [
-                210022,
-                21002220
-              ]
+          {
+            "id": 2,
+            "description": "用其他的記憶交換",
+            "assetbundleName": "icon_memoria_blank",
+            "materialExchangeRelationChildren": [
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002201
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002202
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002203
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002204
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002205
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002206
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002207
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002208
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002209
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002210
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002211
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002212
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002213
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002214
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002215
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002216
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002217
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002218
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002219
+              },
+              {
+                "materialExchangeId": 210022,
+                "materialExchangeCostGroupId": 21002220
+              }
             ]
-          ]
+          }
         ]
       },
       {
@@ -41084,93 +41084,93 @@
           }
         ],
         "materialExchangeRelationParents": [
-          [
-            3,
-            "用其他的記憶交換",
-            "icon_memoria_blank",
-            [
-              [
-                210023,
-                21002301
-              ],
-              [
-                210023,
-                21002302
-              ],
-              [
-                210023,
-                21002303
-              ],
-              [
-                210023,
-                21002304
-              ],
-              [
-                210023,
-                21002305
-              ],
-              [
-                210023,
-                21002306
-              ],
-              [
-                210023,
-                21002307
-              ],
-              [
-                210023,
-                21002308
-              ],
-              [
-                210023,
-                21002309
-              ],
-              [
-                210023,
-                21002310
-              ],
-              [
-                210023,
-                21002311
-              ],
-              [
-                210023,
-                21002312
-              ],
-              [
-                210023,
-                21002313
-              ],
-              [
-                210023,
-                21002314
-              ],
-              [
-                210023,
-                21002315
-              ],
-              [
-                210023,
-                21002316
-              ],
-              [
-                210023,
-                21002317
-              ],
-              [
-                210023,
-                21002318
-              ],
-              [
-                210023,
-                21002319
-              ],
-              [
-                210023,
-                21002320
-              ]
+          {
+            "id": 3,
+            "description": "用其他的記憶交換",
+            "assetbundleName": "icon_memoria_blank",
+            "materialExchangeRelationChildren": [
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002301
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002302
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002303
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002304
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002305
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002306
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002307
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002308
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002309
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002310
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002311
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002312
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002313
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002314
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002315
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002316
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002317
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002318
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002319
+              },
+              {
+                "materialExchangeId": 210023,
+                "materialExchangeCostGroupId": 21002320
+              }
             ]
-          ]
+          }
         ]
       },
       {
@@ -41351,93 +41351,93 @@
           }
         ],
         "materialExchangeRelationParents": [
-          [
-            4,
-            "用其他的記憶交換",
-            "icon_memoria_blank",
-            [
-              [
-                210024,
-                21002401
-              ],
-              [
-                210024,
-                21002402
-              ],
-              [
-                210024,
-                21002403
-              ],
-              [
-                210024,
-                21002404
-              ],
-              [
-                210024,
-                21002405
-              ],
-              [
-                210024,
-                21002406
-              ],
-              [
-                210024,
-                21002407
-              ],
-              [
-                210024,
-                21002408
-              ],
-              [
-                210024,
-                21002409
-              ],
-              [
-                210024,
-                21002410
-              ],
-              [
-                210024,
-                21002411
-              ],
-              [
-                210024,
-                21002412
-              ],
-              [
-                210024,
-                21002413
-              ],
-              [
-                210024,
-                21002414
-              ],
-              [
-                210024,
-                21002415
-              ],
-              [
-                210024,
-                21002416
-              ],
-              [
-                210024,
-                21002417
-              ],
-              [
-                210024,
-                21002418
-              ],
-              [
-                210024,
-                21002419
-              ],
-              [
-                210024,
-                21002420
-              ]
+          {
+            "id": 4,
+            "description": "用其他的記憶交換",
+            "assetbundleName": "icon_memoria_blank",
+            "materialExchangeRelationChildren": [
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002401
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002402
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002403
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002404
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002405
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002406
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002407
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002408
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002409
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002410
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002411
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002412
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002413
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002414
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002415
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002416
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002417
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002418
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002419
+              },
+              {
+                "materialExchangeId": 210024,
+                "materialExchangeCostGroupId": 21002420
+              }
             ]
-          ]
+          }
         ]
       },
       {
@@ -41618,93 +41618,93 @@
           }
         ],
         "materialExchangeRelationParents": [
-          [
-            5,
-            "用其他的記憶交換",
-            "icon_memoria_blank",
-            [
-              [
-                210025,
-                21002501
-              ],
-              [
-                210025,
-                21002502
-              ],
-              [
-                210025,
-                21002503
-              ],
-              [
-                210025,
-                21002504
-              ],
-              [
-                210025,
-                21002505
-              ],
-              [
-                210025,
-                21002506
-              ],
-              [
-                210025,
-                21002507
-              ],
-              [
-                210025,
-                21002508
-              ],
-              [
-                210025,
-                21002509
-              ],
-              [
-                210025,
-                21002510
-              ],
-              [
-                210025,
-                21002511
-              ],
-              [
-                210025,
-                21002512
-              ],
-              [
-                210025,
-                21002513
-              ],
-              [
-                210025,
-                21002514
-              ],
-              [
-                210025,
-                21002515
-              ],
-              [
-                210025,
-                21002516
-              ],
-              [
-                210025,
-                21002517
-              ],
-              [
-                210025,
-                21002518
-              ],
-              [
-                210025,
-                21002519
-              ],
-              [
-                210025,
-                21002520
-              ]
+          {
+            "id": 5,
+            "description": "用其他的記憶交換",
+            "assetbundleName": "icon_memoria_blank",
+            "materialExchangeRelationChildren": [
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002501
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002502
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002503
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002504
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002505
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002506
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002507
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002508
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002509
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002510
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002511
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002512
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002513
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002514
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002515
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002516
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002517
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002518
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002519
+              },
+              {
+                "materialExchangeId": 210025,
+                "materialExchangeCostGroupId": 21002520
+              }
             ]
-          ]
+          }
         ]
       },
       {
@@ -41885,109 +41885,109 @@
           }
         ],
         "materialExchangeRelationParents": [
-          [
-            6,
-            "用其他的記憶交換",
-            "icon_memoria_blank",
-            [
-              [
-                210026,
-                21002601
-              ],
-              [
-                210026,
-                21002602
-              ],
-              [
-                210026,
-                21002603
-              ],
-              [
-                210026,
-                21002604
-              ],
-              [
-                210026,
-                21002605
-              ],
-              [
-                210026,
-                21002606
-              ],
-              [
-                210026,
-                21002607
-              ],
-              [
-                210026,
-                21002608
-              ],
-              [
-                210026,
-                21002609
-              ],
-              [
-                210026,
-                21002610
-              ],
-              [
-                210026,
-                21002611
-              ],
-              [
-                210026,
-                21002612
-              ],
-              [
-                210026,
-                21002613
-              ],
-              [
-                210026,
-                21002614
-              ],
-              [
-                210026,
-                21002615
-              ],
-              [
-                210026,
-                21002616
-              ],
-              [
-                210026,
-                21002617
-              ],
-              [
-                210026,
-                21002618
-              ],
-              [
-                210026,
-                21002619
-              ],
-              [
-                210026,
-                21002620
-              ]
+          {
+            "id": 6,
+            "description": "用其他的記憶交換",
+            "assetbundleName": "icon_memoria_blank",
+            "materialExchangeRelationChildren": [
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002601
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002602
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002603
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002604
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002605
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002606
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002607
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002608
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002609
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002610
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002611
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002612
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002613
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002614
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002615
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002616
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002617
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002618
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002619
+              },
+              {
+                "materialExchangeId": 210026,
+                "materialExchangeCostGroupId": 21002620
+              }
             ]
-          ]
+          }
         ]
       }
     ],
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 23,
+    "Id": 23,
     "seq": 1,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 4,
-    "name": "世界\n碎片",
+    "Name": "世界\n碎片",
     "assetbundleName": "icon_worldpeace",
-    "startAt": 1774584000000,
-    "endAt": 1776830399000,
-    "materialExchanges": [
+    "StartAt": 1774584000000,
+    "EndAt": 1776830399000,
+    "MaterialExchanges": [
       {
         "id": 230001,
         "materialExchangeSummaryId": 23,
@@ -42304,27 +42304,27 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        14,
-        4,
-        1,
-        "material",
-        170,
-        "icon_worldpeace"
-      ]
+      {
+        "id": 14,
+        "groupId": 4,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 170,
+        "assetbundleName": "icon_worldpeace"
+      }
     ]
   },
   {
-    "id": 24,
+    "Id": 24,
     "seq": 2,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 5,
-    "name": "[4.5週年紀念]\n禮物券",
+    "Name": "[4.5週年紀念]\n禮物券",
     "assetbundleName": "icon_giftTicket",
-    "startAt": 1774584000000,
-    "endAt": 1776830399000,
-    "materialExchanges": [
+    "StartAt": 1774584000000,
+    "EndAt": 1776830399000,
+    "MaterialExchanges": [
       {
         "id": 240001,
         "materialExchangeSummaryId": 24,
@@ -43194,27 +43194,27 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        15,
-        5,
-        1,
-        "material",
-        171,
-        "icon_giftTicket"
-      ]
+      {
+        "id": 15,
+        "groupId": 5,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 171,
+        "assetbundleName": "icon_giftTicket"
+      }
     ]
   },
   {
-    "id": 25,
+    "Id": 25,
     "seq": 10,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 6,
-    "name": "電子雞碎片\n交換所",
+    "Name": "電子雞碎片\n交換所",
     "assetbundleName": "icon_gochipiece",
-    "startAt": 1789790400000,
-    "endAt": 1791820799000,
-    "materialExchanges": [
+    "StartAt": 1789790400000,
+    "EndAt": 1791820799000,
+    "MaterialExchanges": [
       {
         "id": 250001,
         "materialExchangeSummaryId": 25,
@@ -43468,27 +43468,27 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        16,
-        6,
-        1,
-        "material",
-        173,
-        "icon_gochipiece"
-      ]
+      {
+        "id": 16,
+        "groupId": 6,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 173,
+        "assetbundleName": "icon_gochipiece"
+      }
     ]
   },
   {
-    "id": 26,
+    "Id": 26,
     "seq": 7,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 7,
-    "name": "紅色\n旋律水滴",
+    "Name": "紅色\n旋律水滴",
     "assetbundleName": "icon_redMemoryPiece",
-    "startAt": 1790697600000,
-    "endAt": 1793462399000,
-    "materialExchanges": [
+    "StartAt": 1790697600000,
+    "EndAt": 1793462399000,
+    "MaterialExchanges": [
       {
         "id": 260001,
         "materialExchangeSummaryId": 26,
@@ -43595,27 +43595,27 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        17,
-        7,
-        1,
-        "material",
-        200,
-        "icon_redMemoryPiece"
-      ]
+      {
+        "id": 17,
+        "groupId": 7,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 200,
+        "assetbundleName": "icon_redMemoryPiece"
+      }
     ]
   },
   {
-    "id": 27,
+    "Id": 27,
     "seq": 8,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 8,
-    "name": "藍色\n旋律水滴",
+    "Name": "藍色\n旋律水滴",
     "assetbundleName": "icon_blueMemoryPiece",
-    "startAt": 1790697600000,
-    "endAt": 1793462399000,
-    "materialExchanges": [
+    "StartAt": 1790697600000,
+    "EndAt": 1793462399000,
+    "MaterialExchanges": [
       {
         "id": 270001,
         "materialExchangeSummaryId": 27,
@@ -43743,27 +43743,27 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        18,
-        8,
-        1,
-        "material",
-        201,
-        "icon_blueMemoryPiece"
-      ]
+      {
+        "id": 18,
+        "groupId": 8,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 201,
+        "assetbundleName": "icon_blueMemoryPiece"
+      }
     ]
   },
   {
-    "id": 28,
+    "Id": 28,
     "seq": 6,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 9,
-    "name": "紫色\n旋律水滴",
+    "Name": "紫色\n旋律水滴",
     "assetbundleName": "icon_purpleMemoryPiece",
-    "startAt": 1790697600000,
-    "endAt": 1793462399000,
-    "materialExchanges": [
+    "StartAt": 1790697600000,
+    "EndAt": 1793462399000,
+    "MaterialExchanges": [
       {
         "id": 280001,
         "materialExchangeSummaryId": 28,
@@ -43968,27 +43968,27 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        19,
-        9,
-        1,
-        "material",
-        202,
-        "icon_purpleMemoryPiece"
-      ]
+      {
+        "id": 19,
+        "groupId": 9,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 202,
+        "assetbundleName": "icon_purpleMemoryPiece"
+      }
     ]
   },
   {
-    "id": 29,
+    "Id": 29,
     "seq": 5,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 10,
-    "name": "彩虹\n旋律水滴",
+    "Name": "彩虹\n旋律水滴",
     "assetbundleName": "icon_rainbowMemoryPiece",
-    "startAt": 1790697600000,
-    "endAt": 1793462399000,
-    "materialExchanges": [
+    "StartAt": 1790697600000,
+    "EndAt": 1793462399000,
+    "MaterialExchanges": [
       {
         "id": 290001,
         "materialExchangeSummaryId": 29,
@@ -44054,27 +44054,27 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        20,
-        10,
-        1,
-        "material",
-        203,
-        "icon_rainbowMemoryPiece"
-      ]
+      {
+        "id": 20,
+        "groupId": 10,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 203,
+        "assetbundleName": "icon_rainbowMemoryPiece"
+      }
     ]
   },
   {
-    "id": 30,
+    "Id": 30,
     "seq": 9,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 11,
-    "name": "金牌",
+    "Name": "金牌",
     "assetbundleName": "icon_goldMedal",
-    "startAt": 1790740800000,
-    "endAt": 1793462399000,
-    "materialExchanges": [
+    "StartAt": 1790740800000,
+    "EndAt": 1793462399000,
+    "MaterialExchanges": [
       {
         "id": 300001,
         "materialExchangeSummaryId": 30,
@@ -44235,26 +44235,26 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        21,
-        11,
-        2,
-        "material",
-        211,
-        "icon_goldMedal"
-      ]
+      {
+        "id": 21,
+        "groupId": 11,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 211,
+        "assetbundleName": "icon_goldMedal"
+      }
     ]
   },
   {
-    "id": 31,
+    "Id": 31,
     "seq": 1,
-    "exchangeCategory": "card_ticket",
+    "ExchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "紀念\n★4成員\n券",
+    "Name": "紀念\n★4成員\n券",
     "assetbundleName": "icon_memberTicket_star4",
-    "startAt": 1790697600000,
-    "endAt": 1796011199000,
-    "materialExchanges": [
+    "StartAt": 1790697600000,
+    "EndAt": 1796011199000,
+    "MaterialExchanges": [
       {
         "id": 310001,
         "materialExchangeSummaryId": 31,
@@ -50757,16 +50757,16 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 32,
+    "Id": 32,
     "seq": 1,
-    "exchangeCategory": "home_exchange",
+    "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 12,
-    "name": "紀念\n禮物\n券",
+    "Name": "紀念\n禮物\n券",
     "assetbundleName": "icon_exchangeTicket",
-    "startAt": 1791255600000,
-    "endAt": 1796011199000,
-    "materialExchanges": [
+    "StartAt": 1791255600000,
+    "EndAt": 1796011199000,
+    "MaterialExchanges": [
       {
         "id": 320001,
         "materialExchangeSummaryId": 32,
@@ -51341,25 +51341,25 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": [
-      [
-        22,
-        12,
-        1,
-        "material",
-        215,
-        "icon_exchangeTicket"
-      ]
+      {
+        "id": 22,
+        "groupId": 12,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 215,
+        "assetbundleName": "icon_exchangeTicket"
+      }
     ]
   },
   {
-    "id": 1001,
+    "Id": 1001,
     "seq": 20,
-    "exchangeCategory": "card_ticket",
+    "ExchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "★4成員",
+    "Name": "★4成員",
     "assetbundleName": "icon_memberTicket_star4",
-    "startAt": 1751990400000,
-    "materialExchanges": [
+    "StartAt": 1751990400000,
+    "MaterialExchanges": [
       {
         "id": 4001034,
         "materialExchangeSummaryId": 1001,
@@ -57088,15 +57088,15 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 4001,
+    "Id": 4001,
     "seq": 2,
-    "exchangeCategory": "common_ticket",
+    "ExchangeCategory": "common_ticket",
     "materialExchangeType": "normal",
-    "name": "[劇場版]交換所B",
+    "Name": "[劇場版]交換所B",
     "assetbundleName": "icon_movie_ticket",
-    "startAt": 1743091200000,
-    "endAt": 1767196799000,
-    "materialExchanges": [
+    "StartAt": 1743091200000,
+    "EndAt": 1767196799000,
+    "MaterialExchanges": [
       {
         "id": 4001028,
         "materialExchangeSummaryId": 4001,
@@ -57215,15 +57215,15 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
-    "id": 4002,
+    "Id": 4002,
     "seq": 1,
-    "exchangeCategory": "card_ticket",
+    "ExchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "[劇場版]交換所A",
+    "Name": "[劇場版]交換所A",
     "assetbundleName": "icon_movie_ticket",
-    "startAt": 1743091200000,
-    "endAt": 1767196799000,
-    "materialExchanges": [
+    "StartAt": 1743091200000,
+    "EndAt": 1767196799000,
+    "MaterialExchanges": [
       {
         "id": 4001001,
         "materialExchangeSummaryId": 4002,
