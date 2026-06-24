@@ -6006,5 +6006,13 @@
     "id": 779,
     "musicId": 540,
     "seq": 5
+  },
+  {
+    "dancePriority": 5,
+    "defaultMusicType": "sekai",
+    "gameCharacterUnitId": 26,
+    "id": 10000,
+    "musicId": 538,
+    "seq": 5
   }
 ]
