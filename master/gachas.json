@@ -114269,6 +114269,786 @@
     }
   },
   {
+    "id": 790,
+    "gachaType": "ceil",
+    "name": "[曉山瑞希]HAPPY BIRTHDAY 2026招募",
+    "seq": 600,
+    "assetbundleName": "ab_gacha_790",
+    "startAt": 1787760000000,
+    "endAt": 1788364799000,
+    "isShowPeriod": true,
+    "spinLimit": 100,
+    "gachaCeilItemId": 456,
+    "wishSelectCount": 0,
+    "wishFixedSelectCount": 0,
+    "wishLimitedSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 188898,
+        "gachaId": 790,
+        "cardId": 78,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188899,
+        "gachaId": 790,
+        "cardId": 79,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188900,
+        "gachaId": 790,
+        "cardId": 117,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188901,
+        "gachaId": 790,
+        "cardId": 179,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188902,
+        "gachaId": 790,
+        "cardId": 240,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188903,
+        "gachaId": 790,
+        "cardId": 258,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188904,
+        "gachaId": 790,
+        "cardId": 401,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188905,
+        "gachaId": 790,
+        "cardId": 543,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188906,
+        "gachaId": 790,
+        "cardId": 658,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188907,
+        "gachaId": 790,
+        "cardId": 680,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188908,
+        "gachaId": 790,
+        "cardId": 743,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188909,
+        "gachaId": 790,
+        "cardId": 907,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188910,
+        "gachaId": 790,
+        "cardId": 991,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188911,
+        "gachaId": 790,
+        "cardId": 1228,
+        "weight": 1,
+        "isWish": false
+      }
+    ],
+    "gachaBehaviors": [
+      {
+        "id": 3210,
+        "gachaId": 790,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1,
+        "groupId": 1,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3211,
+        "gachaId": 790,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1,
+        "groupId": 1,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3212,
+        "gachaId": 790,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10,
+        "groupId": 2,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3213,
+        "gachaId": 790,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 3000,
+        "spinCount": 10,
+        "groupId": 2,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      }
+    ],
+    "gachaPickups": [
+      {
+        "gachaId": 790,
+        "cardId": 1228
+      }
+    ],
+    "gachaInformation": {
+      "gachaId": 790,
+      "summary": "「[曉山瑞希]HAPPY BIRTHDAY 2026招募」登場！\n\n「[曉山瑞希]HAPPY BIRTHDAY 2026招募」會出現生日限定的新成員「曉山瑞希」。\n並且只會出現新登場的[生日]，以及[★3]、[★2]的「曉山瑞希」。\n\n「[曉山瑞希]HAPPY BIRTHDAY 2026招募」最多可招募100次。\n\n【新成員】\n・生日限定\n生日／[Happy Birthday!! 2026] 曉山瑞希\n\n※本招募不會出現過去登場的生日限定成員。\n※生日限定成員不會附帶演出服裝。\n※生日限定成員的稀有度為生日專屬的稀有度[生日]。\n※生日限定成員的專精特訓、技能升級所需經驗值與其餘稀有度不同。\n※生日限定成員無法進行特訓。\n※休息室中的生日限定成員可交換「心願碎片×300」。\n※生日限定成員今後有可能再次登場。\n\n■關於招募貼紙\n每藉由「[曉山瑞希]HAPPY BIRTHDAY 2026招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY 2025招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY 2024招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY招募」招募1人時，可以獲得1張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」。\n可使用100張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」，交換「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換所內的一名成員。\n可使用1張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」，交換「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換所內的5個「心願碎片」。",
+      "description": "・本招募只會出現新登場的[生日]，以及[★3]、[★2]的「曉山瑞希」。\n・本招募不會出現過去登場的生日限定成員。\n・本招募不會出現★4成員。\n・本招募最多可使用100次。\n・可以消耗付費水晶使用的「1日1次付費招募」不適用於本招募。\n・「七彩通行證～PRECIOUS～」的特典「1日1次免費招募」不適用於本招募。\n招募附贈點數不適用於本招募。\n・可以消耗免費水晶的招募也可以使用招募票券。\n・招募票券將代替免費水晶優先消耗。\n・優先消耗免費水晶。\n・出現的成員均為特訓前的狀態。\n・招募時可能會出現相同成員。\n・重複獲得的成員將自動送至休息室。\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n・使用[10連招募]時，若沒有招募到任何一名★3以上的成員，則最後一次招募會改從必中出現機率表中重新抽取。\n・可以從出現機率分頁中確認成員的出現機率。\n・可以從招募頁面確認新成員的數值與技能等詳細內容。\n・在進行招募後強制關閉遊戲，或因中斷網路連線而未正常顯示招募結果畫面，仍會正常取得成員。請至成員清單或休息室確認。\n・「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換期限至2026/10/2 14:59為止。超過交換期限後，每1張招募貼紙會轉換為5個「心願碎片」。\n・本招募中登場的生日限定的新成員，在本招募結束後將不會出現，但未來仍有可能再次登場。出現機率可能會與本次招募不同。\n・活動時間若有變更，恕不另行通知。"
+    }
+  },
+  {
+    "id": 791,
+    "gachaType": "ceil",
+    "name": "[復刻][曉山瑞希]HAPPY BIRTHDAY 2025招募",
+    "seq": 610,
+    "assetbundleName": "ab_gacha_791",
+    "startAt": 1787760000000,
+    "endAt": 1788364799000,
+    "isShowPeriod": true,
+    "spinLimit": 100,
+    "gachaCeilItemId": 456,
+    "wishSelectCount": 0,
+    "wishFixedSelectCount": 0,
+    "wishLimitedSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 188912,
+        "gachaId": 791,
+        "cardId": 78,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188913,
+        "gachaId": 791,
+        "cardId": 79,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188914,
+        "gachaId": 791,
+        "cardId": 117,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188915,
+        "gachaId": 791,
+        "cardId": 179,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188916,
+        "gachaId": 791,
+        "cardId": 240,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188917,
+        "gachaId": 791,
+        "cardId": 258,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188918,
+        "gachaId": 791,
+        "cardId": 401,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188919,
+        "gachaId": 791,
+        "cardId": 543,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188920,
+        "gachaId": 791,
+        "cardId": 658,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188921,
+        "gachaId": 791,
+        "cardId": 680,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188922,
+        "gachaId": 791,
+        "cardId": 743,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188923,
+        "gachaId": 791,
+        "cardId": 907,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188924,
+        "gachaId": 791,
+        "cardId": 985,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188925,
+        "gachaId": 791,
+        "cardId": 991,
+        "weight": 1,
+        "isWish": false
+      }
+    ],
+    "gachaBehaviors": [
+      {
+        "id": 3214,
+        "gachaId": 791,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1,
+        "groupId": 1,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3215,
+        "gachaId": 791,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1,
+        "groupId": 1,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3216,
+        "gachaId": 791,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10,
+        "groupId": 2,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3217,
+        "gachaId": 791,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 3000,
+        "spinCount": 10,
+        "groupId": 2,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      }
+    ],
+    "gachaPickups": [
+      {
+        "gachaId": 791,
+        "cardId": 985
+      }
+    ],
+    "gachaInformation": {
+      "gachaId": 791,
+      "summary": "「[復刻][曉山瑞希]HAPPY BIRTHDAY 2025招募」再次登場！\n\n這個招募將再次出現生日限定成員。\n並且只會出現2025年登場的稀有度[生日]，以及[★3]、[★2]的「曉山瑞希」。\n\n「[復刻][曉山瑞希]HAPPY BIRTHDAY 2025招募」最多可招募100次。\n\n【再次登場成員】\n・生日限定\n生日／[Happy Birthday!! 2025] 曉山瑞希\n\n※本招募中出現的生日限定成員，僅會出現2025年的生日限定成員。\n※生日限定成員不會附帶演出服裝。\n※生日限定成員的稀有度為生日專屬的稀有度[生日]。\n※生日限定成員的專精特訓、技能升級所需經驗值與其餘稀有度不同。\n※生日限定成員無法進行特訓。\n※休息室中的生日限定成員可交換「心願碎片×300」。\n※生日限定成員今後有可能再次登場。\n\n■關於招募貼紙\n每藉由「[曉山瑞希]HAPPY BIRTHDAY 2026招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY 2025招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY 2024招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY招募」招募1人時，可以獲得1張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」。\n可使用100張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」，交換「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換所內的一名成員。\n可使用1張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」，交換「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換所內的5個「心願碎片」。",
+      "description": "・本招募只會出現2025年登場過的[生日]，以及[★3]、[★2]的「 曉山瑞希」。\n・本招募中出現的生日限定成員，僅會出現2025年的生日限定成員。\n・本招募不會出現★4成員。\n・本招募最多可使用100次。\n・可以消耗付費水晶使用的「1日1次付費招募」不適用於本招募。\n・「七彩通行證～PRECIOUS～」的特典「1日1次免費招募」不適用於本招募。\n招募附贈點數不適用於本招募。\n・可以消耗免費水晶的招募也可以使用招募票券。\n・招募票券將代替免費水晶優先消耗。\n・優先消耗免費水晶。\n・出現的成員均為特訓前的狀態。\n・招募時可能會出現相同成員。\n・重複獲得的成員將自動送至休息室。\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n・使用[10連招募]時，若沒有招募到任何一名★3以上的成員，則最後一次招募會改從必中出現機率表中重新抽取。\n・可以從出現機率分頁中確認成員的出現機率。\n・可以從招募頁面確認再次登場的成員數值與技能等詳細內容。\n・在進行招募後強制關閉遊戲，或因中斷網路連線而未正常顯示招募結果畫面，仍會正常取得成員。請至成員清單或休息室確認。\n・「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換期限至2026/10/2 14:59為止。超過交換期限後，每1張招募貼紙會轉換為5個「心願碎片」。\n・本招募中再次登場的過去的生日限定成員，在本招募結束後將不會出現，但未來仍有可能再次登場。出現機率可能會與本次招募不同。\n・活動時間若有變更，恕不另行通知。"
+    }
+  },
+  {
+    "id": 792,
+    "gachaType": "ceil",
+    "name": "[復刻][曉山瑞希]HAPPY BIRTHDAY 2024招募",
+    "seq": 620,
+    "assetbundleName": "ab_gacha_792",
+    "startAt": 1787760000000,
+    "endAt": 1788364799000,
+    "isShowPeriod": true,
+    "spinLimit": 100,
+    "gachaCeilItemId": 456,
+    "wishSelectCount": 0,
+    "wishFixedSelectCount": 0,
+    "wishLimitedSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 188926,
+        "gachaId": 792,
+        "cardId": 78,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188927,
+        "gachaId": 792,
+        "cardId": 79,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188928,
+        "gachaId": 792,
+        "cardId": 117,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188929,
+        "gachaId": 792,
+        "cardId": 179,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188930,
+        "gachaId": 792,
+        "cardId": 240,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188931,
+        "gachaId": 792,
+        "cardId": 258,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188932,
+        "gachaId": 792,
+        "cardId": 401,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188933,
+        "gachaId": 792,
+        "cardId": 543,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188934,
+        "gachaId": 792,
+        "cardId": 658,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188935,
+        "gachaId": 792,
+        "cardId": 680,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188936,
+        "gachaId": 792,
+        "cardId": 705,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188937,
+        "gachaId": 792,
+        "cardId": 743,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188938,
+        "gachaId": 792,
+        "cardId": 907,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188939,
+        "gachaId": 792,
+        "cardId": 991,
+        "weight": 1,
+        "isWish": false
+      }
+    ],
+    "gachaBehaviors": [
+      {
+        "id": 3218,
+        "gachaId": 792,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1,
+        "groupId": 1,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3219,
+        "gachaId": 792,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1,
+        "groupId": 1,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3220,
+        "gachaId": 792,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10,
+        "groupId": 2,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3221,
+        "gachaId": 792,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 3000,
+        "spinCount": 10,
+        "groupId": 2,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      }
+    ],
+    "gachaPickups": [
+      {
+        "gachaId": 792,
+        "cardId": 705
+      }
+    ],
+    "gachaInformation": {
+      "gachaId": 792,
+      "summary": "「[復刻][曉山瑞希]HAPPY BIRTHDAY 2024招募」再次登場！\n\n這個招募將再次出現生日限定成員。\n並且只會出現2024年登場的稀有度[生日]，以及[★3]、[★2]的「曉山瑞希」。\n\n「[復刻][曉山瑞希]HAPPY BIRTHDAY 2024招募」最多可招募100次。\n\n【再次登場成員】\n・生日限定\n生日／[Happy Birthday!! 2024] 曉山瑞希\n\n※本招募中出現的生日限定成員，僅會出現2024年的生日限定成員。\n※生日限定成員不會附帶演出服裝。\n※生日限定成員的稀有度為生日專屬的稀有度[生日]。\n※生日限定成員的專精特訓、技能升級所需經驗值與其餘稀有度不同。\n※生日限定成員無法進行特訓。\n※休息室中的生日限定成員可交換「心願碎片×300」。\n※生日限定成員今後有可能再次登場。\n\n■關於招募貼紙\n每藉由「[曉山瑞希]HAPPY BIRTHDAY 2026招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY 2025招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY 2024招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY招募」招募1人時，可以獲得1張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」。\n可使用100張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」，交換「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換所內的一名成員。\n可使用1張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」，交換「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換所內的5個「心願碎片」。",
+      "description": "・本招募只會出現2024年登場過的[生日]，以及[★3]、[★2]的「 曉山瑞希」。\n・本招募中出現的生日限定成員，僅會出現2024年的生日限定成員。\n・本招募不會出現★4成員。\n・本招募最多可使用100次。\n・可以消耗付費水晶使用的「1日1次付費招募」不適用於本招募。\n・「七彩通行證～PRECIOUS～」的特典「1日1次免費招募」不適用於本招募。\n招募附贈點數不適用於本招募。\n・可以消耗免費水晶的招募也可以使用招募票券。\n・招募票券將代替免費水晶優先消耗。\n・優先消耗免費水晶。\n・出現的成員均為特訓前的狀態。\n・招募時可能會出現相同成員。\n・重複獲得的成員將自動送至休息室。\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n・使用[10連招募]時，若沒有招募到任何一名★3以上的成員，則最後一次招募會改從必中出現機率表中重新抽取。\n・可以從出現機率分頁中確認成員的出現機率。\n・可以從招募頁面確認再次登場的成員數值與技能等詳細內容。\n・在進行招募後強制關閉遊戲，或因中斷網路連線而未正常顯示招募結果畫面，仍會正常取得成員。請至成員清單或休息室確認。\n・「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換期限至2026/10/2 14:59為止。超過交換期限後，每1張招募貼紙會轉換為5個「心願碎片」。\n・本招募中再次登場的過去的生日限定成員，在本招募結束後將不會出現，但未來仍有可能再次登場。出現機率可能會與本次招募不同。\n・活動時間若有變更，恕不另行通知。"
+    }
+  },
+  {
+    "id": 793,
+    "gachaType": "ceil",
+    "name": "[復刻][曉山瑞希]HAPPY BIRTHDAY招募",
+    "seq": 630,
+    "assetbundleName": "ab_gacha_793",
+    "startAt": 1787760000000,
+    "endAt": 1788364799000,
+    "isShowPeriod": true,
+    "spinLimit": 100,
+    "gachaCeilItemId": 456,
+    "wishSelectCount": 0,
+    "wishFixedSelectCount": 0,
+    "wishLimitedSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "cardRarityType": "rarity_2",
+        "lotteryType": "normal",
+        "rate": 88.5
+      },
+      {
+        "cardRarityType": "rarity_3",
+        "lotteryType": "normal",
+        "rate": 8.5
+      },
+      {
+        "cardRarityType": "rarity_birthday",
+        "lotteryType": "normal",
+        "rate": 3.0
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 188940,
+        "gachaId": 793,
+        "cardId": 78,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188941,
+        "gachaId": 793,
+        "cardId": 79,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188942,
+        "gachaId": 793,
+        "cardId": 117,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188943,
+        "gachaId": 793,
+        "cardId": 179,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188944,
+        "gachaId": 793,
+        "cardId": 240,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188945,
+        "gachaId": 793,
+        "cardId": 258,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188946,
+        "gachaId": 793,
+        "cardId": 401,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188947,
+        "gachaId": 793,
+        "cardId": 491,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188948,
+        "gachaId": 793,
+        "cardId": 543,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188949,
+        "gachaId": 793,
+        "cardId": 658,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188950,
+        "gachaId": 793,
+        "cardId": 680,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188951,
+        "gachaId": 793,
+        "cardId": 743,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188952,
+        "gachaId": 793,
+        "cardId": 907,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 188953,
+        "gachaId": 793,
+        "cardId": 991,
+        "weight": 1,
+        "isWish": false
+      }
+    ],
+    "gachaBehaviors": [
+      {
+        "id": 3222,
+        "gachaId": 793,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1,
+        "groupId": 1,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3223,
+        "gachaId": 793,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1,
+        "groupId": 1,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3224,
+        "gachaId": 793,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10,
+        "groupId": 2,
+        "priority": 1,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      },
+      {
+        "id": 3225,
+        "gachaId": 793,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 3000,
+        "spinCount": 10,
+        "groupId": 2,
+        "priority": 2,
+        "resourceCategory": "consume_resource",
+        "gachaSpinnableType": "any"
+      }
+    ],
+    "gachaPickups": [
+      {
+        "gachaId": 793,
+        "cardId": 491
+      }
+    ],
+    "gachaInformation": {
+      "gachaId": 793,
+      "summary": "「[復刻][曉山瑞希]HAPPY BIRTHDAY招募」再次登場！\n\n這個招募將再次出現生日限定成員。\n並且只會出現2023年登場的稀有度[生日]，以及[★3]、[★2]的「曉山瑞希」。\n\n「[復刻][曉山瑞希]HAPPY BIRTHDAY招募」最多可招募100次。\n\n【再次登場成員】\n・生日限定\n生日／[Happy Birthday!!]曉山瑞希\n\n※本招募中出現的生日限定成員，僅會出現2023年的生日限定成員。\n※生日限定成員不會附帶演出服裝。\n※生日限定成員的稀有度為生日專屬的稀有度[生日]。\n※生日限定成員的專精特訓、技能升級所需經驗值與其餘稀有度不同。\n※生日限定成員無法進行特訓。\n※休息室中的生日限定成員可交換「心願碎片×300」。\n※生日限定成員今後有可能再次登場。\n\n■關於招募貼紙\n每藉由「[曉山瑞希]HAPPY BIRTHDAY 2026招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY 2025招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY 2024招募」、「[復刻][曉山瑞希]HAPPY BIRTHDAY招募」招募1人時，可以獲得1張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」。\n可使用100張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」，交換「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換所內的一名成員。\n可使用1張「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」，交換「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換所內的5個「心願碎片」。",
+      "description": "・本招募只會出現2023年登場過的[生日]，以及[★3]、[★2]的「 曉山瑞希」。\n・本招募中出現的生日限定成員，僅會出現2023年的生日限定成員。\n・本招募不會出現★4成員。\n・本招募最多可使用100次。\n・可以消耗付費水晶使用的「1日1次付費招募」不適用於本招募。\n・「七彩通行證～PRECIOUS～」的特典「1日1次免費招募」不適用於本招募。\n招募附贈點數不適用於本招募。\n・可以消耗免費水晶的招募也可以使用招募票券。\n・招募票券將代替免費水晶優先消耗。\n・優先消耗免費水晶。\n・出現的成員均為特訓前的狀態。\n・招募時可能會出現相同成員。\n・重複獲得的成員將自動送至休息室。\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n・使用[10連招募]時，若沒有招募到任何一名★3以上的成員，則最後一次招募會改從必中出現機率表中重新抽取。\n・可以從出現機率分頁中確認成員的出現機率。\n・可以從招募頁面確認再次登場的成員數值與技能等詳細內容。\n・在進行招募後強制關閉遊戲，或因中斷網路連線而未正常顯示招募結果畫面，仍會正常取得成員。請至成員清單或休息室確認。\n・「[曉山瑞希]HAPPY BIRTHDAY招募貼紙」交換期限至2026/10/2 14:59為止。超過交換期限後，每1張招募貼紙會轉換為5個「心願碎片」。\n・本招募中再次登場的過去的生日限定成員，在本招募結束後將不會出現，但未來仍有可能再次登場。出現機率可能會與本次招募不同。\n・活動時間若有變更，恕不另行通知。"
+    }
+  },
+  {
     "id": 842,
     "gachaType": "beginner",
     "name": "新手應援紀念選擇招募",
