@@ -42,5 +42,16 @@
     "reviewStartAt": 1777046400000,
     "submitEndAt": 1777996799000,
     "submitStartAt": 1777046400000
+  },
+  {
+    "aggregateAt": 1784476800000,
+    "backNumberAccentColorCode": "#f2a536",
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "description": "實裝我的「世界」百景紀念",
+    "id": 101,
+    "name": "主題「『世界』的夏日'26」",
+    "reviewStartAt": 1783612800000,
+    "submitEndAt": 1784476799000,
+    "submitStartAt": 1783612800000
   }
 ]

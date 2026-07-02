@@ -6552,6 +6552,58 @@
     "virtualShopType": "other"
   },
   {
+    "id": 319,
+    "name": "[復刻]あんさんぶるスターズ！！コラボ",
+    "virtualShopDisplayType": "out_of_scope",
+    "virtualShopItems": [
+      {
+        "costJewel": 1000,
+        "costVirtualCoin": 3000,
+        "endAt": 1785340799000,
+        "id": 517,
+        "resourceBoxId": 395,
+        "seq": 99872,
+        "startAt": 1783915200000,
+        "virtualShopId": 319,
+        "virtualShopItemType": "costume"
+      },
+      {
+        "costJewel": 1000,
+        "costVirtualCoin": 3000,
+        "endAt": 1785340799000,
+        "id": 2000,
+        "resourceBoxId": 392,
+        "seq": 99873,
+        "startAt": 1783915200000,
+        "virtualShopId": 319,
+        "virtualShopItemType": "costume"
+      },
+      {
+        "costJewel": 1000,
+        "costVirtualCoin": 3000,
+        "endAt": 1785340799000,
+        "id": 2001,
+        "resourceBoxId": 393,
+        "seq": 99874,
+        "startAt": 1783915200000,
+        "virtualShopId": 319,
+        "virtualShopItemType": "costume"
+      },
+      {
+        "costJewel": 1000,
+        "costVirtualCoin": 3000,
+        "endAt": 1785340799000,
+        "id": 2002,
+        "resourceBoxId": 394,
+        "seq": 99875,
+        "startAt": 1783915200000,
+        "virtualShopId": 319,
+        "virtualShopItemType": "accessory"
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 1001,
     "name": "春节",
     "virtualShopDisplayType": "out_of_scope",

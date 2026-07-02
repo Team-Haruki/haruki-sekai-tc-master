@@ -3186,6 +3186,30 @@
     "resourceType": "paid_jewel"
   },
   {
+    "billingShopItemId": 30241,
+    "quantity": 500,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 30242,
+    "quantity": 1500,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 30243,
+    "quantity": 3000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
+    "billingShopItemId": 30244,
+    "quantity": 9000,
+    "resourceId": 1,
+    "resourceType": "paid_jewel"
+  },
+  {
     "billingShopItemId": 60030,
     "quantity": 0,
     "resourceId": 1,

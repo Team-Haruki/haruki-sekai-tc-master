@@ -994,5 +994,47 @@
     ],
     "id": 59,
     "startAt": 1791734400000
+  },
+  {
+    "assetbundleName": "collaboration-es-story",
+    "endAt": 1785340799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_es",
+        "episodeNo": 1,
+        "id": 71,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_es_op_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 66,
+        "title": "[復刻][世界計畫×偶像夢幻祭2]聯動紀念登入劇情 序章"
+      }
+    ],
+    "id": 66,
+    "startAt": 1783915200000
+  },
+  {
+    "assetbundleName": "collaboration-es-story",
+    "endAt": 1785427199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_es",
+        "episodeNo": 1,
+        "id": 72,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_es_ed_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 67,
+        "title": "[復刻][世界計畫×偶像夢幻祭2]聯動紀念登入劇情 結尾"
+      }
+    ],
+    "id": 67,
+    "startAt": 1785340800000
   }
 ]

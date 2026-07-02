@@ -1495,5 +1495,224 @@
     "rewardReceiveEndAt": 1777564799000,
     "startAt": 1774584000000,
     "title": "[4.5週年紀念]歡迎來到「世界」大作戰！！"
+  },
+  {
+    "assetbundleName": "friend_invitation_4th_anniv",
+    "closedAt": 1786204799000,
+    "groupId": 1,
+    "id": 1004,
+    "missions": [
+      {
+        "id": 1040,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "邀請任務",
+        "requirement": 1,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 1,
+            "id": 15,
+            "resourceBoxId": 7
+          },
+          {
+            "count": 2,
+            "countGroupId": 1,
+            "id": 16,
+            "resourceBoxId": 8
+          }
+        ]
+      },
+      {
+        "id": 1041,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "邀請任務",
+        "requirement": 2,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 2,
+            "id": 2,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1042,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "邀請任務",
+        "requirement": 3,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 3,
+            "id": 3,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1043,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "邀請任務",
+        "requirement": 4,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 4,
+            "id": 4,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1044,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "邀請任務",
+        "requirement": 5,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 5,
+            "id": 5,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1045,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "邀請任務",
+        "requirement": 6,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 6,
+            "id": 6,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1046,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "邀請任務",
+        "requirement": 7,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 7,
+            "id": 7,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1047,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "邀請任務",
+        "requirement": 8,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 8,
+            "id": 8,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1048,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "邀請任務",
+        "requirement": 9,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 9,
+            "id": 9,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1049,
+        "missionCategoryId": 1,
+        "missionType": "host",
+        "name": "邀請任務",
+        "requirement": 10,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 10,
+            "id": 10,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1050,
+        "missionCategoryId": 2,
+        "missionType": "guest",
+        "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
+        "requirement": 5,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 11,
+            "id": 11,
+            "resourceBoxId": 3
+          }
+        ]
+      },
+      {
+        "id": 1051,
+        "missionCategoryId": 2,
+        "missionType": "guest",
+        "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
+        "requirement": 10,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 12,
+            "id": 12,
+            "resourceBoxId": 4
+          }
+        ]
+      },
+      {
+        "id": 1052,
+        "missionCategoryId": 2,
+        "missionType": "guest",
+        "name": "不跳過、不快轉，觀看喜愛團體的主線劇情吧！",
+        "requirement": 20,
+        "reward": [
+          {
+            "count": 1,
+            "countGroupId": 1,
+            "id": 15,
+            "resourceBoxId": 7
+          },
+          {
+            "count": 2,
+            "countGroupId": 1,
+            "id": 16,
+            "resourceBoxId": 8
+          }
+        ]
+      }
+    ],
+    "progressEndAt": 1785340799000,
+    "rewardReceiveEndAt": 1785945599000,
+    "startAt": 1783915200000,
+    "title": "[夏日派對]歡迎來到「世界」大作戰！！"
   }
 ]

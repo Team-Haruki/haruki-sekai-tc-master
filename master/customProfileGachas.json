@@ -12694,13 +12694,156 @@
   {
     "id": 78,
     "name": "[復刻]「Ensemble in SEKAI」 收藏BOX",
-    "startAt": 1815451200000,
-    "endAt": 1816876799000,
+    "startAt": 1783915200000,
+    "endAt": 1785340799000,
     "assetbundleName": "resale_collab_es_collection",
     "description": "「[復刻]『Ensemble in SEKAI』收藏BOX」登場！\n\n「[復刻]『Ensemble in SEKAI』收藏BOX」中會出現聯動限定的收藏道具，像是聯動限定角色們的徽章、壓克力立牌、以LIVE周邊為主題設計的道具。\n\n獲得的收藏道具是可用於「自製個人資料」的素材，也可當作展示道具布置在「我的『世界』」裡。",
     "notice": "・優先消耗免費水晶。\n・收藏BOX有可能會出現重複的收藏。重複的收藏可以在自製個人資料和我的「世界」中重複使用。\n・收藏BOX的抽取機率，每1次都是依據出現機率獨立抽取。例如收藏的出現機率為1%，並不代表抽100次該收藏就一定會出現1次。\n・收藏BOX的出現機率，請至出現機率分頁中確認。\n・提供機率分頁所表示的機率，均以小數點第4位四捨五入的方式顯示，因此全部加起來，也有可能不足100%。\n・點開收藏BOX後若強制關閉遊戲，或中斷網路連線而未正常顯示結果畫面時，仍會正常取得收藏。請至自製個人資料的收藏或我的「世界」的周邊確認。\n・本收藏BOX登場的聯動限定收藏今後仍有可能再次登場。再次登場的時間目前未定。\n・活動時間若有變更，恕不另行通知。",
     "customProfileGachaCategory": "temporary",
-    "customProfileGachaBehaviors": [],
-    "customProfileGachaDetails": []
+    "customProfileGachaBehaviors": [
+      {
+        "id": 232,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 233,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      },
+      {
+        "id": 234,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 2421,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 801,
+        "weight": 1
+      },
+      {
+        "id": 2422,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 802,
+        "weight": 1
+      },
+      {
+        "id": 2423,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 803,
+        "weight": 1
+      },
+      {
+        "id": 2424,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 804,
+        "weight": 1
+      },
+      {
+        "id": 2425,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 805,
+        "weight": 1
+      },
+      {
+        "id": 2426,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 806,
+        "weight": 1
+      },
+      {
+        "id": 2427,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 807,
+        "weight": 1
+      },
+      {
+        "id": 2428,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 808,
+        "weight": 1
+      },
+      {
+        "id": 2429,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 809,
+        "weight": 1
+      },
+      {
+        "id": 2430,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 810,
+        "weight": 1
+      },
+      {
+        "id": 2431,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 811,
+        "weight": 1
+      },
+      {
+        "id": 2432,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 812,
+        "weight": 1
+      },
+      {
+        "id": 2433,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 813,
+        "weight": 1
+      },
+      {
+        "id": 2434,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 814,
+        "weight": 1
+      },
+      {
+        "id": 2435,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 815,
+        "weight": 1
+      },
+      {
+        "id": 2436,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 816,
+        "weight": 1
+      },
+      {
+        "id": 2437,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 817,
+        "weight": 1
+      },
+      {
+        "id": 2438,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 818,
+        "weight": 1
+      },
+      {
+        "id": 2439,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 819,
+        "weight": 1
+      },
+      {
+        "id": 2440,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 820,
+        "weight": 1
+      }
+    ]
   }
 ]

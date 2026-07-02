@@ -326,16 +326,16 @@
   },
   {
     "additionalAreaType": "collaboration",
-    "areaType": "spirit_world",
+    "areaType": "reality_world",
     "assetbundleName": "area26",
     "displayTimelineType": "next_grade",
-    "endAt": 1753804799000,
+    "endAt": 1785340799000,
     "groupId": 210,
     "id": 26,
     "isBaseArea": true,
-    "name": "ASTRO FES會場",
+    "name": "ASTRO FES会場",
     "releaseConditionId": 1,
-    "startAt": 1752390000000,
+    "startAt": 1783915200000,
     "viewType": "side_view"
   },
   {

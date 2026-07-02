@@ -3976,6 +3976,18 @@
     "pronunciation": "第四期心願榜稱號"
   },
   {
+    "honorType": "event",
+    "id": 20030,
+    "name": "輕融",
+    "pronunciation": "輕融"
+  },
+  {
+    "honorType": "event",
+    "id": 20031,
+    "name": "最佳創作者 「世界」的夏日 '26",
+    "pronunciation": "最佳創作者 「世界」的夏日 '26"
+  },
+  {
     "honorType": "achievement",
     "id": 100016,
     "name": "EXP滿溢",

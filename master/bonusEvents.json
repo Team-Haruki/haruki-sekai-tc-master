@@ -290,5 +290,53 @@
     ],
     "startAt": 1772942400000,
     "url": "https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/mktw/16460494-af68-468b-a09d-1412df35be8b.html"
+  },
+  {
+    "bonusAssetbundleName": "event_bonus",
+    "bonuses": [
+      {
+        "bonusType": "rate",
+        "resourceId": 14,
+        "resourceType": "material",
+        "value": 3.0
+      },
+      {
+        "bonusType": "rate",
+        "resourceId": 17,
+        "resourceType": "material",
+        "value": 3.0
+      },
+      {
+        "bonusType": "exp_card",
+        "value": 2.0
+      }
+    ],
+    "endAt": 1783958399000,
+    "exBoxDailyLimit": 2,
+    "exBoxResourceBoxIds": [
+      25,
+      26,
+      9,
+      4,
+      5,
+      12,
+      13,
+      14,
+      17,
+      18
+    ],
+    "id": 7,
+    "limitMissionGroupId": 23,
+    "normalBoxDailyLimit": 6,
+    "normalBoxResourceBoxIds": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "startAt": 1783137600000,
+    "url": "https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/mktw/b0fbf1a9-6a3f-4aea-b5f4-77dc1534e4a1.html"
   }
 ]

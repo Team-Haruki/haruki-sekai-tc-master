@@ -202,6 +202,13 @@
   },
   {
     "assetbundleName": "limitmission_miku_25",
+    "distributionEndAt": 1784908799000,
+    "endAt": 1783958399000,
+    "id": 27,
+    "keyMissionId": 191,
+    "startAt": 1783137600000
+  },
+  {
     "distributionEndAt": 1814975999000,
     "endAt": 1813755599000,
     "iconAssetbundleName": "limitmission_kaito",
