@@ -833,7 +833,7 @@
     "seq": 706
   },
   {
-    "description": "這是心願在我的「世界」裡變成碎片，結晶化後的物品。\n有時會在「世界」之日掉落。",
+    "description": "飄浮在宇宙中的某種零件。\n有時會在宇宙之日掉落。",
     "iconAssetbundleName": "item_junk_14",
     "id": 93,
     "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
@@ -846,7 +846,7 @@
       6,
       8
     ],
-    "name": "「世界」晶粒",
+    "name": "太空零件",
     "pronunciation": "せかいびっつ",
     "seq": 508
   }

@@ -280,7 +280,7 @@
   {
     "id": 42,
     "mysekaiFixtureTagType": "series",
-    "name": "法式風格",
+    "name": "法式風",
     "pronunciation": "ふれんちすたいる"
   },
   {
@@ -316,7 +316,7 @@
   {
     "id": 49,
     "mysekaiFixtureTagType": "series",
-    "name": "天文學家的研究室",
+    "name": "天文學家研究室",
     "pronunciation": "てんもんがくしゃのけんきゅうしつ"
   },
   {
@@ -370,37 +370,37 @@
   {
     "id": 61,
     "mysekaiFixtureTagType": "series",
-    "name": "閃耀流星房",
+    "name": "[閃耀流星]房間",
     "pronunciation": "きらめくりゅうせいるーむ"
   },
   {
     "id": 62,
     "mysekaiFixtureTagType": "series",
-    "name": "閃閃發亮的三葉草房",
+    "name": "[閃閃發亮三葉草]房間",
     "pronunciation": "かがやくくろーばーるーむ"
   },
   {
     "id": 63,
     "mysekaiFixtureTagType": "series",
-    "name": "鮮艷的齊唱房",
+    "name": "[繽紛協奏]房間",
     "pronunciation": "あざやかなゆにぞんるーむ"
   },
   {
     "id": 64,
     "mysekaiFixtureTagType": "series",
-    "name": "活力皇冠房",
+    "name": "[活力皇冠]房間",
     "pronunciation": "はじけるくらうんるーむ"
   },
   {
     "id": 65,
     "mysekaiFixtureTagType": "series",
-    "name": "破碎之心房",
+    "name": "[破碎之心]房間",
     "pronunciation": "ひびわれたはーとるーむ"
   },
   {
     "id": 66,
     "mysekaiFixtureTagType": "series",
-    "name": "初始旋律房",
+    "name": "[初始旋律]房間",
     "pronunciation": "はじまりのめろでぃるーむ"
   },
   {
@@ -412,7 +412,7 @@
   {
     "id": 68,
     "mysekaiFixtureTagType": "series",
-    "name": "旅人的露營",
+    "name": "旅人露營",
     "pronunciation": "たびびとのきゃんぷ"
   },
   {
@@ -454,7 +454,7 @@
   {
     "id": 78,
     "mysekaiFixtureTagType": "series",
-    "name": "彩虹工坊房",
+    "name": "彩虹畫室",
     "pronunciation": "にじいろあとりえるーむ"
   },
   {
@@ -538,541 +538,541 @@
   {
     "id": 10001,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的家",
+    "name": "[閃耀流星]家",
     "pronunciation": "きらめくりゅうせいのいえ"
   },
   {
     "id": 10002,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的壁紙",
+    "name": "[閃耀流星]壁紙",
     "pronunciation": "きらめくりゅうせいのかべがみ"
   },
   {
     "id": 10003,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的地板",
+    "name": "[閃耀流星]地板",
     "pronunciation": "きらめくりゅうせいのゆか"
   },
   {
     "id": 10004,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的窗戶",
+    "name": "[閃耀流星]窗戶",
     "pronunciation": "きらめくりゅうせいのまど"
   },
   {
     "id": 10005,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的櫃子",
+    "name": "[閃耀流星]櫃子",
     "pronunciation": "きらめくりゅうせいのちぇすと"
   },
   {
     "id": 10006,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的床",
+    "name": "[閃耀流星]床",
     "pronunciation": "きらめくりゅうせいのべっど"
   },
   {
     "id": 10007,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的桌子",
+    "name": "[閃耀流星]桌子",
     "pronunciation": "きらめくりゅうせいのてーぶる"
   },
   {
     "id": 10008,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的椅子",
+    "name": "[閃耀流星]椅子",
     "pronunciation": "きらめくりゅうせいのちぇあ"
   },
   {
     "id": 10009,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的架子",
+    "name": "[閃耀流星]架子",
     "pronunciation": "きらめくりゅうせいのしぇるふ"
   },
   {
     "id": 10010,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的沙發",
+    "name": "[閃耀流星]沙發",
     "pronunciation": "きらめくりゅうせいのそふぁ"
   },
   {
     "id": 10011,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的矮桌",
+    "name": "[閃耀流星]矮桌",
     "pronunciation": "きらめくりゅうせいのろーてーぶる"
   },
   {
     "id": 10012,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的地墊",
+    "name": "[閃耀流星]地墊",
     "pronunciation": "きらめくりゅうせいのらぐ"
   },
   {
     "id": 10013,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的書架",
+    "name": "[閃耀流星]書架",
     "pronunciation": "きらめくりゅうせいのほんだな"
   },
   {
     "id": 10014,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的壁掛時鐘",
+    "name": "[閃耀流星]壁掛時鐘",
     "pronunciation": "きらめくりゅうせいのかべかけどけい"
   },
   {
     "id": 10015,
     "mysekaiFixtureTagType": "none",
-    "name": "閃耀流星的檯燈",
+    "name": "[閃耀流星]檯燈",
     "pronunciation": "きらめくりゅうせいのてーぶるらいと"
   },
   {
     "id": 10016,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的三葉草的家",
+    "name": "[閃閃發亮三葉草]家",
     "pronunciation": "かがやくくろーばーのいえ"
   },
   {
     "id": 10017,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的壁紙",
+    "name": "[閃閃發亮三葉草]壁紙",
     "pronunciation": "かがやくくろーばーのかべがみ"
   },
   {
     "id": 10018,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的地板",
+    "name": "[閃閃發亮三葉草]地板",
     "pronunciation": "かがやくくろーばーのゆか"
   },
   {
     "id": 10019,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的窗戶",
+    "name": "[閃閃發亮三葉草]窗戶",
     "pronunciation": "かがやくくろーばーのまど"
   },
   {
     "id": 10020,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的櫃子",
+    "name": "[閃閃發亮三葉草]櫃子",
     "pronunciation": "かがやくクローバーのチェスト"
   },
   {
     "id": 10021,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的床",
+    "name": "[閃閃發亮三葉草]床",
     "pronunciation": "かがやくくろーばーのべっど"
   },
   {
     "id": 10022,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的桌子",
+    "name": "[閃閃發亮三葉草]桌子",
     "pronunciation": "かがやくくろーばーのてーぶる"
   },
   {
     "id": 10023,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的椅子",
+    "name": "[閃閃發亮三葉草]椅子",
     "pronunciation": "かがやくくろーばーのちぇあ"
   },
   {
     "id": 10024,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的架子",
+    "name": "[閃閃發亮三葉草]架子",
     "pronunciation": "かがやくくろーばーのしぇるふ"
   },
   {
     "id": 10025,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的沙發",
+    "name": "[閃閃發亮三葉草]沙發",
     "pronunciation": "かがやくくろーばーのそふぁ"
   },
   {
     "id": 10026,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的矮桌",
+    "name": "[閃閃發亮三葉草]矮桌",
     "pronunciation": "かがやくくろーばーのろーてーぶる"
   },
   {
     "id": 10027,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的地墊",
+    "name": "[閃閃發亮三葉草]地墊",
     "pronunciation": "かがやくくろーばーのらぐ"
   },
   {
     "id": 10028,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的書架",
+    "name": "[閃閃發亮三葉草]書架",
     "pronunciation": "かがやくくろーばーのほんだな"
   },
   {
     "id": 10029,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的壁掛時鐘",
+    "name": "[閃閃發亮三葉草]壁掛時鐘",
     "pronunciation": "かがやくくろーばーのかべかけどけい"
   },
   {
     "id": 10030,
     "mysekaiFixtureTagType": "none",
-    "name": "閃閃發亮的檯燈",
+    "name": "[閃閃發亮三葉草]檯燈",
     "pronunciation": "かがやくくろーばーのてーぶるらいと"
   },
   {
     "id": 10031,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的家",
+    "name": "[繽紛協奏]家",
     "pronunciation": "あざやかなゆにぞんのいえ"
   },
   {
     "id": 10032,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的壁紙",
+    "name": "[繽紛協奏]壁紙",
     "pronunciation": "あざやかなゆにぞんのかべがみ"
   },
   {
     "id": 10033,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的地板",
+    "name": "[繽紛協奏]地板",
     "pronunciation": "あざやかなゆにぞんのゆか"
   },
   {
     "id": 10034,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的窗戶",
+    "name": "[繽紛協奏]窗戶",
     "pronunciation": "あざやかなゆにぞんのまど"
   },
   {
     "id": 10035,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的櫃子",
+    "name": "[繽紛協奏]櫃子",
     "pronunciation": "あざやかなゆにぞんのちぇすと"
   },
   {
     "id": 10036,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的床",
+    "name": "[繽紛協奏]床",
     "pronunciation": "あざやかなゆにぞんのべっど"
   },
   {
     "id": 10037,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的桌子",
+    "name": "[繽紛協奏]桌子",
     "pronunciation": "あざやかなゆにぞんのてーぶる"
   },
   {
     "id": 10038,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的椅子",
+    "name": "[繽紛協奏]椅子",
     "pronunciation": "あざやかなゆにぞんのちぇあ"
   },
   {
     "id": 10039,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的架子",
+    "name": "[繽紛協奏]架子",
     "pronunciation": "あざやかなゆにぞんのしぇるふ"
   },
   {
     "id": 10040,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的沙發",
+    "name": "[繽紛協奏]沙發",
     "pronunciation": "あざやかなゆにぞんのそふぁ"
   },
   {
     "id": 10041,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的矮桌",
+    "name": "[繽紛協奏]矮桌",
     "pronunciation": "あざやかなゆにぞんのろーてーぶる"
   },
   {
     "id": 10042,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的地墊",
+    "name": "[繽紛協奏]地墊",
     "pronunciation": "あざやかなゆにぞんのらぐ"
   },
   {
     "id": 10043,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的書架",
+    "name": "[繽紛協奏]書架",
     "pronunciation": "あざやかなゆにぞんのほんだな"
   },
   {
     "id": 10044,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的壁掛時鐘",
+    "name": "[繽紛協奏]壁掛時鐘",
     "pronunciation": "あざやかなゆにぞんのかべかけどけい"
   },
   {
     "id": 10045,
     "mysekaiFixtureTagType": "none",
-    "name": "繽紛協奏的檯燈",
+    "name": "[繽紛協奏]檯燈",
     "pronunciation": "あざやかなゆにぞんのてーぶるらいと"
   },
   {
     "id": 10046,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的家",
+    "name": "[活力皇冠]家",
     "pronunciation": "はじけるくらうんのいえ"
   },
   {
     "id": 10047,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的壁紙",
+    "name": "[活力皇冠]壁紙",
     "pronunciation": "はじけるくらうんのかべがみ"
   },
   {
     "id": 10048,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的地板",
+    "name": "[活力皇冠]地板",
     "pronunciation": "はじけるくらうんのゆか"
   },
   {
     "id": 10049,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的窗戶",
+    "name": "[活力皇冠]窗戶",
     "pronunciation": "はじけるくらうんのまど"
   },
   {
     "id": 10050,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的櫃子",
+    "name": "[活力皇冠]櫃子",
     "pronunciation": "はじけるくらうんのちぇすと"
   },
   {
     "id": 10051,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的床",
+    "name": "[活力皇冠]床",
     "pronunciation": "はじけるくらうんのべっど"
   },
   {
     "id": 10052,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的桌子",
+    "name": "[活力皇冠]桌子",
     "pronunciation": "はじけるくらうんのてーぶる"
   },
   {
     "id": 10053,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的椅子",
+    "name": "[活力皇冠]椅子",
     "pronunciation": "はじけるくらうんのちぇあ"
   },
   {
     "id": 10054,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的架子",
+    "name": "[活力皇冠]架子",
     "pronunciation": "はじけるくらうんのしぇるふ"
   },
   {
     "id": 10055,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的沙發",
+    "name": "[活力皇冠]沙發",
     "pronunciation": "はじけるくらうんのそふぁ"
   },
   {
     "id": 10056,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的矮桌",
+    "name": "[活力皇冠]矮桌",
     "pronunciation": "はじけるくらうんのろーてーぶる"
   },
   {
     "id": 10057,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的地墊",
+    "name": "[活力皇冠]地墊",
     "pronunciation": "はじけるくらうんのらぐ"
   },
   {
     "id": 10058,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的書架",
+    "name": "[活力皇冠]書架",
     "pronunciation": "はじけるくらうんのほんだな"
   },
   {
     "id": 10059,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的壁掛時鐘",
+    "name": "[活力皇冠]壁掛時鐘",
     "pronunciation": "はじけるくらうんのかべかけどけい"
   },
   {
     "id": 10060,
     "mysekaiFixtureTagType": "none",
-    "name": "活力皇冠的檯燈",
+    "name": "[活力皇冠]檯燈",
     "pronunciation": "はじけるくらうんのてーぶるらいと"
   },
   {
     "id": 10061,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的家",
+    "name": "[破碎之心]家",
     "pronunciation": "ひびわれたはーとのいえ"
   },
   {
     "id": 10062,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的壁紙",
+    "name": "[破碎之心]壁紙",
     "pronunciation": "ひびわれたはーとのかべがみ"
   },
   {
     "id": 10063,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的地板",
+    "name": "[破碎之心]地板",
     "pronunciation": "ひびわれたはーとのゆか"
   },
   {
     "id": 10064,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的窗戶",
+    "name": "[破碎之心]窗戶",
     "pronunciation": "ひびわれたはーとのまど"
   },
   {
     "id": 10065,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的櫃子",
+    "name": "[破碎之心]櫃子",
     "pronunciation": "ひびわれたはーとのちぇすと"
   },
   {
     "id": 10066,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的床",
+    "name": "[破碎之心]床",
     "pronunciation": "ひびわれたはーとのべっど"
   },
   {
     "id": 10067,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的桌子",
+    "name": "[破碎之心]桌子",
     "pronunciation": "ひびわれたはーとのてーぶる"
   },
   {
     "id": 10068,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的椅子",
+    "name": "[破碎之心]椅子",
     "pronunciation": "ひびわれたはーとのちぇあ"
   },
   {
     "id": 10069,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的架子",
+    "name": "[破碎之心]架子",
     "pronunciation": "ひびわれたはーとのしぇるふ"
   },
   {
     "id": 10070,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的沙發",
+    "name": "[破碎之心]沙發",
     "pronunciation": "ひびわれたはーとのそふぁ"
   },
   {
     "id": 10071,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的矮桌",
+    "name": "[破碎之心]矮桌",
     "pronunciation": "ひびわれたはーとのろーてーぶる"
   },
   {
     "id": 10072,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的地墊",
+    "name": "[破碎之心]地墊",
     "pronunciation": "ひびわれたはーとのらぐ"
   },
   {
     "id": 10073,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的書架",
+    "name": "[破碎之心]書架",
     "pronunciation": "ひびわれたはーとのほんだな"
   },
   {
     "id": 10074,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的壁掛時鐘",
+    "name": "[破碎之心]壁掛時鐘",
     "pronunciation": "ひびわれたはーとのかべかけどけい"
   },
   {
     "id": 10075,
     "mysekaiFixtureTagType": "none",
-    "name": "破碎之心的檯燈",
+    "name": "[破碎之心]檯燈",
     "pronunciation": "ひびわれたはーとのてーぶるらいと"
   },
   {
     "id": 10076,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的家",
+    "name": "[初始旋律]家",
     "pronunciation": "はじまりのめろでぃのいえ"
   },
   {
     "id": 10077,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的壁紙",
+    "name": "[初始旋律]壁紙",
     "pronunciation": "はじまりのめろでぃのかべがみ"
   },
   {
     "id": 10078,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的地板",
+    "name": "[初始旋律]地板",
     "pronunciation": "はじまりのめろでぃのゆか"
   },
   {
     "id": 10079,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的窗戶",
+    "name": "[初始旋律]窗戶",
     "pronunciation": "はじまりのめろでぃのまど"
   },
   {
     "id": 10080,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的櫃子",
+    "name": "[初始旋律]櫃子",
     "pronunciation": "はじまりのめろでぃのちぇすと"
   },
   {
     "id": 10081,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的床",
+    "name": "[初始旋律]床",
     "pronunciation": "はじまりのめろでぃのべっど"
   },
   {
     "id": 10082,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的桌子",
+    "name": "[初始旋律]桌子",
     "pronunciation": "はじまりのめろでぃのてーぶる"
   },
   {
     "id": 10083,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的椅子",
+    "name": "[初始旋律]椅子",
     "pronunciation": "はじまりのめろでぃのちぇあ"
   },
   {
     "id": 10084,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的架子",
+    "name": "[初始旋律]架子",
     "pronunciation": "はじまりのめろでぃのしぇるふ"
   },
   {
     "id": 10085,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的沙發",
+    "name": "[初始旋律]沙發",
     "pronunciation": "はじまりのめろでぃのそふぁ"
   },
   {
     "id": 10086,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的矮桌",
+    "name": "[初始旋律]矮桌",
     "pronunciation": "はじまりのめろでぃのろーてーぶる"
   },
   {
     "id": 10087,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的地墊",
+    "name": "[初始旋律]地墊",
     "pronunciation": "はじまりのめろでぃのらぐ"
   },
   {
     "id": 10088,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的書架",
+    "name": "[初始旋律]書架",
     "pronunciation": "はじまりのめろでぃのほんだな"
   },
   {
     "id": 10089,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的壁掛時鐘",
+    "name": "[初始旋律]壁掛時鐘",
     "pronunciation": "はじまりのめろでぃのかべかけどけい"
   },
   {
     "id": 10090,
     "mysekaiFixtureTagType": "none",
-    "name": "初始旋律的檯燈",
+    "name": "[初始旋律]檯燈",
     "pronunciation": "はじまりのめろでぃのてーぶるらいと"
   },
   {
@@ -1318,109 +1318,109 @@
   {
     "id": 10136,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的家",
+    "name": "[自然風]家",
     "pronunciation": "なちゅらるないえ"
   },
   {
     "id": 10137,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的壁紙",
+    "name": "[自然風]壁紙",
     "pronunciation": "なちゅらるなかべがみ"
   },
   {
     "id": 10138,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的地板",
+    "name": "[自然風]地板",
     "pronunciation": "なちゅらるなゆか"
   },
   {
     "id": 10139,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的窗戶",
+    "name": "[自然風]窗戶",
     "pronunciation": "なちゅらるなまど"
   },
   {
     "id": 10140,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的櫃子",
+    "name": "[自然風]櫃子",
     "pronunciation": "なちゅらるなちぇすと"
   },
   {
     "id": 10141,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的床",
+    "name": "[自然風]床",
     "pronunciation": "なちゅらるなべっど"
   },
   {
     "id": 10142,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的餐桌",
+    "name": "[自然風]餐桌",
     "pronunciation": "なちゅらるなだいにんぐてーぶる"
   },
   {
     "id": 10143,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的餐椅",
+    "name": "[自然風]餐椅",
     "pronunciation": "なちゅらるなだいにんぐちぇあ"
   },
   {
     "id": 10144,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的書架",
+    "name": "[自然風]書架",
     "pronunciation": "なちゅらるなほんだな"
   },
   {
     "id": 10145,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的衣櫥",
+    "name": "[自然風]衣櫥",
     "pronunciation": "なちゅらるなくろーぜっと"
   },
   {
     "id": 10146,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的立燈",
+    "name": "[自然風]立燈",
     "pronunciation": "なちゅらるなふろあらいと"
   },
   {
     "id": 10147,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的矮凳",
+    "name": "[自然風]矮凳",
     "pronunciation": "なちゅらるなすつーる"
   },
   {
     "id": 10148,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的梳妝台",
+    "name": "[自然風]梳妝台",
     "pronunciation": "なちゅらるなどれっさー"
   },
   {
     "id": 10149,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的矮桌",
+    "name": "[自然風]矮桌",
     "pronunciation": "なちゅらるなろーてーぶる"
   },
   {
     "id": 10150,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的雙人沙發",
+    "name": "[自然風]雙人沙發",
     "pronunciation": "なちゅらるなふたりがけそふぁ"
   },
   {
     "id": 10151,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的單人沙發",
+    "name": "[自然風]單人沙發",
     "pronunciation": "なちゅらるなひとりがけそふぁ"
   },
   {
     "id": 10152,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的壁掛時鐘",
+    "name": "[自然風]壁掛時鐘",
     "pronunciation": "なちゅらるなかべかけどけい"
   },
   {
     "id": 10153,
     "mysekaiFixtureTagType": "none",
-    "name": "自然風的液晶電視",
+    "name": "[自然風]液晶電視",
     "pronunciation": "なちゅらるなえきしょうてれび"
   },
   {
@@ -1498,13 +1498,13 @@
   {
     "id": 10166,
     "mysekaiFixtureTagType": "none",
-    "name": "清爽的盥洗室壁紙",
+    "name": "[清爽的盥洗室]壁紙",
     "pronunciation": "くりーんぱうだーるーむのかべがみ"
   },
   {
     "id": 10167,
     "mysekaiFixtureTagType": "none",
-    "name": "清爽的盥洗室地板",
+    "name": "[清爽的盥洗室]地板",
     "pronunciation": "くりーんぱうだーるーむのゆか"
   },
   {
@@ -1546,37 +1546,37 @@
   {
     "id": 10175,
     "mysekaiFixtureTagType": "none",
-    "name": "花園的簡約花圃",
+    "name": "[花園]簡約花圃",
     "pronunciation": "がーでんのそぼくなかだん"
   },
   {
     "id": 10176,
     "mysekaiFixtureTagType": "none",
-    "name": "花園的附遮陽傘的桌子",
+    "name": "[花園]附遮陽傘的桌子",
     "pronunciation": "がーでんのぱらそるてーぶる"
   },
   {
     "id": 10177,
     "mysekaiFixtureTagType": "none",
-    "name": "花園的鐵椅",
+    "name": "[花園]鐵椅",
     "pronunciation": "がーでんのあいあんちぇあ"
   },
   {
     "id": 10178,
     "mysekaiFixtureTagType": "none",
-    "name": "花園的長椅",
+    "name": "[花園]長椅",
     "pronunciation": "がーでんのべんち"
   },
   {
     "id": 10179,
     "mysekaiFixtureTagType": "none",
-    "name": "花園的網格花盆架",
+    "name": "[花園]網格花盆架",
     "pronunciation": "がーでんのらてぃすぷらんたー"
   },
   {
     "id": 10180,
     "mysekaiFixtureTagType": "none",
-    "name": "花園的摺疊梯",
+    "name": "[花園]摺疊梯",
     "pronunciation": "がーでんのすてっぷらだー"
   },
   {
@@ -1594,7 +1594,7 @@
   {
     "id": 10183,
     "mysekaiFixtureTagType": "none",
-    "name": "花園的鐵製澆水壺",
+    "name": "[花園]鐵製澆水壺",
     "pronunciation": "がーでんののぶりきじょうろ"
   },
   {
@@ -1630,19 +1630,19 @@
   {
     "id": 10189,
     "mysekaiFixtureTagType": "none",
-    "name": "公園長椅",
+    "name": "[公園]長椅",
     "pronunciation": "こうえんのべんち"
   },
   {
     "id": 10190,
     "mysekaiFixtureTagType": "none",
-    "name": "公園時鐘",
+    "name": "[公園]時鐘",
     "pronunciation": "こうえんのとけい"
   },
   {
     "id": 10191,
     "mysekaiFixtureTagType": "none",
-    "name": "公園噴泉",
+    "name": "[公園]噴泉",
     "pronunciation": "こうえんのふんすい"
   },
   {
@@ -1654,7 +1654,7 @@
   {
     "id": 10193,
     "mysekaiFixtureTagType": "none",
-    "name": "公園輪胎組",
+    "name": "[公園]輪胎組",
     "pronunciation": "こうえんのたいや"
   },
   {
@@ -1684,523 +1684,523 @@
   {
     "id": 10198,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的家",
+    "name": "[日式簡約]家",
     "pronunciation": "わふうのそぼくないえ"
   },
   {
     "id": 10199,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的壁紙",
+    "name": "[日式簡約]壁紙",
     "pronunciation": "わふうのそぼくなかべがみ"
   },
   {
     "id": 10200,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的榻榻米",
+    "name": "[日式簡約]榻榻米",
     "pronunciation": "わふうのそぼくなたたみ"
   },
   {
     "id": 10201,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的窗戶",
+    "name": "[日式簡約]窗戶",
     "pronunciation": "わふうのそぼくなまど"
   },
   {
     "id": 10202,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的梳妝台",
+    "name": "[日式簡約]梳妝台",
     "pronunciation": "わふうのそぼくなきょうだい"
   },
   {
     "id": 10203,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的矮桌",
+    "name": "[日式簡約]矮桌",
     "pronunciation": "わふうのそぼくなちゃぶだい"
   },
   {
     "id": 10204,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的棉被",
+    "name": "[日式簡約]棉被",
     "pronunciation": "わふうのそぼくなふとん"
   },
   {
     "id": 10205,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的電視",
+    "name": "[日式簡約]電視",
     "pronunciation": "わふうのそぼくなてれび"
   },
   {
     "id": 10206,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的櫥櫃",
+    "name": "[日式簡約]櫥櫃",
     "pronunciation": "わふうのそぼくなとだな"
   },
   {
     "id": 10207,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的掛軸",
+    "name": "[日式簡約]掛軸",
     "pronunciation": "わふうのそぼくなかけじく"
   },
   {
     "id": 10208,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的古董壁鐘",
+    "name": "[日式簡約]古董壁鐘",
     "pronunciation": "わふうのそぼくなかべかけふるどけい"
   },
   {
     "id": 10209,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的煮水壺",
+    "name": "[日式簡約]煮水壺",
     "pronunciation": "わふうのそぼくなやかん"
   },
   {
     "id": 10210,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的茶壺",
+    "name": "[日式簡約]茶壺",
     "pronunciation": "わふうのそぼくなきゅうす"
   },
   {
     "id": 10211,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的轉盤式電話",
+    "name": "[日式簡約]轉盤式電話",
     "pronunciation": "わふうのそぼくなくろでんわ"
   },
   {
     "id": 10212,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約的招財貓",
+    "name": "[日式簡約]招財貓",
     "pronunciation": "わふうのそぼくなまねきねこ"
   },
   {
     "id": 10213,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的壁紙",
+    "name": "[兒童房]壁紙",
     "pronunciation": "きっずるーむのかべがみ"
   },
   {
     "id": 10214,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的地板",
+    "name": "[兒童房]地板",
     "pronunciation": "きっずるーむのゆか"
   },
   {
     "id": 10215,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的小熊窗戶",
+    "name": "[兒童房]小熊窗戶",
     "pronunciation": "きっずるーむのくまさんまど"
   },
   {
     "id": 10216,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的彩色收納櫃",
+    "name": "[兒童房]彩色收納櫃",
     "pronunciation": "きっずるーむのからふるちぇすと"
   },
   {
     "id": 10217,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的小熊造型床",
+    "name": "[兒童房]小熊造型床",
     "pronunciation": "きっずるーむのくまさんべっど"
   },
   {
     "id": 10218,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的桌子",
+    "name": "[兒童房]桌子",
     "pronunciation": "きっずるーむのてーぶる"
   },
   {
     "id": 10219,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的椅子",
+    "name": "[兒童房]椅子",
     "pronunciation": "きっずるーむのちぇあ"
   },
   {
     "id": 10220,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的繪本書架",
+    "name": "[兒童房]繪本書架",
     "pronunciation": "きっずるーむのえほんだな"
   },
   {
     "id": 10221,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的玩具箱",
+    "name": "[兒童房]玩具箱",
     "pronunciation": "きっずるーむのおもちゃばこ"
   },
   {
     "id": 10222,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的搖搖馬",
+    "name": "[兒童房]搖搖馬",
     "pronunciation": "きっずるーむのもくば"
   },
   {
     "id": 10223,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的火車玩具",
+    "name": "[兒童房]火車玩具",
     "pronunciation": "きっずるーむのきしゃのおもちゃ"
   },
   {
     "id": 10224,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的畫",
+    "name": "[兒童房]畫",
     "pronunciation": "きっずるーむのえ"
   },
   {
     "id": 10225,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的汽車模型",
+    "name": "[兒童房]汽車模型",
     "pronunciation": "きっずるーむのみにかー"
   },
   {
     "id": 10226,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的大象玩偶",
+    "name": "[兒童房]大象玩偶",
     "pronunciation": "きっずるーむのぞうのぬいぐるみ"
   },
   {
     "id": 10227,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的驚嚇箱",
+    "name": "[兒童房]驚嚇箱",
     "pronunciation": "きっずるーむのびっくりばこ"
   },
   {
     "id": 10228,
     "mysekaiFixtureTagType": "none",
-    "name": "兒童房的積木",
+    "name": "[兒童房]積木",
     "pronunciation": "きっずるーむのつみき"
   },
   {
     "id": 10229,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的壁紙",
+    "name": "[休閒風]壁紙",
     "pronunciation": "かじゅあるなかべがみ"
   },
   {
     "id": 10230,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的地板",
+    "name": "[休閒風]地板",
     "pronunciation": "かじゅあるなゆか"
   },
   {
     "id": 10231,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的窗戶",
+    "name": "[休閒風]窗戶",
     "pronunciation": "かじゅあるなまど"
   },
   {
     "id": 10232,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的櫃子",
+    "name": "[休閒風]櫃子",
     "pronunciation": "かじゅあるなちぇすと"
   },
   {
     "id": 10233,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的桌上鏡",
+    "name": "[休閒風]桌上鏡",
     "pronunciation": "かじゅあるなたくじょうかがみ"
   },
   {
     "id": 10234,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的床",
+    "name": "[休閒風]床",
     "pronunciation": "かじゅあるなべっど"
   },
   {
     "id": 10235,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的書桌",
+    "name": "[休閒風]書桌",
     "pronunciation": "かじゅあるながくしゅうづくえ"
   },
   {
     "id": 10236,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的書桌椅",
+    "name": "[休閒風]書桌椅",
     "pronunciation": "かじゅあるながくしゅういす"
   },
   {
     "id": 10237,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的書架",
+    "name": "[休閒風]書架",
     "pronunciation": "かじゅあるなほんだな"
   },
   {
     "id": 10238,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的格紋地墊",
+    "name": "[休閒風]格紋地墊",
     "pronunciation": "かじゅあるなちぇっかーがららぐ"
   },
   {
     "id": 10239,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的海報",
+    "name": "[休閒風]海報",
     "pronunciation": "かじゅあるなぽすたー"
   },
   {
     "id": 10240,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的後背包",
+    "name": "[休閒風]後背包",
     "pronunciation": "かじゅあるなりゅっく"
   },
   {
     "id": 10241,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的檯燈",
+    "name": "[休閒風]檯燈",
     "pronunciation": "かじゅあるなですくらいと"
   },
   {
     "id": 10242,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的看到一半的漫畫",
+    "name": "[休閒風]看到一半的漫畫",
     "pronunciation": "かじゅあるなよみかけのまんが"
   },
   {
     "id": 10243,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的掌上型遊戲機",
+    "name": "[休閒風]掌上型遊戲機",
     "pronunciation": "かじゅあるなけいたいげーむき"
   },
   {
     "id": 10244,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的遙控汽車",
+    "name": "[休閒風]遙控汽車",
     "pronunciation": "かじゅあるなあーるしーかー"
   },
   {
     "id": 10245,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的鬧鐘",
+    "name": "[休閒風]鬧鐘",
     "pronunciation": "かじゅあるなめざましどけい"
   },
   {
     "id": 10246,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的米格魯玩偶",
+    "name": "[休閒風]米格魯玩偶",
     "pronunciation": "かじゅあるなびーぐるけんのぬいぐるみ"
   },
   {
     "id": 10247,
     "mysekaiFixtureTagType": "none",
-    "name": "休閒風的衣帽架",
+    "name": "[休閒風]衣帽架",
     "pronunciation": "かじゅあるなはんがーらっく"
   },
   {
     "id": 10248,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的壁紙",
+    "name": "[可愛風]壁紙",
     "pronunciation": "きゅーとなかべがみ"
   },
   {
     "id": 10249,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的地板",
+    "name": "[可愛風]地板",
     "pronunciation": "きゅーとなゆか"
   },
   {
     "id": 10250,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的窗戶",
+    "name": "[可愛風]窗戶",
     "pronunciation": "きゅーとなまど"
   },
   {
     "id": 10251,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的櫃子",
+    "name": "[可愛風]櫃子",
     "pronunciation": "きゅーとなちぇすと"
   },
   {
     "id": 10252,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的梳妝台",
+    "name": "[可愛風]梳妝台",
     "pronunciation": "きゅーとなどれっさー"
   },
   {
     "id": 10253,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的床",
+    "name": "[可愛風]床",
     "pronunciation": "きゅーとなべっど"
   },
   {
     "id": 10254,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的矮桌",
+    "name": "[可愛風]矮桌",
     "pronunciation": "きゅーとなろーてーぶる"
   },
   {
     "id": 10255,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的軟墊",
+    "name": "[可愛風]軟墊",
     "pronunciation": "きゅーとなくっしょん"
   },
   {
     "id": 10256,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的衣櫥",
+    "name": "[可愛風]衣櫥",
     "pronunciation": "きゅーとなわーどろーぶ"
   },
   {
     "id": 10257,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的立燈",
+    "name": "[可愛風]立燈",
     "pronunciation": "きゅーとなふろあらいと"
   },
   {
     "id": 10258,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的地墊",
+    "name": "[可愛風]地墊",
     "pronunciation": "きゅーとならぐ"
   },
   {
     "id": 10259,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的蝴蝶結椅",
+    "name": "[可愛風]蝴蝶結椅",
     "pronunciation": "きゅーとなりぼんちぇあ"
   },
   {
     "id": 10260,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的壁掛時鐘",
+    "name": "[可愛風]壁掛時鐘",
     "pronunciation": "きゅーとなかべかけどけい"
   },
   {
     "id": 10261,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的壁掛層架",
+    "name": "[可愛風]壁掛層架",
     "pronunciation": "きゅーとなうぉーるしぇるふ"
   },
   {
     "id": 10262,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的兔子玩偶",
+    "name": "[可愛風]兔子玩偶",
     "pronunciation": "きゅーとなうさぎのぬいぐるみ"
   },
   {
     "id": 10263,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的化妝盒",
+    "name": "[可愛風]化妝盒",
     "pronunciation": "きゅーとなめいくぼっくす"
   },
   {
     "id": 10264,
     "mysekaiFixtureTagType": "none",
-    "name": "可愛的香水",
+    "name": "[可愛風]香水",
     "pronunciation": "きゅーとなこうすい"
   },
   {
     "id": 10265,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風壁紙",
+    "name": "[法式風]壁紙",
     "pronunciation": "ふらんちすたいるのかべがみ"
   },
   {
     "id": 10266,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風地板",
+    "name": "[法式風]地板",
     "pronunciation": "ふらんちすたいるのゆか"
   },
   {
     "id": 10267,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風窗戶",
+    "name": "[法式風]窗戶",
     "pronunciation": "ふらんちすたいるのまど"
   },
   {
     "id": 10268,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風櫃子",
+    "name": "[法式風]櫃子",
     "pronunciation": "ふらんちすたいるのちぇすと"
   },
   {
     "id": 10269,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風穿衣鏡",
+    "name": "[法式風]穿衣鏡",
     "pronunciation": "ふらんちすたいるのすがたみ"
   },
   {
     "id": 10270,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風床",
+    "name": "[法式風]床",
     "pronunciation": "ふらんちすたいるのべっど"
   },
   {
     "id": 10271,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風圓桌",
+    "name": "[法式風]圓桌",
     "pronunciation": "ふらんちすたいるのらうんどてーぶる"
   },
   {
     "id": 10272,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風沙發",
+    "name": "[法式風]沙發",
     "pronunciation": "ふらんちすたいるのそふぁ"
   },
   {
     "id": 10273,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風書架",
+    "name": "[法式風]書架",
     "pronunciation": "ふらんちすたいるのほんだな"
   },
   {
     "id": 10274,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風檯燈",
+    "name": "[法式風]檯燈",
     "pronunciation": "ふらんちすたいるのてーぶるらいと"
   },
   {
     "id": 10275,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風架子",
+    "name": "[法式風]架子",
     "pronunciation": "ふらんちすたいるのしぇるふ"
   },
   {
     "id": 10276,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風衣帽架",
+    "name": "[法式風]衣帽架",
     "pronunciation": "ふらんちすたいるのぽーるはんがー"
   },
   {
     "id": 10277,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風愛心地墊",
+    "name": "[法式風]愛心地墊",
     "pronunciation": "ふらんちすたいるのはーとらぐ"
   },
   {
     "id": 10278,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風壁掛時鐘",
+    "name": "[法式風]壁掛時鐘",
     "pronunciation": "ふらんちすたいるのかべかけとけい"
   },
   {
     "id": 10279,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風貓咪的藝術品",
+    "name": "[法式風]貓咪的藝術品",
     "pronunciation": "ふらんちすたいるのねこのあーと"
   },
   {
     "id": 10280,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風時尚雜誌",
+    "name": "[法式風]時尚雜誌",
     "pronunciation": "ふらんちすたいるのふぁっしょんし"
   },
   {
     "id": 10281,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風花瓶",
+    "name": "[法式風]花瓶",
     "pronunciation": "ふらんちすたいるのふらわーべーす"
   },
   {
     "id": 10282,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風香氛蠟燭",
+    "name": "[法式風]香氛蠟燭",
     "pronunciation": "ふらんちすたいるのあろまきゃんどる"
   },
   {
     "id": 10283,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風熊玩偶",
+    "name": "[法式風]熊玩偶",
     "pronunciation": "ふらんちすたいるのくまのぬいぐるみ"
   },
   {
     "id": 10284,
     "mysekaiFixtureTagType": "none",
-    "name": "法式風茶具組",
+    "name": "[法式風]茶具組",
     "pronunciation": "ふらんちすたいるのてぃーせっと"
   },
   {
@@ -2236,7 +2236,7 @@
   {
     "id": 10290,
     "mysekaiFixtureTagType": "none",
-    "name": "健身房的鏡子",
+    "name": "[健身房]鏡子",
     "pronunciation": "とれーにんぐるーむのかがみ"
   },
   {
@@ -2266,13 +2266,13 @@
   {
     "id": 10295,
     "mysekaiFixtureTagType": "none",
-    "name": "錄音室的壁紙",
+    "name": "[錄音室]壁紙",
     "pronunciation": "すたじおのかべがみ"
   },
   {
     "id": 10296,
     "mysekaiFixtureTagType": "none",
-    "name": "錄音室的地板",
+    "name": "[錄音室]地板",
     "pronunciation": "すたじおのゆか"
   },
   {
@@ -2404,145 +2404,145 @@
   {
     "id": 10318,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐墊",
+    "name": "[溫馨的野餐]墊子",
     "pronunciation": "ぽかぽかなぴくにっくのれじゃーしーと"
   },
   {
     "id": 10319,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐用木箱桌",
+    "name": "[溫馨的野餐]木箱桌",
     "pronunciation": "ぽかぽかなぴくにっくのきのはこてーぶる"
   },
   {
     "id": 10320,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐用腳踏車",
+    "name": "[溫馨的野餐]腳踏車",
     "pronunciation": "ぽかぽかなぴくにっくのじてんしゃ"
   },
   {
     "id": 10321,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐用樹樁",
+    "name": "[溫馨的野餐]樹樁",
     "pronunciation": "ぽかぽかなぴくにっくのきりかぶ"
   },
   {
     "id": 10322,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐用三明治盒",
+    "name": "[溫馨的野餐]三明治盒",
     "pronunciation": "ぽかぽかなぴくにっくのさんどいっちぼっくす"
   },
   {
     "id": 10323,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐用果汁瓶",
+    "name": "[溫馨的野餐]果汁瓶",
     "pronunciation": "ぽかぽかなぴくにっくのふるーつじゅーすびん"
   },
   {
     "id": 10324,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐籃",
+    "name": "[溫馨的野餐]籃子",
     "pronunciation": "ぽかぽかなぴくにっくのばすけっと"
   },
   {
     "id": 10325,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐用花籃",
+    "name": "[溫馨的野餐]花籃",
     "pronunciation": "ぽかぽかなぴくにっくのはなかご"
   },
   {
     "id": 10326,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐用便當盒",
+    "name": "[溫馨的野餐]便當盒",
     "pronunciation": "ぽかぽかなぴくにっくのおべんとうばこ"
   },
   {
     "id": 10327,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐用水壺",
+    "name": "[溫馨的野餐]水壺",
     "pronunciation": "ぽかぽかなぴくにっくのすいとう"
   },
   {
     "id": 10328,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的壁紙",
+    "name": "[天文學家研究室]壁紙",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのかべがみ"
   },
   {
     "id": 10329,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的地板",
+    "name": "[天文學家研究室]地板",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのゆか"
   },
   {
     "id": 10330,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的窗戶",
+    "name": "[天文學家研究室]窗戶",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのまど"
   },
   {
     "id": 10331,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的櫃子",
+    "name": "[天文學家研究室]櫃子",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのちぇすと"
   },
   {
     "id": 10332,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的鏡子",
+    "name": "[天文學家研究室]鏡子",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのかがみ"
   },
   {
     "id": 10333,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的天文望遠鏡",
+    "name": "[天文學家研究室]天文望遠鏡",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのてんたいぼうえんきょう"
   },
   {
     "id": 10334,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的附天蓬的床",
+    "name": "[天文學家研究室]附天蓬的床",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのてんがいつきべっど"
   },
   {
     "id": 10335,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的書架",
+    "name": "[天文學家研究室]書架",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのほんだな"
   },
   {
     "id": 10336,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的書桌",
+    "name": "[天文學家研究室]書桌",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのつくえ"
   },
   {
     "id": 10337,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的椅子",
+    "name": "[天文學家研究室]椅子",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのいす"
   },
   {
     "id": 10338,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的卷軸盒",
+    "name": "[天文學家研究室]卷軸盒",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのまきがみいりのはこ"
   },
   {
     "id": 10339,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的天球儀",
+    "name": "[天文學家研究室]天球儀",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのてんきゅうぎ"
   },
   {
     "id": 10340,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的堆疊的書本",
+    "name": "[天文學家研究室]堆疊的書本",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのつみかさなったほん"
   },
   {
     "id": 10341,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室的檯燈",
+    "name": "[天文學家研究室]檯燈",
     "pronunciation": "てんもんがくしゃのけんきゅうしつのてーぶるらいと"
   },
   {
@@ -2908,73 +2908,73 @@
   {
     "id": 10402,
     "mysekaiFixtureTagType": "none",
-    "name": "未來的玩偶/S",
+    "name": "初音未來的玩偶/S",
     "pronunciation": "みくのぬいぐるみえす"
   },
   {
     "id": 10403,
     "mysekaiFixtureTagType": "none",
-    "name": "未來的玩偶/M",
+    "name": "初音未來的玩偶/M",
     "pronunciation": "みくのぬいぐるみえむ"
   },
   {
     "id": 10404,
     "mysekaiFixtureTagType": "none",
-    "name": "未來的玩偶/L",
+    "name": "初音未來的玩偶/L",
     "pronunciation": "みくのぬいぐるみえる"
   },
   {
     "id": 10405,
     "mysekaiFixtureTagType": "none",
-    "name": "鈴的玩偶/S",
+    "name": "鏡音鈴的玩偶/S",
     "pronunciation": "りんのぬいぐるみえす"
   },
   {
     "id": 10406,
     "mysekaiFixtureTagType": "none",
-    "name": "鈴的玩偶/M",
+    "name": "鏡音鈴的玩偶/M",
     "pronunciation": "りんのぬいぐるみえむ"
   },
   {
     "id": 10407,
     "mysekaiFixtureTagType": "none",
-    "name": "鈴的玩偶/L",
+    "name": "鏡音鈴的玩偶/L",
     "pronunciation": "りんのぬいぐるみえる"
   },
   {
     "id": 10408,
     "mysekaiFixtureTagType": "none",
-    "name": "連的玩偶/S",
+    "name": "鏡音連的玩偶/S",
     "pronunciation": "れんのぬいぐるみえす"
   },
   {
     "id": 10409,
     "mysekaiFixtureTagType": "none",
-    "name": "連的玩偶/M",
+    "name": "鏡音連的玩偶/M",
     "pronunciation": "れんのぬいぐるみえむ"
   },
   {
     "id": 10410,
     "mysekaiFixtureTagType": "none",
-    "name": "連的玩偶/L",
+    "name": "鏡音連的玩偶/L",
     "pronunciation": "れんのぬいぐるみえる"
   },
   {
     "id": 10411,
     "mysekaiFixtureTagType": "none",
-    "name": "流歌的玩偶/S",
+    "name": "巡音流歌的玩偶/S",
     "pronunciation": "るかのぬいぐるみえす"
   },
   {
     "id": 10412,
     "mysekaiFixtureTagType": "none",
-    "name": "流歌的玩偶/M",
+    "name": "巡音流歌的玩偶/M",
     "pronunciation": "るかのぬいぐるみえむ"
   },
   {
     "id": 10413,
     "mysekaiFixtureTagType": "none",
-    "name": "流歌的玩偶/L",
+    "name": "巡音流歌的玩偶/L",
     "pronunciation": "るかのぬいぐるみえる"
   },
   {
@@ -3148,157 +3148,157 @@
   {
     "id": 10446,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的壁紙",
+    "name": "[能看見月亮的旅館]壁紙",
     "pronunciation": "つきがみえるりょかんのかべがみ"
   },
   {
     "id": 10447,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的榻榻米",
+    "name": "[能看見月亮的旅館]榻榻米",
     "pronunciation": "つきがみえるりょかんのたたみ"
   },
   {
     "id": 10448,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的窗戶",
+    "name": "[能看見月亮的旅館]窗戶",
     "pronunciation": "つきがみえるりょかんのまど"
   },
   {
     "id": 10449,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的斗櫃",
+    "name": "[能看見月亮的旅館]西式衣櫃",
     "pronunciation": "つきがみえるりょかんのようだんす"
   },
   {
     "id": 10450,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的矮桌",
+    "name": "[能看見月亮的旅館]矮桌",
     "pronunciation": "つきがみえるりょかんのざたく"
   },
   {
     "id": 10451,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的和室椅",
+    "name": "[能看見月亮的旅館]和室椅",
     "pronunciation": "つきがみえるりょかんのざいす"
   },
   {
     "id": 10452,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的棉被",
+    "name": "[能看見月亮的旅館]棉被",
     "pronunciation": "つきがみえるりょかんのふとん"
   },
   {
     "id": 10453,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的茶具櫃",
+    "name": "[能看見月亮的旅館]茶具櫃",
     "pronunciation": "つきがみえるりょかんのちゃだんす"
   },
   {
     "id": 10454,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的日式立燈",
+    "name": "[能看見月亮的旅館]日式立燈",
     "pronunciation": "つきがみえるりょかんのあんどん"
   },
   {
     "id": 10455,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的屏風",
+    "name": "[能看見月亮的旅館]屏風",
     "pronunciation": "つきがみえるりょかんのびょうぶ"
   },
   {
     "id": 10456,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的掛軸",
+    "name": "[能看見月亮的旅館]掛軸",
     "pronunciation": "つきがみえるりょかんのかけじく"
   },
   {
     "id": 10457,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的盆栽",
+    "name": "[能看見月亮的旅館]盆栽",
     "pronunciation": "つきがみえるりょかんのぼんさい"
   },
   {
     "id": 10458,
     "mysekaiFixtureTagType": "none",
-    "name": "能看見月亮的旅館的花瓶",
+    "name": "[能看見月亮的旅館]花瓶",
     "pronunciation": "つきがみえるりょかんのかびん"
   },
   {
     "id": 10459,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營帳篷",
+    "name": "[旅人露營]帳篷",
     "pronunciation": "たびびとのきゃんぷのてんと"
   },
   {
     "id": 10460,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營戶外折疊椅",
+    "name": "[旅人露營]戶外折疊椅",
     "pronunciation": "たびびとのきゃんぷのあうとどあちぇあ"
   },
   {
     "id": 10461,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營戶外折疊桌",
+    "name": "[旅人露營]戶外折疊桌",
     "pronunciation": "たびびとのきゃんぷのあうとどあてーぶる"
   },
   {
     "id": 10462,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營營火料理",
+    "name": "[旅人露營]營火料理",
     "pronunciation": "たびびとのきゃんぷのたきびりょうり"
   },
   {
     "id": 10463,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營木柴",
+    "name": "[旅人露營]木柴",
     "pronunciation": "たびびとのきゃんぷのまき"
   },
   {
     "id": 10464,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營雪人",
+    "name": "[旅人露營]雪人",
     "pronunciation": "たびびとのきゃんぷのゆきだるま"
   },
   {
     "id": 10465,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營後背包",
+    "name": "[旅人露營]後背包",
     "pronunciation": "たびびとのきゃんぷのりゅっく"
   },
   {
     "id": 10466,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營戶外收納箱",
+    "name": "[旅人露營]戶外收納箱",
     "pronunciation": "たびびとのきゃんぷのあうとどあぼっくす"
   },
   {
     "id": 10467,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營露營燈",
+    "name": "[旅人露營]露營燈",
     "pronunciation": "たびびとのきゃんぷのらんたん"
   },
   {
     "id": 10468,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營熱水壺",
+    "name": "[旅人露營]熱水壺",
     "pronunciation": "たびびとのきゃんぷのけとる"
   },
   {
     "id": 10469,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐小屋",
+    "name": "[溫馨的野餐]小屋",
     "pronunciation": "ぽかぽかなぴくにっくのいえ"
   },
   {
     "id": 10470,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐小屋椅子",
+    "name": "[溫馨的野餐]椅子",
     "pronunciation": "ぽかぽかなぴくにっくのちぇあ"
   },
   {
     "id": 10471,
     "mysekaiFixtureTagType": "none",
-    "name": "溫馨的野餐小屋樹木",
+    "name": "[溫馨的野餐]樹木",
     "pronunciation": "ぽかぽかなぴくにっくのつりー"
   },
   {
@@ -3310,7 +3310,7 @@
   {
     "id": 10473,
     "mysekaiFixtureTagType": "none",
-    "name": "天文學家的研究室小屋",
+    "name": "[天文學家研究室]小屋",
     "pronunciation": "てんもんがくしゃのいえ"
   },
   {
@@ -3436,25 +3436,25 @@
   {
     "id": 10494,
     "mysekaiFixtureTagType": "none",
-    "name": "旅人露營木屋",
+    "name": "[旅人露營]木屋",
     "pronunciation": "たびびとのきゃんぷのろぐはうす"
   },
   {
     "id": 10495,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風格] 一歌的玩偶/S",
+    "name": "[七彩慶典風] 一歌的玩偶/S",
     "pronunciation": "からふぇすすたいるいちかのぬいぐるみえす"
   },
   {
     "id": 10496,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風格] 一歌的玩偶/M",
+    "name": "[七彩慶典風] 一歌的玩偶/M",
     "pronunciation": "からふぇすすたいるいちかのぬいぐるみえむ"
   },
   {
     "id": 10497,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風格] 一歌的玩偶/L",
+    "name": "[七彩慶典風] 一歌的玩偶/L",
     "pronunciation": "からふぇすすたいるいちかのぬいぐるみえる"
   },
   {
@@ -3532,19 +3532,19 @@
   {
     "id": 10510,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風] 未來的玩偶/S",
+    "name": "[七彩慶典風] 初音未來的玩偶/S",
     "pronunciation": "からふぇすすたいるみくのぬいぐるみえす"
   },
   {
     "id": 10511,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風] 未來的玩偶/M",
+    "name": "[七彩慶典風] 初音未來的玩偶/M",
     "pronunciation": "からふぇすすたいるみくのぬいぐるみえむ"
   },
   {
     "id": 10512,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風] 未來的玩偶/L",
+    "name": "[七彩慶典風] 初音未來的玩偶/L",
     "pronunciation": "からふぇすすたいるみくのぬいぐるみえる"
   },
   {
@@ -3562,79 +3562,79 @@
   {
     "id": 10515,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的太鼓",
+    "name": "[雷神祭]太鼓",
     "pronunciation": "らいじんさいのわだいこ"
   },
   {
     "id": 10516,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的提燈",
+    "name": "[雷神祭]提燈",
     "pronunciation": "らいじんさいのちょうちん"
   },
   {
     "id": 10517,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的面具攤位",
+    "name": "[雷神祭]面具攤位",
     "pronunciation": "らいじんさいのおめんやたい"
   },
   {
     "id": 10518,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的棉花糖攤位",
+    "name": "[雷神祭]棉花糖攤位",
     "pronunciation": "らいじんさいのわたがしやたい"
   },
   {
     "id": 10519,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的燈籠",
+    "name": "[雷神祭]燈籠",
     "pronunciation": "らいじんさいのとうろう"
   },
   {
     "id": 10520,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的池塘",
+    "name": "[雷神祭]池塘",
     "pronunciation": "らいじんさいのいけ"
   },
   {
     "id": 10521,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的狐狸石像/朝右",
+    "name": "[雷神祭]狐狸石像/朝右",
     "pronunciation": "らいじんさいのきつねぞうみぎむき"
   },
   {
     "id": 10522,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的小屋",
+    "name": "[雷神祭]小屋",
     "pronunciation": "らいじんさいのいえ"
   },
   {
     "id": 10523,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的鳥居",
+    "name": "[雷神祭]鳥居",
     "pronunciation": "らいじんさいのとりい"
   },
   {
     "id": 10524,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的木製長椅",
+    "name": "[雷神祭]木製長椅",
     "pronunciation": "らいじんさいのえんだい"
   },
   {
     "id": 10525,
     "mysekaiFixtureTagType": "none",
-    "name": "雷神祭的狐狸石像/朝左",
+    "name": "[雷神祭]狐狸石像/朝左",
     "pronunciation": "らいじんさいのきつねぞうひだりむき"
   },
   {
     "id": 10526,
     "mysekaiFixtureTagType": "none",
-    "name": "簡約可愛的廚房壁紙",
+    "name": "[簡約可愛的廚房]壁紙",
     "pronunciation": "しんぷるぽっぷきっちんのかべがみ"
   },
   {
     "id": 10527,
     "mysekaiFixtureTagType": "none",
-    "name": "簡約可愛的廚房地板",
+    "name": "[簡約可愛的廚房]地板",
     "pronunciation": "しんぷるぽっぷきっちんのゆか"
   },
   {
@@ -3916,19 +3916,19 @@
   {
     "id": 10574,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風] 鈴的玩偶/S",
+    "name": "[七彩慶典風] 鏡音鈴的玩偶/S",
     "pronunciation": "からふぇすすたいるりんのぬいぐるみえす"
   },
   {
     "id": 10575,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風] 鈴的玩偶/M",
+    "name": "[七彩慶典風] 鏡音鈴的玩偶/M",
     "pronunciation": "からふぇすすたいるりんのぬいぐるみえむ"
   },
   {
     "id": 10576,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風] 鈴的玩偶/L",
+    "name": "[七彩慶典風] 鏡音鈴的玩偶/L",
     "pronunciation": "からふぇすすたいるりんのぬいぐるみえる"
   },
   {
@@ -4000,55 +4000,55 @@
   {
     "id": 10588,
     "mysekaiFixtureTagType": "none",
-    "name": "花園的簡約花圃/虞美人花",
+    "name": "[花園]簡約花圃/虞美人花",
     "pronunciation": "がーでんのそぼくなかだんぽぴー"
   },
   {
     "id": 10589,
     "mysekaiFixtureTagType": "none",
-    "name": "花園的簡約花圃/波斯菊",
+    "name": "[花園]簡約花圃/波斯菊",
     "pronunciation": "がーでんのそぼくなかだんこすもす"
   },
   {
     "id": 10590,
     "mysekaiFixtureTagType": "none",
-    "name": "花園的簡約花圃/薰衣草",
+    "name": "[花園]簡約花圃/薰衣草",
     "pronunciation": "がーでんのそぼくなかだんらべんだー"
   },
   {
     "id": 10591,
     "mysekaiFixtureTagType": "none",
-    "name": "花園格子花盆/虞美人花",
+    "name": "[花園]格子花盆：虞美人花",
     "pronunciation": "がーでんのらてぃすぷらんたーぽぴー"
   },
   {
     "id": 10592,
     "mysekaiFixtureTagType": "none",
-    "name": "花園格子花盆/波斯菊",
+    "name": "[花園]格子花盆：波斯菊",
     "pronunciation": "がーでんのらてぃすぷらんたーこすもす"
   },
   {
     "id": 10593,
     "mysekaiFixtureTagType": "none",
-    "name": "花園格子花盆/薰衣草",
+    "name": "[花園]格子花盆：薰衣草",
     "pronunciation": "がーでんのらてぃすぷらんたーらべんだー"
   },
   {
     "id": 10594,
     "mysekaiFixtureTagType": "none",
-    "name": "花園推車/虞美人花",
+    "name": "[花園]推車：虞美人花",
     "pronunciation": "がーでんかーとぽぴー"
   },
   {
     "id": 10595,
     "mysekaiFixtureTagType": "none",
-    "name": "花園推車/波斯菊",
+    "name": "[花園]推車：波斯菊",
     "pronunciation": "がーでんかーとこすもす"
   },
   {
     "id": 10596,
     "mysekaiFixtureTagType": "none",
-    "name": "花園推車/薰衣草",
+    "name": "[花園]推車：薰衣草",
     "pronunciation": "がーでんかーとらべんだー"
   },
   {
@@ -4396,271 +4396,271 @@
   {
     "id": 10654,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風] 流歌的玩偶/S",
+    "name": "[七彩慶典風] 巡音流歌的玩偶/S",
     "pronunciation": "からふぇすすたいるるかのぬいぐるみえす"
   },
   {
     "id": 10655,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風] 流歌的玩偶/M",
+    "name": "[七彩慶典風] 巡音流歌的玩偶/M",
     "pronunciation": "からふぇすすたいるるかのぬいぐるみえむ"
   },
   {
     "id": 10656,
     "mysekaiFixtureTagType": "none",
-    "name": "[七彩慶典風] 流歌的玩偶/L",
+    "name": "[七彩慶典風] 巡音流歌的玩偶/L",
     "pronunciation": "からふぇすすたいるるかのぬいぐるみえる"
   },
   {
     "id": 10657,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室小屋",
+    "name": "[彩虹畫室]小屋",
     "pronunciation": "にじいろあとりえるーむのいえ"
   },
   {
     "id": 10658,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室壁紙",
+    "name": "[彩虹畫室]壁紙",
     "pronunciation": "にじいろあとりえるーむのかべがみ"
   },
   {
     "id": 10659,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室地板",
+    "name": "[彩虹畫室]地板",
     "pronunciation": "にじいろあとりえるーむのゆか"
   },
   {
     "id": 10660,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室窗戶",
+    "name": "[彩虹畫室]窗戶",
     "pronunciation": "にじいろあとりえるーむのまど"
   },
   {
     "id": 10661,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室櫃子",
+    "name": "[彩虹畫室]櫃子",
     "pronunciation": "にじいろあとりえるーむのちぇすと"
   },
   {
     "id": 10662,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室矮凳",
+    "name": "[彩虹畫室]矮凳",
     "pronunciation": "にじいろあとりえるーむのすつーる"
   },
   {
     "id": 10663,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室畫架",
+    "name": "[彩虹畫室]畫架",
     "pronunciation": "にじいろあとりえるーむのいーぜる"
   },
   {
     "id": 10664,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室書桌",
+    "name": "[彩虹畫室]書桌",
     "pronunciation": "にじいろあとりえるーむのつくえ"
   },
   {
     "id": 10665,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室畫作",
+    "name": "[彩虹畫室]畫作",
     "pronunciation": "にじいろあとりえるーむのかいが"
   },
   {
     "id": 10666,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室彩旗",
+    "name": "[彩虹畫室]彩旗",
     "pronunciation": "にじいろあとりえるーむのがーらんど"
   },
   {
     "id": 10667,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室架子",
+    "name": "[彩虹畫室]架子",
     "pronunciation": "にじいろあとりえるーむのしぇるふ"
   },
   {
     "id": 10668,
     "mysekaiFixtureTagType": "none",
-    "name": "彩虹畫室調色盤",
+    "name": "[彩虹畫室]調色盤",
     "pronunciation": "にじいろあとりえるーむのぱれっと"
   },
   {
     "id": 10669,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」穗波的玩偶/S",
+    "name": "[七彩慶典風] 穗波的玩偶/S",
     "pronunciation": "からふぇすすたいるほなみのぬいぐるみえす"
   },
   {
     "id": 10670,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」穗波的玩偶/M",
+    "name": "[七彩慶典風] 穗波的玩偶/M",
     "pronunciation": "からふぇすすたいるほなみのぬいぐるみえむ"
   },
   {
     "id": 10671,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」穗波的玩偶/L",
+    "name": "[七彩慶典風] 穗波的玩偶/L",
     "pronunciation": "からふぇすすたいるほなみのぬいぐるみえる"
   },
   {
     "id": 10672,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」雫的玩偶/S",
+    "name": "[七彩慶典風] 雫的玩偶/S",
     "pronunciation": "からふぇすすたいるしずくのぬいぐるみえす"
   },
   {
     "id": 10673,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」雫的玩偶/M",
+    "name": "[七彩慶典風] 雫的玩偶/M",
     "pronunciation": "からふぇすすたいるしずくのぬいぐるみえむ"
   },
   {
     "id": 10674,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」雫的玩偶/L",
+    "name": "[七彩慶典風] 雫的玩偶/L",
     "pronunciation": "からふぇすすたいるしずくのぬいぐるみえる"
   },
   {
     "id": 10675,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」彰人的玩偶/S",
+    "name": "[七彩慶典風] 彰人的玩偶/S",
     "pronunciation": "からふぇすすたいるあきとのぬいぐるみえす"
   },
   {
     "id": 10676,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」彰人的玩偶/M",
+    "name": "[七彩慶典風] 彰人的玩偶/M",
     "pronunciation": "からふぇすすたいるあきとのぬいぐるみえむ"
   },
   {
     "id": 10677,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」彰人的玩偶/L",
+    "name": "[七彩慶典風] 彰人的玩偶/L",
     "pronunciation": "からふぇすすたいるあきとのぬいぐるみえる"
   },
   {
     "id": 10678,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」寧寧的玩偶/S",
+    "name": "[七彩慶典風] 寧寧的玩偶/S",
     "pronunciation": "からふぇすすたいるねねのぬいぐるみえす"
   },
   {
     "id": 10679,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」寧寧的玩偶/M",
+    "name": "[七彩慶典風] 寧寧的玩偶/M",
     "pronunciation": "からふぇすすたいるねねのぬいぐるみえむ"
   },
   {
     "id": 10680,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」寧寧的玩偶/L",
+    "name": "[七彩慶典風] 寧寧的玩偶/L",
     "pronunciation": "からふぇすすたいるねねのぬいぐるみえる"
   },
   {
     "id": 10681,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」真冬的玩偶/S",
+    "name": "[七彩慶典風] 真冬的玩偶/S",
     "pronunciation": "からふぇすすたいるまふゆのぬいぐるみえす"
   },
   {
     "id": 10682,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」真冬的玩偶/M",
+    "name": "[七彩慶典風] 真冬的玩偶/M",
     "pronunciation": "からふぇすすたいるまふゆのぬいぐるみえむ"
   },
   {
     "id": 10683,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」真冬的玩偶/L",
+    "name": "[七彩慶典風] 真冬的玩偶/L",
     "pronunciation": "からふぇすすたいるまふゆのぬいぐるみえる"
   },
   {
     "id": 10684,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」連的玩偶/S",
+    "name": "[七彩慶典風] 鏡音連的玩偶/S",
     "pronunciation": "からふぇすすたいるれんのぬいぐるみえす"
   },
   {
     "id": 10685,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」連的玩偶/M",
+    "name": "[七彩慶典風] 鏡音連的玩偶/M",
     "pronunciation": "からふぇすすたいるれんのぬいぐるみえむ"
   },
   {
     "id": 10686,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」連的玩偶/L",
+    "name": "[七彩慶典風] 鏡音連的玩偶/L",
     "pronunciation": "からふぇすすたいるれんのぬいぐるみえる"
   },
   {
     "id": 10687,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」KAITO的玩偶/S",
+    "name": "[七彩慶典風] KAITO的玩偶/S",
     "pronunciation": "からふぇすすたいるかいとのぬいぐるみえす"
   },
   {
     "id": 10688,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」KAITO的玩偶/M",
+    "name": "[七彩慶典風] KAITO的玩偶/M",
     "pronunciation": "からふぇすすたいるかいとのぬいぐるみえむ"
   },
   {
     "id": 10689,
     "mysekaiFixtureTagType": "none",
-    "name": "「七彩慶典風」KAITO的玩偶/L",
+    "name": "[七彩慶典風] KAITO的玩偶/L",
     "pronunciation": "からふぇすすたいるかいとのぬいぐるみえる"
   },
   {
     "id": 10690,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風躺椅",
+    "name": "[渡假風]躺椅",
     "pronunciation": "りぞーとのでっきちぇあ"
   },
   {
     "id": 10691,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風泳圈",
+    "name": "[渡假風]泳圈",
     "pronunciation": "りぞーとのうきわ"
   },
   {
     "id": 10692,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風燈",
+    "name": "[渡假風]燈",
     "pronunciation": "りぞーとのらんぷ"
   },
   {
     "id": 10693,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風遮陽傘",
+    "name": "[渡假風]遮陽傘",
     "pronunciation": "りぞーとのぱらそる"
   },
   {
     "id": 10694,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風地墊",
+    "name": "[渡假風]地墊",
     "pronunciation": "りぞーとのらぐ"
   },
   {
     "id": 10695,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風泳池",
+    "name": "[渡假風]泳池",
     "pronunciation": "りぞーとのぷーる"
   },
   {
     "id": 10696,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風按摩浴缸",
+    "name": "[渡假風]按摩浴缸",
     "pronunciation": "りぞーとのじぇっとばす"
   },
   {
     "id": 10697,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風雙人沙發",
+    "name": "[渡假風]雙人沙發",
     "pronunciation": "りぞーとのだぶるそふぁ"
   },
   {
     "id": 10698,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風吊床",
+    "name": "[渡假風]吊床",
     "pronunciation": "りぞーとのはんもっく"
   },
   {
@@ -4672,19 +4672,19 @@
   {
     "id": 10700,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風隔板",
+    "name": "[渡假風]隔板",
     "pronunciation": "りぞーとのぱーてーしょん"
   },
   {
     "id": 10701,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風矮桌",
+    "name": "[渡假風]矮桌",
     "pronunciation": "りぞーとのろーてーぶる"
   },
   {
     "id": 10702,
     "mysekaiFixtureTagType": "none",
-    "name": "渡假風邊桌",
+    "name": "[渡假風]邊桌",
     "pronunciation": "りぞーとのさいどてーぶる"
   },
   {
@@ -4816,67 +4816,67 @@
   {
     "id": 10724,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的牆壁",
+    "name": "[車庫]牆壁",
     "pronunciation": "がれーじのかべ"
   },
   {
     "id": 10725,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的地板",
+    "name": "[車庫]地板",
     "pronunciation": "がれーじのゆか"
   },
   {
     "id": 10726,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的工具架",
+    "name": "[車庫]工具架",
     "pronunciation": "がれーじのこうぐだな"
   },
   {
     "id": 10727,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的工作台",
+    "name": "[車庫]工作台",
     "pronunciation": "がれーじのさぎょうづくえ"
   },
   {
     "id": 10728,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的汽車",
+    "name": "[車庫]汽車",
     "pronunciation": "がれーじのくるま"
   },
   {
     "id": 10729,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的摩托車",
+    "name": "[車庫]摩托車",
     "pronunciation": "がれーじのばいく"
   },
   {
     "id": 10730,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的腳踏車",
+    "name": "[車庫]腳踏車",
     "pronunciation": "がれーじのじてんしゃ"
   },
   {
     "id": 10731,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的壁掛工具",
+    "name": "[車庫]壁掛工具",
     "pronunciation": "がれーじのかべかけこうぐ"
   },
   {
     "id": 10732,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的換氣扇",
+    "name": "[車庫]換氣扇",
     "pronunciation": "がれーじのかんきせん"
   },
   {
     "id": 10733,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的油漆罐",
+    "name": "[車庫]油漆罐",
     "pronunciation": "がれーじのぺんきかん"
   },
   {
     "id": 10734,
     "mysekaiFixtureTagType": "none",
-    "name": "車庫的壁掛式百葉窗",
+    "name": "[車庫]壁掛式百葉窗",
     "pronunciation": "がれーじのかべかけしゃったー"
   },
   {
@@ -4936,121 +4936,121 @@
   {
     "id": 10744,
     "mysekaiFixtureTagType": "none",
-    "name": "夢幻嬰兒房的房子",
+    "name": "[夢幻嬰兒房]房子",
     "pronunciation": "どりーみぃべびーるーむのいえ"
   },
   {
     "id": 10745,
     "mysekaiFixtureTagType": "none",
-    "name": "夢幻嬰兒房的壁紙",
+    "name": "[夢幻嬰兒房]壁紙",
     "pronunciation": "どりーみぃべびーるーむのいえかべがみ"
   },
   {
     "id": 10746,
     "mysekaiFixtureTagType": "none",
-    "name": "夢幻嬰兒房的地板",
+    "name": "[夢幻嬰兒房]地板",
     "pronunciation": "どりーみぃべびーるーむのゆか"
   },
   {
     "id": 10747,
     "mysekaiFixtureTagType": "none",
-    "name": "夢幻嬰兒房的窗戶",
+    "name": "[夢幻嬰兒房]窗戶",
     "pronunciation": "どりーみぃべびーるーむのまど"
   },
   {
     "id": 10748,
     "mysekaiFixtureTagType": "none",
-    "name": "夢幻嬰兒房的床",
+    "name": "[夢幻嬰兒房]床",
     "pronunciation": "どりーみぃべびーるーむのべっど"
   },
   {
     "id": 10749,
     "mysekaiFixtureTagType": "none",
-    "name": "夢幻嬰兒房的繪本書架",
+    "name": "[夢幻嬰兒房]繪本書架",
     "pronunciation": "どりーみぃべびーるーむのえほんだな"
   },
   {
     "id": 10750,
     "mysekaiFixtureTagType": "none",
-    "name": "夢幻嬰兒房的動物搖椅",
+    "name": "[夢幻嬰兒房]動物搖椅",
     "pronunciation": "どりーみぃべびーるーむのろっきんぐあにまる"
   },
   {
     "id": 10751,
     "mysekaiFixtureTagType": "none",
-    "name": "夢幻嬰兒房的靠枕",
+    "name": "[夢幻嬰兒房]靠枕",
     "pronunciation": "どりーみぃべびーるーむのくっしょん"
   },
   {
     "id": 10752,
     "mysekaiFixtureTagType": "none",
-    "name": "夢幻嬰兒房的床鈴",
+    "name": "[夢幻嬰兒房]床鈴",
     "pronunciation": "どりーみぃべびーるーむのもびーる"
   },
   {
     "id": 10753,
     "mysekaiFixtureTagType": "none",
-    "name": "夢幻嬰兒房的地毯",
+    "name": "[夢幻嬰兒房]地毯",
     "pronunciation": "どりーみぃべびーるーむのらぐまっと"
   },
   {
     "id": 10754,
     "mysekaiFixtureTagType": "none",
-    "name": "虛擬城市的水陸空車",
+    "name": "[虛擬城市]水陸空車",
     "pronunciation": "さいばーしてぃのすいりくくうしゃ"
   },
   {
     "id": 10755,
     "mysekaiFixtureTagType": "none",
-    "name": "虛擬城市的拱門",
+    "name": "[虛擬城市]拱門",
     "pronunciation": "さいばーしてぃーあーち"
   },
   {
     "id": 10756,
     "mysekaiFixtureTagType": "none",
-    "name": "虛擬城市的霓虹燈",
+    "name": "[虛擬城市]霓虹燈",
     "pronunciation": "さいばーしーてぃのねおん"
   },
   {
     "id": 10757,
     "mysekaiFixtureTagType": "none",
-    "name": "虛擬城市的設備堆",
+    "name": "[虛擬城市]設備堆",
     "pronunciation": "さいばーしてぃのきざいのやま"
   },
   {
     "id": 10758,
     "mysekaiFixtureTagType": "none",
-    "name": "虛擬城市的路標",
+    "name": "[虛擬城市]路標",
     "pronunciation": "さいばーしてぃのみちしるべ"
   },
   {
     "id": 10759,
     "mysekaiFixtureTagType": "none",
-    "name": "藍色鯨魚的牆壁",
+    "name": "[藍色鯨魚]牆壁",
     "pronunciation": "みずいろくじらのかべ"
   },
   {
     "id": 10760,
     "mysekaiFixtureTagType": "none",
-    "name": "藍色鯨魚的地板",
+    "name": "[藍色鯨魚]地板",
     "pronunciation": "みずいろくじらのゆか"
   },
   {
     "id": 10761,
     "mysekaiFixtureTagType": "none",
-    "name": "藍色鯨魚的玩偶",
+    "name": "[藍色鯨魚]玩偶",
     "pronunciation": "みずいろくじらのぬいぐるみ"
   },
   {
     "id": 10762,
     "mysekaiFixtureTagType": "none",
-    "name": "藍色鯨魚的魚沙發",
+    "name": "[藍色鯨魚]魚沙發",
     "pronunciation": "みずいろくじらのさかなそふぁ"
   },
   {
     "id": 10763,
     "mysekaiFixtureTagType": "none",
-    "name": "藍色鯨魚的珊瑚",
+    "name": "[藍色鯨魚]珊瑚",
     "pronunciation": "みずいろくじらのこーらる"
   },
   {
@@ -5314,67 +5314,67 @@
   {
     "id": 10807,
     "mysekaiFixtureTagType": "none",
-    "name": "微笑鯛魚燒店的餐車",
+    "name": "[微笑鯛魚燒店]餐車",
     "pronunciation": "にっこりたいやきやさんのきっちんかー"
   },
   {
     "id": 10808,
     "mysekaiFixtureTagType": "none",
-    "name": "微笑鯛魚燒店的菜單看板",
+    "name": "[微笑鯛魚燒店]菜單看板",
     "pronunciation": "にっこりたいやきやさんのめにゅーかんばん"
   },
   {
     "id": 10809,
     "mysekaiFixtureTagType": "none",
-    "name": "微笑鯛魚燒店的垃圾桶",
+    "name": "[微笑鯛魚燒店]垃圾桶",
     "pronunciation": "にっこりたいやきやさんのだすとぼっくす"
   },
   {
     "id": 10810,
     "mysekaiFixtureTagType": "none",
-    "name": "微笑鯛魚燒店的掛旗",
+    "name": "[微笑鯛魚燒店]掛旗",
     "pronunciation": "にっこりたいやきやさんのがーらんど"
   },
   {
     "id": 10811,
     "mysekaiFixtureTagType": "none",
-    "name": "微笑鯛魚燒店的鯛魚燒",
+    "name": "[微笑鯛魚燒店]鯛魚燒",
     "pronunciation": "にっこりたいやきやさんのたいやき"
   },
   {
     "id": 10812,
     "mysekaiFixtureTagType": "none",
-    "name": "毛茸茸散步的牆壁",
+    "name": "[毛茸茸散步]牆壁",
     "pronunciation": "もこもこおさんぽのかべ"
   },
   {
     "id": 10813,
     "mysekaiFixtureTagType": "none",
-    "name": "毛茸茸散步的地板",
+    "name": "[毛茸茸散步]地板",
     "pronunciation": "もこもこおさんぽのゆか"
   },
   {
     "id": 10814,
     "mysekaiFixtureTagType": "none",
-    "name": "毛茸茸散步的壁架",
+    "name": "[毛茸茸散步]壁架",
     "pronunciation": "もこもこおさんぽのうぉーるしぇるふ"
   },
   {
     "id": 10815,
     "mysekaiFixtureTagType": "none",
-    "name": "毛茸茸散步的床",
+    "name": "[毛茸茸散步]床",
     "pronunciation": "もこもこおさんぽのべっど"
   },
   {
     "id": 10816,
     "mysekaiFixtureTagType": "none",
-    "name": "毛茸茸散步的沙發",
+    "name": "[毛茸茸散步]沙發",
     "pronunciation": "もこもこおさんぽのそふぁ"
   },
   {
     "id": 10817,
     "mysekaiFixtureTagType": "none",
-    "name": "清爽的盥洗室的窗戶",
+    "name": "[清爽的盥洗室]窗戶",
     "pronunciation": "クリーンパウダールーム"
   },
   {
@@ -5548,7 +5548,7 @@
   {
     "id": 10846,
     "mysekaiFixtureTagType": "none",
-    "name": "日式簡約坐墊",
+    "name": "[日式簡約]坐墊",
     "pronunciation": "わふうなそぼくなざぶとん"
   },
   {
@@ -5578,79 +5578,79 @@
   {
     "id": 10851,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的房子",
+    "name": "[「世界」舞台]房子",
     "pronunciation": "せかいすてーじのいえ"
   },
   {
     "id": 10852,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的壁紙",
+    "name": "[「世界」舞台]壁紙",
     "pronunciation": "せかいすてーじのかべがみ"
   },
   {
     "id": 10853,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的地板",
+    "name": "[「世界」舞台]地板",
     "pronunciation": "せかいすてーじのゆか"
   },
   {
     "id": 10854,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的窗戶",
+    "name": "[「世界」舞台]窗戶",
     "pronunciation": "せかいすてーじのまど"
   },
   {
     "id": 10855,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的小舞台",
+    "name": "[「世界」舞台]小舞台",
     "pronunciation": "せかいすてーじのみにすてーじ"
   },
   {
     "id": 10856,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的直立式麥克風",
+    "name": "[「世界」舞台]直立式麥克風",
     "pronunciation": "せかいすてーじのすたんどまいく"
   },
   {
     "id": 10857,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的桌子",
+    "name": "[「世界」舞台]桌子",
     "pronunciation": "せかいすてーじのてーぶる"
   },
   {
     "id": 10858,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的沙發",
+    "name": "[「世界」舞台]沙發",
     "pronunciation": "せかいすてーじのそふぁ"
   },
   {
     "id": 10859,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的高腳桌",
+    "name": "[「世界」舞台]高腳桌",
     "pronunciation": "せかいすてーじのはいてーぶる"
   },
   {
     "id": 10860,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的高腳椅",
+    "name": "[「世界」舞台]高腳椅",
     "pronunciation": "せかいすてーじのはいちぇあ"
   },
   {
     "id": 10861,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的音響",
+    "name": "[「世界」舞台]音響",
     "pronunciation": "せかいすてーじのすぴーかー"
   },
   {
     "id": 10862,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的舞台燈光",
+    "name": "[「世界」舞台]舞台燈光",
     "pronunciation": "せかいすてーじのすてーじらいと"
   },
   {
     "id": 10863,
     "mysekaiFixtureTagType": "none",
-    "name": "「世界」舞台的DJ台",
+    "name": "[「世界」舞台]DJ台",
     "pronunciation": "せかいすてーじのでぃーじぇーぶーす"
   },
   {
@@ -5806,79 +5806,79 @@
   {
     "id": 10894,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的房子",
+    "name": "[浪漫花園]房子",
     "pronunciation": "ろまんてぃっくがーでんのいえ"
   },
   {
     "id": 10895,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的馬車",
+    "name": "[浪漫花園]馬車",
     "pronunciation": "ろまんてぃっくがーでんのばしゃ"
   },
   {
     "id": 10896,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的涼亭",
+    "name": "[浪漫花園]涼亭",
     "pronunciation": "ろまんてぃっくがーでんのがぜぼ"
   },
   {
     "id": 10897,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的雕塑/右",
+    "name": "[浪漫花園]雕塑/右",
     "pronunciation": "ろまんてぃっくがーでんのちょうこくみぎ"
   },
   {
     "id": 10898,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的雕塑/左",
+    "name": "[浪漫花園]雕塑/左",
     "pronunciation": "ろまんてぃっくがーでんのちょうこくひだり"
   },
   {
     "id": 10899,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的盆栽",
+    "name": "[浪漫花園]盆栽",
     "pronunciation": "ろまんてぃっくがーでんのはちうえ"
   },
   {
     "id": 10900,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的街燈",
+    "name": "[浪漫花園]街燈",
     "pronunciation": "ろまんてぃっくがーでんのがいとう"
   },
   {
     "id": 10901,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的池塘",
+    "name": "[浪漫花園]池塘",
     "pronunciation": "ろまんてぃっくがーでんのいけ"
   },
   {
     "id": 10902,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的桌子",
+    "name": "[浪漫花園]桌子",
     "pronunciation": "ろまんてぃっくがーでんのでーぶる"
   },
   {
     "id": 10903,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的椅子",
+    "name": "[浪漫花園]椅子",
     "pronunciation": "ろまんてぃっくがーでんのいす"
   },
   {
     "id": 10904,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的拱門",
+    "name": "[浪漫花園]拱門",
     "pronunciation": "ろまんてぃっくがーでんのあーち"
   },
   {
     "id": 10905,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的紅茶",
+    "name": "[浪漫花園]紅茶",
     "pronunciation": "ろまんてぃっくがーでんのこうちゃ"
   },
   {
     "id": 10906,
     "mysekaiFixtureTagType": "none",
-    "name": "浪漫花園的柏樹",
+    "name": "[浪漫花園]柏樹",
     "pronunciation": "ろまんてぃっくがーでんのいとすぎ"
   },
   {
@@ -6034,145 +6034,145 @@
   {
     "id": 10947,
     "mysekaiFixtureTagType": "none",
-    "name": "バースデーケーキ（穂波）",
+    "name": "生日蛋糕（穗波）",
     "pronunciation": "ばーすでーけーきほなみ"
   },
   {
     "id": 10948,
     "mysekaiFixtureTagType": "none",
-    "name": "バースデーバルーン（穂波）",
+    "name": "生日氣球（穗波）",
     "pronunciation": "ばーすでーばるーんほなみ"
   },
   {
     "id": 10949,
     "mysekaiFixtureTagType": "none",
-    "name": "バースデーブーケ（穂波）",
+    "name": "生日花束（穗波）",
     "pronunciation": "ばーすでーぶーけほなみ"
   },
   {
     "id": 10950,
     "mysekaiFixtureTagType": "none",
-    "name": "バースデーガーランド（穂波）",
+    "name": "生日掛旗（穗波）",
     "pronunciation": "ばーすでーがーらんどほなみ"
   },
   {
     "id": 10951,
     "mysekaiFixtureTagType": "none",
-    "name": "バースデーチェア（穂波）",
+    "name": "生日椅子（穗波）",
     "pronunciation": "ばーすでーちぇあほなみ"
   },
   {
     "id": 10952,
     "mysekaiFixtureTagType": "none",
-    "name": "望月穂波BD '25",
+    "name": "望月穗波BD '26",
     "pronunciation": "もちづきほなみばーすでーにじゅうご"
   },
   {
     "id": 10965,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/S",
+    "name": "[限量設計vol.2] 志步的玩偶/S",
     "pronunciation": "りみてっどすたいるぼりゅーむつーしほのぬいぐるみえす"
   },
   {
     "id": 10966,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/M",
+    "name": "[限量設計vol.2] 志步的玩偶/M",
     "pronunciation": "りみてっどすたいるぼりゅーむつーしほのぬいぐるみえむ"
   },
   {
     "id": 10967,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/L",
+    "name": "[限量設計vol.2] 志步的玩偶/L",
     "pronunciation": "りみてっどすたいるぼりゅーむつーしほのぬいぐるみえる"
   },
   {
     "id": 10968,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] みのりのぬいぐるみ/S",
+    "name": "[限量設計vol.2] 實乃理的玩偶/S",
     "pronunciation": "りみてっどすたいるぼりゅーむつーみのりのぬいぐるみえす"
   },
   {
     "id": 10969,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] みのりのぬいぐるみ/M",
+    "name": "[限量設計vol.2] 實乃理的玩偶/M",
     "pronunciation": "りみてっどすたいるぼりゅーむつーみのりのぬいぐるみえむ"
   },
   {
     "id": 10970,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] みのりのぬいぐるみ/L",
+    "name": "[限量設計vol.2] 實乃理的玩偶/L",
     "pronunciation": "りみてっどすたいるぼりゅーむつーみのりのぬいぐるみえる"
   },
   {
     "id": 10971,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/S",
+    "name": "[限量設計vol.2] 冬彌的玩偶/S",
     "pronunciation": "りみてっどすたいるぼりゅーむつーとうやのぬいぐるみえす"
   },
   {
     "id": 10972,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/M",
+    "name": "[限量設計vol.2] 冬彌的玩偶/M",
     "pronunciation": "りみてっどすたいるぼりゅーむつーとうやのぬいぐるみえむ"
   },
   {
     "id": 10973,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/L",
+    "name": "[限量設計vol.2] 冬彌的玩偶/L",
     "pronunciation": "りみてっどすたいるぼりゅーむつーとうやのぬいぐるみえる"
   },
   {
     "id": 10974,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/S",
+    "name": "[限量設計vol.2] 寧寧的玩偶/S",
     "pronunciation": "りみてっどすたいるぼりゅーむつーねねのぬいぐるみえす"
   },
   {
     "id": 10975,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/M",
+    "name": "[限量設計vol.2] 寧寧的玩偶/M",
     "pronunciation": "りみてっどすたいるぼりゅーむつーねねのぬいぐるみえむ"
   },
   {
     "id": 10976,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/L",
+    "name": "[限量設計vol.2] 寧寧的玩偶/L",
     "pronunciation": "りみてっどすたいるぼりゅーむつーねねのぬいぐるみえる"
   },
   {
     "id": 10977,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 奏のぬいぐるみ/S",
+    "name": "[限量設計vol.2] 奏的玩偶/S",
     "pronunciation": "りみてっどすたいるぼりゅーむつーかなでのぬいぐるみえす"
   },
   {
     "id": 10978,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2]奏のぬいぐるみ/M",
+    "name": "[限量設計vol.2] 奏的玩偶/M",
     "pronunciation": "りみてっどすたいるぼりゅーむつーかなでのぬいぐるみえむ"
   },
   {
     "id": 10979,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] 奏のぬいぐるみ/L",
+    "name": "[限量設計vol.2] 奏的玩偶/L",
     "pronunciation": "りみてっどすたいるぼりゅーむつーかなでのぬいぐるみえる"
   },
   {
     "id": 10980,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/S",
+    "name": "[限量設計vol.2] KAITO的玩偶/S",
     "pronunciation": "りみてっどすたいるぼりゅーむつーかいとのぬいぐるみえす"
   },
   {
     "id": 10981,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/M",
+    "name": "[限量設計vol.2] KAITO的玩偶/M",
     "pronunciation": "りみてっどすたいるぼりゅーむつーかいとのぬいぐるみえむ"
   },
   {
     "id": 10982,
     "mysekaiFixtureTagType": "none",
-    "name": "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/L",
+    "name": "[限量設計vol.2] KAITO的玩偶/L",
     "pronunciation": "りみてっどすたいるぼりゅーむつーかいとのぬいぐるみえる"
   },
   {

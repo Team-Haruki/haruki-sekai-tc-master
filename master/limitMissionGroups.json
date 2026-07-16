@@ -209,6 +209,15 @@
     "startAt": 1783137600000
   },
   {
+    "assetbundleName": "limitmission_sushi",
+    "distributionEndAt": 1787327999000,
+    "endAt": 1786377599000,
+    "iconAssetbundleName": "limitmission_sushi",
+    "id": 28,
+    "keyMissionId": 197,
+    "startAt": 1785556800000
+  },
+  {
     "distributionEndAt": 1814975999000,
     "endAt": 1813755599000,
     "iconAssetbundleName": "limitmission_kaito",

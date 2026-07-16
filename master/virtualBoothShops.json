@@ -624,6 +624,78 @@
     "virtualLiveId": 362
   },
   {
+    "id": 1030,
+    "targetId": 312,
+    "virtualBoothShopType": "virtual_shop",
+    "virtualLiveId": 389
+  },
+  {
+    "id": 1031,
+    "targetId": 57,
+    "virtualBoothShopType": "collection_gacha",
+    "virtualLiveId": 389
+  },
+  {
+    "id": 1032,
+    "targetId": 58,
+    "virtualBoothShopType": "collection_gacha",
+    "virtualLiveId": 389
+  },
+  {
+    "id": 1033,
+    "targetId": 59,
+    "virtualBoothShopType": "collection_gacha",
+    "virtualLiveId": 389
+  },
+  {
+    "id": 1034,
+    "targetId": 312,
+    "virtualBoothShopType": "virtual_shop",
+    "virtualLiveId": 390
+  },
+  {
+    "id": 1035,
+    "targetId": 57,
+    "virtualBoothShopType": "collection_gacha",
+    "virtualLiveId": 390
+  },
+  {
+    "id": 1036,
+    "targetId": 58,
+    "virtualBoothShopType": "collection_gacha",
+    "virtualLiveId": 390
+  },
+  {
+    "id": 1037,
+    "targetId": 59,
+    "virtualBoothShopType": "collection_gacha",
+    "virtualLiveId": 390
+  },
+  {
+    "id": 1038,
+    "targetId": 312,
+    "virtualBoothShopType": "virtual_shop",
+    "virtualLiveId": 391
+  },
+  {
+    "id": 1039,
+    "targetId": 57,
+    "virtualBoothShopType": "collection_gacha",
+    "virtualLiveId": 391
+  },
+  {
+    "id": 1040,
+    "targetId": 58,
+    "virtualBoothShopType": "collection_gacha",
+    "virtualLiveId": 391
+  },
+  {
+    "id": 1041,
+    "targetId": 59,
+    "virtualBoothShopType": "collection_gacha",
+    "virtualLiveId": 391
+  },
+  {
     "id": 10001,
     "targetId": 119,
     "virtualBoothShopType": "virtual_shop",
