@@ -1,184 +1,184 @@
 [
   {
     "assetbundleName": "memory_peace_5th_01",
-    "flavorText": "一歌の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧一歌的「5th Anniversary Special Message」的道具。",
     "id": 1,
-    "name": "メモリアルレコード（5th Anniversary Special Message：一歌）",
+    "name": "紀念檔案（5th Anniversary Special Message：一歌）",
     "virtualLiveId": 400
   },
   {
     "assetbundleName": "memory_peace_5th_02",
-    "flavorText": "咲希の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧咲希的「5th Anniversary Special Message」的道具。",
     "id": 2,
-    "name": "メモリアルレコード（5th Anniversary Special Message：咲希）",
+    "name": "紀念檔案（5th Anniversary Special Message：咲希）",
     "virtualLiveId": 401
   },
   {
     "assetbundleName": "memory_peace_5th_03",
-    "flavorText": "穂波の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧穗波的「5th Anniversary Special Message」的道具。",
     "id": 3,
-    "name": "メモリアルレコード（5th Anniversary Special Message：穂波）",
+    "name": "紀念檔案（5th Anniversary Special Message：穗波）",
     "virtualLiveId": 402
   },
   {
     "assetbundleName": "memory_peace_5th_04",
-    "flavorText": "志歩の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧志步的「5th Anniversary Special Message」的道具。",
     "id": 4,
-    "name": "メモリアルレコード（5th Anniversary Special Message：志歩）",
+    "name": "紀念檔案（5th Anniversary Special Message：志步）",
     "virtualLiveId": 403
   },
   {
     "assetbundleName": "memory_peace_5th_05",
-    "flavorText": "みのりの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧實乃理的「5th Anniversary Special Message」的道具。",
     "id": 5,
-    "name": "メモリアルレコード（5th Anniversary Special Message：みのり）",
+    "name": "紀念檔案（5th Anniversary Special Message：實乃理）",
     "virtualLiveId": 404
   },
   {
     "assetbundleName": "memory_peace_5th_06",
-    "flavorText": "遥の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧遙的「5th Anniversary Special Message」的道具。",
     "id": 6,
-    "name": "メモリアルレコード（5th Anniversary Special Message：遥）",
+    "name": "紀念檔案（5th Anniversary Special Message：遙）",
     "virtualLiveId": 405
   },
   {
     "assetbundleName": "memory_peace_5th_07",
-    "flavorText": "愛莉の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧愛莉的「5th Anniversary Special Message」的道具。",
     "id": 7,
-    "name": "メモリアルレコード（5th Anniversary Special Message：愛莉）",
+    "name": "紀念檔案（5th Anniversary Special Message：愛莉）",
     "virtualLiveId": 406
   },
   {
     "assetbundleName": "memory_peace_5th_08",
-    "flavorText": "雫の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧雫的「5th Anniversary Special Message」的道具。",
     "id": 8,
-    "name": "メモリアルレコード（5th Anniversary Special Message：雫）",
+    "name": "紀念檔案（5th Anniversary Special Message：雫）",
     "virtualLiveId": 407
   },
   {
     "assetbundleName": "memory_peace_5th_09",
-    "flavorText": "こはねの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧心羽的「5th Anniversary Special Message」的道具。",
     "id": 9,
-    "name": "メモリアルレコード（5th Anniversary Special Message：こはね）",
+    "name": "紀念檔案（5th Anniversary Special Message：心羽）",
     "virtualLiveId": 408
   },
   {
     "assetbundleName": "memory_peace_5th_10",
-    "flavorText": "杏の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧杏的「5th Anniversary Special Message」的道具。",
     "id": 10,
-    "name": "メモリアルレコード（5th Anniversary Special Message：杏）",
+    "name": "紀念檔案（5th Anniversary Special Message：杏）",
     "virtualLiveId": 409
   },
   {
     "assetbundleName": "memory_peace_5th_11",
-    "flavorText": "彰人の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧彰人的「5th Anniversary Special Message」的道具。",
     "id": 11,
-    "name": "メモリアルレコード（5th Anniversary Special Message：彰人）",
+    "name": "紀念檔案（5th Anniversary Special Message：彰人）",
     "virtualLiveId": 410
   },
   {
     "assetbundleName": "memory_peace_5th_12",
-    "flavorText": "冬弥の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧冬彌的「5th Anniversary Special Message」的道具。",
     "id": 12,
-    "name": "メモリアルレコード（5th Anniversary Special Message：冬弥）",
+    "name": "紀念檔案（5th Anniversary Special Message：冬彌）",
     "virtualLiveId": 411
   },
   {
     "assetbundleName": "memory_peace_5th_13",
-    "flavorText": "司の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧司的「5th Anniversary Special Message」的道具。",
     "id": 13,
-    "name": "メモリアルレコード（5th Anniversary Special Message：司）",
+    "name": "紀念檔案（5th Anniversary Special Message：司）",
     "virtualLiveId": 412
   },
   {
     "assetbundleName": "memory_peace_5th_14",
-    "flavorText": "えむの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧笑夢的「5th Anniversary Special Message」的道具。",
     "id": 14,
-    "name": "メモリアルレコード（5th Anniversary Special Message：えむ）",
+    "name": "紀念檔案（5th Anniversary Special Message：笑夢）",
     "virtualLiveId": 413
   },
   {
     "assetbundleName": "memory_peace_5th_15",
-    "flavorText": "寧々の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧寧寧的「5th Anniversary Special Message」的道具。",
     "id": 15,
-    "name": "メモリアルレコード（5th Anniversary Special Message：寧々）",
+    "name": "紀念檔案（5th Anniversary Special Message：寧寧）",
     "virtualLiveId": 414
   },
   {
     "assetbundleName": "memory_peace_5th_16",
-    "flavorText": "類の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧類的「5th Anniversary Special Message」的道具。",
     "id": 16,
-    "name": "メモリアルレコード（5th Anniversary Special Message：類）",
+    "name": "紀念檔案（5th Anniversary Special Message：類）",
     "virtualLiveId": 415
   },
   {
     "assetbundleName": "memory_peace_5th_17",
-    "flavorText": "奏の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧奏的「5th Anniversary Special Message」的道具。",
     "id": 17,
-    "name": "メモリアルレコード（5th Anniversary Special Message：奏）",
+    "name": "紀念檔案（5th Anniversary Special Message：奏）",
     "virtualLiveId": 416
   },
   {
     "assetbundleName": "memory_peace_5th_18",
-    "flavorText": "まふゆの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧真冬的「5th Anniversary Special Message」的道具。",
     "id": 18,
-    "name": "メモリアルレコード（5th Anniversary Special Message：まふゆ）",
+    "name": "紀念檔案（5th Anniversary Special Message：真冬）",
     "virtualLiveId": 417
   },
   {
     "assetbundleName": "memory_peace_5th_19",
-    "flavorText": "絵名の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧繪名的「5th Anniversary Special Message」的道具。",
     "id": 19,
-    "name": "メモリアルレコード（5th Anniversary Special Message：絵名）",
+    "name": "紀念檔案（5th Anniversary Special Message：繪名）",
     "virtualLiveId": 418
   },
   {
     "assetbundleName": "memory_peace_5th_20",
-    "flavorText": "瑞希の「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧瑞希的「5th Anniversary Special Message」的道具。",
     "id": 20,
-    "name": "メモリアルレコード（5th Anniversary Special Message：瑞希）",
+    "name": "紀念檔案（5th Anniversary Special Message：瑞希）",
     "virtualLiveId": 419
   },
   {
     "assetbundleName": "memory_peace_5th_21",
-    "flavorText": "ミクの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧初音未來的「5th Anniversary Special Message」的道具。",
     "id": 21,
-    "name": "メモリアルレコード（5th Anniversary Special Message：ミク）",
+    "name": "紀念檔案（5th Anniversary Special Message：初音未來）",
     "virtualLiveId": 420
   },
   {
     "assetbundleName": "memory_peace_5th_22",
-    "flavorText": "リンの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧鏡音鈴的「5th Anniversary Special Message」的道具。",
     "id": 22,
-    "name": "メモリアルレコード（5th Anniversary Special Message：リン）",
+    "name": "紀念檔案（5th Anniversary Special Message：鏡音鈴）",
     "virtualLiveId": 421
   },
   {
     "assetbundleName": "memory_peace_5th_23",
-    "flavorText": "レンの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧鏡音連的「5th Anniversary Special Message」的道具。",
     "id": 23,
-    "name": "メモリアルレコード（5th Anniversary Special Message：レン）",
+    "name": "紀念檔案（5th Anniversary Special Message：鏡音連）",
     "virtualLiveId": 422
   },
   {
     "assetbundleName": "memory_peace_5th_24",
-    "flavorText": "ルカの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧巡音流歌的「5th Anniversary Special Message」的道具。",
     "id": 24,
-    "name": "メモリアルレコード（5th Anniversary Special Message：ルカ）",
+    "name": "紀念檔案（5th Anniversary Special Message：巡音流歌）",
     "virtualLiveId": 423
   },
   {
     "assetbundleName": "memory_peace_5th_25",
-    "flavorText": "MEIKOの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧MEIKO的「5th Anniversary Special Message」的道具。",
     "id": 25,
-    "name": "メモリアルレコード（5th Anniversary Special Message：MEIKO）",
+    "name": "紀念檔案（5th Anniversary Special Message：MEIKO）",
     "virtualLiveId": 424
   },
   {
     "assetbundleName": "memory_peace_5th_26",
-    "flavorText": "KAITOの「5th Anniversary Special Message」を振り返ることができるアイテムです。",
+    "flavorText": "此為能回顧KAITO的「5th Anniversary Special Message」的道具。",
     "id": 26,
-    "name": "メモリアルレコード（5th Anniversary Special Message：KAITO）",
+    "name": "紀念檔案（5th Anniversary Special Message：KAITO）",
     "virtualLiveId": 425
   }
 ]

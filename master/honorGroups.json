@@ -3994,6 +3994,12 @@
     "pronunciation": "最佳創作者 「世界」的夏日 '26"
   },
   {
+    "honorType": "event",
+    "id": 20032,
+    "name": "SUMMER HEADLINER",
+    "pronunciation": "SUMMER HEADLINER"
+  },
+  {
     "honorType": "achievement",
     "id": 100016,
     "name": "EXP滿溢",

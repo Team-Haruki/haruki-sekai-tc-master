@@ -678,5 +678,117 @@
     "resourceBoxId": 85,
     "seq": 3,
     "weight": 89
+  },
+  {
+    "groupId": 1000,
+    "id": 10000,
+    "rarity": 3,
+    "resourceBoxId": 10000,
+    "seq": 1,
+    "weight": 1
+  },
+  {
+    "groupId": 1000,
+    "id": 10001,
+    "rarity": 3,
+    "resourceBoxId": 10001,
+    "seq": 2,
+    "weight": 10
+  },
+  {
+    "groupId": 1000,
+    "id": 10002,
+    "rarity": 3,
+    "resourceBoxId": 3,
+    "seq": 3,
+    "weight": 100
+  },
+  {
+    "groupId": 1000,
+    "id": 10003,
+    "rarity": 2,
+    "resourceBoxId": 4,
+    "seq": 4,
+    "weight": 500
+  },
+  {
+    "groupId": 1000,
+    "id": 10004,
+    "rarity": 2,
+    "resourceBoxId": 5,
+    "seq": 5,
+    "weight": 500
+  },
+  {
+    "groupId": 1000,
+    "id": 10005,
+    "rarity": 2,
+    "resourceBoxId": 10002,
+    "seq": 6,
+    "weight": 500
+  },
+  {
+    "groupId": 1000,
+    "id": 10006,
+    "rarity": 2,
+    "resourceBoxId": 10003,
+    "seq": 7,
+    "weight": 800
+  },
+  {
+    "groupId": 1000,
+    "id": 10007,
+    "rarity": 1,
+    "resourceBoxId": 8,
+    "seq": 8,
+    "weight": 1000
+  },
+  {
+    "groupId": 1000,
+    "id": 10008,
+    "rarity": 1,
+    "resourceBoxId": 9,
+    "seq": 9,
+    "weight": 1000
+  },
+  {
+    "groupId": 1000,
+    "id": 10009,
+    "rarity": 1,
+    "resourceBoxId": 10,
+    "seq": 10,
+    "weight": 1000
+  },
+  {
+    "groupId": 1000,
+    "id": 10010,
+    "rarity": 1,
+    "resourceBoxId": 11,
+    "seq": 11,
+    "weight": 1000
+  },
+  {
+    "groupId": 1000,
+    "id": 10011,
+    "rarity": 1,
+    "resourceBoxId": 12,
+    "seq": 12,
+    "weight": 1000
+  },
+  {
+    "groupId": 1000,
+    "id": 10012,
+    "rarity": 1,
+    "resourceBoxId": 13,
+    "seq": 13,
+    "weight": 1000
+  },
+  {
+    "groupId": 1000,
+    "id": 10013,
+    "rarity": 1,
+    "resourceBoxId": 14,
+    "seq": 14,
+    "weight": 1589
   }
 ]
