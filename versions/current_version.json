@@ -1,9 +1,9 @@
 {
   "systemProfile": "production",
-  "appVersion": "6.0.2",
+  "appVersion": "6.0.0",
   "multiPlayVersion": "miku",
-  "dataVersion": "6.0.2.9",
-  "assetVersion": "6.0.2",
+  "dataVersion": "6.0.0.44",
+  "assetVersion": "6.0.0",
   "appHash": "07f81444-d8b8-574e-77da-34f55d41a302",
   "assetHash": "",
   "appVersionStatus": "available",
