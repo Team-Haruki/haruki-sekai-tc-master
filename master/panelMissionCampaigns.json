@@ -11542,6 +11542,384 @@
     "distributionEndAt": 1756310399000
   },
   {
+    "assetbundleName": "tamagotchi_collab_2025_pm",
+    "bgmAssetbundleName": "tamagotchi_collab_2025_pm_bgm",
+    "closedAt": 1787587199000,
+    "id": 10,
+    "informationId": 12630,
+    "name": "[世界計畫×電子雞]聯動紀念集章任務",
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1001,
+        "name": "登入",
+        "panelMissionCampaignId": 10,
+        "panelMissionSheets": [
+          {
+            "assetbundleName": "sheet_tamagotchi_collab_login",
+            "id": 100101,
+            "name": "登入卡",
+            "panelMissionSheetGroupId": 1001,
+            "panelMissions": [
+              {
+                "description": "累計登入1天吧。",
+                "id": 10010101,
+                "name": "累計登入\n1天",
+                "panelMissionSheetId": 100101,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "累計登入2天吧。",
+                "id": 10010102,
+                "name": "累計登入\n2天",
+                "panelMissionSheetId": 100101,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "累計登入3天吧。",
+                "id": 10010103,
+                "name": "累計登入\n3天",
+                "panelMissionSheetId": 100101,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "累計登入4天吧。",
+                "id": 10010104,
+                "name": "累計登入\n4天",
+                "panelMissionSheetId": 100101,
+                "panelMissionType": "login",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "累計登入5天吧。",
+                "id": 10010105,
+                "name": "累計登入\n5天",
+                "panelMissionSheetId": 100101,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "累計登入6天吧。",
+                "id": 10010106,
+                "name": "累計登入\n6天",
+                "panelMissionSheetId": 100101,
+                "panelMissionType": "login",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "累計登入7天吧。",
+                "id": 10010107,
+                "name": "累計登入\n7天",
+                "panelMissionSheetId": 100101,
+                "panelMissionType": "login",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1785
+              }
+            ],
+            "seq": 1
+          }
+        ],
+        "selectableLimit": 1,
+        "seq": 1
+      },
+      {
+        "id": 1002,
+        "name": "LIVE",
+        "panelMissionCampaignId": 10,
+        "panelMissionSheets": [
+          {
+            "assetbundleName": "sheet_tamagotchi_collab_live",
+            "id": 100201,
+            "name": "LIVE卡",
+            "panelMissionSheetGroupId": 1002,
+            "panelMissions": [
+              {
+                "description": "通過1次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 10020101,
+                "name": "累計通過\n1次LIVE",
+                "panelMissionSheetId": 100201,
+                "panelMissionType": "live_clear",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "通過3次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 10020102,
+                "name": "累計通過\n3次LIVE",
+                "panelMissionSheetId": 100201,
+                "panelMissionType": "live_clear",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "通過5次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 10020103,
+                "name": "累計通過\n5次LIVE",
+                "panelMissionSheetId": 100201,
+                "panelMissionType": "live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "通過10次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 10020104,
+                "name": "累計通過\n10次LIVE",
+                "panelMissionSheetId": 100201,
+                "panelMissionType": "live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1784
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "通過15次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 10020105,
+                "name": "累計通過\n15次LIVE",
+                "panelMissionSheetId": 100201,
+                "panelMissionType": "live_clear",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1784
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "通過20次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 10020106,
+                "name": "累計通過\n20次LIVE",
+                "panelMissionSheetId": 100201,
+                "panelMissionType": "live_clear",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1784
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "通過30次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 10020107,
+                "name": "累計通過\n30次LIVE",
+                "panelMissionSheetId": 100201,
+                "panelMissionType": "live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1784
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1786
+              }
+            ],
+            "seq": 1
+          }
+        ],
+        "selectableLimit": 1,
+        "seq": 2
+      },
+      {
+        "id": 1003,
+        "name": "我的「世界」",
+        "panelMissionCampaignId": 10,
+        "panelMissionSheets": [
+          {
+            "assetbundleName": "sheet_tamagotchi_collab_mysekai",
+            "id": 100301,
+            "name": "我的「世界」卡",
+            "panelMissionSheetGroupId": 1003,
+            "panelMissions": [
+              {
+                "description": "在我的「世界」採集10個素材吧。",
+                "id": 10030101,
+                "name": "在我的「世界」\n採集10個素材",
+                "panelMissionSheetId": 100301,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "在我的「世界」採集50個素材吧。",
+                "id": 10030102,
+                "name": "在我的「世界」\n採集50個素材",
+                "panelMissionSheetId": 100301,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1783
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "在我的「世界」採集100個素材吧。",
+                "id": 10030103,
+                "name": "在我的「世界」\n採集100個素材",
+                "panelMissionSheetId": 100301,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1784
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "在我的「世界」採集300個素材吧。",
+                "id": 10030104,
+                "name": "在我的「世界」\n採集300個素材",
+                "panelMissionSheetId": 100301,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1784
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "在我的「世界」採集500個素材吧。",
+                "id": 10030105,
+                "name": "在我的「世界」\n採集500個素材",
+                "panelMissionSheetId": 100301,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1784
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "在我的「世界」採集700個素材吧。",
+                "id": 10030106,
+                "name": "在我的「世界」\n採集700個素材",
+                "panelMissionSheetId": 100301,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 700,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1784
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "在我的「世界」採集1000個素材吧。",
+                "id": 10030107,
+                "name": "在我的「世界」\n採集1000個素材",
+                "panelMissionSheetId": 100301,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1784
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1787
+              }
+            ],
+            "seq": 1
+          }
+        ],
+        "selectableLimit": 1,
+        "seq": 3
+      }
+    ],
+    "progressEndAt": 1787587199000,
+    "selectableLimit": 3,
+    "startAt": 1786766400000,
+    "distributionEndAt": 1788191999000
+  },
+  {
     "assetbundleName": "ensemble_collab_2026_pm",
     "bgmAssetbundleName": "ensemble_collab_2026_pm_bgm",
     "closedAt": 1785340799000,

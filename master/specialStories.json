@@ -911,7 +911,7 @@
   },
   {
     "assetbundleName": "collaboration-tamagotchi-story",
-    "endAt": 1790611199000,
+    "endAt": 1788105599000,
     "episodes": [
       {
         "assetbundleName": "story_collaboration_tamagotchi",
@@ -928,11 +928,11 @@
       }
     ],
     "id": 56,
-    "startAt": 1789790400000
+    "startAt": 1786766400000
   },
   {
     "assetbundleName": "collaboration-tamagotchi-story",
-    "endAt": 1790783999000,
+    "endAt": 1788191999000,
     "episodes": [
       {
         "assetbundleName": "story_collaboration_tamagotchi",
@@ -949,7 +949,7 @@
       }
     ],
     "id": 57,
-    "startAt": 1790611200000
+    "startAt": 1788105600000
   },
   {
     "assetbundleName": "5th-anniversary-login-story",

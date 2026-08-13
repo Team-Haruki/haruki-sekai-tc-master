@@ -2,37 +2,37 @@
   {
     "assetbundleName": "mdl_non0006_gate_lon1",
     "id": 1,
-    "name": "虛擬歌手造型",
+    "name": "VS造型",
     "unit": "piapro"
   },
   {
     "assetbundleName": "mdl_non0006_gate_mmj1",
     "id": 2,
-    "name": "Wonderlands×Showtime造型",
+    "name": "WS造型",
     "unit": "theme_park"
   },
   {
     "assetbundleName": "mdl_non0006_gate_vbs1",
     "id": 3,
-    "name": "MORE MORE JUMP！造型",
+    "name": "MMJ造型",
     "unit": "idol"
   },
   {
     "assetbundleName": "mdl_non0006_gate_wns1",
     "id": 4,
-    "name": "Vivid BAD SQUAD造型",
+    "name": "VBS造型",
     "unit": "street"
   },
   {
     "assetbundleName": "mdl_non0006_gate_nig1",
     "id": 5,
-    "name": "Leo/need造型",
+    "name": "L/n造型",
     "unit": "light_sound"
   },
   {
     "assetbundleName": "mdl_non0006_gate_ppr1",
     "id": 6,
-    "name": "25點，Nightcord見。造型",
+    "name": "25造型",
     "unit": "school_refusal"
   }
 ]
