@@ -1848,5 +1848,65 @@
     "selectableRewardGroupId": 0,
     "sentence": "通過以上所有任務吧。",
     "seq": 6
+  },
+  {
+    "id": 198,
+    "limitMissionGroupId": 29,
+    "limitMissionType": "clear_live_miku_leader",
+    "requirement": 15,
+    "resourceBoxId": 400103,
+    "selectableRewardGroupId": 0,
+    "sentence": "將初音未來設為隊長並進行15次LIVE吧。",
+    "seq": 1
+  },
+  {
+    "id": 199,
+    "limitMissionGroupId": 29,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "resourceBoxId": 400104,
+    "selectableRewardGroupId": 0,
+    "sentence": "在「心願碎片交換所」進行一次交換吧。（心願碎片可透過在「休息室」交換成員獲得）",
+    "seq": 2
+  },
+  {
+    "id": 200,
+    "limitMissionGroupId": 29,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "resourceBoxId": 400105,
+    "selectableRewardGroupId": 0,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "seq": 3
+  },
+  {
+    "id": 201,
+    "limitMissionGroupId": 29,
+    "limitMissionType": "character_rank_miku",
+    "requirement": 10,
+    "resourceBoxId": 400106,
+    "selectableRewardGroupId": 0,
+    "sentence": "將初音未來的角色等級提升至10級吧。",
+    "seq": 4
+  },
+  {
+    "id": 202,
+    "limitMissionGroupId": 29,
+    "limitMissionType": "clear_solo_challenge_live_miku",
+    "requirement": 3,
+    "resourceBoxId": 400107,
+    "selectableRewardGroupId": 0,
+    "sentence": "選擇初音未來進行3次挑戰LIVE吧。",
+    "seq": 5
+  },
+  {
+    "id": 203,
+    "limitMissionGroupId": 29,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "resourceBoxId": 400108,
+    "selectableRewardGroupId": 1007,
+    "sentence": "完成所有的初音未來紀念日慶典限時任務吧。",
+    "seq": 6
   }
 ]

@@ -942,5 +942,13 @@
     "name": "中秋柿子應援棒",
     "pronunciation": "かり",
     "seq": 1000
+  },
+  {
+    "assetbundleName": "penlight_1001",
+    "defaultPenlightColorId": 1,
+    "id": 1001,
+    "name": "芋圓奶茶",
+    "pronunciation": "芋圓奶茶",
+    "seq": 1000
   }
 ]
