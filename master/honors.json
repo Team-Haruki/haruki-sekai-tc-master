@@ -124351,5 +124351,20 @@
         "description": "在“限時招募贈禮2期”中獲得。"
       }
     ]
+  },
+  {
+    "id": 20110,
+    "seq": 2000110,
+    "groupId": 20035,
+    "honorRarity": "middle",
+    "name": "最佳創作者 屬於你的中秋2026",
+    "assetbundleName": "honor_competition_2026zq",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "入圍我的「世界」百景「屬於你的中秋2026」吧。"
+      }
+    ]
   }
 ]

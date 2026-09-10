@@ -944,11 +944,11 @@
     "seq": 1000
   },
   {
-    "assetbundleName": "penlight_1001",
+    "assetbundleName": "penlight_1002",
     "defaultPenlightColorId": 1,
-    "id": 1001,
+    "id": 1002,
     "name": "芋圓奶茶",
     "pronunciation": "芋圓奶茶",
-    "seq": 1000
+    "seq": 1002
   }
 ]
