@@ -141,12 +141,12 @@
     "cardRarityType": "rarity_3",
     "worldBloomSupportDeckCharacterBonuses": [
       {
-        "bonusRate": 6.5,
+        "bonusRate": 7.0,
         "id": 10301,
         "worldBloomSupportDeckCharacterType": "specific"
       },
       {
-        "bonusRate": 1.5,
+        "bonusRate": 2.0,
         "id": 10303,
         "worldBloomSupportDeckCharacterType": "others"
       }
@@ -210,12 +210,12 @@
     "cardRarityType": "rarity_4",
     "worldBloomSupportDeckCharacterBonuses": [
       {
-        "bonusRate": 12.0,
+        "bonusRate": 12.5,
         "id": 10401,
         "worldBloomSupportDeckCharacterType": "specific"
       },
       {
-        "bonusRate": 7.0,
+        "bonusRate": 7.5,
         "id": 10403,
         "worldBloomSupportDeckCharacterType": "others"
       }
@@ -279,12 +279,12 @@
     "cardRarityType": "rarity_birthday",
     "worldBloomSupportDeckCharacterBonuses": [
       {
-        "bonusRate": 9.5,
+        "bonusRate": 10.0,
         "id": 10501,
         "worldBloomSupportDeckCharacterType": "specific"
       },
       {
-        "bonusRate": 4.5,
+        "bonusRate": 5.0,
         "id": 10503,
         "worldBloomSupportDeckCharacterType": "others"
       }

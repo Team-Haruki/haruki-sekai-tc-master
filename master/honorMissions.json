@@ -11470,18 +11470,6 @@
     ]
   },
   {
-    "id": 20024,
-    "seq": 38,
-    "honorMissionType": "play_level_clear",
-    "requirement": 38,
-    "sentence": "通過Lv.38以上的歌曲吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 20024
-      }
-    ]
-  },
-  {
     "id": 21001,
     "seq": 15,
     "honorMissionType": "play_level_full_combo_clear",
@@ -11754,18 +11742,6 @@
     "rewards": [
       {
         "resourceBoxId": 21023
-      }
-    ]
-  },
-  {
-    "id": 21024,
-    "seq": 38,
-    "honorMissionType": "play_level_full_combo_clear",
-    "requirement": 38,
-    "sentence": "以FULL COMBO通過Lv.38的歌曲吧。",
-    "rewards": [
-      {
-        "resourceBoxId": 21024
       }
     ]
   },

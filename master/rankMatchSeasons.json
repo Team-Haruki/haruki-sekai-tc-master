@@ -4665,10 +4665,10 @@
     "name": "2026 WINTER",
     "rankMatchSeasonPlayableTime": [
       {
-        "endTime": "03:59:59",
+        "endTime": "23:59:59",
         "id": 17,
         "rankMatchSeasonId": 17,
-        "startTime": "04:00:00"
+        "startTime": "18:00:00"
       }
     ],
     "rankMatchSeasonTierMusicPlayLevels": [
@@ -5026,10 +5026,10 @@
     "name": "2026 SPRING",
     "rankMatchSeasonPlayableTime": [
       {
-        "endTime": "03:59:59",
+        "endTime": "23:59:59",
         "id": 18,
         "rankMatchSeasonId": 18,
-        "startTime": "04:00:00"
+        "startTime": "18:00:00"
       }
     ],
     "rankMatchSeasonTierMusicPlayLevels": [
