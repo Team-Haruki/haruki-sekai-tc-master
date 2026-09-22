@@ -251,7 +251,7 @@
     "id": 37,
     "mysekaiFixtureTagType": "series",
     "name": "清爽的盥洗室",
-    "pronunciation": "おふろせんめんじょ"
+    "pronunciation": "くりーんぱうだーるーむ"
   },
   {
     "id": 38,
@@ -365,7 +365,7 @@
     "id": 58,
     "mysekaiFixtureTagType": "none",
     "name": "周邊",
-    "pronunciation": "グッズ"
+    "pronunciation": "ぐっず"
   },
   {
     "id": 61,
@@ -518,16 +518,52 @@
     "pronunciation": "せかいすてーじ"
   },
   {
-    "id": 89,
-    "mysekaiFixtureTagType": "series",
-    "name": "萬聖節",
-    "pronunciation": "はろうぃん"
-  },
-  {
     "id": 90,
     "mysekaiFixtureTagType": "series",
     "name": "浪漫花園",
     "pronunciation": "ろまんてぃっくがーでん"
+  },
+  {
+    "id": 91,
+    "mysekaiFixtureTagType": "series",
+    "name": "復古風格",
+    "pronunciation": "ゔぃんてーじすたいる"
+  },
+  {
+    "id": 92,
+    "mysekaiFixtureTagType": "series",
+    "name": "暖呼呼溫泉",
+    "pronunciation": "ほっこりおんせん"
+  },
+  {
+    "id": 95,
+    "mysekaiFixtureTagType": "series",
+    "name": "宇宙梭",
+    "pronunciation": "こずみっくしゃとる"
+  },
+  {
+    "id": 97,
+    "mysekaiFixtureTagType": "series",
+    "name": "古典大道",
+    "pronunciation": "くらしかるあべにゅー"
+  },
+  {
+    "id": 98,
+    "mysekaiFixtureTagType": "series",
+    "name": "悠閒森林",
+    "pronunciation": "もりらっくす"
+  },
+  {
+    "id": 99,
+    "mysekaiFixtureTagType": "series",
+    "name": "蛋包飯咖啡廳",
+    "pronunciation": "おむらいすきっさ"
+  },
+  {
+    "id": 100,
+    "mysekaiFixtureTagType": "series",
+    "name": "泡泡浴室",
+    "pronunciation": "しゃぼんばするーむ"
   },
   {
     "id": 103,
@@ -653,7 +689,7 @@
     "id": 10020,
     "mysekaiFixtureTagType": "none",
     "name": "[閃閃發亮三葉草]櫃子",
-    "pronunciation": "かがやくクローバーのチェスト"
+    "pronunciation": "かがやくくろーばーのちぇすと"
   },
   {
     "id": 10021,
@@ -1247,7 +1283,7 @@
     "id": 10124,
     "mysekaiFixtureTagType": "none",
     "name": "熱帶樹",
-    "pronunciation": "ねったいじゅのなえ"
+    "pronunciation": "ねったいじゅ"
   },
   {
     "id": 10125,
@@ -1277,7 +1313,7 @@
     "id": 10129,
     "mysekaiFixtureTagType": "none",
     "name": "鈴蘭種子/白色",
-    "pronunciation": "すずらんのたねしろの"
+    "pronunciation": "すずらんのたねしろ"
   },
   {
     "id": 10130,
@@ -1595,7 +1631,7 @@
     "id": 10183,
     "mysekaiFixtureTagType": "none",
     "name": "[花園]鐵製澆水壺",
-    "pronunciation": "がーでんののぶりきじょうろ"
+    "pronunciation": "がーでんのぶりきじょうろ"
   },
   {
     "id": 10184,
@@ -2087,121 +2123,121 @@
     "id": 10265,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]壁紙",
-    "pronunciation": "ふらんちすたいるのかべがみ"
+    "pronunciation": "ふれんちすたいるのかべがみ"
   },
   {
     "id": 10266,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]地板",
-    "pronunciation": "ふらんちすたいるのゆか"
+    "pronunciation": "ふれんちすたいるのゆか"
   },
   {
     "id": 10267,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]窗戶",
-    "pronunciation": "ふらんちすたいるのまど"
+    "pronunciation": "ふれんちすたいるのまど"
   },
   {
     "id": 10268,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]櫃子",
-    "pronunciation": "ふらんちすたいるのちぇすと"
+    "pronunciation": "ふれんちすたいるのちぇすと"
   },
   {
     "id": 10269,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]穿衣鏡",
-    "pronunciation": "ふらんちすたいるのすがたみ"
+    "pronunciation": "ふれんちすたいるのすがたみ"
   },
   {
     "id": 10270,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]床",
-    "pronunciation": "ふらんちすたいるのべっど"
+    "pronunciation": "ふれんちすたいるのべっど"
   },
   {
     "id": 10271,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]圓桌",
-    "pronunciation": "ふらんちすたいるのらうんどてーぶる"
+    "pronunciation": "ふれんちすたいるのらうんどてーぶる"
   },
   {
     "id": 10272,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]沙發",
-    "pronunciation": "ふらんちすたいるのそふぁ"
+    "pronunciation": "ふれんちすたいるのそふぁ"
   },
   {
     "id": 10273,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]書架",
-    "pronunciation": "ふらんちすたいるのほんだな"
+    "pronunciation": "ふれんちすたいるのほんだな"
   },
   {
     "id": 10274,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]檯燈",
-    "pronunciation": "ふらんちすたいるのてーぶるらいと"
+    "pronunciation": "ふれんちすたいるのてーぶるらいと"
   },
   {
     "id": 10275,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]架子",
-    "pronunciation": "ふらんちすたいるのしぇるふ"
+    "pronunciation": "ふれんちすたいるのしぇるふ"
   },
   {
     "id": 10276,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]衣帽架",
-    "pronunciation": "ふらんちすたいるのぽーるはんがー"
+    "pronunciation": "ふれんちすたいるのぽーるはんがー"
   },
   {
     "id": 10277,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]愛心地墊",
-    "pronunciation": "ふらんちすたいるのはーとらぐ"
+    "pronunciation": "ふれんちすたいるのはーとらぐ"
   },
   {
     "id": 10278,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]壁掛時鐘",
-    "pronunciation": "ふらんちすたいるのかべかけとけい"
+    "pronunciation": "ふれんちすたいるのかべかけとけい"
   },
   {
     "id": 10279,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]貓咪的藝術品",
-    "pronunciation": "ふらんちすたいるのねこのあーと"
+    "pronunciation": "ふれんちすたいるのねこのあーと"
   },
   {
     "id": 10280,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]時尚雜誌",
-    "pronunciation": "ふらんちすたいるのふぁっしょんし"
+    "pronunciation": "ふれんちすたいるのふぁっしょんし"
   },
   {
     "id": 10281,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]花瓶",
-    "pronunciation": "ふらんちすたいるのふらわーべーす"
+    "pronunciation": "ふれんちすたいるのふらわーべーす"
   },
   {
     "id": 10282,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]香氛蠟燭",
-    "pronunciation": "ふらんちすたいるのあろまきゃんどる"
+    "pronunciation": "ふれんちすたいるのあろまきゃんどる"
   },
   {
     "id": 10283,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]熊玩偶",
-    "pronunciation": "ふらんちすたいるのくまのぬいぐるみ"
+    "pronunciation": "ふれんちすたいるのくまのぬいぐるみ"
   },
   {
     "id": 10284,
     "mysekaiFixtureTagType": "none",
     "name": "[法式風]茶具組",
-    "pronunciation": "ふらんちすたいるのてぃーせっと"
+    "pronunciation": "ふれんちすたいるのてぃーせっと"
   },
   {
     "id": 10285,
@@ -2321,7 +2357,7 @@
     "id": 10304,
     "mysekaiFixtureTagType": "none",
     "name": "成堆的CD",
-    "pronunciation": "やまづみのしーでぃ"
+    "pronunciation": "やまづみのしーでぃー"
   },
   {
     "id": 10305,
@@ -2399,7 +2435,7 @@
     "id": 10317,
     "mysekaiFixtureTagType": "none",
     "name": "石蓮花",
-    "pronunciation": "えけべりえ"
+    "pronunciation": "えけべりあ"
   },
   {
     "id": 10318,
@@ -3311,7 +3347,7 @@
     "id": 10473,
     "mysekaiFixtureTagType": "none",
     "name": "[天文學家研究室]小屋",
-    "pronunciation": "てんもんがくしゃのいえ"
+    "pronunciation": "てんもんがくしゃのけんきゅうしつのいえ"
   },
   {
     "id": 10474,
@@ -3737,7 +3773,7 @@
     "id": 10544,
     "mysekaiFixtureTagType": "none",
     "name": "彩色瓷磚/綠色",
-    "pronunciation": "からーたいるぐりーっｍ"
+    "pronunciation": "からーたいるぐりーん"
   },
   {
     "id": 10545,
@@ -4943,7 +4979,7 @@
     "id": 10745,
     "mysekaiFixtureTagType": "none",
     "name": "[夢幻嬰兒房]壁紙",
-    "pronunciation": "どりーみぃべびーるーむのいえかべがみ"
+    "pronunciation": "どりーみぃべびーるーむのかべがみ"
   },
   {
     "id": 10746,
@@ -5003,13 +5039,13 @@
     "id": 10755,
     "mysekaiFixtureTagType": "none",
     "name": "[虛擬城市]拱門",
-    "pronunciation": "さいばーしてぃーあーち"
+    "pronunciation": "さいばーしてぃあーち"
   },
   {
     "id": 10756,
     "mysekaiFixtureTagType": "none",
     "name": "[虛擬城市]霓虹燈",
-    "pronunciation": "さいばーしーてぃのねおん"
+    "pronunciation": "さいばーしてぃのねおん"
   },
   {
     "id": 10757,
@@ -5303,7 +5339,7 @@
     "id": 10805,
     "mysekaiFixtureTagType": "none",
     "name": "香冠柏",
-    "pronunciation": "ごーるどくれす"
+    "pronunciation": "ごーるどくれすと"
   },
   {
     "id": 10806,
@@ -5375,7 +5411,7 @@
     "id": 10817,
     "mysekaiFixtureTagType": "none",
     "name": "[清爽的盥洗室]窗戶",
-    "pronunciation": "クリーンパウダールーム"
+    "pronunciation": "くりーんぱうだーるーむのまど"
   },
   {
     "id": 10818,
@@ -5549,7 +5585,7 @@
     "id": 10846,
     "mysekaiFixtureTagType": "none",
     "name": "[日式簡約]坐墊",
-    "pronunciation": "わふうなそぼくなざぶとん"
+    "pronunciation": "わふうのそぼくなざぶとん"
   },
   {
     "id": 10847,
@@ -5561,7 +5597,7 @@
     "id": 10848,
     "mysekaiFixtureTagType": "none",
     "name": "CD播放器",
-    "pronunciation": "しーでぃーぷれいやー"
+    "pronunciation": "しーでぃーぷれーやー"
   },
   {
     "id": 10849,
@@ -5573,7 +5609,7 @@
     "id": 10850,
     "mysekaiFixtureTagType": "none",
     "name": "卡式收錄音機",
-    "pronunciation": "らじおかせっとぷれいやー"
+    "pronunciation": "らじおかせっとぷれーやー"
   },
   {
     "id": 10851,
@@ -5855,7 +5891,7 @@
     "id": 10902,
     "mysekaiFixtureTagType": "none",
     "name": "[浪漫花園]桌子",
-    "pronunciation": "ろまんてぃっくがーでんのでーぶる"
+    "pronunciation": "ろまんてぃっくがーでんのてーぶる"
   },
   {
     "id": 10903,
@@ -6032,6 +6068,96 @@
     "pronunciation": "りみてっどすたいるぼりゅーむつーりんのぬいぐるみえる"
   },
   {
+    "id": 10932,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]壁紙",
+    "pronunciation": "ゔぃんてーじすたいるのかべがみ"
+  },
+  {
+    "id": 10933,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]地板",
+    "pronunciation": "ゔぃんてーじすたいるのゆか"
+  },
+  {
+    "id": 10934,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]窗戶",
+    "pronunciation": "ゔぃんてーじすたいるのまど"
+  },
+  {
+    "id": 10935,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]櫃子",
+    "pronunciation": "ゔぃんてーじすたいるのちぇすと"
+  },
+  {
+    "id": 10936,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]",
+    "pronunciation": "ゔぃんてーじすたいるのかがみ"
+  },
+  {
+    "id": 10937,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]床",
+    "pronunciation": "ゔぃんてーじすたいるのべっど"
+  },
+  {
+    "id": 10938,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]桌子",
+    "pronunciation": "ゔぃんてーじすたいるのてーぶる"
+  },
+  {
+    "id": 10939,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]沙發",
+    "pronunciation": "ゔぃんてーじすたいるのそふぁ"
+  },
+  {
+    "id": 10940,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]書架",
+    "pronunciation": "ゔぃんてーじすたいるのほんだな"
+  },
+  {
+    "id": 10941,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]燈",
+    "pronunciation": "ゔぃんてーじすたいるのらんぷ"
+  },
+  {
+    "id": 10942,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]架子",
+    "pronunciation": "ゔぃんてーじすたいるのしぇるふ"
+  },
+  {
+    "id": 10943,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]衣帽架",
+    "pronunciation": "ゔぃんてーじすたいるのぽーるはんがー"
+  },
+  {
+    "id": 10944,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]地墊",
+    "pronunciation": "ゔぃんてーじすたいるのらぐ"
+  },
+  {
+    "id": 10945,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]畫作",
+    "pronunciation": "ゔぃんてーじすたいるのかいが"
+  },
+  {
+    "id": 10946,
+    "mysekaiFixtureTagType": "none",
+    "name": "[復古風格]咖啡機",
+    "pronunciation": "ゔぃんてーじすたいるのこーひーめーかー"
+  },
+  {
     "id": 10947,
     "mysekaiFixtureTagType": "none",
     "name": "生日蛋糕（穗波）",
@@ -6066,6 +6192,78 @@
     "mysekaiFixtureTagType": "none",
     "name": "望月穗波BD '26",
     "pronunciation": "もちづきほなみばーすでーにじゅうご"
+  },
+  {
+    "id": 10953,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日蛋糕（MEIKO）",
+    "pronunciation": "あにばーさりーけーきめいこ"
+  },
+  {
+    "id": 10954,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日氣球（MEIKO）",
+    "pronunciation": "あにばーさりーばるーんめいこ"
+  },
+  {
+    "id": 10955,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日花束（MEIKO）",
+    "pronunciation": "あにばーさりーぶーけめいこ"
+  },
+  {
+    "id": 10956,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日掛旗（MEIKO）",
+    "pronunciation": "あにばーさりーがーらんどめいこ"
+  },
+  {
+    "id": 10957,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日椅子（MEIKO）",
+    "pronunciation": "あにばーさりーちぇあめいこ"
+  },
+  {
+    "id": 10958,
+    "mysekaiFixtureTagType": "none",
+    "name": "MEIKO AN '26",
+    "pronunciation": "めいこあにばーさりーにじゅうご"
+  },
+  {
+    "id": 10959,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日蛋糕（彰人）",
+    "pronunciation": "ばーすでーけーきあきと"
+  },
+  {
+    "id": 10960,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日氣球（彰人）",
+    "pronunciation": "ばーすでーばるーんあきと"
+  },
+  {
+    "id": 10961,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日花束（彰人）",
+    "pronunciation": "ばーすでーぶーけあきと"
+  },
+  {
+    "id": 10962,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日掛旗（彰人）",
+    "pronunciation": "ばーすでーがーらんどあきと"
+  },
+  {
+    "id": 10963,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日椅子（彰人）",
+    "pronunciation": "ばーすでーちぇああきと"
+  },
+  {
+    "id": 10964,
+    "mysekaiFixtureTagType": "none",
+    "name": "東雲彰人BD '26",
+    "pronunciation": "しののめあきとばーすでーにじゅうご"
   },
   {
     "id": 10965,
@@ -6174,6 +6372,1200 @@
     "mysekaiFixtureTagType": "none",
     "name": "[限量設計vol.2] KAITO的玩偶/L",
     "pronunciation": "りみてっどすたいるぼりゅーむつーかいとのぬいぐるみえる"
+  },
+  {
+    "id": 10983,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]房子",
+    "pronunciation": "ほっこりおんせんのいえ"
+  },
+  {
+    "id": 10984,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]露天浴池",
+    "pronunciation": "ほっこりおんせんのろてんぶろ"
+  },
+  {
+    "id": 10985,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]足湯",
+    "pronunciation": "ほっこりおんせんのあしゆ"
+  },
+  {
+    "id": 10986,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]溫泉蛋",
+    "pronunciation": "ほっこりおんせんのおんせんたまご"
+  },
+  {
+    "id": 10987,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]泡澡桶",
+    "pronunciation": "ほっこりおんせんのたるぶろ"
+  },
+  {
+    "id": 10988,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]竹子",
+    "pronunciation": "ほっこりおんせんのたけ"
+  },
+  {
+    "id": 10989,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]隔板",
+    "pronunciation": "ほっこりおんせんのぱーてーしょん"
+  },
+  {
+    "id": 10990,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]燈",
+    "pronunciation": "ほっこりおんせんのあかり"
+  },
+  {
+    "id": 10991,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]澡盆",
+    "pronunciation": "ほっこりおんせんのふろおけ"
+  },
+  {
+    "id": 10992,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]鋪石",
+    "pronunciation": "ほっこりおんせんのしきいし"
+  },
+  {
+    "id": 10993,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]休息椅",
+    "pronunciation": "ほっこりおんせんのきゅうけいいす"
+  },
+  {
+    "id": 10994,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]書桌",
+    "pronunciation": "ほっこりおんせんのつくえ"
+  },
+  {
+    "id": 10995,
+    "mysekaiFixtureTagType": "none",
+    "name": "[暖呼呼溫泉]果汁牛奶",
+    "pronunciation": "ほっこりおんせんのふるーつぎゅうにゅう"
+  },
+  {
+    "id": 10996,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日蛋糕（雫）",
+    "pronunciation": "ばーすでーけーきしずく"
+  },
+  {
+    "id": 10997,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日氣球（雫）",
+    "pronunciation": "ばーすでーばるーんしずく"
+  },
+  {
+    "id": 10998,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日花束（雫）",
+    "pronunciation": "ばーすでーぶーけしずく"
+  },
+  {
+    "id": 10999,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日掛旗（雫）",
+    "pronunciation": "ばーすでーがーらんどしずく"
+  },
+  {
+    "id": 11000,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日椅子（雫）",
+    "pronunciation": "ばーすでーちぇあしずく"
+  },
+  {
+    "id": 11001,
+    "mysekaiFixtureTagType": "none",
+    "name": "日野森雫BD '26",
+    "pronunciation": "ひのもりしずくばーすでーにじゅうご"
+  },
+  {
+    "id": 11007,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日蛋糕（鏡音鈴）",
+    "pronunciation": "あにばーさりーけーきりん"
+  },
+  {
+    "id": 11008,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日氣球（鏡音鈴）",
+    "pronunciation": "あにばーさりーばるーんりん"
+  },
+  {
+    "id": 11009,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日花束（鏡音鈴）",
+    "pronunciation": "あにばーさりーぶーけりん"
+  },
+  {
+    "id": 11010,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日掛旗（鏡音鈴）",
+    "pronunciation": "あにばーさりーがーらんどりん"
+  },
+  {
+    "id": 11011,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日椅子（鏡音鈴）",
+    "pronunciation": "あにばーさりーちぇありん"
+  },
+  {
+    "id": 11012,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日蛋糕（鏡音連）",
+    "pronunciation": "あにばーさりーけーきれん"
+  },
+  {
+    "id": 11013,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日氣球（鏡音連）",
+    "pronunciation": "あにばーさりーばるーんれん"
+  },
+  {
+    "id": 11014,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日花束（鏡音連）",
+    "pronunciation": "あにばーさりーぶーけれん"
+  },
+  {
+    "id": 11015,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日掛旗（鏡音連）",
+    "pronunciation": "あにばーさりーがーらんどれん"
+  },
+  {
+    "id": 11016,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日椅子（鏡音連）",
+    "pronunciation": "あにばーさりーちぇあれん"
+  },
+  {
+    "id": 11017,
+    "mysekaiFixtureTagType": "none",
+    "name": "鏡音鈴 AN '26",
+    "pronunciation": "かがみねりんあにばーさりーにじゅうご"
+  },
+  {
+    "id": 11018,
+    "mysekaiFixtureTagType": "none",
+    "name": "鏡音連 AN '26",
+    "pronunciation": "かがみねれんあにばーさりーにじゅうご"
+  },
+  {
+    "id": 11021,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 穗波的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーほなみのぬいぐるみえす"
+  },
+  {
+    "id": 11022,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 穗波的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーほなみのぬいぐるみえむ"
+  },
+  {
+    "id": 11023,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 穗波的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーほなみのぬいぐるみえる"
+  },
+  {
+    "id": 11024,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 雫的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしずくのぬいぐるみえす"
+  },
+  {
+    "id": 11025,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 雫的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしずくのぬいぐるみえむ"
+  },
+  {
+    "id": 11026,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 雫的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしずくのぬいぐるみえる"
+  },
+  {
+    "id": 11027,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 彰人的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあきとのぬいぐるみえす"
+  },
+  {
+    "id": 11028,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 彰人的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあきとのぬいぐるみえむ"
+  },
+  {
+    "id": 11029,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 彰人的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあきとのぬいぐるみえる"
+  },
+  {
+    "id": 11030,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 笑夢的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえむのぬいぐるみえす"
+  },
+  {
+    "id": 11031,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 笑夢的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえむのぬいぐるみえむ"
+  },
+  {
+    "id": 11032,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 笑夢的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえむのぬいぐるみえる"
+  },
+  {
+    "id": 11033,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 繪名的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえなのぬいぐるみえす"
+  },
+  {
+    "id": 11034,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 繪名的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえなのぬいぐるみえむ"
+  },
+  {
+    "id": 11035,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 繪名的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーえなのぬいぐるみえる"
+  },
+  {
+    "id": 11036,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 鏡音連的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーれんのぬいぐるみえす"
+  },
+  {
+    "id": 11037,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 鏡音連的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーれんのぬいぐるみえむ"
+  },
+  {
+    "id": 11038,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 鏡音連的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーれんのぬいぐるみえる"
+  },
+  {
+    "id": 11039,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 巡音流歌的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーるかのぬいぐるみえす"
+  },
+  {
+    "id": 11040,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 巡音流歌的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーるかのぬいぐるみえむ"
+  },
+  {
+    "id": 11041,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.2] 巡音流歌的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーるかのぬいぐるみえる"
+  },
+  {
+    "id": 11042,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]房子",
+    "pronunciation": "こずみっくしゃとるのいえ"
+  },
+  {
+    "id": 11043,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]牆壁",
+    "pronunciation": "こずみっくしゃとるのかべ"
+  },
+  {
+    "id": 11044,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]地板",
+    "pronunciation": "こずみっくしゃとるのゆか"
+  },
+  {
+    "id": 11045,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]窗戶",
+    "pronunciation": "こずみっくしゃとるのまど"
+  },
+  {
+    "id": 11046,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]櫃子",
+    "pronunciation": "こずみっくしゃとるのちぇすと"
+  },
+  {
+    "id": 11047,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]床",
+    "pronunciation": "こずみっくしゃとるのべっど"
+  },
+  {
+    "id": 11048,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]桌子",
+    "pronunciation": "こずみっくしゃとるのてーぶる"
+  },
+  {
+    "id": 11049,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]椅子",
+    "pronunciation": "こずみっくしゃとるのいす"
+  },
+  {
+    "id": 11050,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]機器人",
+    "pronunciation": "こずみっくしゃとるのろぼっと"
+  },
+  {
+    "id": 11051,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]駕駛艙",
+    "pronunciation": "こずみっくしゃとるのそうじゅうせき"
+  },
+  {
+    "id": 11052,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]柱子",
+    "pronunciation": "こずみっくしゃとるのはしら"
+  },
+  {
+    "id": 11053,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]螢幕",
+    "pronunciation": "こずみっくしゃとるのもにたー"
+  },
+  {
+    "id": 11054,
+    "mysekaiFixtureTagType": "none",
+    "name": "[宇宙梭]植物",
+    "pronunciation": "こずみっくしゃとるのしょくぶつ"
+  },
+  {
+    "id": 11055,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日蛋糕（志步）",
+    "pronunciation": "ばーすでーけーきしほ"
+  },
+  {
+    "id": 11056,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日氣球（志步）",
+    "pronunciation": "ばーすでーばるーんしほ"
+  },
+  {
+    "id": 11057,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日花束（志步）",
+    "pronunciation": "ばーすでーぶーけしほ"
+  },
+  {
+    "id": 11058,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日掛旗（志步）",
+    "pronunciation": "ばーすでーがーらんどしほ"
+  },
+  {
+    "id": 11059,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日椅子（志步）",
+    "pronunciation": "ばーすでーちぇあしほ"
+  },
+  {
+    "id": 11060,
+    "mysekaiFixtureTagType": "none",
+    "name": "日野森志步BD '27",
+    "pronunciation": "ひのもりしほばーすでーにじゅうろく"
+  },
+  {
+    "id": 11061,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日蛋糕（真冬）",
+    "pronunciation": "ばーすでーけーきまふゆ"
+  },
+  {
+    "id": 11062,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日氣球（真冬）",
+    "pronunciation": "ばーすでーばるーんまふゆ"
+  },
+  {
+    "id": 11063,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日花束（真冬）",
+    "pronunciation": "ばーすでーぶーけまふゆ"
+  },
+  {
+    "id": 11064,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日掛旗（真冬）",
+    "pronunciation": "ばーすでーがーらんどまふゆ"
+  },
+  {
+    "id": 11065,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日椅子（真冬）",
+    "pronunciation": "ばーすでーちぇあまふゆ"
+  },
+  {
+    "id": 11066,
+    "mysekaiFixtureTagType": "none",
+    "name": "朝比奈真冬BD '27",
+    "pronunciation": "あさひなまふゆばーすでーにじゅうろく"
+  },
+  {
+    "id": 11067,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日蛋糕（巡音流歌）",
+    "pronunciation": "あにばーさりーけーきるか"
+  },
+  {
+    "id": 11068,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日氣球（巡音流歌）",
+    "pronunciation": "あにばーさりーばるーんるか"
+  },
+  {
+    "id": 11069,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日花束（巡音流歌）",
+    "pronunciation": "あにばーさりーぶーけるか"
+  },
+  {
+    "id": 11070,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日掛旗（巡音流歌）",
+    "pronunciation": "あにばーさりーがーらんどるか"
+  },
+  {
+    "id": 11071,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日椅子（巡音流歌）",
+    "pronunciation": "あにばーさりーちぇあるか"
+  },
+  {
+    "id": 11072,
+    "mysekaiFixtureTagType": "none",
+    "name": "巡音流歌AN '27",
+    "pronunciation": "めぐりねるかあにばーさりーにじゅうろく"
+  },
+  {
+    "id": 11079,
+    "mysekaiFixtureTagType": "none",
+    "name": "[古典大道]房子",
+    "pronunciation": "くらしかるあべにゅーのいえ"
+  },
+  {
+    "id": 11080,
+    "mysekaiFixtureTagType": "none",
+    "name": "[古典大道]精品店",
+    "pronunciation": "くらしかるあべにゅーのぶてぃっく"
+  },
+  {
+    "id": 11081,
+    "mysekaiFixtureTagType": "none",
+    "name": "[古典大道]咖啡廳",
+    "pronunciation": "くらしかるあべにゅーのかふぇ"
+  },
+  {
+    "id": 11082,
+    "mysekaiFixtureTagType": "none",
+    "name": "[古典大道]電話亭",
+    "pronunciation": "くらしかるあべにゅーのでんわぼっくす"
+  },
+  {
+    "id": 11083,
+    "mysekaiFixtureTagType": "none",
+    "name": "[古典大道]橋",
+    "pronunciation": "くらしかるあべにゅーのはし"
+  },
+  {
+    "id": 11084,
+    "mysekaiFixtureTagType": "none",
+    "name": "[古典大道]木桶",
+    "pronunciation": "くらしかるあべにゅーのたる"
+  },
+  {
+    "id": 11085,
+    "mysekaiFixtureTagType": "none",
+    "name": "[古典大道]咖啡廳桌子",
+    "pronunciation": "くらしかるあべにゅーのかふぇてーぶる"
+  },
+  {
+    "id": 11086,
+    "mysekaiFixtureTagType": "none",
+    "name": "[古典大道]咖啡廳椅子",
+    "pronunciation": "くらしかるあべにゅーのかふぇちぇあ"
+  },
+  {
+    "id": 11087,
+    "mysekaiFixtureTagType": "none",
+    "name": "[古典大道]麵包",
+    "pronunciation": "くらしかるあべにゅーのぱん"
+  },
+  {
+    "id": 11088,
+    "mysekaiFixtureTagType": "none",
+    "name": "[古典大道]石板地墊",
+    "pronunciation": "くらしかるあべにゅーのいしだたみらぐ"
+  },
+  {
+    "id": 11089,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 一歌的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーいちかのぬいぐるみえす"
+  },
+  {
+    "id": 11090,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 一歌的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーいちかのぬいぐるみえむ"
+  },
+  {
+    "id": 11091,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 一歌的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーいちかのぬいぐるみえる"
+  },
+  {
+    "id": 11092,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 遙的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーはるかのぬいぐるみえす"
+  },
+  {
+    "id": 11093,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 遙的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーはるかのぬいぐるみえむ"
+  },
+  {
+    "id": 11094,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 遙的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーはるかのぬいぐるみえる"
+  },
+  {
+    "id": 11095,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 心羽的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーこはねのぬいぐるみえす"
+  },
+  {
+    "id": 11096,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 心羽的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーこはねのぬいぐるみえむ"
+  },
+  {
+    "id": 11097,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 心羽的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーこはねのぬいぐるみえる"
+  },
+  {
+    "id": 11098,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 類的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるいのぬいぐるみえす"
+  },
+  {
+    "id": 11099,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 類的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるいのぬいぐるみえむ"
+  },
+  {
+    "id": 11100,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 類的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるいのぬいぐるみえる"
+  },
+  {
+    "id": 11101,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 真冬的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーまふゆのぬいぐるみえす"
+  },
+  {
+    "id": 11102,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 真冬的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーまふゆのぬいぐるみえむ"
+  },
+  {
+    "id": 11103,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 真冬的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーまふゆのぬいぐるみえる"
+  },
+  {
+    "id": 11104,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] MEIKO的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーめいこのぬいぐるみえす"
+  },
+  {
+    "id": 11105,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] MEIKO的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーめいこのぬいぐるみえむ"
+  },
+  {
+    "id": 11106,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] MEIKO的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーめいこのぬいぐるみえる"
+  },
+  {
+    "id": 11107,
+    "mysekaiFixtureTagType": "none",
+    "name": "[悠閒森林]咕咕鐘樹",
+    "pronunciation": "もりらっくすのはとどけいつりー"
+  },
+  {
+    "id": 11108,
+    "mysekaiFixtureTagType": "none",
+    "name": "[悠閒森林]大野狼抱枕",
+    "pronunciation": "もりらっくすのおおかみくっしょん"
+  },
+  {
+    "id": 11109,
+    "mysekaiFixtureTagType": "none",
+    "name": "[悠閒森林]泉水擺設",
+    "pronunciation": "もりらっくすのいずみのおぶじぇ"
+  },
+  {
+    "id": 11110,
+    "mysekaiFixtureTagType": "none",
+    "name": "[悠閒森林]圓木長椅",
+    "pronunciation": "もりらっくすのまるたのながいす"
+  },
+  {
+    "id": 11111,
+    "mysekaiFixtureTagType": "none",
+    "name": "[悠閒森林]粒子燈泡",
+    "pronunciation": "もりらっくすのぱーてぃくるらいと"
+  },
+  {
+    "id": 11112,
+    "mysekaiFixtureTagType": "none",
+    "name": "[蛋包飯咖啡廳]餐桌",
+    "pronunciation": "おむらいすきっさのだいにんぐてーぶる"
+  },
+  {
+    "id": 11113,
+    "mysekaiFixtureTagType": "none",
+    "name": "[蛋包飯咖啡廳]瓦斯爐",
+    "pronunciation": "おむらいすきっさのこんろ"
+  },
+  {
+    "id": 11114,
+    "mysekaiFixtureTagType": "none",
+    "name": "[蛋包飯咖啡廳]水槽",
+    "pronunciation": "おむらいすきっさのしんく"
+  },
+  {
+    "id": 11115,
+    "mysekaiFixtureTagType": "none",
+    "name": "[蛋包飯咖啡廳]番茄醬美乃滋餐具架",
+    "pronunciation": "おむらいすきっさのけちゃまよしょっきだな"
+  },
+  {
+    "id": 11116,
+    "mysekaiFixtureTagType": "none",
+    "name": "[蛋包飯咖啡廳]圓椅",
+    "pronunciation": "おむらいすきっさのまるいす"
+  },
+  {
+    "id": 11117,
+    "mysekaiFixtureTagType": "none",
+    "name": "[蛋包飯咖啡廳]牆壁",
+    "pronunciation": "おむらいすきっさのかべ"
+  },
+  {
+    "id": 11118,
+    "mysekaiFixtureTagType": "none",
+    "name": "[蛋包飯咖啡廳]地板",
+    "pronunciation": "おむらいすきっさのゆか"
+  },
+  {
+    "id": 11119,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日蛋糕（奏）",
+    "pronunciation": "ばーすでーけーきかなで"
+  },
+  {
+    "id": 11120,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日氣球（奏）",
+    "pronunciation": "ばーすでーばるーんかなで"
+  },
+  {
+    "id": 11121,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日花束（奏）",
+    "pronunciation": "ばーすでーぶーけかなで"
+  },
+  {
+    "id": 11122,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日掛旗（奏）",
+    "pronunciation": "ばーすでーがーらんどかなで"
+  },
+  {
+    "id": 11123,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日椅子（奏）",
+    "pronunciation": "ばーすでーちぇあかなで"
+  },
+  {
+    "id": 11124,
+    "mysekaiFixtureTagType": "none",
+    "name": "宵崎奏BD '27",
+    "pronunciation": "よいさきかなでばーすでーにじゅうろく"
+  },
+  {
+    "id": 11125,
+    "mysekaiFixtureTagType": "none",
+    "name": "[蛋包飯咖啡廳]窗戶",
+    "pronunciation": "おむらいすきっさのまど"
+  },
+  {
+    "id": 11126,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日蛋糕（KAITO）",
+    "pronunciation": "あにばーさりーけーきかいと"
+  },
+  {
+    "id": 11127,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日氣球（KAITO）",
+    "pronunciation": "あにばーさりーばるーんかいと"
+  },
+  {
+    "id": 11128,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日花束（KAITO）",
+    "pronunciation": "あにばーさりーぶーけかいと"
+  },
+  {
+    "id": 11129,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日掛旗（KAITO）",
+    "pronunciation": "あにばーさりーがーらんどかいと"
+  },
+  {
+    "id": 11130,
+    "mysekaiFixtureTagType": "none",
+    "name": "紀念日椅子（KAITO）",
+    "pronunciation": "あにばーさりーちぇあかいと"
+  },
+  {
+    "id": 11131,
+    "mysekaiFixtureTagType": "none",
+    "name": "KAITO AN '27",
+    "pronunciation": "かいとあにばーさりーにじゅうろく"
+  },
+  {
+    "id": 11132,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日蛋糕（心羽）",
+    "pronunciation": "ばーすでーけーきこはね"
+  },
+  {
+    "id": 11133,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日氣球（心羽）",
+    "pronunciation": "ばーすでーばるーんこはね"
+  },
+  {
+    "id": 11134,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日花束（心羽）",
+    "pronunciation": "ばーすでーぶーけこはね"
+  },
+  {
+    "id": 11135,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日掛旗（心羽）",
+    "pronunciation": "ばーすでーがーらんどこはね"
+  },
+  {
+    "id": 11136,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日椅子（心羽）",
+    "pronunciation": "ばーすでーちぇあこはね"
+  },
+  {
+    "id": 11137,
+    "mysekaiFixtureTagType": "none",
+    "name": "小豆澤心羽BD '27",
+    "pronunciation": "あずさわこはねばーすでーにじゅうろく"
+  },
+  {
+    "id": 11138,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日蛋糕（愛莉）",
+    "pronunciation": "ばーすでーけーきあいり"
+  },
+  {
+    "id": 11139,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日氣球（愛莉）",
+    "pronunciation": "ばーすでーばるーんあいり"
+  },
+  {
+    "id": 11140,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日花束（愛莉）",
+    "pronunciation": "ばーすでーぶーけあいり"
+  },
+  {
+    "id": 11141,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日掛旗（愛莉）",
+    "pronunciation": "ばーすでーがーらんどあいり"
+  },
+  {
+    "id": 11142,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日椅子（愛莉）",
+    "pronunciation": "ばーすでーちぇああいり"
+  },
+  {
+    "id": 11143,
+    "mysekaiFixtureTagType": "none",
+    "name": "桃井愛莉BD '27",
+    "pronunciation": "ももいあいりばーすでーにじゅうろく"
+  },
+  {
+    "id": 11144,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 咲希的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーさきのぬいぐるみえす"
+  },
+  {
+    "id": 11145,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 咲希的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーさきのぬいぐるみえむ"
+  },
+  {
+    "id": 11146,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 咲希的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーさきのぬいぐるみえる"
+  },
+  {
+    "id": 11147,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 愛莉的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあいりのぬいぐるみえす"
+  },
+  {
+    "id": 11148,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 愛莉的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあいりのぬいぐるみえむ"
+  },
+  {
+    "id": 11149,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 愛莉的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあいりのぬいぐるみえる"
+  },
+  {
+    "id": 11150,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 彰人的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあきとのぬいぐるみえす"
+  },
+  {
+    "id": 11151,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 彰人的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあきとのぬいぐるみえむ"
+  },
+  {
+    "id": 11152,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 彰人的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあきとのぬいぐるみえる"
+  },
+  {
+    "id": 11153,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 寧寧的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーねねのぬいぐるみえす"
+  },
+  {
+    "id": 11154,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 寧寧的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーねねのぬいぐるみえむ"
+  },
+  {
+    "id": 11155,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 寧寧的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーねねのぬいぐるみえる"
+  },
+  {
+    "id": 11156,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 瑞希的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみずきのぬいぐるみえす"
+  },
+  {
+    "id": 11157,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 瑞希的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみずきのぬいぐるみえむ"
+  },
+  {
+    "id": 11158,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 瑞希的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみずきのぬいぐるみえる"
+  },
+  {
+    "id": 11159,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 初音未來的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみくのぬいぐるみえす"
+  },
+  {
+    "id": 11160,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 初音未來的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみくのぬいぐるみえむ"
+  },
+  {
+    "id": 11161,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 初音未來的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーみくのぬいぐるみえる"
+  },
+  {
+    "id": 11162,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 巡音流歌的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるかのぬいぐるみえす"
+  },
+  {
+    "id": 11163,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 巡音流歌的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるかのぬいぐるみえむ"
+  },
+  {
+    "id": 11164,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 巡音流歌的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーるかのぬいぐるみえる"
+  },
+  {
+    "id": 11165,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 穗波的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーほなみのぬいぐるみえす"
+  },
+  {
+    "id": 11166,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 穗波的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーほなみのぬいぐるみえむ"
+  },
+  {
+    "id": 11167,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 穗波的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーほなみのぬいぐるみえる"
+  },
+  {
+    "id": 11168,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 雫的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしずくのぬいぐるみえす"
+  },
+  {
+    "id": 11169,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 雫的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしずくのぬいぐるみえむ"
+  },
+  {
+    "id": 11170,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 雫的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーしずくのぬいぐるみえる"
+  },
+  {
+    "id": 11171,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 杏的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあんのぬいぐるみえす"
+  },
+  {
+    "id": 11172,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 杏的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあんのぬいぐるみえむ"
+  },
+  {
+    "id": 11173,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 杏的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーあんのぬいぐるみえる"
+  },
+  {
+    "id": 11174,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 司的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーつかさのぬいぐるみえす"
+  },
+  {
+    "id": 11175,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 司的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーつかさのぬいぐるみえむ"
+  },
+  {
+    "id": 11176,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 司的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーつかさのぬいぐるみえる"
+  },
+  {
+    "id": 11177,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 繪名的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえなのぬいぐるみえす"
+  },
+  {
+    "id": 11178,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 繪名的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえなのぬいぐるみえむ"
+  },
+  {
+    "id": 11179,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] 繪名的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーえなのぬいぐるみえる"
+  },
+  {
+    "id": 11180,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] KAITO的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかいとのぬいぐるみえす"
+  },
+  {
+    "id": 11181,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] KAITO的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかいとのぬいぐるみえむ"
+  },
+  {
+    "id": 11182,
+    "mysekaiFixtureTagType": "none",
+    "name": "[限量設計vol.3] KAITO的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむすりーかいとのぬいぐるみえる"
+  },
+  {
+    "id": 11261,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日蛋糕（實乃理）",
+    "pronunciation": "ばーすでーけーきみのり"
+  },
+  {
+    "id": 11262,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日氣球（實乃理）",
+    "pronunciation": "ばーすでーばるーんみのり"
+  },
+  {
+    "id": 11263,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日花束（實乃理）",
+    "pronunciation": "ばーすでーぶーけみのり"
+  },
+  {
+    "id": 11264,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日掛旗（實乃理）",
+    "pronunciation": "ばーすでーがーらんどみのり"
+  },
+  {
+    "id": 11265,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日椅子（實乃理）",
+    "pronunciation": "ばーすでーちぇあみのり"
+  },
+  {
+    "id": 11266,
+    "mysekaiFixtureTagType": "none",
+    "name": "花里實乃理BD '27",
+    "pronunciation": "はなさとみのりばーすでーにじゅうろく"
+  },
+  {
+    "id": 11267,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日蛋糕（繪名）",
+    "pronunciation": "ばーすでーけーきえな"
+  },
+  {
+    "id": 11268,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日氣球（繪名）",
+    "pronunciation": "ばーすでーばるーんえな"
+  },
+  {
+    "id": 11269,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日花束（繪名）",
+    "pronunciation": "ばーすでーぶーけえな"
+  },
+  {
+    "id": 11270,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日掛旗（繪名）",
+    "pronunciation": "ばーすでーがーらんどえな"
+  },
+  {
+    "id": 11271,
+    "mysekaiFixtureTagType": "none",
+    "name": "生日椅子（繪名）",
+    "pronunciation": "ばーすでーちぇあえな"
+  },
+  {
+    "id": 11272,
+    "mysekaiFixtureTagType": "none",
+    "name": "東雲繪名BD '27",
+    "pronunciation": "しののめえなばーすでーにじゅうろく"
   },
   {
     "id": 11462,

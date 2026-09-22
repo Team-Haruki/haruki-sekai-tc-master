@@ -1,0 +1,16 @@
+[
+  {
+    "groupId": 1,
+    "id": 1,
+    "lotteryType": "rate_choice_first",
+    "selectCount": 2,
+    "seq": 1
+  },
+  {
+    "groupId": 1,
+    "id": 2,
+    "lotteryType": "rate_choice_second",
+    "selectCount": 8,
+    "seq": 2
+  }
+]

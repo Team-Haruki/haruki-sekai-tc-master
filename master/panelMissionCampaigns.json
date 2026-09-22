@@ -11920,6 +11920,1783 @@
     "distributionEndAt": 1788191999000
   },
   {
+    "assetbundleName": "5th_anniv_pm",
+    "bgmAssetbundleName": "5th_anniv_pm_bgm",
+    "closedAt": 1791691199000,
+    "id": 11,
+    "informationId": 12705,
+    "name": "5週年紀念集章任務",
+    "panelMissionSelectionType": "manual",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1101,
+        "name": "團體",
+        "panelMissionCampaignId": 11,
+        "panelMissionSheets": [
+          {
+            "assetbundleName": "sheet_unit_piapro",
+            "id": 110101,
+            "name": "團體卡 虛擬歌手",
+            "panelMissionSheetGroupId": 1101,
+            "panelMissions": [
+              {
+                "description": "以音樂選擇畫面的虛擬歌手分頁中的歌曲進行1次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 11010101,
+                "name": "選擇團體音樂\n進行1次LIVE",
+                "panelMissionSheetId": 110101,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "以音樂選擇畫面的虛擬歌手分頁中的歌曲進行3次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 11010102,
+                "name": "選擇團體音樂\n進行3次LIVE",
+                "panelMissionSheetId": 110101,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "以音樂選擇畫面的虛擬歌手分頁中的歌曲進行5次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 11010103,
+                "name": "選擇團體音樂\n進行5次LIVE",
+                "panelMissionSheetId": 110101,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1801
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "以音樂選擇畫面的虛擬歌手分頁中的歌曲進行10次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 11010104,
+                "name": "選擇團體音樂\n進行10次LIVE",
+                "panelMissionSheetId": 110101,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1802
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "以音樂選擇畫面的虛擬歌手分頁中的歌曲進行15次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 11010105,
+                "name": "選擇團體音樂\n進行15次LIVE",
+                "panelMissionSheetId": 110101,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1803
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "以音樂選擇畫面的虛擬歌手分頁中的歌曲進行20次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 11010106,
+                "name": "選擇團體音樂\n進行20次LIVE",
+                "panelMissionSheetId": 110101,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1804
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "以音樂選擇畫面的虛擬歌手分頁中的歌曲進行30次LIVE吧。\n※AUTO LIVE也算在內。",
+                "id": 11010107,
+                "name": "選擇團體音樂\n進行30次LIVE",
+                "panelMissionSheetId": 110101,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1805
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1806
+              },
+              {
+                "resourceBoxId": 400109
+              }
+            ],
+            "seq": 1
+          },
+          {
+            "assetbundleName": "sheet_unit_lightsound",
+            "id": 110102,
+            "name": "團體卡 Leo/need",
+            "panelMissionSheetGroupId": 1101,
+            "panelMissions": [
+              {
+                "description": "通過1次Leo/need的活動創作歌曲吧。",
+                "id": 11010201,
+                "name": "通過1次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110102,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "通過3次Leo/need的活動創作歌曲吧。",
+                "id": 11010202,
+                "name": "通過3次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110102,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "通過5次Leo/need的活動創作歌曲吧。",
+                "id": 11010203,
+                "name": "通過5次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110102,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1801
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "通過10次Leo/need的活動創作歌曲吧。",
+                "id": 11010204,
+                "name": "通過10次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110102,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1802
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "通過15次Leo/need的活動創作歌曲吧。",
+                "id": 11010205,
+                "name": "通過15次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110102,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1803
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "通過20次Leo/need的活動創作歌曲吧。",
+                "id": 11010206,
+                "name": "通過20次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110102,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1804
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "通過30次Leo/need的活動創作歌曲吧。",
+                "id": 11010207,
+                "name": "通過30次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110102,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1805
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1807
+              },
+              {
+                "resourceBoxId": 400110
+              }
+            ],
+            "seq": 2
+          },
+          {
+            "assetbundleName": "sheet_unit_idol",
+            "id": 110103,
+            "name": "團體卡 MORE MORE JUMP！",
+            "panelMissionSheetGroupId": 1101,
+            "panelMissions": [
+              {
+                "description": "通過1次MORE MORE JUMP！的活動創作歌曲吧。",
+                "id": 11010301,
+                "name": "通過1次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110103,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "通過3次MORE MORE JUMP！的活動創作歌曲吧。",
+                "id": 11010302,
+                "name": "通過3次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110103,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "通過5次MORE MORE JUMP！的活動創作歌曲吧。",
+                "id": 11010303,
+                "name": "通過5次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110103,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1801
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "通過10次MORE MORE JUMP！的活動創作歌曲吧。",
+                "id": 11010304,
+                "name": "通過10次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110103,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1802
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "通過15次MORE MORE JUMP！的活動創作歌曲吧。",
+                "id": 11010305,
+                "name": "通過15次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110103,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1803
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "通過20次MORE MORE JUMP！的活動創作歌曲吧。",
+                "id": 11010306,
+                "name": "通過20次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110103,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1804
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "通過30次MORE MORE JUMP！的活動創作歌曲吧。",
+                "id": 11010307,
+                "name": "通過30次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110103,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1805
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1808
+              },
+              {
+                "resourceBoxId": 400111
+              }
+            ],
+            "seq": 3
+          },
+          {
+            "assetbundleName": "sheet_unit_street",
+            "id": 110104,
+            "name": "團體卡 Vivid BAD SQUAD",
+            "panelMissionSheetGroupId": 1101,
+            "panelMissions": [
+              {
+                "description": "通過1次Vivid BAD SQUAD的活動創作歌曲吧。",
+                "id": 11010401,
+                "name": "通過1次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110104,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "通過3次Vivid BAD SQUAD的活動創作歌曲吧。",
+                "id": 11010402,
+                "name": "通過3次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110104,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "通過5次Vivid BAD SQUAD的活動創作歌曲吧。",
+                "id": 11010403,
+                "name": "通過5次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110104,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1801
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "通過10次Vivid BAD SQUAD的活動創作歌曲吧。",
+                "id": 11010404,
+                "name": "通過10次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110104,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1802
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "通過15次Vivid BAD SQUAD的活動創作歌曲吧。",
+                "id": 11010405,
+                "name": "通過15次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110104,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1803
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "通過20次Vivid BAD SQUAD的活動創作歌曲吧。",
+                "id": 11010406,
+                "name": "通過20次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110104,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1804
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "通過30次Vivid BAD SQUAD的活動創作歌曲吧。",
+                "id": 11010407,
+                "name": "通過30次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110104,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1805
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1809
+              },
+              {
+                "resourceBoxId": 400112
+              }
+            ],
+            "seq": 4
+          },
+          {
+            "assetbundleName": "sheet_unit_theme_park",
+            "id": 110105,
+            "name": "團體卡 Wonderlands×Showtime",
+            "panelMissionSheetGroupId": 1101,
+            "panelMissions": [
+              {
+                "description": "通過1次Wonderlands×Showtime的活動創作歌曲吧。",
+                "id": 11010501,
+                "name": "通過1次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110105,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "通過3次Wonderlands×Showtime的活動創作歌曲吧。",
+                "id": 11010502,
+                "name": "通過3次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110105,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "通過5次Wonderlands×Showtime的活動創作歌曲吧。",
+                "id": 11010503,
+                "name": "通過5次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110105,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1801
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "通過10次Wonderlands×Showtime的活動創作歌曲吧。",
+                "id": 11010504,
+                "name": "通過10次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110105,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1802
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "通過15次Wonderlands×Showtime的活動創作歌曲吧。",
+                "id": 11010505,
+                "name": "通過15次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110105,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1803
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "通過20次Wonderlands×Showtime的活動創作歌曲吧。",
+                "id": 11010506,
+                "name": "通過20次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110105,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1804
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "通過30次Wonderlands×Showtime的活動創作歌曲吧。",
+                "id": 11010507,
+                "name": "通過30次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110105,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1805
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1810
+              },
+              {
+                "resourceBoxId": 400113
+              }
+            ],
+            "seq": 5
+          },
+          {
+            "assetbundleName": "sheet_unit_schoolrefusal",
+            "id": 110106,
+            "name": "團體卡 25點，Nightcord見。",
+            "panelMissionSheetGroupId": 1101,
+            "panelMissions": [
+              {
+                "description": "通過1次25點，Nightcord見。的活動創作歌曲吧。",
+                "id": 11010601,
+                "name": "通過1次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110106,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "通過3次25點，Nightcord見。的活動創作歌曲吧。",
+                "id": 11010602,
+                "name": "通過3次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110106,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1800
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "通過5次25點，Nightcord見。的活動創作歌曲吧。",
+                "id": 11010603,
+                "name": "通過5次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110106,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1801
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "通過10次25點，Nightcord見。的活動創作歌曲吧。",
+                "id": 11010604,
+                "name": "通過10次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110106,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1802
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "通過15次25點，Nightcord見。的活動創作歌曲吧。",
+                "id": 11010605,
+                "name": "通過15次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110106,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1803
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "通過20次25點，Nightcord見。的活動創作歌曲吧。",
+                "id": 11010606,
+                "name": "通過20次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110106,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1804
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "通過30次25點，Nightcord見。的活動創作歌曲吧。",
+                "id": 11010607,
+                "name": "通過30次\n團體的\n活動創作歌曲",
+                "panelMissionSheetId": 110106,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1805
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1811
+              },
+              {
+                "resourceBoxId": 400114
+              }
+            ],
+            "seq": 6
+          }
+        ],
+        "selectableLimit": 1,
+        "seq": 1
+      },
+      {
+        "id": 1102,
+        "name": "LIVE",
+        "panelMissionCampaignId": 11,
+        "panelMissionSheets": [
+          {
+            "assetbundleName": "sheet_live_casual",
+            "id": 110201,
+            "name": "LIVE卡 休閒",
+            "panelMissionSheetGroupId": 1102,
+            "panelMissions": [
+              {
+                "description": "以5週年紀念歌曲追加活動所追加的歌曲\n進行1次LIVE吧。",
+                "id": 11020101,
+                "name": "累計通過1次\n5週年紀念\n追加的歌曲",
+                "panelMissionSheetId": 110201,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1812
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "以5週年紀念歌曲追加活動所追加的歌曲\n進行3次LIVE吧。",
+                "id": 11020102,
+                "name": "累計通過3次\n5週年紀念\n追加的歌曲",
+                "panelMissionSheetId": 110201,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1812
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "以5週年紀念歌曲追加活動所追加的歌曲\n進行5次LIVE吧。",
+                "id": 11020103,
+                "name": "累計通過5次\n5週年紀念\n追加的歌曲",
+                "panelMissionSheetId": 110201,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1813
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "以5週年紀念歌曲追加活動所追加的歌曲\n進行10次LIVE吧。",
+                "id": 11020104,
+                "name": "累計通過10次\n5週年紀念\n追加的歌曲",
+                "panelMissionSheetId": 110201,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1813
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "以5週年紀念歌曲追加活動所追加的歌曲\n進行15次LIVE吧。",
+                "id": 11020105,
+                "name": "累計通過15次\n5週年紀念\n追加的歌曲",
+                "panelMissionSheetId": 110201,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1814
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "以5週年紀念歌曲追加活動所追加的歌曲\n進行20次LIVE吧。",
+                "id": 11020106,
+                "name": "累計通過20次\n5週年紀念\n追加的歌曲",
+                "panelMissionSheetId": 110201,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1814
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "以5週年紀念歌曲追加活動所追加的歌曲\n進行30次LIVE吧。",
+                "id": 11020107,
+                "name": "累計通過30次\n5週年紀念\n追加的歌曲",
+                "panelMissionSheetId": 110201,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1814
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1820
+              },
+              {
+                "resourceBoxId": 400115
+              }
+            ],
+            "seq": 1
+          },
+          {
+            "assetbundleName": "sheet_live_regular",
+            "id": 110202,
+            "name": "LIVE卡 標準",
+            "panelMissionSheetGroupId": 1102,
+            "panelMissions": [
+              {
+                "description": "以FULL COMBO通過1次LIVE吧。",
+                "id": 11020201,
+                "name": "累計1次\nFULL COMBO",
+                "panelMissionSheetId": 110202,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1814
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "以FULL COMBO通過3次LIVE吧。",
+                "id": 11020202,
+                "name": "累計3次\nFULL COMBO",
+                "panelMissionSheetId": 110202,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1815
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "以FULL COMBO通過5次LIVE吧。",
+                "id": 11020203,
+                "name": "累計5次\nFULL COMBO",
+                "panelMissionSheetId": 110202,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1815
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "以FULL COMBO通過7次LIVE吧。",
+                "id": 11020204,
+                "name": "累計7次\nFULL COMBO",
+                "panelMissionSheetId": 110202,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1815
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "以FULL COMBO通過10次LIVE吧。",
+                "id": 11020205,
+                "name": "累計10次\nFULL COMBO",
+                "panelMissionSheetId": 110202,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1816
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "以FULL COMBO通過15次LIVE吧。",
+                "id": 11020206,
+                "name": "累計15次\nFULL COMBO",
+                "panelMissionSheetId": 110202,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1816
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "以FULL COMBO通過20次LIVE吧。",
+                "id": 11020207,
+                "name": "累計20次\nFULL COMBO",
+                "panelMissionSheetId": 110202,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1816
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1821
+              },
+              {
+                "resourceBoxId": 400116
+              }
+            ],
+            "seq": 2
+          },
+          {
+            "assetbundleName": "sheet_live_unlimited",
+            "id": 110203,
+            "name": "LIVE卡 無限",
+            "panelMissionSheetGroupId": 1102,
+            "panelMissions": [
+              {
+                "description": "以ALL PERFECT通過1次LIVE吧。",
+                "id": 11020301,
+                "name": "累計1次\nAP",
+                "panelMissionSheetId": 110203,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1817
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "以ALL PERFECT通過2次LIVE吧。",
+                "id": 11020302,
+                "name": "累計2次\nAP",
+                "panelMissionSheetId": 110203,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1817
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "以ALL PERFECT通過3次LIVE吧。",
+                "id": 11020303,
+                "name": "累計3次\nAP",
+                "panelMissionSheetId": 110203,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1818
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "以ALL PERFECT通過5次LIVE吧。",
+                "id": 11020304,
+                "name": "累計5次\nAP",
+                "panelMissionSheetId": 110203,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1818
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "以ALL PERFECT通過7次LIVE吧。",
+                "id": 11020305,
+                "name": "累計7次\nAP",
+                "panelMissionSheetId": 110203,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1819
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "以ALL PERFECT通過10次LIVE吧。",
+                "id": 11020306,
+                "name": "累計10次\nAP",
+                "panelMissionSheetId": 110203,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1819
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "以ALL PERFECT通過15次LIVE吧。",
+                "id": 11020307,
+                "name": "累計15次\nAP",
+                "panelMissionSheetId": 110203,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1819
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1822
+              },
+              {
+                "resourceBoxId": 400117
+              }
+            ],
+            "seq": 3
+          }
+        ],
+        "selectableLimit": 1,
+        "seq": 2
+      },
+      {
+        "id": 1103,
+        "name": "體驗",
+        "panelMissionCampaignId": 11,
+        "panelMissionSheets": [
+          {
+            "assetbundleName": "sheet_try_casual",
+            "id": 110301,
+            "name": "體驗卡 休閒",
+            "panelMissionSheetGroupId": 1103,
+            "panelMissions": [
+              {
+                "description": "通過1次5週年紀念歌曲《Pentatonic》吧。",
+                "id": 11030101,
+                "name": "通過1次\n《Pentatonic》",
+                "panelMissionSheetId": 110301,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1812
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "通過10次「多人LIVE」吧。",
+                "id": 11030102,
+                "name": "通過10次\n多人LIVE",
+                "panelMissionSheetId": 110301,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1812
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "在「多人LIVE」中累計獲得3次「SUPER FEVER」吧。",
+                "id": 11030103,
+                "name": "達成3次\n「SUPER FEVER」",
+                "panelMissionSheetId": 110301,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1813
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "累計消耗50點LIVE BONUS吧。\n※關於我的「世界」，僅會在將LIVE BONUS轉換為耐力時算在內。",
+                "id": 11030104,
+                "name": "累計消耗50點\nLIVE BONUS",
+                "panelMissionSheetId": 110301,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1813
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "觀賞活動「Our Golden Days」最後一章的活動劇情吧。",
+                "id": 11030105,
+                "name": "觀看活動「Our Golden Days」\n最後一章的活動劇情",
+                "panelMissionSheetId": 110301,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1814
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "在活動「Our Golden Days」累計獲得20萬活動P吧。\n※可以獲得活動P至10/9 20:59。",
+                "id": 11030106,
+                "name": "累計獲得\n20萬活動P",
+                "panelMissionSheetId": 110301,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 200000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1814
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "在我的「世界」採集200個素材吧。",
+                "id": 11030107,
+                "name": "在我的「世界」\n採集200個素材",
+                "panelMissionSheetId": 110301,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 200,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1814
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1820
+              },
+              {
+                "resourceBoxId": 400118
+              }
+            ],
+            "seq": 1
+          },
+          {
+            "assetbundleName": "sheet_try_regular",
+            "id": 110302,
+            "name": "體驗卡 標準",
+            "panelMissionSheetGroupId": 1103,
+            "panelMissions": [
+              {
+                "description": "通過10次5週年紀念歌曲《Pentatonic》吧。",
+                "id": 11030201,
+                "name": "通過10次\n《Pentatonic》",
+                "panelMissionSheetId": 110302,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1814
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "通過30次「多人LIVE」吧。",
+                "id": 11030202,
+                "name": "通過30次\n多人LIVE",
+                "panelMissionSheetId": 110302,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1815
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "在「多人LIVE」中累計獲得10次「SUPER FEVER」吧。",
+                "id": 11030203,
+                "name": "達成10次\n「SUPER FEVER」",
+                "panelMissionSheetId": 110302,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1815
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "累計消耗100點LIVE BONUS吧。\n※關於我的「世界」，僅會在將LIVE BONUS轉換為耐力時算在內。",
+                "id": 11030204,
+                "name": "累計消耗100點\nLIVE BONUS",
+                "panelMissionSheetId": 110302,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1815
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "觀賞活動「Our Golden Days」最後一章的活動劇情吧。",
+                "id": 11030205,
+                "name": "觀看活動「Our Golden Days」\n最後一章的活動劇情",
+                "panelMissionSheetId": 110302,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1816
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "在活動「Our Golden Days」累計獲得40萬活動P吧。\n※可以獲得活動P至10/9 20:59。",
+                "id": 11030206,
+                "name": "累計獲得\n40萬活動P",
+                "panelMissionSheetId": 110302,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 400000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1816
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "在我的「世界」採集500個素材吧。",
+                "id": 11030207,
+                "name": "在我的「世界」\n採集500個素材",
+                "panelMissionSheetId": 110302,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1816
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1821
+              },
+              {
+                "resourceBoxId": 400119
+              }
+            ],
+            "seq": 2
+          },
+          {
+            "assetbundleName": "sheet_try_unlimited",
+            "id": 110303,
+            "name": "體驗卡 無限",
+            "panelMissionSheetGroupId": 1103,
+            "panelMissions": [
+              {
+                "description": "5人全員以FULL COMBO通過5次「多人LIVE」吧。",
+                "id": 11030301,
+                "name": "5人全員\n以FULL COMBO\n通過5次",
+                "panelMissionSheetId": 110303,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1817
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "在「多人LIVE」中累計獲得15次「SUPER FEVER」吧。",
+                "id": 11030302,
+                "name": "達成15次\n「SUPER FEVER」",
+                "panelMissionSheetId": 110303,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1817
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "在「多人LIVE」中累計獲得10次「MVP、SUPER STAR」吧。",
+                "id": 11030303,
+                "name": "獲得10次「MVP、\nSUPER STAR」",
+                "panelMissionSheetId": 110303,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1818
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "通過30種歌曲吧。\n※AUTO LIVE也算在內。",
+                "id": 11030304,
+                "name": "通過\n30個種類的歌曲",
+                "panelMissionSheetId": 110303,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 30,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1818
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "累計消耗300點LIVE BONUS吧。\n※關於我的「世界」，僅會在將LIVE BONUS轉換為耐力時算在內。",
+                "id": 11030305,
+                "name": "累計消耗300點\nLIVE BONUS",
+                "panelMissionSheetId": 110303,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1819
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "在活動「Our Golden Days」累計獲得100萬活動P吧。\n※可以獲得活動P至10/9 20:59。",
+                "id": 11030306,
+                "name": "累計獲得\n100萬活動P",
+                "panelMissionSheetId": 110303,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1819
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "在我的「世界」採集1000個素材吧。",
+                "id": 11030307,
+                "name": "在我的「世界」\n採集1000個素材",
+                "panelMissionSheetId": 110303,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1819
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1822
+              },
+              {
+                "resourceBoxId": 400120
+              }
+            ],
+            "seq": 3
+          }
+        ],
+        "selectableLimit": 1,
+        "seq": 3
+      },
+      {
+        "id": 1104,
+        "name": "招募・商店",
+        "panelMissionCampaignId": 11,
+        "panelMissionSheets": [
+          {
+            "assetbundleName": "sheet_shop_standard",
+            "id": 110401,
+            "name": "招募・商店卡 標準",
+            "panelMissionSheetGroupId": 1104,
+            "panelMissions": [
+              {
+                "description": "招募1次吧。\n※各種免費招募也算在內。",
+                "id": 11040101,
+                "name": "累計\n招募1次",
+                "panelMissionSheetId": 110401,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1823
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "招募5次吧。\n※各種免費招募也算在內。",
+                "id": 11040102,
+                "name": "累計\n招募5次",
+                "panelMissionSheetId": 110401,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1824
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "累計招募10次吧。\n※各種免費招募也算在內。",
+                "id": 11040103,
+                "name": "累計\n招募10次",
+                "panelMissionSheetId": 110401,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1824
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "招募20次吧。\n※各種免費招募也算在內。",
+                "id": 11040104,
+                "name": "累計\n招募20次",
+                "panelMissionSheetId": 110401,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1824
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "招募30次吧。\n※各種免費招募也算在內。",
+                "id": 11040105,
+                "name": "累計\n招募30次",
+                "panelMissionSheetId": 110401,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1825
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "招募40次吧。\n※各種免費招募也算在內。",
+                "id": 11040106,
+                "name": "累計\n招募40次",
+                "panelMissionSheetId": 110401,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 40,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1825
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "招募50次吧。\n※各種免費招募也算在內。",
+                "id": 11040107,
+                "name": "累計\n招募50次",
+                "panelMissionSheetId": 110401,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1825
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1828
+              },
+              {
+                "resourceBoxId": 400121
+              }
+            ],
+            "seq": 1
+          },
+          {
+            "assetbundleName": "sheet_shop_gold",
+            "id": 110402,
+            "name": "招募・商店卡 黃金",
+            "panelMissionSheetGroupId": 1104,
+            "panelMissions": [
+              {
+                "description": "招募100次吧。\n※各種免費招募也算在內。",
+                "id": 11040201,
+                "name": "累計\n招募100次",
+                "panelMissionSheetId": 110402,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1826
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "招募50次「[5週年紀念]絢爛慶典招募 夢幻選秀」、「[5週年紀念]絢爛慶典招募 黃金狂熱」\n或「EYES ON ME招募」吧。",
+                "id": 11040202,
+                "name": "招募50次\n「絢爛慶典、\n期間限定招募」",
+                "panelMissionSheetId": 110402,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1826
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "招募1次「[5週年紀念]1/3選擇清單招募 LIMITED EDITION」吧。",
+                "id": 11040203,
+                "name": "招募1次\n「1/3選擇清單招募\nLIMITED EDITION」",
+                "panelMissionSheetId": 110402,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1826
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "招募1次「[5週年紀念]紀念選擇招募」吧。",
+                "id": 11040204,
+                "name": "招募1次\n「紀念選擇招募」",
+                "panelMissionSheetId": 110402,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1826
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "招募1種「[5週年紀念]高級禮物招募」吧。",
+                "id": 11040205,
+                "name": "招募任一種類\n「高級\n禮物招募」",
+                "panelMissionSheetId": 110402,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1826
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "在水晶商店中購買任一種類的「5週年紀念組合」吧。\n※「[5週年紀念]感謝組合包」除外。",
+                "id": 11040206,
+                "name": "購買任一種類的\n 「5週年紀念組合包」",
+                "panelMissionSheetId": 110402,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1826
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "購買2026年10月的「高階任務通行證」或\n「我的『世界』任務通行證」吧。（不含特殊版）",
+                "id": 11040207,
+                "name": "購買2026年10月的\n「任務通行證」\n（不含特殊版）",
+                "panelMissionSheetId": 110402,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1826
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1829
+              },
+              {
+                "resourceBoxId": 400122
+              }
+            ],
+            "seq": 2
+          },
+          {
+            "assetbundleName": "sheet_shop_diamond",
+            "id": 110403,
+            "name": "招募・商店卡 鑽石",
+            "panelMissionSheetGroupId": 1104,
+            "panelMissions": [
+              {
+                "description": "累計招募200次吧。\n※各種免費招募也算在內。",
+                "id": 11040301,
+                "name": "累計\n招募200次",
+                "panelMissionSheetId": 110403,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 200,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1826
+                  }
+                ],
+                "seq": 1
+              },
+              {
+                "description": "招募100次「[5週年紀念]絢爛慶典招募 夢幻選秀」、「[5週年紀念]絢爛慶典招募 黃金狂熱」\n或「EYES ON ME招募」吧。",
+                "id": 11040302,
+                "name": "招募100次\n「絢爛慶典、\n期間限定招募」",
+                "panelMissionSheetId": 110403,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1827
+                  }
+                ],
+                "seq": 2
+              },
+              {
+                "description": "招募1次「[5週年紀念]1/3選擇清單招募 LIMITED EDITION」吧。",
+                "id": 11040303,
+                "name": "招募1次\n「1/3選擇清單招募\nLIMITED EDITION」",
+                "panelMissionSheetId": 110403,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1827
+                  }
+                ],
+                "seq": 3
+              },
+              {
+                "description": "招募1次「[5週年紀念]紀念選擇招募」吧。",
+                "id": 11040304,
+                "name": "招募1次\n「紀念選擇招募」",
+                "panelMissionSheetId": 110403,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1827
+                  }
+                ],
+                "seq": 4
+              },
+              {
+                "description": "招募2種「[5週年紀念]高級禮物招募」吧。",
+                "id": 11040305,
+                "name": "招募任二種類\n「高級禮物招募」",
+                "panelMissionSheetId": 110403,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1827
+                  }
+                ],
+                "seq": 5
+              },
+              {
+                "description": "在水晶商店中購買任二種類的「5週年紀念組合」吧。\n※「[5週年紀念]感謝組合包」除外。",
+                "id": 11040306,
+                "name": "購買任二種類的\n「5週年紀念組合包」",
+                "panelMissionSheetId": 110403,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1827
+                  }
+                ],
+                "seq": 6
+              },
+              {
+                "description": "購買2026年10月的「高階任務通行證」或\n「我的『世界』任務通行證」吧。（不含特殊版）",
+                "id": 11040307,
+                "name": "購買2026年10月的\n「任務通行證」\n（不含特殊版）",
+                "panelMissionSheetId": 110403,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 1827
+                  }
+                ],
+                "seq": 7
+              }
+            ],
+            "rewards": [
+              {
+                "resourceBoxId": 1830
+              },
+              {
+                "resourceBoxId": 400123
+              }
+            ],
+            "seq": 3
+          }
+        ],
+        "selectableLimit": 1,
+        "seq": 4
+      }
+    ],
+    "progressEndAt": 1791691199000,
+    "selectableLimit": 4,
+    "startAt": 1790697600000,
+    "distributionEndAt": 1792900799000
+  },
+  {
     "assetbundleName": "ensemble_collab_2026_pm",
     "bgmAssetbundleName": "ensemble_collab_2026_pm_bgm",
     "closedAt": 1785340799000,

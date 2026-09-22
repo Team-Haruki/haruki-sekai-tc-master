@@ -996,6 +996,114 @@
     "startAt": 1791734400000
   },
   {
+    "assetbundleName": "collaboration-akuno-story",
+    "endAt": 1796486399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_akuno",
+        "episodeNo": 1,
+        "id": 66,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_akuno_op_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 14,
+        "specialStoryId": 61,
+        "title": "[復刻]惡之大罪系列導入影片"
+      }
+    ],
+    "id": 61,
+    "startAt": 1795233600000
+  },
+  {
+    "assetbundleName": "collaboration-sanrio-story",
+    "endAt": 1803052799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_sanrio",
+        "episodeNo": 1,
+        "id": 67,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_sanrio_op_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 22,
+        "specialStoryId": 62,
+        "title": "[復刻][世界計畫×三麗鷗明星]聯動紀念登入劇情 序章"
+      }
+    ],
+    "id": 62,
+    "startAt": 1801800000000
+  },
+  {
+    "assetbundleName": "collaboration-sanrio-story",
+    "endAt": 1803139199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_sanrio",
+        "episodeNo": 1,
+        "id": 68,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_sanrio_ed_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 63,
+        "title": "[復刻][世界計畫×三麗鷗明星]聯動紀念登入劇情 結尾"
+      }
+    ],
+    "id": 63,
+    "startAt": 1803052800000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2026",
+    "endAt": 1806595199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2026",
+        "episodeNo": 1,
+        "id": 69,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2026_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 28,
+        "specialStoryId": 64,
+        "title": "2027愚人節導入影片"
+      }
+    ],
+    "id": 64,
+    "startAt": 1806508800000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2026",
+    "endAt": 1806681599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2026",
+        "episodeNo": 1,
+        "id": 70,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1000400,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2026_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 65,
+        "title": "2027愚人節劇情補充影片"
+      }
+    ],
+    "id": 65,
+    "startAt": 1806595200000
+  },
+  {
     "assetbundleName": "collaboration-es-story",
     "endAt": 1785340799000,
     "episodes": [
@@ -1036,5 +1144,26 @@
     ],
     "id": 67,
     "startAt": 1785340800000
+  },
+  {
+    "assetbundleName": "wl-3nd-event-pre-story",
+    "endAt": 1808913599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_wl_3nd_pre",
+        "episodeNo": 1,
+        "id": 73,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "wl_3nd_pre_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 68,
+        "title": "World Link活動前傳登入劇情"
+      }
+    ],
+    "id": 68,
+    "startAt": 1807945200000
   }
 ]

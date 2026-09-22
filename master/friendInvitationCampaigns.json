@@ -647,7 +647,7 @@
   {
     "assetbundleName": "friend_invitation_5th_anniv",
     "closedAt": 1793721599000,
-    "groupId": 2,
+    "groupId": 1,
     "id": 4,
     "missions": [
       {
@@ -659,9 +659,15 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 101,
-            "id": 17,
-            "resourceBoxId": 9
+            "countGroupId": 1,
+            "id": 15,
+            "resourceBoxId": 7
+          },
+          {
+            "count": 2,
+            "countGroupId": 1,
+            "id": 16,
+            "resourceBoxId": 8
           }
         ]
       },
@@ -674,8 +680,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 102,
-            "id": 18,
+            "countGroupId": 2,
+            "id": 2,
             "resourceBoxId": 2
           }
         ]
@@ -689,8 +695,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 103,
-            "id": 19,
+            "countGroupId": 3,
+            "id": 3,
             "resourceBoxId": 2
           }
         ]
@@ -704,8 +710,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 104,
-            "id": 20,
+            "countGroupId": 4,
+            "id": 4,
             "resourceBoxId": 2
           }
         ]
@@ -719,8 +725,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 105,
-            "id": 21,
+            "countGroupId": 5,
+            "id": 5,
             "resourceBoxId": 2
           }
         ]
@@ -734,8 +740,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 106,
-            "id": 22,
+            "countGroupId": 6,
+            "id": 6,
             "resourceBoxId": 2
           }
         ]
@@ -749,8 +755,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 107,
-            "id": 23,
+            "countGroupId": 7,
+            "id": 7,
             "resourceBoxId": 2
           }
         ]
@@ -764,8 +770,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 108,
-            "id": 24,
+            "countGroupId": 8,
+            "id": 8,
             "resourceBoxId": 2
           }
         ]
@@ -779,8 +785,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 109,
-            "id": 25,
+            "countGroupId": 9,
+            "id": 9,
             "resourceBoxId": 2
           }
         ]
@@ -794,8 +800,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 110,
-            "id": 26,
+            "countGroupId": 10,
+            "id": 10,
             "resourceBoxId": 2
           }
         ]
@@ -809,8 +815,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 201,
-            "id": 27,
+            "countGroupId": 11,
+            "id": 11,
             "resourceBoxId": 3
           }
         ]
@@ -824,8 +830,8 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 202,
-            "id": 28,
+            "countGroupId": 12,
+            "id": 12,
             "resourceBoxId": 4
           }
         ]
@@ -839,9 +845,15 @@
         "reward": [
           {
             "count": 1,
-            "countGroupId": 203,
-            "id": 29,
-            "resourceBoxId": 9
+            "countGroupId": 1,
+            "id": 15,
+            "resourceBoxId": 7
+          },
+          {
+            "count": 2,
+            "countGroupId": 1,
+            "id": 16,
+            "resourceBoxId": 8
           }
         ]
       }

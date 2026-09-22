@@ -129,6 +129,18 @@
     ]
   },
   {
+    "id": 209,
+    "seq": 9,
+    "honorMissionType": "player_rank",
+    "requirement": 800,
+    "sentence": "將玩家等級提升至800吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 1788
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
@@ -205,6 +217,18 @@
       }
     ],
     "startAt": 1640880000000
+  },
+  {
+    "id": 406,
+    "seq": 6,
+    "honorMissionType": "login_total",
+    "requirement": 2190,
+    "sentence": "累積登入2190天吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 1789
+      }
+    ]
   },
   {
     "id": 501,
@@ -11446,6 +11470,18 @@
     ]
   },
   {
+    "id": 20024,
+    "seq": 38,
+    "honorMissionType": "play_level_clear",
+    "requirement": 38,
+    "sentence": "通過Lv.38以上的歌曲吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 20024
+      }
+    ]
+  },
+  {
     "id": 21001,
     "seq": 15,
     "honorMissionType": "play_level_full_combo_clear",
@@ -11718,6 +11754,18 @@
     "rewards": [
       {
         "resourceBoxId": 21023
+      }
+    ]
+  },
+  {
+    "id": 21024,
+    "seq": 38,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 38,
+    "sentence": "以FULL COMBO通過Lv.38的歌曲吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 21024
       }
     ]
   },

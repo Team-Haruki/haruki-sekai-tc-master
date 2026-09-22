@@ -999,6 +999,15 @@
     "skinColorCode": "#ffffff"
   },
   {
+    "accessoryAssetbundleName": "fullset_0115",
+    "assetbundleName": "fullset_0115",
+    "costumeAssetbundleName": "fullset_0115",
+    "id": 115,
+    "name": "Voidoll的裝扮",
+    "seq": 1360,
+    "skinColorCode": "#ffffff"
+  },
+  {
     "accessoryAssetbundleName": "fullset_0116",
     "assetbundleName": "fullset_0116",
     "costumeAssetbundleName": "fullset_0116",
@@ -1059,6 +1068,15 @@
     "id": 1005,
     "name": "錦繡唐風",
     "seq": 10050,
+    "skinColorCode": "#ffffff"
+  },
+  {
+    "accessoryAssetbundleName": "fullset_2000",
+    "assetbundleName": "fullset_2000",
+    "costumeAssetbundleName": "fullset_2000",
+    "id": 2000,
+    "name": "Sweet Tea Time",
+    "seq": 20000,
     "skinColorCode": "#ffffff"
   }
 ]

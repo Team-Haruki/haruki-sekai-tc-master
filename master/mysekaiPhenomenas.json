@@ -132,6 +132,30 @@
     "rampTextureAssetbundleName": "011_snownight"
   },
   {
+    "assetbundleName": "012_soapbubble",
+    "description": "しゃぼん",
+    "englishName": "SOAPBUBBLE",
+    "iconAssetbundleName": "env_soapbubble",
+    "id": 12,
+    "mysekaiPhenomenaBackgroundColorId": 5,
+    "mysekaiPhenomenaBrightnessType": "none",
+    "mysekaiPhenomenaTimePeriodType": "daytime",
+    "name": "泡泡",
+    "rampTextureAssetbundleName": "012_soapbubble"
+  },
+  {
+    "assetbundleName": "013_universe",
+    "description": "うちゅう",
+    "englishName": "UNIVERSE",
+    "iconAssetbundleName": "env_universe",
+    "id": 13,
+    "mysekaiPhenomenaBackgroundColorId": 3,
+    "mysekaiPhenomenaBrightnessType": "none",
+    "mysekaiPhenomenaTimePeriodType": "night",
+    "name": "宇宙",
+    "rampTextureAssetbundleName": "013_universe"
+  },
+  {
     "assetbundleName": "014_sekai",
     "description": "せかい",
     "englishName": "SEKAI",

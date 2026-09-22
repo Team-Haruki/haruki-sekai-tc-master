@@ -5,6 +5,8 @@
     "endAt": 1641441600000,
     "id": 1,
     "keyMissionId": 8,
+    "name": "跨年限時任務",
+    "seq": 1,
     "startAt": 1640448000000
   },
   {
@@ -13,6 +15,8 @@
     "endAt": 1644389999000,
     "id": 2,
     "keyMissionId": 15,
+    "name": "春節限定任務",
+    "seq": 2,
     "startAt": 1643515200000
   },
   {
@@ -21,6 +25,8 @@
     "endAt": 1649660399000,
     "id": 4,
     "keyMissionId": 30,
+    "name": "半周年限定任務",
+    "seq": 4,
     "startAt": 1648612800000
   },
   {
@@ -29,6 +35,8 @@
     "endAt": 1654001999000,
     "id": 5,
     "keyMissionId": 35,
+    "name": "突破139萬人紀念限時任務",
+    "seq": 5,
     "startAt": 1653289200000
   },
   {
@@ -37,6 +45,8 @@
     "endAt": 1657112399000,
     "id": 6,
     "keyMissionId": 40,
+    "name": "突破150萬人紀念限時任務",
+    "seq": 6,
     "startAt": 1656313200000
   },
   {
@@ -45,6 +55,8 @@
     "endAt": 1659963599000,
     "id": 7,
     "keyMissionId": 46,
+    "name": "夏日限時任務",
+    "seq": 7,
     "startAt": 1659164400000
   },
   {
@@ -53,6 +65,8 @@
     "endAt": 1662641999000,
     "id": 8,
     "keyMissionId": 52,
+    "name": "初音未来纪念日",
+    "seq": 8,
     "startAt": 1661842800000
   },
   {
@@ -61,6 +75,8 @@
     "endAt": 1668430799000,
     "id": 9,
     "keyMissionId": 58,
+    "name": "MEIKO纪念日服裝",
+    "seq": 9,
     "startAt": 1667545200000
   },
   {
@@ -69,6 +85,8 @@
     "endAt": 1672923599000,
     "id": 10,
     "keyMissionId": 64,
+    "name": "鏡音连铃/镜音连纪念日服裝",
+    "seq": 10,
     "startAt": 1672038000000
   },
   {
@@ -77,6 +95,8 @@
     "endAt": 1674997199000,
     "id": 11,
     "keyMissionId": 70,
+    "name": "嘉年华限時任務",
+    "seq": 11,
     "startAt": 1674198000000
   },
   {
@@ -86,6 +106,8 @@
     "iconAssetbundleName": "limitmission_kaito",
     "id": 12,
     "keyMissionId": 76,
+    "name": "巡音流歌纪念日限定任務",
+    "seq": 12,
     "startAt": 1674975600000
   },
   {
@@ -95,6 +117,8 @@
     "iconAssetbundleName": "limitmission_meiko",
     "id": 13,
     "keyMissionId": 82,
+    "name": "KAITO纪念日限定任務",
+    "seq": 13,
     "startAt": 1676530800000
   },
   {
@@ -104,6 +128,8 @@
     "iconAssetbundleName": "limitmission_luka",
     "id": 15,
     "keyMissionId": 93,
+    "name": "200萬人突破紀念",
+    "seq": 15,
     "startAt": 1685516400000
   },
   {
@@ -113,6 +139,8 @@
     "iconAssetbundleName": "limitmission_chuyin",
     "id": 16,
     "keyMissionId": 99,
+    "name": "夏日嘉年华限時任務",
+    "seq": 16,
     "startAt": 1688108400000
   },
   {
@@ -121,6 +149,8 @@
     "endAt": 1723640399000,
     "id": 17,
     "keyMissionId": 105,
+    "name": "夏日嘉年华限時任務",
+    "seq": 17,
     "startAt": 1722409200000
   },
   {
@@ -129,6 +159,8 @@
     "endAt": 1752292799000,
     "id": 18,
     "keyMissionId": 111,
+    "name": "夏日嘉年华限時任務",
+    "seq": 18,
     "startAt": 1751256000000
   },
   {
@@ -138,6 +170,8 @@
     "iconAssetbundleName": "limitmission_chuyin",
     "id": 19,
     "keyMissionId": 117,
+    "name": "初音未来纪念日",
+    "seq": 19,
     "startAt": 1756450800000
   },
   {
@@ -146,6 +180,8 @@
     "endAt": 1760284740000,
     "id": 20,
     "keyMissionId": 123,
+    "name": "[4週年紀念] 世界心願計畫",
+    "seq": 20,
     "startAt": 1759042800000
   },
   {
@@ -155,6 +191,8 @@
     "iconAssetbundleName": "limitmission_meiko",
     "id": 21,
     "keyMissionId": 129,
+    "name": "MEIKO紀念日",
+    "seq": 21,
     "startAt": 1762153200000
   },
   {
@@ -164,6 +202,8 @@
     "iconAssetbundleName": "limitmission_kagamine",
     "id": 22,
     "keyMissionId": 136,
+    "name": "鏡音铃/镜音连纪念日",
+    "seq": 22,
     "startAt": 1766646000000
   },
   {
@@ -172,6 +212,8 @@
     "endAt": 1769518799000,
     "id": 23,
     "keyMissionId": 143,
+    "name": "maimai DX | CHUNITHM聯動限時任務",
+    "seq": 23,
     "startAt": 1768838400000
   },
   {
@@ -181,6 +223,8 @@
     "iconAssetbundleName": "limitmission_luka",
     "id": 24,
     "keyMissionId": 149,
+    "name": "巡音流歌纪念日限定任務",
+    "seq": 24,
     "startAt": 1769583600000
   },
   {
@@ -190,6 +234,8 @@
     "iconAssetbundleName": "limitmission_kaito",
     "id": 25,
     "keyMissionId": 155,
+    "name": "KAITO纪念日限定任務",
+    "seq": 25,
     "startAt": 1771138800000
   },
   {
@@ -198,6 +244,8 @@
     "endAt": 1773806399000,
     "id": 26,
     "keyMissionId": 161,
+    "name": "新學期嘉年華的限時任務",
+    "seq": 26,
     "startAt": 1772942400000
   },
   {
@@ -206,15 +254,20 @@
     "endAt": 1783958399000,
     "id": 27,
     "keyMissionId": 191,
+    "name": "夏日派對限時任務",
+    "seq": 31,
     "startAt": 1783137600000
   },
   {
     "assetbundleName": "limitmission_sushi",
+    "barIcon": "LimitMissionNegi",
     "distributionEndAt": 1787327999000,
     "endAt": 1786377599000,
     "iconAssetbundleName": "limitmission_sushi",
     "id": 28,
     "keyMissionId": 197,
+    "name": "聯動紀念限時任務",
+    "seq": 32,
     "startAt": 1785556800000
   },
   {
@@ -224,14 +277,19 @@
     "iconAssetbundleName": "limitmission_chuyin",
     "id": 29,
     "keyMissionId": 203,
+    "name": "初音未来纪念日限定任務",
+    "seq": 33,
     "startAt": 1787986800000
   },
   {
+    "assetbundleName": "limitmission_miku_25",
     "distributionEndAt": 1814975999000,
     "endAt": 1813755599000,
     "iconAssetbundleName": "limitmission_kaito",
     "id": 1000,
     "keyMissionId": 167,
+    "name": "纪念日限定任務test1",
+    "seq": 27,
     "startAt": 1810364400000
   },
   {
@@ -240,6 +298,8 @@
     "endAt": 1813755599000,
     "id": 1001,
     "keyMissionId": 173,
+    "name": "嘉年華的限時任務test1",
+    "seq": 28,
     "startAt": 1810364400000
   },
   {
@@ -249,6 +309,8 @@
     "iconAssetbundleName": "limitmission_meiko",
     "id": 1002,
     "keyMissionId": 179,
+    "name": "纪念日限定任務test2",
+    "seq": 29,
     "startAt": 1810364400000
   },
   {
@@ -257,6 +319,8 @@
     "endAt": 1813755599000,
     "id": 1003,
     "keyMissionId": 185,
+    "name": "嘉年華的限時任務test2",
+    "seq": 30,
     "startAt": 1810364400000
   }
 ]

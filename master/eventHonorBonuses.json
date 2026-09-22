@@ -37,13 +37,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 6279,
-    "id": 6,
-    "leaderGameCharacterId": 1
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 6238,
     "id": 7,
     "leaderGameCharacterId": 2
@@ -74,13 +67,6 @@
     "eventId": 180,
     "honorId": 6242,
     "id": 11,
-    "leaderGameCharacterId": 2
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 6243,
-    "id": 12,
     "leaderGameCharacterId": 2
   },
   {
@@ -121,13 +107,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 6261,
-    "id": 18,
-    "leaderGameCharacterId": 3
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 6220,
     "id": 19,
     "leaderGameCharacterId": 4
@@ -158,13 +137,6 @@
     "eventId": 180,
     "honorId": 6224,
     "id": 23,
-    "leaderGameCharacterId": 4
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 6225,
-    "id": 24,
     "leaderGameCharacterId": 4
   },
   {
@@ -205,13 +177,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 6503,
-    "id": 30,
-    "leaderGameCharacterId": 5
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 6516,
     "id": 31,
     "leaderGameCharacterId": 6
@@ -242,13 +207,6 @@
     "eventId": 180,
     "honorId": 6520,
     "id": 35,
-    "leaderGameCharacterId": 6
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 6521,
-    "id": 36,
     "leaderGameCharacterId": 6
   },
   {
@@ -289,13 +247,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 6539,
-    "id": 42,
-    "leaderGameCharacterId": 7
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 6552,
     "id": 43,
     "leaderGameCharacterId": 8
@@ -326,13 +277,6 @@
     "eventId": 180,
     "honorId": 6556,
     "id": 47,
-    "leaderGameCharacterId": 8
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 6557,
-    "id": 48,
     "leaderGameCharacterId": 8
   },
   {
@@ -373,13 +317,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 5787,
-    "id": 54,
-    "leaderGameCharacterId": 9
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 5800,
     "id": 55,
     "leaderGameCharacterId": 10
@@ -410,13 +347,6 @@
     "eventId": 180,
     "honorId": 5804,
     "id": 59,
-    "leaderGameCharacterId": 10
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 5805,
-    "id": 60,
     "leaderGameCharacterId": 10
   },
   {
@@ -457,13 +387,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 5769,
-    "id": 66,
-    "leaderGameCharacterId": 11
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 5746,
     "id": 67,
     "leaderGameCharacterId": 12
@@ -494,13 +417,6 @@
     "eventId": 180,
     "honorId": 5750,
     "id": 71,
-    "leaderGameCharacterId": 12
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 5751,
-    "id": 72,
     "leaderGameCharacterId": 12
   },
   {
@@ -541,13 +457,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 5967,
-    "id": 78,
-    "leaderGameCharacterId": 13
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 5998,
     "id": 79,
     "leaderGameCharacterId": 14
@@ -578,13 +487,6 @@
     "eventId": 180,
     "honorId": 6002,
     "id": 83,
-    "leaderGameCharacterId": 14
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 6003,
-    "id": 84,
     "leaderGameCharacterId": 14
   },
   {
@@ -625,13 +527,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 5985,
-    "id": 90,
-    "leaderGameCharacterId": 15
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 5944,
     "id": 91,
     "leaderGameCharacterId": 16
@@ -662,13 +557,6 @@
     "eventId": 180,
     "honorId": 5948,
     "id": 95,
-    "leaderGameCharacterId": 16
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 5949,
-    "id": 96,
     "leaderGameCharacterId": 16
   },
   {
@@ -709,13 +597,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 6120,
-    "id": 102,
-    "leaderGameCharacterId": 17
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 6169,
     "id": 103,
     "leaderGameCharacterId": 18
@@ -746,13 +627,6 @@
     "eventId": 180,
     "honorId": 6173,
     "id": 107,
-    "leaderGameCharacterId": 18
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 6174,
-    "id": 108,
     "leaderGameCharacterId": 18
   },
   {
@@ -793,13 +667,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 6138,
-    "id": 114,
-    "leaderGameCharacterId": 19
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 6151,
     "id": 115,
     "leaderGameCharacterId": 20
@@ -830,13 +697,6 @@
     "eventId": 180,
     "honorId": 6155,
     "id": 119,
-    "leaderGameCharacterId": 20
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 6156,
-    "id": 120,
     "leaderGameCharacterId": 20
   },
   {
@@ -877,13 +737,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 6692,
-    "id": 126,
-    "leaderGameCharacterId": 21
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 6759,
     "id": 127,
     "leaderGameCharacterId": 22
@@ -914,13 +767,6 @@
     "eventId": 180,
     "honorId": 6763,
     "id": 131,
-    "leaderGameCharacterId": 22
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 6764,
-    "id": 132,
     "leaderGameCharacterId": 22
   },
   {
@@ -961,13 +807,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 6674,
-    "id": 138,
-    "leaderGameCharacterId": 23
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 6705,
     "id": 139,
     "leaderGameCharacterId": 24
@@ -998,13 +837,6 @@
     "eventId": 180,
     "honorId": 6709,
     "id": 143,
-    "leaderGameCharacterId": 24
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 6710,
-    "id": 144,
     "leaderGameCharacterId": 24
   },
   {
@@ -1045,13 +877,6 @@
   {
     "bonusRate": 50,
     "eventId": 180,
-    "honorId": 6728,
-    "id": 150,
-    "leaderGameCharacterId": 25
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
     "honorId": 6741,
     "id": 151,
     "leaderGameCharacterId": 26
@@ -1082,13 +907,6 @@
     "eventId": 180,
     "honorId": 6745,
     "id": 155,
-    "leaderGameCharacterId": 26
-  },
-  {
-    "bonusRate": 50,
-    "eventId": 180,
-    "honorId": 6746,
-    "id": 156,
     "leaderGameCharacterId": 26
   }
 ]

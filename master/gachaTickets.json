@@ -162,7 +162,7 @@
     "name": "[5週年紀念]絢爛慶典招募專用票券"
   },
   {
-    "assetbundleName": "gacha_ticket",
+    "assetbundleName": "gacha_ticket_cn_free",
     "gachaDisplayType": "always",
     "id": 28,
     "name": "[5週年紀念]免費招募票券"
@@ -172,6 +172,36 @@
     "gachaDisplayType": "having",
     "id": 29,
     "name": "[邀請朋友]必中★4成員招募票券"
+  },
+  {
+    "assetbundleName": "gacha_ticket",
+    "gachaDisplayType": "always",
+    "id": 30,
+    "name": "[2027新春]新年免費招募票券"
+  },
+  {
+    "assetbundleName": "gacha_ticket_newyear2026_1",
+    "gachaDisplayType": "always",
+    "id": 32,
+    "name": "福財神籤（大）"
+  },
+  {
+    "assetbundleName": "gacha_ticket_newyear2026_2",
+    "gachaDisplayType": "always",
+    "id": 33,
+    "name": "福財神籤（特）"
+  },
+  {
+    "assetbundleName": "gacha_ticket_newyear2026_3",
+    "gachaDisplayType": "always",
+    "id": 34,
+    "name": "福財神籤（極）"
+  },
+  {
+    "assetbundleName": "gacha_ticket",
+    "gachaDisplayType": "always",
+    "id": 35,
+    "name": "[5.5週年紀念]免費招募票券"
   },
   {
     "assetbundleName": "free_gacha_10_ticket",

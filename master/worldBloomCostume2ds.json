@@ -466,5 +466,35 @@
     "eventId": 180,
     "gameCharacterId": 26,
     "id": 18026
+  },
+  {
+    "costume2dId": 392,
+    "eventId": 202,
+    "gameCharacterId": 6,
+    "id": 20201
+  },
+  {
+    "costume2dId": 387,
+    "eventId": 202,
+    "gameCharacterId": 1,
+    "id": 20202
+  },
+  {
+    "costume2dId": 400,
+    "eventId": 202,
+    "gameCharacterId": 14,
+    "id": 20203
+  },
+  {
+    "costume2dId": 403,
+    "eventId": 202,
+    "gameCharacterId": 17,
+    "id": 20204
+  },
+  {
+    "costume2dId": 427,
+    "eventId": 202,
+    "gameCharacterId": 21,
+    "id": 20205
   }
 ]

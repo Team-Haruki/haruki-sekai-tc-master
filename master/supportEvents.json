@@ -1,4839 +1,10 @@
 [
   {
-    "aggregateAt": 1663073999000,
+    "aggregateAt": 1760360399000,
     "assetbundleName": "event_support_2022",
     "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
-    "closeAt": 1663505999000,
-    "id": 1,
-    "liveBoostRates": [
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "solo"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "solo"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "solo"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "solo"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "solo"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "solo"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "solo"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "solo"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "solo"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "solo"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "solo"
-      },
-      {
-        "boost": 0,
-        "boostRate": 10,
-        "liveType": "challenge_live"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_private"
-      }
-    ],
-    "liveScoreRankRates": [
-      {
-        "rate": 20,
-        "scoreRank": "S"
-      },
-      {
-        "rate": 18,
-        "scoreRank": "A"
-      },
-      {
-        "rate": 15,
-        "scoreRank": "B"
-      },
-      {
-        "rate": 10,
-        "scoreRank": "C"
-      },
-      {
-        "rate": 1,
-        "scoreRank": "D"
-      }
-    ],
-    "personalScoreRewards": [
-      {
-        "id": 1,
-        "resourceBoxId": 1,
-        "unit": "piapro",
-        "unitScore": 500
-      },
-      {
-        "id": 2,
-        "resourceBoxId": 2,
-        "unit": "piapro",
-        "unitScore": 1000
-      },
-      {
-        "id": 3,
-        "resourceBoxId": 3,
-        "unit": "piapro",
-        "unitScore": 2000
-      },
-      {
-        "id": 4,
-        "resourceBoxId": 4,
-        "unit": "piapro",
-        "unitScore": 3000
-      },
-      {
-        "id": 5,
-        "resourceBoxId": 5,
-        "unit": "piapro",
-        "unitScore": 4000
-      },
-      {
-        "id": 6,
-        "resourceBoxId": 6,
-        "unit": "piapro",
-        "unitScore": 5000
-      },
-      {
-        "id": 7,
-        "resourceBoxId": 7,
-        "unit": "piapro",
-        "unitScore": 7000
-      },
-      {
-        "id": 8,
-        "resourceBoxId": 8,
-        "unit": "piapro",
-        "unitScore": 10000
-      },
-      {
-        "id": 9,
-        "resourceBoxId": 9,
-        "unit": "piapro",
-        "unitScore": 15000
-      },
-      {
-        "id": 10,
-        "resourceBoxId": 10,
-        "unit": "piapro",
-        "unitScore": 20000
-      },
-      {
-        "id": 11,
-        "resourceBoxId": 11,
-        "unit": "piapro",
-        "unitScore": 25000
-      },
-      {
-        "id": 12,
-        "resourceBoxId": 12,
-        "unit": "piapro",
-        "unitScore": 30000
-      },
-      {
-        "id": 13,
-        "resourceBoxId": 13,
-        "unit": "piapro",
-        "unitScore": 40000
-      },
-      {
-        "id": 14,
-        "resourceBoxId": 14,
-        "unit": "piapro",
-        "unitScore": 50000
-      },
-      {
-        "id": 15,
-        "resourceBoxId": 15,
-        "unit": "piapro",
-        "unitScore": 100000
-      },
-      {
-        "id": 16,
-        "resourceBoxId": 16,
-        "unit": "piapro",
-        "unitScore": 200000
-      },
-      {
-        "id": 17,
-        "resourceBoxId": 17,
-        "unit": "piapro",
-        "unitScore": 390000
-      },
-      {
-        "id": 18,
-        "resourceBoxId": 18,
-        "unit": "theme_park",
-        "unitScore": 500
-      },
-      {
-        "id": 19,
-        "resourceBoxId": 19,
-        "unit": "theme_park",
-        "unitScore": 1000
-      },
-      {
-        "id": 20,
-        "resourceBoxId": 20,
-        "unit": "theme_park",
-        "unitScore": 2000
-      },
-      {
-        "id": 21,
-        "resourceBoxId": 21,
-        "unit": "theme_park",
-        "unitScore": 3000
-      },
-      {
-        "id": 22,
-        "resourceBoxId": 22,
-        "unit": "theme_park",
-        "unitScore": 4000
-      },
-      {
-        "id": 23,
-        "resourceBoxId": 23,
-        "unit": "theme_park",
-        "unitScore": 5000
-      },
-      {
-        "id": 24,
-        "resourceBoxId": 24,
-        "unit": "theme_park",
-        "unitScore": 7000
-      },
-      {
-        "id": 25,
-        "resourceBoxId": 25,
-        "unit": "theme_park",
-        "unitScore": 10000
-      },
-      {
-        "id": 26,
-        "resourceBoxId": 26,
-        "unit": "theme_park",
-        "unitScore": 15000
-      },
-      {
-        "id": 27,
-        "resourceBoxId": 27,
-        "unit": "theme_park",
-        "unitScore": 20000
-      },
-      {
-        "id": 28,
-        "resourceBoxId": 28,
-        "unit": "theme_park",
-        "unitScore": 25000
-      },
-      {
-        "id": 29,
-        "resourceBoxId": 29,
-        "unit": "theme_park",
-        "unitScore": 30000
-      },
-      {
-        "id": 30,
-        "resourceBoxId": 30,
-        "unit": "theme_park",
-        "unitScore": 40000
-      },
-      {
-        "id": 31,
-        "resourceBoxId": 31,
-        "unit": "theme_park",
-        "unitScore": 50000
-      },
-      {
-        "id": 32,
-        "resourceBoxId": 32,
-        "unit": "theme_park",
-        "unitScore": 100000
-      },
-      {
-        "id": 33,
-        "resourceBoxId": 33,
-        "unit": "theme_park",
-        "unitScore": 200000
-      },
-      {
-        "id": 34,
-        "resourceBoxId": 34,
-        "unit": "theme_park",
-        "unitScore": 390000
-      },
-      {
-        "id": 35,
-        "resourceBoxId": 35,
-        "unit": "idol",
-        "unitScore": 500
-      },
-      {
-        "id": 36,
-        "resourceBoxId": 36,
-        "unit": "idol",
-        "unitScore": 1000
-      },
-      {
-        "id": 37,
-        "resourceBoxId": 37,
-        "unit": "idol",
-        "unitScore": 2000
-      },
-      {
-        "id": 38,
-        "resourceBoxId": 38,
-        "unit": "idol",
-        "unitScore": 3000
-      },
-      {
-        "id": 39,
-        "resourceBoxId": 39,
-        "unit": "idol",
-        "unitScore": 4000
-      },
-      {
-        "id": 40,
-        "resourceBoxId": 40,
-        "unit": "idol",
-        "unitScore": 5000
-      },
-      {
-        "id": 41,
-        "resourceBoxId": 41,
-        "unit": "idol",
-        "unitScore": 7000
-      },
-      {
-        "id": 42,
-        "resourceBoxId": 42,
-        "unit": "idol",
-        "unitScore": 10000
-      },
-      {
-        "id": 43,
-        "resourceBoxId": 43,
-        "unit": "idol",
-        "unitScore": 15000
-      },
-      {
-        "id": 44,
-        "resourceBoxId": 44,
-        "unit": "idol",
-        "unitScore": 20000
-      },
-      {
-        "id": 45,
-        "resourceBoxId": 45,
-        "unit": "idol",
-        "unitScore": 25000
-      },
-      {
-        "id": 46,
-        "resourceBoxId": 46,
-        "unit": "idol",
-        "unitScore": 30000
-      },
-      {
-        "id": 47,
-        "resourceBoxId": 47,
-        "unit": "idol",
-        "unitScore": 40000
-      },
-      {
-        "id": 48,
-        "resourceBoxId": 48,
-        "unit": "idol",
-        "unitScore": 50000
-      },
-      {
-        "id": 49,
-        "resourceBoxId": 49,
-        "unit": "idol",
-        "unitScore": 100000
-      },
-      {
-        "id": 50,
-        "resourceBoxId": 50,
-        "unit": "idol",
-        "unitScore": 200000
-      },
-      {
-        "id": 51,
-        "resourceBoxId": 51,
-        "unit": "idol",
-        "unitScore": 390000
-      },
-      {
-        "id": 52,
-        "resourceBoxId": 52,
-        "unit": "street",
-        "unitScore": 500
-      },
-      {
-        "id": 53,
-        "resourceBoxId": 53,
-        "unit": "street",
-        "unitScore": 1000
-      },
-      {
-        "id": 54,
-        "resourceBoxId": 54,
-        "unit": "street",
-        "unitScore": 2000
-      },
-      {
-        "id": 55,
-        "resourceBoxId": 55,
-        "unit": "street",
-        "unitScore": 3000
-      },
-      {
-        "id": 56,
-        "resourceBoxId": 56,
-        "unit": "street",
-        "unitScore": 4000
-      },
-      {
-        "id": 57,
-        "resourceBoxId": 57,
-        "unit": "street",
-        "unitScore": 5000
-      },
-      {
-        "id": 58,
-        "resourceBoxId": 58,
-        "unit": "street",
-        "unitScore": 7000
-      },
-      {
-        "id": 59,
-        "resourceBoxId": 59,
-        "unit": "street",
-        "unitScore": 10000
-      },
-      {
-        "id": 60,
-        "resourceBoxId": 60,
-        "unit": "street",
-        "unitScore": 15000
-      },
-      {
-        "id": 61,
-        "resourceBoxId": 61,
-        "unit": "street",
-        "unitScore": 20000
-      },
-      {
-        "id": 62,
-        "resourceBoxId": 62,
-        "unit": "street",
-        "unitScore": 25000
-      },
-      {
-        "id": 63,
-        "resourceBoxId": 63,
-        "unit": "street",
-        "unitScore": 30000
-      },
-      {
-        "id": 64,
-        "resourceBoxId": 64,
-        "unit": "street",
-        "unitScore": 40000
-      },
-      {
-        "id": 65,
-        "resourceBoxId": 65,
-        "unit": "street",
-        "unitScore": 50000
-      },
-      {
-        "id": 66,
-        "resourceBoxId": 66,
-        "unit": "street",
-        "unitScore": 100000
-      },
-      {
-        "id": 67,
-        "resourceBoxId": 67,
-        "unit": "street",
-        "unitScore": 200000
-      },
-      {
-        "id": 68,
-        "resourceBoxId": 68,
-        "unit": "street",
-        "unitScore": 390000
-      },
-      {
-        "id": 69,
-        "resourceBoxId": 69,
-        "unit": "light_sound",
-        "unitScore": 500
-      },
-      {
-        "id": 70,
-        "resourceBoxId": 70,
-        "unit": "light_sound",
-        "unitScore": 1000
-      },
-      {
-        "id": 71,
-        "resourceBoxId": 71,
-        "unit": "light_sound",
-        "unitScore": 2000
-      },
-      {
-        "id": 72,
-        "resourceBoxId": 72,
-        "unit": "light_sound",
-        "unitScore": 3000
-      },
-      {
-        "id": 73,
-        "resourceBoxId": 73,
-        "unit": "light_sound",
-        "unitScore": 4000
-      },
-      {
-        "id": 74,
-        "resourceBoxId": 74,
-        "unit": "light_sound",
-        "unitScore": 5000
-      },
-      {
-        "id": 75,
-        "resourceBoxId": 75,
-        "unit": "light_sound",
-        "unitScore": 7000
-      },
-      {
-        "id": 76,
-        "resourceBoxId": 76,
-        "unit": "light_sound",
-        "unitScore": 10000
-      },
-      {
-        "id": 77,
-        "resourceBoxId": 77,
-        "unit": "light_sound",
-        "unitScore": 15000
-      },
-      {
-        "id": 78,
-        "resourceBoxId": 78,
-        "unit": "light_sound",
-        "unitScore": 20000
-      },
-      {
-        "id": 79,
-        "resourceBoxId": 79,
-        "unit": "light_sound",
-        "unitScore": 25000
-      },
-      {
-        "id": 80,
-        "resourceBoxId": 80,
-        "unit": "light_sound",
-        "unitScore": 30000
-      },
-      {
-        "id": 81,
-        "resourceBoxId": 81,
-        "unit": "light_sound",
-        "unitScore": 40000
-      },
-      {
-        "id": 82,
-        "resourceBoxId": 82,
-        "unit": "light_sound",
-        "unitScore": 50000
-      },
-      {
-        "id": 83,
-        "resourceBoxId": 83,
-        "unit": "light_sound",
-        "unitScore": 100000
-      },
-      {
-        "id": 84,
-        "resourceBoxId": 84,
-        "unit": "light_sound",
-        "unitScore": 200000
-      },
-      {
-        "id": 85,
-        "resourceBoxId": 85,
-        "unit": "light_sound",
-        "unitScore": 390000
-      },
-      {
-        "id": 86,
-        "resourceBoxId": 86,
-        "unit": "school_refusal",
-        "unitScore": 500
-      },
-      {
-        "id": 87,
-        "resourceBoxId": 87,
-        "unit": "school_refusal",
-        "unitScore": 1000
-      },
-      {
-        "id": 88,
-        "resourceBoxId": 88,
-        "unit": "school_refusal",
-        "unitScore": 2000
-      },
-      {
-        "id": 89,
-        "resourceBoxId": 89,
-        "unit": "school_refusal",
-        "unitScore": 3000
-      },
-      {
-        "id": 90,
-        "resourceBoxId": 90,
-        "unit": "school_refusal",
-        "unitScore": 4000
-      },
-      {
-        "id": 91,
-        "resourceBoxId": 91,
-        "unit": "school_refusal",
-        "unitScore": 5000
-      },
-      {
-        "id": 92,
-        "resourceBoxId": 92,
-        "unit": "school_refusal",
-        "unitScore": 7000
-      },
-      {
-        "id": 93,
-        "resourceBoxId": 93,
-        "unit": "school_refusal",
-        "unitScore": 10000
-      },
-      {
-        "id": 94,
-        "resourceBoxId": 94,
-        "unit": "school_refusal",
-        "unitScore": 15000
-      },
-      {
-        "id": 95,
-        "resourceBoxId": 95,
-        "unit": "school_refusal",
-        "unitScore": 20000
-      },
-      {
-        "id": 96,
-        "resourceBoxId": 96,
-        "unit": "school_refusal",
-        "unitScore": 25000
-      },
-      {
-        "id": 97,
-        "resourceBoxId": 97,
-        "unit": "school_refusal",
-        "unitScore": 30000
-      },
-      {
-        "id": 98,
-        "resourceBoxId": 98,
-        "unit": "school_refusal",
-        "unitScore": 40000
-      },
-      {
-        "id": 99,
-        "resourceBoxId": 99,
-        "unit": "school_refusal",
-        "unitScore": 50000
-      },
-      {
-        "id": 100,
-        "resourceBoxId": 100,
-        "unit": "school_refusal",
-        "unitScore": 100000
-      },
-      {
-        "id": 101,
-        "resourceBoxId": 101,
-        "unit": "school_refusal",
-        "unitScore": 200000
-      },
-      {
-        "id": 102,
-        "resourceBoxId": 102,
-        "unit": "school_refusal",
-        "unitScore": 390000
-      }
-    ],
-    "startAt": 1662523200000,
-    "totalScoreRewards": [
-      {
-        "id": 1,
-        "resourceBoxId": 1,
-        "unit": "piapro",
-        "unitScore": 250000000
-      },
-      {
-        "id": 2,
-        "resourceBoxId": 2,
-        "unit": "piapro",
-        "unitScore": 300000000
-      },
-      {
-        "id": 3,
-        "resourceBoxId": 3,
-        "unit": "piapro",
-        "unitScore": 350000000
-      },
-      {
-        "id": 4,
-        "resourceBoxId": 4,
-        "unit": "piapro",
-        "unitScore": 400000000
-      },
-      {
-        "id": 5,
-        "resourceBoxId": 5,
-        "unit": "piapro",
-        "unitScore": 500000000
-      },
-      {
-        "id": 6,
-        "resourceBoxId": 6,
-        "unit": "piapro",
-        "unitScore": 600000000
-      },
-      {
-        "id": 7,
-        "resourceBoxId": 7,
-        "unit": "piapro",
-        "unitScore": 700000000
-      },
-      {
-        "id": 8,
-        "resourceBoxId": 8,
-        "unit": "theme_park",
-        "unitScore": 250000000
-      },
-      {
-        "id": 9,
-        "resourceBoxId": 9,
-        "unit": "theme_park",
-        "unitScore": 300000000
-      },
-      {
-        "id": 10,
-        "resourceBoxId": 10,
-        "unit": "theme_park",
-        "unitScore": 350000000
-      },
-      {
-        "id": 11,
-        "resourceBoxId": 11,
-        "unit": "theme_park",
-        "unitScore": 400000000
-      },
-      {
-        "id": 12,
-        "resourceBoxId": 12,
-        "unit": "theme_park",
-        "unitScore": 500000000
-      },
-      {
-        "id": 13,
-        "resourceBoxId": 13,
-        "unit": "theme_park",
-        "unitScore": 600000000
-      },
-      {
-        "id": 14,
-        "resourceBoxId": 14,
-        "unit": "theme_park",
-        "unitScore": 700000000
-      },
-      {
-        "id": 15,
-        "resourceBoxId": 15,
-        "unit": "idol",
-        "unitScore": 250000000
-      },
-      {
-        "id": 16,
-        "resourceBoxId": 16,
-        "unit": "idol",
-        "unitScore": 300000000
-      },
-      {
-        "id": 17,
-        "resourceBoxId": 17,
-        "unit": "idol",
-        "unitScore": 350000000
-      },
-      {
-        "id": 18,
-        "resourceBoxId": 18,
-        "unit": "idol",
-        "unitScore": 400000000
-      },
-      {
-        "id": 19,
-        "resourceBoxId": 19,
-        "unit": "idol",
-        "unitScore": 500000000
-      },
-      {
-        "id": 20,
-        "resourceBoxId": 20,
-        "unit": "idol",
-        "unitScore": 600000000
-      },
-      {
-        "id": 21,
-        "resourceBoxId": 21,
-        "unit": "idol",
-        "unitScore": 700000000
-      },
-      {
-        "id": 22,
-        "resourceBoxId": 22,
-        "unit": "street",
-        "unitScore": 250000000
-      },
-      {
-        "id": 23,
-        "resourceBoxId": 23,
-        "unit": "street",
-        "unitScore": 300000000
-      },
-      {
-        "id": 24,
-        "resourceBoxId": 24,
-        "unit": "street",
-        "unitScore": 350000000
-      },
-      {
-        "id": 25,
-        "resourceBoxId": 25,
-        "unit": "street",
-        "unitScore": 400000000
-      },
-      {
-        "id": 26,
-        "resourceBoxId": 26,
-        "unit": "street",
-        "unitScore": 500000000
-      },
-      {
-        "id": 27,
-        "resourceBoxId": 27,
-        "unit": "street",
-        "unitScore": 600000000
-      },
-      {
-        "id": 28,
-        "resourceBoxId": 28,
-        "unit": "street",
-        "unitScore": 700000000
-      },
-      {
-        "id": 29,
-        "resourceBoxId": 29,
-        "unit": "light_sound",
-        "unitScore": 250000000
-      },
-      {
-        "id": 30,
-        "resourceBoxId": 30,
-        "unit": "light_sound",
-        "unitScore": 300000000
-      },
-      {
-        "id": 31,
-        "resourceBoxId": 31,
-        "unit": "light_sound",
-        "unitScore": 350000000
-      },
-      {
-        "id": 32,
-        "resourceBoxId": 32,
-        "unit": "light_sound",
-        "unitScore": 400000000
-      },
-      {
-        "id": 33,
-        "resourceBoxId": 33,
-        "unit": "light_sound",
-        "unitScore": 500000000
-      },
-      {
-        "id": 34,
-        "resourceBoxId": 34,
-        "unit": "light_sound",
-        "unitScore": 600000000
-      },
-      {
-        "id": 35,
-        "resourceBoxId": 35,
-        "unit": "light_sound",
-        "unitScore": 700000000
-      },
-      {
-        "id": 36,
-        "resourceBoxId": 36,
-        "unit": "school_refusal",
-        "unitScore": 250000000
-      },
-      {
-        "id": 37,
-        "resourceBoxId": 37,
-        "unit": "school_refusal",
-        "unitScore": 300000000
-      },
-      {
-        "id": 38,
-        "resourceBoxId": 38,
-        "unit": "school_refusal",
-        "unitScore": 350000000
-      },
-      {
-        "id": 39,
-        "resourceBoxId": 39,
-        "unit": "school_refusal",
-        "unitScore": 400000000
-      },
-      {
-        "id": 40,
-        "resourceBoxId": 40,
-        "unit": "school_refusal",
-        "unitScore": 500000000
-      },
-      {
-        "id": 41,
-        "resourceBoxId": 41,
-        "unit": "school_refusal",
-        "unitScore": 600000000
-      },
-      {
-        "id": 42,
-        "resourceBoxId": 42,
-        "unit": "school_refusal",
-        "unitScore": 700000000
-      }
-    ]
-  },
-  {
-    "aggregateAt": 1674997199000,
-    "assetbundleName": "event_support_2022",
-    "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
-    "closeAt": 1675429199000,
-    "id": 2,
-    "liveBoostRates": [
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "solo"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "solo"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "solo"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "solo"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "solo"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "solo"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "solo"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "solo"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "solo"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "solo"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "solo"
-      },
-      {
-        "boost": 0,
-        "boostRate": 10,
-        "liveType": "challenge_live"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_private"
-      }
-    ],
-    "liveScoreRankRates": [
-      {
-        "rate": 20,
-        "scoreRank": "S"
-      },
-      {
-        "rate": 18,
-        "scoreRank": "A"
-      },
-      {
-        "rate": 15,
-        "scoreRank": "B"
-      },
-      {
-        "rate": 10,
-        "scoreRank": "C"
-      },
-      {
-        "rate": 1,
-        "scoreRank": "D"
-      }
-    ],
-    "personalScoreRewards": [
-      {
-        "id": 109,
-        "resourceBoxId": 109,
-        "unit": "piapro",
-        "unitScore": 500
-      },
-      {
-        "id": 110,
-        "resourceBoxId": 110,
-        "unit": "piapro",
-        "unitScore": 1000
-      },
-      {
-        "id": 111,
-        "resourceBoxId": 111,
-        "unit": "piapro",
-        "unitScore": 2000
-      },
-      {
-        "id": 112,
-        "resourceBoxId": 112,
-        "unit": "piapro",
-        "unitScore": 3000
-      },
-      {
-        "id": 113,
-        "resourceBoxId": 113,
-        "unit": "piapro",
-        "unitScore": 4000
-      },
-      {
-        "id": 114,
-        "resourceBoxId": 114,
-        "unit": "piapro",
-        "unitScore": 5000
-      },
-      {
-        "id": 115,
-        "resourceBoxId": 115,
-        "unit": "piapro",
-        "unitScore": 7000
-      },
-      {
-        "id": 116,
-        "resourceBoxId": 116,
-        "unit": "piapro",
-        "unitScore": 10000
-      },
-      {
-        "id": 117,
-        "resourceBoxId": 117,
-        "unit": "piapro",
-        "unitScore": 15000
-      },
-      {
-        "id": 118,
-        "resourceBoxId": 118,
-        "unit": "piapro",
-        "unitScore": 20000
-      },
-      {
-        "id": 119,
-        "resourceBoxId": 119,
-        "unit": "piapro",
-        "unitScore": 25000
-      },
-      {
-        "id": 120,
-        "resourceBoxId": 120,
-        "unit": "piapro",
-        "unitScore": 30000
-      },
-      {
-        "id": 121,
-        "resourceBoxId": 121,
-        "unit": "piapro",
-        "unitScore": 40000
-      },
-      {
-        "id": 122,
-        "resourceBoxId": 122,
-        "unit": "piapro",
-        "unitScore": 50000
-      },
-      {
-        "id": 123,
-        "resourceBoxId": 123,
-        "unit": "piapro",
-        "unitScore": 100000
-      },
-      {
-        "id": 124,
-        "resourceBoxId": 124,
-        "unit": "piapro",
-        "unitScore": 200000
-      },
-      {
-        "id": 125,
-        "resourceBoxId": 125,
-        "unit": "piapro",
-        "unitScore": 390000
-      },
-      {
-        "id": 126,
-        "resourceBoxId": 126,
-        "unit": "theme_park",
-        "unitScore": 500
-      },
-      {
-        "id": 127,
-        "resourceBoxId": 127,
-        "unit": "theme_park",
-        "unitScore": 1000
-      },
-      {
-        "id": 128,
-        "resourceBoxId": 128,
-        "unit": "theme_park",
-        "unitScore": 2000
-      },
-      {
-        "id": 129,
-        "resourceBoxId": 129,
-        "unit": "theme_park",
-        "unitScore": 3000
-      },
-      {
-        "id": 130,
-        "resourceBoxId": 130,
-        "unit": "theme_park",
-        "unitScore": 4000
-      },
-      {
-        "id": 131,
-        "resourceBoxId": 131,
-        "unit": "theme_park",
-        "unitScore": 5000
-      },
-      {
-        "id": 132,
-        "resourceBoxId": 132,
-        "unit": "theme_park",
-        "unitScore": 7000
-      },
-      {
-        "id": 133,
-        "resourceBoxId": 133,
-        "unit": "theme_park",
-        "unitScore": 10000
-      },
-      {
-        "id": 134,
-        "resourceBoxId": 134,
-        "unit": "theme_park",
-        "unitScore": 15000
-      },
-      {
-        "id": 135,
-        "resourceBoxId": 135,
-        "unit": "theme_park",
-        "unitScore": 20000
-      },
-      {
-        "id": 136,
-        "resourceBoxId": 136,
-        "unit": "theme_park",
-        "unitScore": 25000
-      },
-      {
-        "id": 137,
-        "resourceBoxId": 137,
-        "unit": "theme_park",
-        "unitScore": 30000
-      },
-      {
-        "id": 138,
-        "resourceBoxId": 138,
-        "unit": "theme_park",
-        "unitScore": 40000
-      },
-      {
-        "id": 139,
-        "resourceBoxId": 139,
-        "unit": "theme_park",
-        "unitScore": 50000
-      },
-      {
-        "id": 140,
-        "resourceBoxId": 140,
-        "unit": "theme_park",
-        "unitScore": 100000
-      },
-      {
-        "id": 141,
-        "resourceBoxId": 141,
-        "unit": "theme_park",
-        "unitScore": 200000
-      },
-      {
-        "id": 142,
-        "resourceBoxId": 142,
-        "unit": "theme_park",
-        "unitScore": 390000
-      },
-      {
-        "id": 143,
-        "resourceBoxId": 143,
-        "unit": "idol",
-        "unitScore": 500
-      },
-      {
-        "id": 144,
-        "resourceBoxId": 144,
-        "unit": "idol",
-        "unitScore": 1000
-      },
-      {
-        "id": 145,
-        "resourceBoxId": 145,
-        "unit": "idol",
-        "unitScore": 2000
-      },
-      {
-        "id": 146,
-        "resourceBoxId": 146,
-        "unit": "idol",
-        "unitScore": 3000
-      },
-      {
-        "id": 147,
-        "resourceBoxId": 147,
-        "unit": "idol",
-        "unitScore": 4000
-      },
-      {
-        "id": 148,
-        "resourceBoxId": 148,
-        "unit": "idol",
-        "unitScore": 5000
-      },
-      {
-        "id": 149,
-        "resourceBoxId": 149,
-        "unit": "idol",
-        "unitScore": 7000
-      },
-      {
-        "id": 150,
-        "resourceBoxId": 150,
-        "unit": "idol",
-        "unitScore": 10000
-      },
-      {
-        "id": 151,
-        "resourceBoxId": 151,
-        "unit": "idol",
-        "unitScore": 15000
-      },
-      {
-        "id": 152,
-        "resourceBoxId": 152,
-        "unit": "idol",
-        "unitScore": 20000
-      },
-      {
-        "id": 153,
-        "resourceBoxId": 153,
-        "unit": "idol",
-        "unitScore": 25000
-      },
-      {
-        "id": 154,
-        "resourceBoxId": 154,
-        "unit": "idol",
-        "unitScore": 30000
-      },
-      {
-        "id": 155,
-        "resourceBoxId": 155,
-        "unit": "idol",
-        "unitScore": 40000
-      },
-      {
-        "id": 156,
-        "resourceBoxId": 156,
-        "unit": "idol",
-        "unitScore": 50000
-      },
-      {
-        "id": 157,
-        "resourceBoxId": 157,
-        "unit": "idol",
-        "unitScore": 100000
-      },
-      {
-        "id": 158,
-        "resourceBoxId": 158,
-        "unit": "idol",
-        "unitScore": 200000
-      },
-      {
-        "id": 159,
-        "resourceBoxId": 159,
-        "unit": "idol",
-        "unitScore": 390000
-      },
-      {
-        "id": 160,
-        "resourceBoxId": 160,
-        "unit": "street",
-        "unitScore": 500
-      },
-      {
-        "id": 161,
-        "resourceBoxId": 161,
-        "unit": "street",
-        "unitScore": 1000
-      },
-      {
-        "id": 162,
-        "resourceBoxId": 162,
-        "unit": "street",
-        "unitScore": 2000
-      },
-      {
-        "id": 163,
-        "resourceBoxId": 163,
-        "unit": "street",
-        "unitScore": 3000
-      },
-      {
-        "id": 164,
-        "resourceBoxId": 164,
-        "unit": "street",
-        "unitScore": 4000
-      },
-      {
-        "id": 165,
-        "resourceBoxId": 165,
-        "unit": "street",
-        "unitScore": 5000
-      },
-      {
-        "id": 166,
-        "resourceBoxId": 166,
-        "unit": "street",
-        "unitScore": 7000
-      },
-      {
-        "id": 167,
-        "resourceBoxId": 167,
-        "unit": "street",
-        "unitScore": 10000
-      },
-      {
-        "id": 168,
-        "resourceBoxId": 168,
-        "unit": "street",
-        "unitScore": 15000
-      },
-      {
-        "id": 169,
-        "resourceBoxId": 169,
-        "unit": "street",
-        "unitScore": 20000
-      },
-      {
-        "id": 170,
-        "resourceBoxId": 170,
-        "unit": "street",
-        "unitScore": 25000
-      },
-      {
-        "id": 171,
-        "resourceBoxId": 171,
-        "unit": "street",
-        "unitScore": 30000
-      },
-      {
-        "id": 172,
-        "resourceBoxId": 172,
-        "unit": "street",
-        "unitScore": 40000
-      },
-      {
-        "id": 173,
-        "resourceBoxId": 173,
-        "unit": "street",
-        "unitScore": 50000
-      },
-      {
-        "id": 174,
-        "resourceBoxId": 174,
-        "unit": "street",
-        "unitScore": 100000
-      },
-      {
-        "id": 175,
-        "resourceBoxId": 175,
-        "unit": "street",
-        "unitScore": 200000
-      },
-      {
-        "id": 176,
-        "resourceBoxId": 176,
-        "unit": "street",
-        "unitScore": 390000
-      },
-      {
-        "id": 177,
-        "resourceBoxId": 177,
-        "unit": "light_sound",
-        "unitScore": 500
-      },
-      {
-        "id": 178,
-        "resourceBoxId": 178,
-        "unit": "light_sound",
-        "unitScore": 1000
-      },
-      {
-        "id": 179,
-        "resourceBoxId": 179,
-        "unit": "light_sound",
-        "unitScore": 2000
-      },
-      {
-        "id": 180,
-        "resourceBoxId": 180,
-        "unit": "light_sound",
-        "unitScore": 3000
-      },
-      {
-        "id": 181,
-        "resourceBoxId": 181,
-        "unit": "light_sound",
-        "unitScore": 4000
-      },
-      {
-        "id": 182,
-        "resourceBoxId": 182,
-        "unit": "light_sound",
-        "unitScore": 5000
-      },
-      {
-        "id": 183,
-        "resourceBoxId": 183,
-        "unit": "light_sound",
-        "unitScore": 7000
-      },
-      {
-        "id": 184,
-        "resourceBoxId": 184,
-        "unit": "light_sound",
-        "unitScore": 10000
-      },
-      {
-        "id": 185,
-        "resourceBoxId": 185,
-        "unit": "light_sound",
-        "unitScore": 15000
-      },
-      {
-        "id": 186,
-        "resourceBoxId": 186,
-        "unit": "light_sound",
-        "unitScore": 20000
-      },
-      {
-        "id": 187,
-        "resourceBoxId": 187,
-        "unit": "light_sound",
-        "unitScore": 25000
-      },
-      {
-        "id": 188,
-        "resourceBoxId": 188,
-        "unit": "light_sound",
-        "unitScore": 30000
-      },
-      {
-        "id": 189,
-        "resourceBoxId": 189,
-        "unit": "light_sound",
-        "unitScore": 40000
-      },
-      {
-        "id": 190,
-        "resourceBoxId": 190,
-        "unit": "light_sound",
-        "unitScore": 50000
-      },
-      {
-        "id": 191,
-        "resourceBoxId": 191,
-        "unit": "light_sound",
-        "unitScore": 100000
-      },
-      {
-        "id": 192,
-        "resourceBoxId": 192,
-        "unit": "light_sound",
-        "unitScore": 200000
-      },
-      {
-        "id": 193,
-        "resourceBoxId": 193,
-        "unit": "light_sound",
-        "unitScore": 390000
-      },
-      {
-        "id": 194,
-        "resourceBoxId": 194,
-        "unit": "school_refusal",
-        "unitScore": 500
-      },
-      {
-        "id": 195,
-        "resourceBoxId": 195,
-        "unit": "school_refusal",
-        "unitScore": 1000
-      },
-      {
-        "id": 196,
-        "resourceBoxId": 196,
-        "unit": "school_refusal",
-        "unitScore": 2000
-      },
-      {
-        "id": 197,
-        "resourceBoxId": 197,
-        "unit": "school_refusal",
-        "unitScore": 3000
-      },
-      {
-        "id": 198,
-        "resourceBoxId": 198,
-        "unit": "school_refusal",
-        "unitScore": 4000
-      },
-      {
-        "id": 199,
-        "resourceBoxId": 199,
-        "unit": "school_refusal",
-        "unitScore": 5000
-      },
-      {
-        "id": 200,
-        "resourceBoxId": 200,
-        "unit": "school_refusal",
-        "unitScore": 7000
-      },
-      {
-        "id": 201,
-        "resourceBoxId": 201,
-        "unit": "school_refusal",
-        "unitScore": 10000
-      },
-      {
-        "id": 202,
-        "resourceBoxId": 202,
-        "unit": "school_refusal",
-        "unitScore": 15000
-      },
-      {
-        "id": 203,
-        "resourceBoxId": 203,
-        "unit": "school_refusal",
-        "unitScore": 20000
-      },
-      {
-        "id": 204,
-        "resourceBoxId": 204,
-        "unit": "school_refusal",
-        "unitScore": 25000
-      },
-      {
-        "id": 205,
-        "resourceBoxId": 205,
-        "unit": "school_refusal",
-        "unitScore": 30000
-      },
-      {
-        "id": 206,
-        "resourceBoxId": 206,
-        "unit": "school_refusal",
-        "unitScore": 40000
-      },
-      {
-        "id": 207,
-        "resourceBoxId": 207,
-        "unit": "school_refusal",
-        "unitScore": 50000
-      },
-      {
-        "id": 208,
-        "resourceBoxId": 208,
-        "unit": "school_refusal",
-        "unitScore": 100000
-      },
-      {
-        "id": 209,
-        "resourceBoxId": 209,
-        "unit": "school_refusal",
-        "unitScore": 200000
-      },
-      {
-        "id": 210,
-        "resourceBoxId": 210,
-        "unit": "school_refusal",
-        "unitScore": 390000
-      }
-    ],
-    "startAt": 1674198000000,
-    "totalScoreRewards": [
-      {
-        "id": 43,
-        "resourceBoxId": 43,
-        "unit": "piapro",
-        "unitScore": 100000000
-      },
-      {
-        "id": 44,
-        "resourceBoxId": 1,
-        "unit": "piapro",
-        "unitScore": 200000000
-      },
-      {
-        "id": 45,
-        "resourceBoxId": 2,
-        "unit": "piapro",
-        "unitScore": 300000000
-      },
-      {
-        "id": 46,
-        "resourceBoxId": 4,
-        "unit": "piapro",
-        "unitScore": 400000000
-      },
-      {
-        "id": 47,
-        "resourceBoxId": 5,
-        "unit": "piapro",
-        "unitScore": 500000000
-      },
-      {
-        "id": 48,
-        "resourceBoxId": 6,
-        "unit": "piapro",
-        "unitScore": 600000000
-      },
-      {
-        "id": 49,
-        "resourceBoxId": 7,
-        "unit": "piapro",
-        "unitScore": 700000000
-      },
-      {
-        "id": 50,
-        "resourceBoxId": 43,
-        "unit": "theme_park",
-        "unitScore": 100000000
-      },
-      {
-        "id": 51,
-        "resourceBoxId": 1,
-        "unit": "theme_park",
-        "unitScore": 200000000
-      },
-      {
-        "id": 52,
-        "resourceBoxId": 2,
-        "unit": "theme_park",
-        "unitScore": 300000000
-      },
-      {
-        "id": 53,
-        "resourceBoxId": 11,
-        "unit": "theme_park",
-        "unitScore": 400000000
-      },
-      {
-        "id": 54,
-        "resourceBoxId": 12,
-        "unit": "theme_park",
-        "unitScore": 500000000
-      },
-      {
-        "id": 55,
-        "resourceBoxId": 13,
-        "unit": "theme_park",
-        "unitScore": 600000000
-      },
-      {
-        "id": 56,
-        "resourceBoxId": 14,
-        "unit": "theme_park",
-        "unitScore": 700000000
-      },
-      {
-        "id": 57,
-        "resourceBoxId": 43,
-        "unit": "idol",
-        "unitScore": 100000000
-      },
-      {
-        "id": 58,
-        "resourceBoxId": 1,
-        "unit": "idol",
-        "unitScore": 200000000
-      },
-      {
-        "id": 59,
-        "resourceBoxId": 2,
-        "unit": "idol",
-        "unitScore": 300000000
-      },
-      {
-        "id": 60,
-        "resourceBoxId": 18,
-        "unit": "idol",
-        "unitScore": 400000000
-      },
-      {
-        "id": 61,
-        "resourceBoxId": 19,
-        "unit": "idol",
-        "unitScore": 500000000
-      },
-      {
-        "id": 62,
-        "resourceBoxId": 20,
-        "unit": "idol",
-        "unitScore": 600000000
-      },
-      {
-        "id": 63,
-        "resourceBoxId": 21,
-        "unit": "idol",
-        "unitScore": 700000000
-      },
-      {
-        "id": 64,
-        "resourceBoxId": 43,
-        "unit": "street",
-        "unitScore": 100000000
-      },
-      {
-        "id": 65,
-        "resourceBoxId": 1,
-        "unit": "street",
-        "unitScore": 200000000
-      },
-      {
-        "id": 66,
-        "resourceBoxId": 2,
-        "unit": "street",
-        "unitScore": 300000000
-      },
-      {
-        "id": 67,
-        "resourceBoxId": 25,
-        "unit": "street",
-        "unitScore": 400000000
-      },
-      {
-        "id": 68,
-        "resourceBoxId": 26,
-        "unit": "street",
-        "unitScore": 500000000
-      },
-      {
-        "id": 69,
-        "resourceBoxId": 27,
-        "unit": "street",
-        "unitScore": 600000000
-      },
-      {
-        "id": 70,
-        "resourceBoxId": 28,
-        "unit": "street",
-        "unitScore": 700000000
-      },
-      {
-        "id": 71,
-        "resourceBoxId": 43,
-        "unit": "light_sound",
-        "unitScore": 100000000
-      },
-      {
-        "id": 72,
-        "resourceBoxId": 1,
-        "unit": "light_sound",
-        "unitScore": 200000000
-      },
-      {
-        "id": 73,
-        "resourceBoxId": 2,
-        "unit": "light_sound",
-        "unitScore": 300000000
-      },
-      {
-        "id": 74,
-        "resourceBoxId": 32,
-        "unit": "light_sound",
-        "unitScore": 400000000
-      },
-      {
-        "id": 75,
-        "resourceBoxId": 33,
-        "unit": "light_sound",
-        "unitScore": 500000000
-      },
-      {
-        "id": 76,
-        "resourceBoxId": 34,
-        "unit": "light_sound",
-        "unitScore": 600000000
-      },
-      {
-        "id": 77,
-        "resourceBoxId": 35,
-        "unit": "light_sound",
-        "unitScore": 700000000
-      },
-      {
-        "id": 78,
-        "resourceBoxId": 43,
-        "unit": "school_refusal",
-        "unitScore": 100000000
-      },
-      {
-        "id": 79,
-        "resourceBoxId": 1,
-        "unit": "school_refusal",
-        "unitScore": 200000000
-      },
-      {
-        "id": 80,
-        "resourceBoxId": 2,
-        "unit": "school_refusal",
-        "unitScore": 300000000
-      },
-      {
-        "id": 81,
-        "resourceBoxId": 39,
-        "unit": "school_refusal",
-        "unitScore": 400000000
-      },
-      {
-        "id": 82,
-        "resourceBoxId": 40,
-        "unit": "school_refusal",
-        "unitScore": 500000000
-      },
-      {
-        "id": 83,
-        "resourceBoxId": 41,
-        "unit": "school_refusal",
-        "unitScore": 600000000
-      },
-      {
-        "id": 84,
-        "resourceBoxId": 42,
-        "unit": "school_refusal",
-        "unitScore": 700000000
-      }
-    ]
-  },
-  {
-    "aggregateAt": 1696424399000,
-    "assetbundleName": "event_support_2022",
-    "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
-    "closeAt": 1696856399000,
-    "id": 3,
-    "liveBoostRates": [
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "solo"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "solo"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "solo"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "solo"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "solo"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "solo"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "solo"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "solo"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "solo"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "solo"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "solo"
-      },
-      {
-        "boost": 0,
-        "boostRate": 10,
-        "liveType": "challenge_live"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "rank_match"
-      }
-    ],
-    "liveScoreRankRates": [
-      {
-        "rate": 20,
-        "scoreRank": "S"
-      },
-      {
-        "rate": 18,
-        "scoreRank": "A"
-      },
-      {
-        "rate": 15,
-        "scoreRank": "B"
-      },
-      {
-        "rate": 10,
-        "scoreRank": "C"
-      },
-      {
-        "rate": 1,
-        "scoreRank": "D"
-      }
-    ],
-    "personalScoreRewards": [
-      {
-        "id": 217,
-        "resourceBoxId": 217,
-        "unit": "piapro",
-        "unitScore": 500
-      },
-      {
-        "id": 218,
-        "resourceBoxId": 218,
-        "unit": "piapro",
-        "unitScore": 1000
-      },
-      {
-        "id": 219,
-        "resourceBoxId": 219,
-        "unit": "piapro",
-        "unitScore": 2000
-      },
-      {
-        "id": 220,
-        "resourceBoxId": 220,
-        "unit": "piapro",
-        "unitScore": 3000
-      },
-      {
-        "id": 221,
-        "resourceBoxId": 221,
-        "unit": "piapro",
-        "unitScore": 4000
-      },
-      {
-        "id": 222,
-        "resourceBoxId": 222,
-        "unit": "piapro",
-        "unitScore": 5000
-      },
-      {
-        "id": 223,
-        "resourceBoxId": 223,
-        "unit": "piapro",
-        "unitScore": 7000
-      },
-      {
-        "id": 224,
-        "resourceBoxId": 224,
-        "unit": "piapro",
-        "unitScore": 10000
-      },
-      {
-        "id": 225,
-        "resourceBoxId": 225,
-        "unit": "piapro",
-        "unitScore": 15000
-      },
-      {
-        "id": 226,
-        "resourceBoxId": 226,
-        "unit": "piapro",
-        "unitScore": 20000
-      },
-      {
-        "id": 227,
-        "resourceBoxId": 227,
-        "unit": "piapro",
-        "unitScore": 25000
-      },
-      {
-        "id": 228,
-        "resourceBoxId": 228,
-        "unit": "piapro",
-        "unitScore": 30000
-      },
-      {
-        "id": 229,
-        "resourceBoxId": 229,
-        "unit": "piapro",
-        "unitScore": 40000
-      },
-      {
-        "id": 230,
-        "resourceBoxId": 230,
-        "unit": "piapro",
-        "unitScore": 50000
-      },
-      {
-        "id": 231,
-        "resourceBoxId": 231,
-        "unit": "piapro",
-        "unitScore": 100000
-      },
-      {
-        "id": 232,
-        "resourceBoxId": 232,
-        "unit": "piapro",
-        "unitScore": 200000
-      },
-      {
-        "id": 233,
-        "resourceBoxId": 233,
-        "unit": "piapro",
-        "unitScore": 390000
-      },
-      {
-        "id": 234,
-        "resourceBoxId": 234,
-        "unit": "theme_park",
-        "unitScore": 500
-      },
-      {
-        "id": 235,
-        "resourceBoxId": 235,
-        "unit": "theme_park",
-        "unitScore": 1000
-      },
-      {
-        "id": 236,
-        "resourceBoxId": 236,
-        "unit": "theme_park",
-        "unitScore": 2000
-      },
-      {
-        "id": 237,
-        "resourceBoxId": 237,
-        "unit": "theme_park",
-        "unitScore": 3000
-      },
-      {
-        "id": 238,
-        "resourceBoxId": 238,
-        "unit": "theme_park",
-        "unitScore": 4000
-      },
-      {
-        "id": 239,
-        "resourceBoxId": 239,
-        "unit": "theme_park",
-        "unitScore": 5000
-      },
-      {
-        "id": 240,
-        "resourceBoxId": 240,
-        "unit": "theme_park",
-        "unitScore": 7000
-      },
-      {
-        "id": 241,
-        "resourceBoxId": 241,
-        "unit": "theme_park",
-        "unitScore": 10000
-      },
-      {
-        "id": 242,
-        "resourceBoxId": 242,
-        "unit": "theme_park",
-        "unitScore": 15000
-      },
-      {
-        "id": 243,
-        "resourceBoxId": 243,
-        "unit": "theme_park",
-        "unitScore": 20000
-      },
-      {
-        "id": 244,
-        "resourceBoxId": 244,
-        "unit": "theme_park",
-        "unitScore": 25000
-      },
-      {
-        "id": 245,
-        "resourceBoxId": 245,
-        "unit": "theme_park",
-        "unitScore": 30000
-      },
-      {
-        "id": 246,
-        "resourceBoxId": 246,
-        "unit": "theme_park",
-        "unitScore": 40000
-      },
-      {
-        "id": 247,
-        "resourceBoxId": 247,
-        "unit": "theme_park",
-        "unitScore": 50000
-      },
-      {
-        "id": 248,
-        "resourceBoxId": 248,
-        "unit": "theme_park",
-        "unitScore": 100000
-      },
-      {
-        "id": 249,
-        "resourceBoxId": 249,
-        "unit": "theme_park",
-        "unitScore": 200000
-      },
-      {
-        "id": 250,
-        "resourceBoxId": 250,
-        "unit": "theme_park",
-        "unitScore": 390000
-      },
-      {
-        "id": 251,
-        "resourceBoxId": 251,
-        "unit": "idol",
-        "unitScore": 500
-      },
-      {
-        "id": 252,
-        "resourceBoxId": 252,
-        "unit": "idol",
-        "unitScore": 1000
-      },
-      {
-        "id": 253,
-        "resourceBoxId": 253,
-        "unit": "idol",
-        "unitScore": 2000
-      },
-      {
-        "id": 254,
-        "resourceBoxId": 254,
-        "unit": "idol",
-        "unitScore": 3000
-      },
-      {
-        "id": 255,
-        "resourceBoxId": 255,
-        "unit": "idol",
-        "unitScore": 4000
-      },
-      {
-        "id": 256,
-        "resourceBoxId": 256,
-        "unit": "idol",
-        "unitScore": 5000
-      },
-      {
-        "id": 257,
-        "resourceBoxId": 257,
-        "unit": "idol",
-        "unitScore": 7000
-      },
-      {
-        "id": 258,
-        "resourceBoxId": 258,
-        "unit": "idol",
-        "unitScore": 10000
-      },
-      {
-        "id": 259,
-        "resourceBoxId": 259,
-        "unit": "idol",
-        "unitScore": 15000
-      },
-      {
-        "id": 260,
-        "resourceBoxId": 260,
-        "unit": "idol",
-        "unitScore": 20000
-      },
-      {
-        "id": 261,
-        "resourceBoxId": 261,
-        "unit": "idol",
-        "unitScore": 25000
-      },
-      {
-        "id": 262,
-        "resourceBoxId": 262,
-        "unit": "idol",
-        "unitScore": 30000
-      },
-      {
-        "id": 263,
-        "resourceBoxId": 263,
-        "unit": "idol",
-        "unitScore": 40000
-      },
-      {
-        "id": 264,
-        "resourceBoxId": 264,
-        "unit": "idol",
-        "unitScore": 50000
-      },
-      {
-        "id": 265,
-        "resourceBoxId": 265,
-        "unit": "idol",
-        "unitScore": 100000
-      },
-      {
-        "id": 266,
-        "resourceBoxId": 266,
-        "unit": "idol",
-        "unitScore": 200000
-      },
-      {
-        "id": 267,
-        "resourceBoxId": 267,
-        "unit": "idol",
-        "unitScore": 390000
-      },
-      {
-        "id": 268,
-        "resourceBoxId": 268,
-        "unit": "street",
-        "unitScore": 500
-      },
-      {
-        "id": 269,
-        "resourceBoxId": 269,
-        "unit": "street",
-        "unitScore": 1000
-      },
-      {
-        "id": 270,
-        "resourceBoxId": 270,
-        "unit": "street",
-        "unitScore": 2000
-      },
-      {
-        "id": 271,
-        "resourceBoxId": 271,
-        "unit": "street",
-        "unitScore": 3000
-      },
-      {
-        "id": 272,
-        "resourceBoxId": 272,
-        "unit": "street",
-        "unitScore": 4000
-      },
-      {
-        "id": 273,
-        "resourceBoxId": 273,
-        "unit": "street",
-        "unitScore": 5000
-      },
-      {
-        "id": 274,
-        "resourceBoxId": 274,
-        "unit": "street",
-        "unitScore": 7000
-      },
-      {
-        "id": 275,
-        "resourceBoxId": 275,
-        "unit": "street",
-        "unitScore": 10000
-      },
-      {
-        "id": 276,
-        "resourceBoxId": 276,
-        "unit": "street",
-        "unitScore": 15000
-      },
-      {
-        "id": 277,
-        "resourceBoxId": 277,
-        "unit": "street",
-        "unitScore": 20000
-      },
-      {
-        "id": 278,
-        "resourceBoxId": 278,
-        "unit": "street",
-        "unitScore": 25000
-      },
-      {
-        "id": 279,
-        "resourceBoxId": 279,
-        "unit": "street",
-        "unitScore": 30000
-      },
-      {
-        "id": 280,
-        "resourceBoxId": 280,
-        "unit": "street",
-        "unitScore": 40000
-      },
-      {
-        "id": 281,
-        "resourceBoxId": 281,
-        "unit": "street",
-        "unitScore": 50000
-      },
-      {
-        "id": 282,
-        "resourceBoxId": 282,
-        "unit": "street",
-        "unitScore": 100000
-      },
-      {
-        "id": 283,
-        "resourceBoxId": 283,
-        "unit": "street",
-        "unitScore": 200000
-      },
-      {
-        "id": 284,
-        "resourceBoxId": 284,
-        "unit": "street",
-        "unitScore": 390000
-      },
-      {
-        "id": 285,
-        "resourceBoxId": 285,
-        "unit": "light_sound",
-        "unitScore": 500
-      },
-      {
-        "id": 286,
-        "resourceBoxId": 286,
-        "unit": "light_sound",
-        "unitScore": 1000
-      },
-      {
-        "id": 287,
-        "resourceBoxId": 287,
-        "unit": "light_sound",
-        "unitScore": 2000
-      },
-      {
-        "id": 288,
-        "resourceBoxId": 288,
-        "unit": "light_sound",
-        "unitScore": 3000
-      },
-      {
-        "id": 289,
-        "resourceBoxId": 289,
-        "unit": "light_sound",
-        "unitScore": 4000
-      },
-      {
-        "id": 290,
-        "resourceBoxId": 290,
-        "unit": "light_sound",
-        "unitScore": 5000
-      },
-      {
-        "id": 291,
-        "resourceBoxId": 291,
-        "unit": "light_sound",
-        "unitScore": 7000
-      },
-      {
-        "id": 292,
-        "resourceBoxId": 292,
-        "unit": "light_sound",
-        "unitScore": 10000
-      },
-      {
-        "id": 293,
-        "resourceBoxId": 293,
-        "unit": "light_sound",
-        "unitScore": 15000
-      },
-      {
-        "id": 294,
-        "resourceBoxId": 294,
-        "unit": "light_sound",
-        "unitScore": 20000
-      },
-      {
-        "id": 295,
-        "resourceBoxId": 295,
-        "unit": "light_sound",
-        "unitScore": 25000
-      },
-      {
-        "id": 296,
-        "resourceBoxId": 296,
-        "unit": "light_sound",
-        "unitScore": 30000
-      },
-      {
-        "id": 297,
-        "resourceBoxId": 297,
-        "unit": "light_sound",
-        "unitScore": 40000
-      },
-      {
-        "id": 298,
-        "resourceBoxId": 298,
-        "unit": "light_sound",
-        "unitScore": 50000
-      },
-      {
-        "id": 299,
-        "resourceBoxId": 299,
-        "unit": "light_sound",
-        "unitScore": 100000
-      },
-      {
-        "id": 300,
-        "resourceBoxId": 300,
-        "unit": "light_sound",
-        "unitScore": 200000
-      },
-      {
-        "id": 301,
-        "resourceBoxId": 301,
-        "unit": "light_sound",
-        "unitScore": 390000
-      },
-      {
-        "id": 302,
-        "resourceBoxId": 302,
-        "unit": "school_refusal",
-        "unitScore": 500
-      },
-      {
-        "id": 303,
-        "resourceBoxId": 303,
-        "unit": "school_refusal",
-        "unitScore": 1000
-      },
-      {
-        "id": 304,
-        "resourceBoxId": 304,
-        "unit": "school_refusal",
-        "unitScore": 2000
-      },
-      {
-        "id": 305,
-        "resourceBoxId": 305,
-        "unit": "school_refusal",
-        "unitScore": 3000
-      },
-      {
-        "id": 306,
-        "resourceBoxId": 306,
-        "unit": "school_refusal",
-        "unitScore": 4000
-      },
-      {
-        "id": 307,
-        "resourceBoxId": 307,
-        "unit": "school_refusal",
-        "unitScore": 5000
-      },
-      {
-        "id": 308,
-        "resourceBoxId": 308,
-        "unit": "school_refusal",
-        "unitScore": 7000
-      },
-      {
-        "id": 309,
-        "resourceBoxId": 309,
-        "unit": "school_refusal",
-        "unitScore": 10000
-      },
-      {
-        "id": 310,
-        "resourceBoxId": 310,
-        "unit": "school_refusal",
-        "unitScore": 15000
-      },
-      {
-        "id": 311,
-        "resourceBoxId": 311,
-        "unit": "school_refusal",
-        "unitScore": 20000
-      },
-      {
-        "id": 312,
-        "resourceBoxId": 312,
-        "unit": "school_refusal",
-        "unitScore": 25000
-      },
-      {
-        "id": 313,
-        "resourceBoxId": 313,
-        "unit": "school_refusal",
-        "unitScore": 30000
-      },
-      {
-        "id": 314,
-        "resourceBoxId": 314,
-        "unit": "school_refusal",
-        "unitScore": 40000
-      },
-      {
-        "id": 315,
-        "resourceBoxId": 315,
-        "unit": "school_refusal",
-        "unitScore": 50000
-      },
-      {
-        "id": 316,
-        "resourceBoxId": 316,
-        "unit": "school_refusal",
-        "unitScore": 100000
-      },
-      {
-        "id": 317,
-        "resourceBoxId": 317,
-        "unit": "school_refusal",
-        "unitScore": 200000
-      },
-      {
-        "id": 318,
-        "resourceBoxId": 318,
-        "unit": "school_refusal",
-        "unitScore": 390000
-      }
-    ],
-    "startAt": 1695884400000,
-    "totalScoreRewards": [
-      {
-        "id": 85,
-        "resourceBoxId": 29,
-        "unit": "piapro",
-        "unitScore": 100000000
-      },
-      {
-        "id": 86,
-        "resourceBoxId": 44,
-        "unit": "piapro",
-        "unitScore": 200000000
-      },
-      {
-        "id": 87,
-        "resourceBoxId": 3,
-        "unit": "piapro",
-        "unitScore": 300000000
-      },
-      {
-        "id": 88,
-        "resourceBoxId": 4,
-        "unit": "piapro",
-        "unitScore": 400000000
-      },
-      {
-        "id": 89,
-        "resourceBoxId": 5,
-        "unit": "piapro",
-        "unitScore": 500000000
-      },
-      {
-        "id": 90,
-        "resourceBoxId": 6,
-        "unit": "piapro",
-        "unitScore": 600000000
-      },
-      {
-        "id": 91,
-        "resourceBoxId": 45,
-        "unit": "piapro",
-        "unitScore": 700000000
-      },
-      {
-        "id": 92,
-        "resourceBoxId": 29,
-        "unit": "theme_park",
-        "unitScore": 100000000
-      },
-      {
-        "id": 93,
-        "resourceBoxId": 44,
-        "unit": "theme_park",
-        "unitScore": 200000000
-      },
-      {
-        "id": 94,
-        "resourceBoxId": 3,
-        "unit": "theme_park",
-        "unitScore": 300000000
-      },
-      {
-        "id": 95,
-        "resourceBoxId": 4,
-        "unit": "theme_park",
-        "unitScore": 400000000
-      },
-      {
-        "id": 96,
-        "resourceBoxId": 5,
-        "unit": "theme_park",
-        "unitScore": 500000000
-      },
-      {
-        "id": 97,
-        "resourceBoxId": 6,
-        "unit": "theme_park",
-        "unitScore": 600000000
-      },
-      {
-        "id": 98,
-        "resourceBoxId": 45,
-        "unit": "theme_park",
-        "unitScore": 700000000
-      },
-      {
-        "id": 99,
-        "resourceBoxId": 29,
-        "unit": "idol",
-        "unitScore": 100000000
-      },
-      {
-        "id": 100,
-        "resourceBoxId": 44,
-        "unit": "idol",
-        "unitScore": 200000000
-      },
-      {
-        "id": 101,
-        "resourceBoxId": 3,
-        "unit": "idol",
-        "unitScore": 300000000
-      },
-      {
-        "id": 102,
-        "resourceBoxId": 4,
-        "unit": "idol",
-        "unitScore": 400000000
-      },
-      {
-        "id": 103,
-        "resourceBoxId": 5,
-        "unit": "idol",
-        "unitScore": 500000000
-      },
-      {
-        "id": 104,
-        "resourceBoxId": 6,
-        "unit": "idol",
-        "unitScore": 600000000
-      },
-      {
-        "id": 105,
-        "resourceBoxId": 45,
-        "unit": "idol",
-        "unitScore": 700000000
-      },
-      {
-        "id": 106,
-        "resourceBoxId": 29,
-        "unit": "street",
-        "unitScore": 100000000
-      },
-      {
-        "id": 107,
-        "resourceBoxId": 44,
-        "unit": "street",
-        "unitScore": 200000000
-      },
-      {
-        "id": 108,
-        "resourceBoxId": 3,
-        "unit": "street",
-        "unitScore": 300000000
-      },
-      {
-        "id": 109,
-        "resourceBoxId": 4,
-        "unit": "street",
-        "unitScore": 400000000
-      },
-      {
-        "id": 110,
-        "resourceBoxId": 5,
-        "unit": "street",
-        "unitScore": 500000000
-      },
-      {
-        "id": 111,
-        "resourceBoxId": 6,
-        "unit": "street",
-        "unitScore": 600000000
-      },
-      {
-        "id": 112,
-        "resourceBoxId": 45,
-        "unit": "street",
-        "unitScore": 700000000
-      },
-      {
-        "id": 113,
-        "resourceBoxId": 29,
-        "unit": "light_sound",
-        "unitScore": 100000000
-      },
-      {
-        "id": 114,
-        "resourceBoxId": 44,
-        "unit": "light_sound",
-        "unitScore": 200000000
-      },
-      {
-        "id": 115,
-        "resourceBoxId": 3,
-        "unit": "light_sound",
-        "unitScore": 300000000
-      },
-      {
-        "id": 116,
-        "resourceBoxId": 4,
-        "unit": "light_sound",
-        "unitScore": 400000000
-      },
-      {
-        "id": 117,
-        "resourceBoxId": 5,
-        "unit": "light_sound",
-        "unitScore": 500000000
-      },
-      {
-        "id": 118,
-        "resourceBoxId": 6,
-        "unit": "light_sound",
-        "unitScore": 600000000
-      },
-      {
-        "id": 119,
-        "resourceBoxId": 45,
-        "unit": "light_sound",
-        "unitScore": 700000000
-      },
-      {
-        "id": 120,
-        "resourceBoxId": 29,
-        "unit": "school_refusal",
-        "unitScore": 100000000
-      },
-      {
-        "id": 121,
-        "resourceBoxId": 44,
-        "unit": "school_refusal",
-        "unitScore": 200000000
-      },
-      {
-        "id": 122,
-        "resourceBoxId": 3,
-        "unit": "school_refusal",
-        "unitScore": 300000000
-      },
-      {
-        "id": 123,
-        "resourceBoxId": 4,
-        "unit": "school_refusal",
-        "unitScore": 400000000
-      },
-      {
-        "id": 124,
-        "resourceBoxId": 5,
-        "unit": "school_refusal",
-        "unitScore": 500000000
-      },
-      {
-        "id": 125,
-        "resourceBoxId": 6,
-        "unit": "school_refusal",
-        "unitScore": 600000000
-      },
-      {
-        "id": 126,
-        "resourceBoxId": 45,
-        "unit": "school_refusal",
-        "unitScore": 700000000
-      }
-    ]
-  },
-  {
-    "aggregateAt": 1708261199000,
-    "assetbundleName": "event_support_2022",
-    "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
-    "closeAt": 1708693199000,
-    "id": 4,
-    "liveBoostRates": [
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "solo"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "solo"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "solo"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "solo"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "solo"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "solo"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "solo"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "solo"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "solo"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "solo"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "solo"
-      },
-      {
-        "boost": 0,
-        "boostRate": 10,
-        "liveType": "challenge_live"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 4,
-        "boostRate": 19,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 5,
-        "boostRate": 23,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 6,
-        "boostRate": 26,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "rank_match"
-      }
-    ],
-    "liveScoreRankRates": [
-      {
-        "rate": 20,
-        "scoreRank": "S"
-      },
-      {
-        "rate": 18,
-        "scoreRank": "A"
-      },
-      {
-        "rate": 15,
-        "scoreRank": "B"
-      },
-      {
-        "rate": 10,
-        "scoreRank": "C"
-      },
-      {
-        "rate": 1,
-        "scoreRank": "D"
-      }
-    ],
-    "personalScoreRewards": [
-      {
-        "id": 325,
-        "resourceBoxId": 325,
-        "unit": "piapro",
-        "unitScore": 500
-      },
-      {
-        "id": 326,
-        "resourceBoxId": 326,
-        "unit": "piapro",
-        "unitScore": 1000
-      },
-      {
-        "id": 327,
-        "resourceBoxId": 327,
-        "unit": "piapro",
-        "unitScore": 2000
-      },
-      {
-        "id": 328,
-        "resourceBoxId": 328,
-        "unit": "piapro",
-        "unitScore": 3000
-      },
-      {
-        "id": 329,
-        "resourceBoxId": 329,
-        "unit": "piapro",
-        "unitScore": 4000
-      },
-      {
-        "id": 330,
-        "resourceBoxId": 330,
-        "unit": "piapro",
-        "unitScore": 5000
-      },
-      {
-        "id": 331,
-        "resourceBoxId": 331,
-        "unit": "piapro",
-        "unitScore": 7000
-      },
-      {
-        "id": 332,
-        "resourceBoxId": 332,
-        "unit": "piapro",
-        "unitScore": 10000
-      },
-      {
-        "id": 333,
-        "resourceBoxId": 333,
-        "unit": "piapro",
-        "unitScore": 15000
-      },
-      {
-        "id": 334,
-        "resourceBoxId": 334,
-        "unit": "piapro",
-        "unitScore": 20000
-      },
-      {
-        "id": 335,
-        "resourceBoxId": 335,
-        "unit": "piapro",
-        "unitScore": 25000
-      },
-      {
-        "id": 336,
-        "resourceBoxId": 336,
-        "unit": "piapro",
-        "unitScore": 30000
-      },
-      {
-        "id": 337,
-        "resourceBoxId": 337,
-        "unit": "piapro",
-        "unitScore": 40000
-      },
-      {
-        "id": 338,
-        "resourceBoxId": 338,
-        "unit": "piapro",
-        "unitScore": 50000
-      },
-      {
-        "id": 339,
-        "resourceBoxId": 339,
-        "unit": "piapro",
-        "unitScore": 100000
-      },
-      {
-        "id": 340,
-        "resourceBoxId": 340,
-        "unit": "piapro",
-        "unitScore": 200000
-      },
-      {
-        "id": 341,
-        "resourceBoxId": 341,
-        "unit": "piapro",
-        "unitScore": 390000
-      },
-      {
-        "id": 342,
-        "resourceBoxId": 342,
-        "unit": "theme_park",
-        "unitScore": 500
-      },
-      {
-        "id": 343,
-        "resourceBoxId": 343,
-        "unit": "theme_park",
-        "unitScore": 1000
-      },
-      {
-        "id": 344,
-        "resourceBoxId": 344,
-        "unit": "theme_park",
-        "unitScore": 2000
-      },
-      {
-        "id": 345,
-        "resourceBoxId": 345,
-        "unit": "theme_park",
-        "unitScore": 3000
-      },
-      {
-        "id": 346,
-        "resourceBoxId": 346,
-        "unit": "theme_park",
-        "unitScore": 4000
-      },
-      {
-        "id": 347,
-        "resourceBoxId": 347,
-        "unit": "theme_park",
-        "unitScore": 5000
-      },
-      {
-        "id": 348,
-        "resourceBoxId": 348,
-        "unit": "theme_park",
-        "unitScore": 7000
-      },
-      {
-        "id": 349,
-        "resourceBoxId": 349,
-        "unit": "theme_park",
-        "unitScore": 10000
-      },
-      {
-        "id": 350,
-        "resourceBoxId": 350,
-        "unit": "theme_park",
-        "unitScore": 15000
-      },
-      {
-        "id": 351,
-        "resourceBoxId": 351,
-        "unit": "theme_park",
-        "unitScore": 20000
-      },
-      {
-        "id": 352,
-        "resourceBoxId": 352,
-        "unit": "theme_park",
-        "unitScore": 25000
-      },
-      {
-        "id": 353,
-        "resourceBoxId": 353,
-        "unit": "theme_park",
-        "unitScore": 30000
-      },
-      {
-        "id": 354,
-        "resourceBoxId": 354,
-        "unit": "theme_park",
-        "unitScore": 40000
-      },
-      {
-        "id": 355,
-        "resourceBoxId": 355,
-        "unit": "theme_park",
-        "unitScore": 50000
-      },
-      {
-        "id": 356,
-        "resourceBoxId": 356,
-        "unit": "theme_park",
-        "unitScore": 100000
-      },
-      {
-        "id": 357,
-        "resourceBoxId": 357,
-        "unit": "theme_park",
-        "unitScore": 200000
-      },
-      {
-        "id": 358,
-        "resourceBoxId": 358,
-        "unit": "theme_park",
-        "unitScore": 390000
-      },
-      {
-        "id": 359,
-        "resourceBoxId": 359,
-        "unit": "idol",
-        "unitScore": 500
-      },
-      {
-        "id": 360,
-        "resourceBoxId": 360,
-        "unit": "idol",
-        "unitScore": 1000
-      },
-      {
-        "id": 361,
-        "resourceBoxId": 361,
-        "unit": "idol",
-        "unitScore": 2000
-      },
-      {
-        "id": 362,
-        "resourceBoxId": 362,
-        "unit": "idol",
-        "unitScore": 3000
-      },
-      {
-        "id": 363,
-        "resourceBoxId": 363,
-        "unit": "idol",
-        "unitScore": 4000
-      },
-      {
-        "id": 364,
-        "resourceBoxId": 364,
-        "unit": "idol",
-        "unitScore": 5000
-      },
-      {
-        "id": 365,
-        "resourceBoxId": 365,
-        "unit": "idol",
-        "unitScore": 7000
-      },
-      {
-        "id": 366,
-        "resourceBoxId": 366,
-        "unit": "idol",
-        "unitScore": 10000
-      },
-      {
-        "id": 367,
-        "resourceBoxId": 367,
-        "unit": "idol",
-        "unitScore": 15000
-      },
-      {
-        "id": 368,
-        "resourceBoxId": 368,
-        "unit": "idol",
-        "unitScore": 20000
-      },
-      {
-        "id": 369,
-        "resourceBoxId": 369,
-        "unit": "idol",
-        "unitScore": 25000
-      },
-      {
-        "id": 370,
-        "resourceBoxId": 370,
-        "unit": "idol",
-        "unitScore": 30000
-      },
-      {
-        "id": 371,
-        "resourceBoxId": 371,
-        "unit": "idol",
-        "unitScore": 40000
-      },
-      {
-        "id": 372,
-        "resourceBoxId": 372,
-        "unit": "idol",
-        "unitScore": 50000
-      },
-      {
-        "id": 373,
-        "resourceBoxId": 373,
-        "unit": "idol",
-        "unitScore": 100000
-      },
-      {
-        "id": 374,
-        "resourceBoxId": 374,
-        "unit": "idol",
-        "unitScore": 200000
-      },
-      {
-        "id": 375,
-        "resourceBoxId": 375,
-        "unit": "idol",
-        "unitScore": 390000
-      },
-      {
-        "id": 376,
-        "resourceBoxId": 376,
-        "unit": "street",
-        "unitScore": 500
-      },
-      {
-        "id": 377,
-        "resourceBoxId": 377,
-        "unit": "street",
-        "unitScore": 1000
-      },
-      {
-        "id": 378,
-        "resourceBoxId": 378,
-        "unit": "street",
-        "unitScore": 2000
-      },
-      {
-        "id": 379,
-        "resourceBoxId": 379,
-        "unit": "street",
-        "unitScore": 3000
-      },
-      {
-        "id": 380,
-        "resourceBoxId": 380,
-        "unit": "street",
-        "unitScore": 4000
-      },
-      {
-        "id": 381,
-        "resourceBoxId": 381,
-        "unit": "street",
-        "unitScore": 5000
-      },
-      {
-        "id": 382,
-        "resourceBoxId": 382,
-        "unit": "street",
-        "unitScore": 7000
-      },
-      {
-        "id": 383,
-        "resourceBoxId": 383,
-        "unit": "street",
-        "unitScore": 10000
-      },
-      {
-        "id": 384,
-        "resourceBoxId": 384,
-        "unit": "street",
-        "unitScore": 15000
-      },
-      {
-        "id": 385,
-        "resourceBoxId": 385,
-        "unit": "street",
-        "unitScore": 20000
-      },
-      {
-        "id": 386,
-        "resourceBoxId": 386,
-        "unit": "street",
-        "unitScore": 25000
-      },
-      {
-        "id": 387,
-        "resourceBoxId": 387,
-        "unit": "street",
-        "unitScore": 30000
-      },
-      {
-        "id": 388,
-        "resourceBoxId": 388,
-        "unit": "street",
-        "unitScore": 40000
-      },
-      {
-        "id": 389,
-        "resourceBoxId": 389,
-        "unit": "street",
-        "unitScore": 50000
-      },
-      {
-        "id": 390,
-        "resourceBoxId": 390,
-        "unit": "street",
-        "unitScore": 100000
-      },
-      {
-        "id": 391,
-        "resourceBoxId": 391,
-        "unit": "street",
-        "unitScore": 200000
-      },
-      {
-        "id": 392,
-        "resourceBoxId": 392,
-        "unit": "street",
-        "unitScore": 390000
-      },
-      {
-        "id": 393,
-        "resourceBoxId": 393,
-        "unit": "light_sound",
-        "unitScore": 500
-      },
-      {
-        "id": 394,
-        "resourceBoxId": 394,
-        "unit": "light_sound",
-        "unitScore": 1000
-      },
-      {
-        "id": 395,
-        "resourceBoxId": 395,
-        "unit": "light_sound",
-        "unitScore": 2000
-      },
-      {
-        "id": 396,
-        "resourceBoxId": 396,
-        "unit": "light_sound",
-        "unitScore": 3000
-      },
-      {
-        "id": 397,
-        "resourceBoxId": 397,
-        "unit": "light_sound",
-        "unitScore": 4000
-      },
-      {
-        "id": 398,
-        "resourceBoxId": 398,
-        "unit": "light_sound",
-        "unitScore": 5000
-      },
-      {
-        "id": 399,
-        "resourceBoxId": 399,
-        "unit": "light_sound",
-        "unitScore": 7000
-      },
-      {
-        "id": 400,
-        "resourceBoxId": 400,
-        "unit": "light_sound",
-        "unitScore": 10000
-      },
-      {
-        "id": 401,
-        "resourceBoxId": 401,
-        "unit": "light_sound",
-        "unitScore": 15000
-      },
-      {
-        "id": 402,
-        "resourceBoxId": 402,
-        "unit": "light_sound",
-        "unitScore": 20000
-      },
-      {
-        "id": 403,
-        "resourceBoxId": 403,
-        "unit": "light_sound",
-        "unitScore": 25000
-      },
-      {
-        "id": 404,
-        "resourceBoxId": 404,
-        "unit": "light_sound",
-        "unitScore": 30000
-      },
-      {
-        "id": 405,
-        "resourceBoxId": 405,
-        "unit": "light_sound",
-        "unitScore": 40000
-      },
-      {
-        "id": 406,
-        "resourceBoxId": 406,
-        "unit": "light_sound",
-        "unitScore": 50000
-      },
-      {
-        "id": 407,
-        "resourceBoxId": 407,
-        "unit": "light_sound",
-        "unitScore": 100000
-      },
-      {
-        "id": 408,
-        "resourceBoxId": 408,
-        "unit": "light_sound",
-        "unitScore": 200000
-      },
-      {
-        "id": 409,
-        "resourceBoxId": 409,
-        "unit": "light_sound",
-        "unitScore": 390000
-      },
-      {
-        "id": 410,
-        "resourceBoxId": 410,
-        "unit": "school_refusal",
-        "unitScore": 500
-      },
-      {
-        "id": 411,
-        "resourceBoxId": 411,
-        "unit": "school_refusal",
-        "unitScore": 1000
-      },
-      {
-        "id": 412,
-        "resourceBoxId": 412,
-        "unit": "school_refusal",
-        "unitScore": 2000
-      },
-      {
-        "id": 413,
-        "resourceBoxId": 413,
-        "unit": "school_refusal",
-        "unitScore": 3000
-      },
-      {
-        "id": 414,
-        "resourceBoxId": 414,
-        "unit": "school_refusal",
-        "unitScore": 4000
-      },
-      {
-        "id": 415,
-        "resourceBoxId": 415,
-        "unit": "school_refusal",
-        "unitScore": 5000
-      },
-      {
-        "id": 416,
-        "resourceBoxId": 416,
-        "unit": "school_refusal",
-        "unitScore": 7000
-      },
-      {
-        "id": 417,
-        "resourceBoxId": 417,
-        "unit": "school_refusal",
-        "unitScore": 10000
-      },
-      {
-        "id": 418,
-        "resourceBoxId": 418,
-        "unit": "school_refusal",
-        "unitScore": 15000
-      },
-      {
-        "id": 419,
-        "resourceBoxId": 419,
-        "unit": "school_refusal",
-        "unitScore": 20000
-      },
-      {
-        "id": 420,
-        "resourceBoxId": 420,
-        "unit": "school_refusal",
-        "unitScore": 25000
-      },
-      {
-        "id": 421,
-        "resourceBoxId": 421,
-        "unit": "school_refusal",
-        "unitScore": 30000
-      },
-      {
-        "id": 422,
-        "resourceBoxId": 422,
-        "unit": "school_refusal",
-        "unitScore": 40000
-      },
-      {
-        "id": 423,
-        "resourceBoxId": 423,
-        "unit": "school_refusal",
-        "unitScore": 50000
-      },
-      {
-        "id": 424,
-        "resourceBoxId": 424,
-        "unit": "school_refusal",
-        "unitScore": 100000
-      },
-      {
-        "id": 425,
-        "resourceBoxId": 425,
-        "unit": "school_refusal",
-        "unitScore": 200000
-      },
-      {
-        "id": 426,
-        "resourceBoxId": 426,
-        "unit": "school_refusal",
-        "unitScore": 390000
-      }
-    ],
-    "startAt": 1707375600000,
-    "totalScoreRewards": [
-      {
-        "id": 127,
-        "resourceBoxId": 46,
-        "unit": "piapro",
-        "unitScore": 100000000
-      },
-      {
-        "id": 128,
-        "resourceBoxId": 47,
-        "unit": "piapro",
-        "unitScore": 200000000
-      },
-      {
-        "id": 129,
-        "resourceBoxId": 48,
-        "unit": "piapro",
-        "unitScore": 300000000
-      },
-      {
-        "id": 130,
-        "resourceBoxId": 4,
-        "unit": "piapro",
-        "unitScore": 400000000
-      },
-      {
-        "id": 131,
-        "resourceBoxId": 5,
-        "unit": "piapro",
-        "unitScore": 500000000
-      },
-      {
-        "id": 132,
-        "resourceBoxId": 6,
-        "unit": "piapro",
-        "unitScore": 600000000
-      },
-      {
-        "id": 133,
-        "resourceBoxId": 49,
-        "unit": "piapro",
-        "unitScore": 700000000
-      },
-      {
-        "id": 134,
-        "resourceBoxId": 46,
-        "unit": "theme_park",
-        "unitScore": 100000000
-      },
-      {
-        "id": 135,
-        "resourceBoxId": 47,
-        "unit": "theme_park",
-        "unitScore": 200000000
-      },
-      {
-        "id": 136,
-        "resourceBoxId": 48,
-        "unit": "theme_park",
-        "unitScore": 300000000
-      },
-      {
-        "id": 137,
-        "resourceBoxId": 4,
-        "unit": "theme_park",
-        "unitScore": 400000000
-      },
-      {
-        "id": 138,
-        "resourceBoxId": 5,
-        "unit": "theme_park",
-        "unitScore": 500000000
-      },
-      {
-        "id": 139,
-        "resourceBoxId": 6,
-        "unit": "theme_park",
-        "unitScore": 600000000
-      },
-      {
-        "id": 140,
-        "resourceBoxId": 49,
-        "unit": "theme_park",
-        "unitScore": 700000000
-      },
-      {
-        "id": 141,
-        "resourceBoxId": 46,
-        "unit": "idol",
-        "unitScore": 100000000
-      },
-      {
-        "id": 142,
-        "resourceBoxId": 47,
-        "unit": "idol",
-        "unitScore": 200000000
-      },
-      {
-        "id": 143,
-        "resourceBoxId": 48,
-        "unit": "idol",
-        "unitScore": 300000000
-      },
-      {
-        "id": 144,
-        "resourceBoxId": 4,
-        "unit": "idol",
-        "unitScore": 400000000
-      },
-      {
-        "id": 145,
-        "resourceBoxId": 5,
-        "unit": "idol",
-        "unitScore": 500000000
-      },
-      {
-        "id": 146,
-        "resourceBoxId": 6,
-        "unit": "idol",
-        "unitScore": 600000000
-      },
-      {
-        "id": 147,
-        "resourceBoxId": 49,
-        "unit": "idol",
-        "unitScore": 700000000
-      },
-      {
-        "id": 148,
-        "resourceBoxId": 46,
-        "unit": "street",
-        "unitScore": 100000000
-      },
-      {
-        "id": 149,
-        "resourceBoxId": 47,
-        "unit": "street",
-        "unitScore": 200000000
-      },
-      {
-        "id": 150,
-        "resourceBoxId": 48,
-        "unit": "street",
-        "unitScore": 300000000
-      },
-      {
-        "id": 151,
-        "resourceBoxId": 4,
-        "unit": "street",
-        "unitScore": 400000000
-      },
-      {
-        "id": 152,
-        "resourceBoxId": 5,
-        "unit": "street",
-        "unitScore": 500000000
-      },
-      {
-        "id": 153,
-        "resourceBoxId": 6,
-        "unit": "street",
-        "unitScore": 600000000
-      },
-      {
-        "id": 154,
-        "resourceBoxId": 49,
-        "unit": "street",
-        "unitScore": 700000000
-      },
-      {
-        "id": 155,
-        "resourceBoxId": 46,
-        "unit": "light_sound",
-        "unitScore": 100000000
-      },
-      {
-        "id": 156,
-        "resourceBoxId": 47,
-        "unit": "light_sound",
-        "unitScore": 200000000
-      },
-      {
-        "id": 157,
-        "resourceBoxId": 48,
-        "unit": "light_sound",
-        "unitScore": 300000000
-      },
-      {
-        "id": 158,
-        "resourceBoxId": 4,
-        "unit": "light_sound",
-        "unitScore": 400000000
-      },
-      {
-        "id": 159,
-        "resourceBoxId": 5,
-        "unit": "light_sound",
-        "unitScore": 500000000
-      },
-      {
-        "id": 160,
-        "resourceBoxId": 6,
-        "unit": "light_sound",
-        "unitScore": 600000000
-      },
-      {
-        "id": 161,
-        "resourceBoxId": 49,
-        "unit": "light_sound",
-        "unitScore": 700000000
-      },
-      {
-        "id": 162,
-        "resourceBoxId": 46,
-        "unit": "school_refusal",
-        "unitScore": 100000000
-      },
-      {
-        "id": 163,
-        "resourceBoxId": 47,
-        "unit": "school_refusal",
-        "unitScore": 200000000
-      },
-      {
-        "id": 164,
-        "resourceBoxId": 48,
-        "unit": "school_refusal",
-        "unitScore": 300000000
-      },
-      {
-        "id": 165,
-        "resourceBoxId": 4,
-        "unit": "school_refusal",
-        "unitScore": 400000000
-      },
-      {
-        "id": 166,
-        "resourceBoxId": 5,
-        "unit": "school_refusal",
-        "unitScore": 500000000
-      },
-      {
-        "id": 167,
-        "resourceBoxId": 6,
-        "unit": "school_refusal",
-        "unitScore": 600000000
-      },
-      {
-        "id": 168,
-        "resourceBoxId": 49,
-        "unit": "school_refusal",
-        "unitScore": 700000000
-      }
-    ]
-  },
-  {
-    "aggregateAt": 1726923599000,
-    "assetbundleName": "event_support_2022",
-    "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
-    "closeAt": 1727355599000,
+    "closeAt": 1760792399000,
+    "eventType": "v1",
     "id": 5,
     "liveBoostRates": [
       {
@@ -4858,17 +29,17 @@
       },
       {
         "boost": 4,
-        "boostRate": 19,
+        "boostRate": 20,
         "liveType": "solo"
       },
       {
         "boost": 5,
-        "boostRate": 23,
+        "boostRate": 25,
         "liveType": "solo"
       },
       {
         "boost": 6,
-        "boostRate": 26,
+        "boostRate": 27,
         "liveType": "solo"
       },
       {
@@ -4918,17 +89,17 @@
       },
       {
         "boost": 4,
-        "boostRate": 19,
+        "boostRate": 20,
         "liveType": "multi_open"
       },
       {
         "boost": 5,
-        "boostRate": 23,
+        "boostRate": 25,
         "liveType": "multi_open"
       },
       {
         "boost": 6,
-        "boostRate": 26,
+        "boostRate": 27,
         "liveType": "multi_open"
       },
       {
@@ -4973,17 +144,17 @@
       },
       {
         "boost": 4,
-        "boostRate": 19,
+        "boostRate": 20,
         "liveType": "multi_private"
       },
       {
         "boost": 5,
-        "boostRate": 23,
+        "boostRate": 25,
         "liveType": "multi_private"
       },
       {
         "boost": 6,
-        "boostRate": 26,
+        "boostRate": 27,
         "liveType": "multi_private"
       },
       {
@@ -5028,17 +199,17 @@
       },
       {
         "boost": 4,
-        "boostRate": 19,
+        "boostRate": 20,
         "liveType": "cheerful_carnival_open"
       },
       {
         "boost": 5,
-        "boostRate": 23,
+        "boostRate": 25,
         "liveType": "cheerful_carnival_open"
       },
       {
         "boost": 6,
-        "boostRate": 26,
+        "boostRate": 27,
         "liveType": "cheerful_carnival_open"
       },
       {
@@ -5083,17 +254,17 @@
       },
       {
         "boost": 4,
-        "boostRate": 19,
+        "boostRate": 20,
         "liveType": "cheerful_carnival_private"
       },
       {
         "boost": 5,
-        "boostRate": 23,
+        "boostRate": 25,
         "liveType": "cheerful_carnival_private"
       },
       {
         "boost": 6,
-        "boostRate": 26,
+        "boostRate": 27,
         "liveType": "cheerful_carnival_private"
       },
       {
@@ -5138,17 +309,17 @@
       },
       {
         "boost": 4,
-        "boostRate": 19,
+        "boostRate": 20,
         "liveType": "rank_match"
       },
       {
         "boost": 5,
-        "boostRate": 23,
+        "boostRate": 25,
         "liveType": "rank_match"
       },
       {
         "boost": 6,
-        "boostRate": 26,
+        "boostRate": 27,
         "liveType": "rank_match"
       },
       {
@@ -5194,6 +365,7 @@
         "scoreRank": "D"
       }
     ],
+    "maxJumpPoint": 0,
     "personalScoreRewards": [
       {
         "id": 433,
@@ -5808,267 +980,269 @@
         "unitScore": 390000
       }
     ],
-    "startAt": 1726038000000,
+    "startAt": 1759464000000,
     "totalScoreRewards": [
       {
         "id": 169,
-        "resourceBoxId": 29,
+        "resourceBoxId": 50,
         "unit": "piapro",
         "unitScore": 100000000
       },
       {
         "id": 170,
-        "resourceBoxId": 44,
+        "resourceBoxId": 51,
         "unit": "piapro",
         "unitScore": 200000000
       },
       {
         "id": 171,
-        "resourceBoxId": 3,
+        "resourceBoxId": 52,
         "unit": "piapro",
         "unitScore": 300000000
       },
       {
         "id": 172,
-        "resourceBoxId": 4,
-        "unit": "piapro",
-        "unitScore": 400000000
-      },
-      {
-        "id": 173,
-        "resourceBoxId": 5,
-        "unit": "piapro",
-        "unitScore": 500000000
-      },
-      {
-        "id": 174,
-        "resourceBoxId": 6,
+        "resourceBoxId": 53,
         "unit": "piapro",
         "unitScore": 600000000
       },
       {
-        "id": 175,
-        "resourceBoxId": 45,
+        "id": 173,
+        "resourceBoxId": 54,
         "unit": "piapro",
-        "unitScore": 700000000
+        "unitScore": 900000000
+      },
+      {
+        "id": 174,
+        "resourceBoxId": 55,
+        "unit": "piapro",
+        "unitScore": 1200000000
+      },
+      {
+        "id": 175,
+        "resourceBoxId": 56,
+        "unit": "piapro",
+        "unitScore": 1500000000
       },
       {
         "id": 176,
-        "resourceBoxId": 29,
+        "resourceBoxId": 50,
         "unit": "theme_park",
         "unitScore": 100000000
       },
       {
         "id": 177,
-        "resourceBoxId": 44,
+        "resourceBoxId": 51,
         "unit": "theme_park",
         "unitScore": 200000000
       },
       {
         "id": 178,
-        "resourceBoxId": 3,
+        "resourceBoxId": 52,
         "unit": "theme_park",
         "unitScore": 300000000
       },
       {
         "id": 179,
-        "resourceBoxId": 4,
-        "unit": "theme_park",
-        "unitScore": 400000000
-      },
-      {
-        "id": 180,
-        "resourceBoxId": 5,
-        "unit": "theme_park",
-        "unitScore": 500000000
-      },
-      {
-        "id": 181,
-        "resourceBoxId": 6,
+        "resourceBoxId": 53,
         "unit": "theme_park",
         "unitScore": 600000000
       },
       {
-        "id": 182,
-        "resourceBoxId": 45,
+        "id": 180,
+        "resourceBoxId": 54,
         "unit": "theme_park",
-        "unitScore": 700000000
+        "unitScore": 900000000
+      },
+      {
+        "id": 181,
+        "resourceBoxId": 55,
+        "unit": "theme_park",
+        "unitScore": 1200000000
+      },
+      {
+        "id": 182,
+        "resourceBoxId": 56,
+        "unit": "theme_park",
+        "unitScore": 1500000000
       },
       {
         "id": 183,
-        "resourceBoxId": 29,
+        "resourceBoxId": 50,
         "unit": "idol",
         "unitScore": 100000000
       },
       {
         "id": 184,
-        "resourceBoxId": 44,
+        "resourceBoxId": 51,
         "unit": "idol",
         "unitScore": 200000000
       },
       {
         "id": 185,
-        "resourceBoxId": 3,
+        "resourceBoxId": 52,
         "unit": "idol",
         "unitScore": 300000000
       },
       {
         "id": 186,
-        "resourceBoxId": 4,
-        "unit": "idol",
-        "unitScore": 400000000
-      },
-      {
-        "id": 187,
-        "resourceBoxId": 5,
-        "unit": "idol",
-        "unitScore": 500000000
-      },
-      {
-        "id": 188,
-        "resourceBoxId": 6,
+        "resourceBoxId": 53,
         "unit": "idol",
         "unitScore": 600000000
       },
       {
-        "id": 189,
-        "resourceBoxId": 45,
+        "id": 187,
+        "resourceBoxId": 54,
         "unit": "idol",
-        "unitScore": 700000000
+        "unitScore": 900000000
+      },
+      {
+        "id": 188,
+        "resourceBoxId": 55,
+        "unit": "idol",
+        "unitScore": 1200000000
+      },
+      {
+        "id": 189,
+        "resourceBoxId": 56,
+        "unit": "idol",
+        "unitScore": 1500000000
       },
       {
         "id": 190,
-        "resourceBoxId": 29,
+        "resourceBoxId": 50,
         "unit": "street",
         "unitScore": 100000000
       },
       {
         "id": 191,
-        "resourceBoxId": 44,
+        "resourceBoxId": 51,
         "unit": "street",
         "unitScore": 200000000
       },
       {
         "id": 192,
-        "resourceBoxId": 3,
+        "resourceBoxId": 52,
         "unit": "street",
         "unitScore": 300000000
       },
       {
         "id": 193,
-        "resourceBoxId": 4,
-        "unit": "street",
-        "unitScore": 400000000
-      },
-      {
-        "id": 194,
-        "resourceBoxId": 5,
-        "unit": "street",
-        "unitScore": 500000000
-      },
-      {
-        "id": 195,
-        "resourceBoxId": 6,
+        "resourceBoxId": 53,
         "unit": "street",
         "unitScore": 600000000
       },
       {
-        "id": 196,
-        "resourceBoxId": 45,
+        "id": 194,
+        "resourceBoxId": 54,
         "unit": "street",
-        "unitScore": 700000000
+        "unitScore": 900000000
+      },
+      {
+        "id": 195,
+        "resourceBoxId": 55,
+        "unit": "street",
+        "unitScore": 1200000000
+      },
+      {
+        "id": 196,
+        "resourceBoxId": 56,
+        "unit": "street",
+        "unitScore": 1500000000
       },
       {
         "id": 197,
-        "resourceBoxId": 29,
+        "resourceBoxId": 50,
         "unit": "light_sound",
         "unitScore": 100000000
       },
       {
         "id": 198,
-        "resourceBoxId": 44,
+        "resourceBoxId": 51,
         "unit": "light_sound",
         "unitScore": 200000000
       },
       {
         "id": 199,
-        "resourceBoxId": 3,
+        "resourceBoxId": 52,
         "unit": "light_sound",
         "unitScore": 300000000
       },
       {
         "id": 200,
-        "resourceBoxId": 4,
-        "unit": "light_sound",
-        "unitScore": 400000000
-      },
-      {
-        "id": 201,
-        "resourceBoxId": 5,
-        "unit": "light_sound",
-        "unitScore": 500000000
-      },
-      {
-        "id": 202,
-        "resourceBoxId": 6,
+        "resourceBoxId": 53,
         "unit": "light_sound",
         "unitScore": 600000000
       },
       {
-        "id": 203,
-        "resourceBoxId": 45,
+        "id": 201,
+        "resourceBoxId": 54,
         "unit": "light_sound",
-        "unitScore": 700000000
+        "unitScore": 900000000
+      },
+      {
+        "id": 202,
+        "resourceBoxId": 55,
+        "unit": "light_sound",
+        "unitScore": 1200000000
+      },
+      {
+        "id": 203,
+        "resourceBoxId": 56,
+        "unit": "light_sound",
+        "unitScore": 1500000000
       },
       {
         "id": 204,
-        "resourceBoxId": 29,
+        "resourceBoxId": 50,
         "unit": "school_refusal",
         "unitScore": 100000000
       },
       {
         "id": 205,
-        "resourceBoxId": 44,
+        "resourceBoxId": 51,
         "unit": "school_refusal",
         "unitScore": 200000000
       },
       {
         "id": 206,
-        "resourceBoxId": 3,
+        "resourceBoxId": 52,
         "unit": "school_refusal",
         "unitScore": 300000000
       },
       {
         "id": 207,
-        "resourceBoxId": 4,
-        "unit": "school_refusal",
-        "unitScore": 400000000
-      },
-      {
-        "id": 208,
-        "resourceBoxId": 5,
-        "unit": "school_refusal",
-        "unitScore": 500000000
-      },
-      {
-        "id": 209,
-        "resourceBoxId": 6,
+        "resourceBoxId": 53,
         "unit": "school_refusal",
         "unitScore": 600000000
       },
       {
-        "id": 210,
-        "resourceBoxId": 45,
+        "id": 208,
+        "resourceBoxId": 54,
         "unit": "school_refusal",
-        "unitScore": 700000000
+        "unitScore": 900000000
+      },
+      {
+        "id": 209,
+        "resourceBoxId": 55,
+        "unit": "school_refusal",
+        "unitScore": 1200000000
+      },
+      {
+        "id": 210,
+        "resourceBoxId": 56,
+        "unit": "school_refusal",
+        "unitScore": 1500000000
       }
-    ]
+    ],
+    "turn": 0
   },
   {
-    "aggregateAt": 1739019599000,
+    "aggregateAt": 1771937999000,
     "assetbundleName": "event_support_2022",
     "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
-    "closeAt": 1739451599000,
+    "closeAt": 1772283599000,
+    "eventType": "v1",
     "id": 6,
     "liveBoostRates": [
       {
@@ -6429,6 +1603,7 @@
         "scoreRank": "D"
       }
     ],
+    "maxJumpPoint": 0,
     "personalScoreRewards": [
       {
         "id": 541,
@@ -7043,2729 +2218,743 @@
         "unitScore": 390000
       }
     ],
-    "startAt": 1737961200000,
+    "startAt": 1771041600000,
     "totalScoreRewards": [
       {
         "id": 211,
-        "resourceBoxId": 50,
+        "resourceBoxId": 57,
         "unit": "piapro",
         "unitScore": 100000000
       },
       {
         "id": 212,
-        "resourceBoxId": 3,
-        "unit": "piapro",
-        "unitScore": 200000000
-      },
-      {
-        "id": 213,
-        "resourceBoxId": 4,
+        "resourceBoxId": 51,
         "unit": "piapro",
         "unitScore": 300000000
       },
       {
-        "id": 214,
-        "resourceBoxId": 5,
-        "unit": "piapro",
-        "unitScore": 400000000
-      },
-      {
-        "id": 215,
-        "resourceBoxId": 29,
-        "unit": "piapro",
-        "unitScore": 500000000
-      },
-      {
-        "id": 216,
-        "resourceBoxId": 51,
+        "id": 213,
+        "resourceBoxId": 52,
         "unit": "piapro",
         "unitScore": 600000000
       },
       {
-        "id": 217,
-        "resourceBoxId": 52,
+        "id": 214,
+        "resourceBoxId": 53,
         "unit": "piapro",
-        "unitScore": 700000000
+        "unitScore": 1000000000
+      },
+      {
+        "id": 215,
+        "resourceBoxId": 54,
+        "unit": "piapro",
+        "unitScore": 1500000000
+      },
+      {
+        "id": 216,
+        "resourceBoxId": 55,
+        "unit": "piapro",
+        "unitScore": 1800000000
+      },
+      {
+        "id": 217,
+        "resourceBoxId": 58,
+        "unit": "piapro",
+        "unitScore": 2000000000
       },
       {
         "id": 218,
-        "resourceBoxId": 50,
+        "resourceBoxId": 57,
         "unit": "theme_park",
         "unitScore": 100000000
       },
       {
         "id": 219,
-        "resourceBoxId": 3,
-        "unit": "theme_park",
-        "unitScore": 200000000
-      },
-      {
-        "id": 220,
-        "resourceBoxId": 4,
+        "resourceBoxId": 51,
         "unit": "theme_park",
         "unitScore": 300000000
       },
       {
-        "id": 221,
-        "resourceBoxId": 5,
-        "unit": "theme_park",
-        "unitScore": 400000000
-      },
-      {
-        "id": 222,
-        "resourceBoxId": 29,
-        "unit": "theme_park",
-        "unitScore": 500000000
-      },
-      {
-        "id": 223,
-        "resourceBoxId": 51,
+        "id": 220,
+        "resourceBoxId": 52,
         "unit": "theme_park",
         "unitScore": 600000000
       },
       {
-        "id": 224,
-        "resourceBoxId": 52,
+        "id": 221,
+        "resourceBoxId": 53,
         "unit": "theme_park",
-        "unitScore": 700000000
+        "unitScore": 1000000000
+      },
+      {
+        "id": 222,
+        "resourceBoxId": 54,
+        "unit": "theme_park",
+        "unitScore": 1500000000
+      },
+      {
+        "id": 223,
+        "resourceBoxId": 55,
+        "unit": "theme_park",
+        "unitScore": 1800000000
+      },
+      {
+        "id": 224,
+        "resourceBoxId": 58,
+        "unit": "theme_park",
+        "unitScore": 2000000000
       },
       {
         "id": 225,
-        "resourceBoxId": 50,
+        "resourceBoxId": 57,
         "unit": "idol",
         "unitScore": 100000000
       },
       {
         "id": 226,
-        "resourceBoxId": 3,
-        "unit": "idol",
-        "unitScore": 200000000
-      },
-      {
-        "id": 227,
-        "resourceBoxId": 4,
+        "resourceBoxId": 51,
         "unit": "idol",
         "unitScore": 300000000
       },
       {
-        "id": 228,
-        "resourceBoxId": 5,
-        "unit": "idol",
-        "unitScore": 400000000
-      },
-      {
-        "id": 229,
-        "resourceBoxId": 29,
-        "unit": "idol",
-        "unitScore": 500000000
-      },
-      {
-        "id": 230,
-        "resourceBoxId": 51,
+        "id": 227,
+        "resourceBoxId": 52,
         "unit": "idol",
         "unitScore": 600000000
       },
       {
-        "id": 231,
-        "resourceBoxId": 52,
+        "id": 228,
+        "resourceBoxId": 53,
         "unit": "idol",
-        "unitScore": 700000000
+        "unitScore": 1000000000
+      },
+      {
+        "id": 229,
+        "resourceBoxId": 54,
+        "unit": "idol",
+        "unitScore": 1500000000
+      },
+      {
+        "id": 230,
+        "resourceBoxId": 55,
+        "unit": "idol",
+        "unitScore": 1800000000
+      },
+      {
+        "id": 231,
+        "resourceBoxId": 58,
+        "unit": "idol",
+        "unitScore": 2000000000
       },
       {
         "id": 232,
-        "resourceBoxId": 50,
+        "resourceBoxId": 57,
         "unit": "street",
         "unitScore": 100000000
       },
       {
         "id": 233,
-        "resourceBoxId": 3,
-        "unit": "street",
-        "unitScore": 200000000
-      },
-      {
-        "id": 234,
-        "resourceBoxId": 4,
+        "resourceBoxId": 51,
         "unit": "street",
         "unitScore": 300000000
       },
       {
-        "id": 235,
-        "resourceBoxId": 5,
-        "unit": "street",
-        "unitScore": 400000000
-      },
-      {
-        "id": 236,
-        "resourceBoxId": 29,
-        "unit": "street",
-        "unitScore": 500000000
-      },
-      {
-        "id": 237,
-        "resourceBoxId": 51,
+        "id": 234,
+        "resourceBoxId": 52,
         "unit": "street",
         "unitScore": 600000000
       },
       {
-        "id": 238,
-        "resourceBoxId": 52,
+        "id": 235,
+        "resourceBoxId": 53,
         "unit": "street",
-        "unitScore": 700000000
+        "unitScore": 1000000000
+      },
+      {
+        "id": 236,
+        "resourceBoxId": 54,
+        "unit": "street",
+        "unitScore": 1500000000
+      },
+      {
+        "id": 237,
+        "resourceBoxId": 55,
+        "unit": "street",
+        "unitScore": 1800000000
+      },
+      {
+        "id": 238,
+        "resourceBoxId": 58,
+        "unit": "street",
+        "unitScore": 2000000000
       },
       {
         "id": 239,
-        "resourceBoxId": 50,
+        "resourceBoxId": 57,
         "unit": "light_sound",
         "unitScore": 100000000
       },
       {
         "id": 240,
-        "resourceBoxId": 3,
-        "unit": "light_sound",
-        "unitScore": 200000000
-      },
-      {
-        "id": 241,
-        "resourceBoxId": 4,
+        "resourceBoxId": 51,
         "unit": "light_sound",
         "unitScore": 300000000
       },
       {
-        "id": 242,
-        "resourceBoxId": 5,
-        "unit": "light_sound",
-        "unitScore": 400000000
-      },
-      {
-        "id": 243,
-        "resourceBoxId": 29,
-        "unit": "light_sound",
-        "unitScore": 500000000
-      },
-      {
-        "id": 244,
-        "resourceBoxId": 51,
+        "id": 241,
+        "resourceBoxId": 52,
         "unit": "light_sound",
         "unitScore": 600000000
       },
       {
-        "id": 245,
-        "resourceBoxId": 52,
+        "id": 242,
+        "resourceBoxId": 53,
         "unit": "light_sound",
-        "unitScore": 700000000
+        "unitScore": 1000000000
+      },
+      {
+        "id": 243,
+        "resourceBoxId": 54,
+        "unit": "light_sound",
+        "unitScore": 1500000000
+      },
+      {
+        "id": 244,
+        "resourceBoxId": 55,
+        "unit": "light_sound",
+        "unitScore": 1800000000
+      },
+      {
+        "id": 245,
+        "resourceBoxId": 58,
+        "unit": "light_sound",
+        "unitScore": 2000000000
       },
       {
         "id": 246,
-        "resourceBoxId": 50,
+        "resourceBoxId": 57,
         "unit": "school_refusal",
         "unitScore": 100000000
       },
       {
         "id": 247,
-        "resourceBoxId": 3,
+        "resourceBoxId": 51,
         "unit": "school_refusal",
-        "unitScore": 200000000
+        "unitScore": 300000000
       },
       {
         "id": 248,
-        "resourceBoxId": 4,
+        "resourceBoxId": 52,
         "unit": "school_refusal",
-        "unitScore": 300000000
+        "unitScore": 600000000
       },
       {
         "id": 249,
-        "resourceBoxId": 5,
+        "resourceBoxId": 53,
         "unit": "school_refusal",
-        "unitScore": 400000000
+        "unitScore": 1000000000
       },
       {
         "id": 250,
-        "resourceBoxId": 29,
+        "resourceBoxId": 54,
         "unit": "school_refusal",
-        "unitScore": 500000000
+        "unitScore": 1500000000
       },
       {
         "id": 251,
-        "resourceBoxId": 51,
+        "resourceBoxId": 55,
         "unit": "school_refusal",
-        "unitScore": 600000000
+        "unitScore": 1800000000
       },
       {
         "id": 252,
-        "resourceBoxId": 52,
+        "resourceBoxId": 58,
         "unit": "school_refusal",
-        "unitScore": 700000000
+        "unitScore": 2000000000
       }
-    ]
+    ],
+    "turn": 0
   },
   {
-    "aggregateAt": 1760360399000,
+    "aggregateAt": 1791118799000,
     "assetbundleName": "event_support_2022",
     "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
-    "closeAt": 1760792399000,
-    "id": 7,
-    "liveBoostRates": [
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "solo"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "solo"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "solo"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "solo"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "solo"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "solo"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "solo"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "solo"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "solo"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "solo"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "solo"
-      },
-      {
-        "boost": 0,
-        "boostRate": 10,
-        "liveType": "challenge_live"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "rank_match"
-      }
-    ],
-    "liveScoreRankRates": [
-      {
-        "rate": 20,
-        "scoreRank": "S"
-      },
-      {
-        "rate": 18,
-        "scoreRank": "A"
-      },
-      {
-        "rate": 15,
-        "scoreRank": "B"
-      },
-      {
-        "rate": 10,
-        "scoreRank": "C"
-      },
-      {
-        "rate": 1,
-        "scoreRank": "D"
-      }
-    ],
-    "personalScoreRewards": [
-      {
-        "id": 649,
-        "resourceBoxId": 734,
-        "unit": "piapro",
-        "unitScore": 500
-      },
-      {
-        "id": 650,
-        "resourceBoxId": 735,
-        "unit": "piapro",
-        "unitScore": 1000
-      },
-      {
-        "id": 651,
-        "resourceBoxId": 736,
-        "unit": "piapro",
-        "unitScore": 2000
-      },
-      {
-        "id": 652,
-        "resourceBoxId": 737,
-        "unit": "piapro",
-        "unitScore": 3000
-      },
-      {
-        "id": 653,
-        "resourceBoxId": 738,
-        "unit": "piapro",
-        "unitScore": 4000
-      },
-      {
-        "id": 654,
-        "resourceBoxId": 739,
-        "unit": "piapro",
-        "unitScore": 5000
-      },
-      {
-        "id": 655,
-        "resourceBoxId": 740,
-        "unit": "piapro",
-        "unitScore": 7000
-      },
-      {
-        "id": 656,
-        "resourceBoxId": 741,
-        "unit": "piapro",
-        "unitScore": 10000
-      },
-      {
-        "id": 657,
-        "resourceBoxId": 742,
-        "unit": "piapro",
-        "unitScore": 15000
-      },
-      {
-        "id": 658,
-        "resourceBoxId": 743,
-        "unit": "piapro",
-        "unitScore": 20000
-      },
-      {
-        "id": 659,
-        "resourceBoxId": 744,
-        "unit": "piapro",
-        "unitScore": 25000
-      },
-      {
-        "id": 660,
-        "resourceBoxId": 745,
-        "unit": "piapro",
-        "unitScore": 30000
-      },
-      {
-        "id": 661,
-        "resourceBoxId": 746,
-        "unit": "piapro",
-        "unitScore": 40000
-      },
-      {
-        "id": 662,
-        "resourceBoxId": 747,
-        "unit": "piapro",
-        "unitScore": 50000
-      },
-      {
-        "id": 663,
-        "resourceBoxId": 748,
-        "unit": "piapro",
-        "unitScore": 100000
-      },
-      {
-        "id": 664,
-        "resourceBoxId": 749,
-        "unit": "piapro",
-        "unitScore": 200000
-      },
-      {
-        "id": 665,
-        "resourceBoxId": 750,
-        "unit": "piapro",
-        "unitScore": 390000
-      },
-      {
-        "id": 666,
-        "resourceBoxId": 700,
-        "unit": "theme_park",
-        "unitScore": 500
-      },
-      {
-        "id": 667,
-        "resourceBoxId": 701,
-        "unit": "theme_park",
-        "unitScore": 1000
-      },
-      {
-        "id": 668,
-        "resourceBoxId": 702,
-        "unit": "theme_park",
-        "unitScore": 2000
-      },
-      {
-        "id": 669,
-        "resourceBoxId": 703,
-        "unit": "theme_park",
-        "unitScore": 3000
-      },
-      {
-        "id": 670,
-        "resourceBoxId": 704,
-        "unit": "theme_park",
-        "unitScore": 4000
-      },
-      {
-        "id": 671,
-        "resourceBoxId": 705,
-        "unit": "theme_park",
-        "unitScore": 5000
-      },
-      {
-        "id": 672,
-        "resourceBoxId": 706,
-        "unit": "theme_park",
-        "unitScore": 7000
-      },
-      {
-        "id": 673,
-        "resourceBoxId": 707,
-        "unit": "theme_park",
-        "unitScore": 10000
-      },
-      {
-        "id": 674,
-        "resourceBoxId": 708,
-        "unit": "theme_park",
-        "unitScore": 15000
-      },
-      {
-        "id": 675,
-        "resourceBoxId": 709,
-        "unit": "theme_park",
-        "unitScore": 20000
-      },
-      {
-        "id": 676,
-        "resourceBoxId": 710,
-        "unit": "theme_park",
-        "unitScore": 25000
-      },
-      {
-        "id": 677,
-        "resourceBoxId": 711,
-        "unit": "theme_park",
-        "unitScore": 30000
-      },
-      {
-        "id": 678,
-        "resourceBoxId": 712,
-        "unit": "theme_park",
-        "unitScore": 40000
-      },
-      {
-        "id": 679,
-        "resourceBoxId": 713,
-        "unit": "theme_park",
-        "unitScore": 50000
-      },
-      {
-        "id": 680,
-        "resourceBoxId": 714,
-        "unit": "theme_park",
-        "unitScore": 100000
-      },
-      {
-        "id": 681,
-        "resourceBoxId": 715,
-        "unit": "theme_park",
-        "unitScore": 200000
-      },
-      {
-        "id": 682,
-        "resourceBoxId": 716,
-        "unit": "theme_park",
-        "unitScore": 390000
-      },
-      {
-        "id": 683,
-        "resourceBoxId": 666,
-        "unit": "idol",
-        "unitScore": 500
-      },
-      {
-        "id": 684,
-        "resourceBoxId": 667,
-        "unit": "idol",
-        "unitScore": 1000
-      },
-      {
-        "id": 685,
-        "resourceBoxId": 668,
-        "unit": "idol",
-        "unitScore": 2000
-      },
-      {
-        "id": 686,
-        "resourceBoxId": 669,
-        "unit": "idol",
-        "unitScore": 3000
-      },
-      {
-        "id": 687,
-        "resourceBoxId": 670,
-        "unit": "idol",
-        "unitScore": 4000
-      },
-      {
-        "id": 688,
-        "resourceBoxId": 671,
-        "unit": "idol",
-        "unitScore": 5000
-      },
-      {
-        "id": 689,
-        "resourceBoxId": 672,
-        "unit": "idol",
-        "unitScore": 7000
-      },
-      {
-        "id": 690,
-        "resourceBoxId": 673,
-        "unit": "idol",
-        "unitScore": 10000
-      },
-      {
-        "id": 691,
-        "resourceBoxId": 674,
-        "unit": "idol",
-        "unitScore": 15000
-      },
-      {
-        "id": 692,
-        "resourceBoxId": 675,
-        "unit": "idol",
-        "unitScore": 20000
-      },
-      {
-        "id": 693,
-        "resourceBoxId": 676,
-        "unit": "idol",
-        "unitScore": 25000
-      },
-      {
-        "id": 694,
-        "resourceBoxId": 677,
-        "unit": "idol",
-        "unitScore": 30000
-      },
-      {
-        "id": 695,
-        "resourceBoxId": 678,
-        "unit": "idol",
-        "unitScore": 40000
-      },
-      {
-        "id": 696,
-        "resourceBoxId": 679,
-        "unit": "idol",
-        "unitScore": 50000
-      },
-      {
-        "id": 697,
-        "resourceBoxId": 680,
-        "unit": "idol",
-        "unitScore": 100000
-      },
-      {
-        "id": 698,
-        "resourceBoxId": 681,
-        "unit": "idol",
-        "unitScore": 200000
-      },
-      {
-        "id": 699,
-        "resourceBoxId": 682,
-        "unit": "idol",
-        "unitScore": 390000
-      },
-      {
-        "id": 700,
-        "resourceBoxId": 683,
-        "unit": "street",
-        "unitScore": 500
-      },
-      {
-        "id": 701,
-        "resourceBoxId": 684,
-        "unit": "street",
-        "unitScore": 1000
-      },
-      {
-        "id": 702,
-        "resourceBoxId": 685,
-        "unit": "street",
-        "unitScore": 2000
-      },
-      {
-        "id": 703,
-        "resourceBoxId": 686,
-        "unit": "street",
-        "unitScore": 3000
-      },
-      {
-        "id": 704,
-        "resourceBoxId": 687,
-        "unit": "street",
-        "unitScore": 4000
-      },
-      {
-        "id": 705,
-        "resourceBoxId": 688,
-        "unit": "street",
-        "unitScore": 5000
-      },
-      {
-        "id": 706,
-        "resourceBoxId": 689,
-        "unit": "street",
-        "unitScore": 7000
-      },
-      {
-        "id": 707,
-        "resourceBoxId": 690,
-        "unit": "street",
-        "unitScore": 10000
-      },
-      {
-        "id": 708,
-        "resourceBoxId": 691,
-        "unit": "street",
-        "unitScore": 15000
-      },
-      {
-        "id": 709,
-        "resourceBoxId": 692,
-        "unit": "street",
-        "unitScore": 20000
-      },
-      {
-        "id": 710,
-        "resourceBoxId": 693,
-        "unit": "street",
-        "unitScore": 25000
-      },
-      {
-        "id": 711,
-        "resourceBoxId": 694,
-        "unit": "street",
-        "unitScore": 30000
-      },
-      {
-        "id": 712,
-        "resourceBoxId": 695,
-        "unit": "street",
-        "unitScore": 40000
-      },
-      {
-        "id": 713,
-        "resourceBoxId": 696,
-        "unit": "street",
-        "unitScore": 50000
-      },
-      {
-        "id": 714,
-        "resourceBoxId": 697,
-        "unit": "street",
-        "unitScore": 100000
-      },
-      {
-        "id": 715,
-        "resourceBoxId": 698,
-        "unit": "street",
-        "unitScore": 200000
-      },
-      {
-        "id": 716,
-        "resourceBoxId": 699,
-        "unit": "street",
-        "unitScore": 390000
-      },
-      {
-        "id": 717,
-        "resourceBoxId": 649,
-        "unit": "light_sound",
-        "unitScore": 500
-      },
-      {
-        "id": 718,
-        "resourceBoxId": 650,
-        "unit": "light_sound",
-        "unitScore": 1000
-      },
-      {
-        "id": 719,
-        "resourceBoxId": 651,
-        "unit": "light_sound",
-        "unitScore": 2000
-      },
-      {
-        "id": 720,
-        "resourceBoxId": 652,
-        "unit": "light_sound",
-        "unitScore": 3000
-      },
-      {
-        "id": 721,
-        "resourceBoxId": 653,
-        "unit": "light_sound",
-        "unitScore": 4000
-      },
-      {
-        "id": 722,
-        "resourceBoxId": 654,
-        "unit": "light_sound",
-        "unitScore": 5000
-      },
-      {
-        "id": 723,
-        "resourceBoxId": 655,
-        "unit": "light_sound",
-        "unitScore": 7000
-      },
-      {
-        "id": 724,
-        "resourceBoxId": 656,
-        "unit": "light_sound",
-        "unitScore": 10000
-      },
-      {
-        "id": 725,
-        "resourceBoxId": 657,
-        "unit": "light_sound",
-        "unitScore": 15000
-      },
-      {
-        "id": 726,
-        "resourceBoxId": 658,
-        "unit": "light_sound",
-        "unitScore": 20000
-      },
-      {
-        "id": 727,
-        "resourceBoxId": 659,
-        "unit": "light_sound",
-        "unitScore": 25000
-      },
-      {
-        "id": 728,
-        "resourceBoxId": 660,
-        "unit": "light_sound",
-        "unitScore": 30000
-      },
-      {
-        "id": 729,
-        "resourceBoxId": 661,
-        "unit": "light_sound",
-        "unitScore": 40000
-      },
-      {
-        "id": 730,
-        "resourceBoxId": 662,
-        "unit": "light_sound",
-        "unitScore": 50000
-      },
-      {
-        "id": 731,
-        "resourceBoxId": 663,
-        "unit": "light_sound",
-        "unitScore": 100000
-      },
-      {
-        "id": 732,
-        "resourceBoxId": 664,
-        "unit": "light_sound",
-        "unitScore": 200000
-      },
-      {
-        "id": 733,
-        "resourceBoxId": 665,
-        "unit": "light_sound",
-        "unitScore": 390000
-      },
-      {
-        "id": 734,
-        "resourceBoxId": 717,
-        "unit": "school_refusal",
-        "unitScore": 500
-      },
-      {
-        "id": 735,
-        "resourceBoxId": 718,
-        "unit": "school_refusal",
-        "unitScore": 1000
-      },
-      {
-        "id": 736,
-        "resourceBoxId": 719,
-        "unit": "school_refusal",
-        "unitScore": 2000
-      },
-      {
-        "id": 737,
-        "resourceBoxId": 720,
-        "unit": "school_refusal",
-        "unitScore": 3000
-      },
-      {
-        "id": 738,
-        "resourceBoxId": 721,
-        "unit": "school_refusal",
-        "unitScore": 4000
-      },
-      {
-        "id": 739,
-        "resourceBoxId": 722,
-        "unit": "school_refusal",
-        "unitScore": 5000
-      },
-      {
-        "id": 740,
-        "resourceBoxId": 723,
-        "unit": "school_refusal",
-        "unitScore": 7000
-      },
-      {
-        "id": 741,
-        "resourceBoxId": 724,
-        "unit": "school_refusal",
-        "unitScore": 10000
-      },
-      {
-        "id": 742,
-        "resourceBoxId": 725,
-        "unit": "school_refusal",
-        "unitScore": 15000
-      },
-      {
-        "id": 743,
-        "resourceBoxId": 726,
-        "unit": "school_refusal",
-        "unitScore": 20000
-      },
-      {
-        "id": 744,
-        "resourceBoxId": 727,
-        "unit": "school_refusal",
-        "unitScore": 25000
-      },
-      {
-        "id": 745,
-        "resourceBoxId": 728,
-        "unit": "school_refusal",
-        "unitScore": 30000
-      },
-      {
-        "id": 746,
-        "resourceBoxId": 729,
-        "unit": "school_refusal",
-        "unitScore": 40000
-      },
-      {
-        "id": 747,
-        "resourceBoxId": 730,
-        "unit": "school_refusal",
-        "unitScore": 50000
-      },
-      {
-        "id": 748,
-        "resourceBoxId": 731,
-        "unit": "school_refusal",
-        "unitScore": 100000
-      },
-      {
-        "id": 749,
-        "resourceBoxId": 732,
-        "unit": "school_refusal",
-        "unitScore": 200000
-      },
-      {
-        "id": 750,
-        "resourceBoxId": 733,
-        "unit": "school_refusal",
-        "unitScore": 390000
-      }
-    ],
-    "startAt": 1759464000000,
+    "closeAt": 1791464399000,
+    "eventType": "v2",
+    "id": 101,
+    "maxJumpPoint": 3,
+    "startAt": 1790222400000,
     "totalScoreRewards": [
       {
         "id": 253,
-        "resourceBoxId": 53,
+        "resourceBoxId": 1001,
         "unit": "piapro",
-        "unitScore": 100000000
+        "unitScore": 200000
       },
       {
         "id": 254,
-        "resourceBoxId": 54,
+        "resourceBoxId": 1002,
         "unit": "piapro",
-        "unitScore": 200000000
+        "unitScore": 600000
       },
       {
         "id": 255,
-        "resourceBoxId": 55,
+        "resourceBoxId": 1003,
         "unit": "piapro",
-        "unitScore": 300000000
+        "unitScore": 1000000
       },
       {
         "id": 256,
-        "resourceBoxId": 56,
+        "resourceBoxId": 1004,
         "unit": "piapro",
-        "unitScore": 400000000
+        "unitScore": 1500000
       },
       {
         "id": 257,
-        "resourceBoxId": 57,
+        "resourceBoxId": 1005,
         "unit": "piapro",
-        "unitScore": 500000000
+        "unitScore": 2000000
       },
       {
         "id": 258,
-        "resourceBoxId": 58,
+        "resourceBoxId": 1006,
         "unit": "piapro",
-        "unitScore": 600000000
+        "unitScore": 2500000
       },
       {
         "id": 259,
-        "resourceBoxId": 59,
+        "resourceBoxId": 1007,
         "unit": "piapro",
-        "unitScore": 700000000
+        "unitScore": 3000000
       },
       {
         "id": 260,
-        "resourceBoxId": 53,
+        "resourceBoxId": 1001,
         "unit": "theme_park",
-        "unitScore": 100000000
+        "unitScore": 200000
       },
       {
         "id": 261,
-        "resourceBoxId": 54,
+        "resourceBoxId": 1002,
         "unit": "theme_park",
-        "unitScore": 200000000
+        "unitScore": 600000
       },
       {
         "id": 262,
-        "resourceBoxId": 55,
+        "resourceBoxId": 1003,
         "unit": "theme_park",
-        "unitScore": 300000000
+        "unitScore": 1000000
       },
       {
         "id": 263,
-        "resourceBoxId": 56,
+        "resourceBoxId": 1004,
         "unit": "theme_park",
-        "unitScore": 400000000
+        "unitScore": 1500000
       },
       {
         "id": 264,
-        "resourceBoxId": 57,
+        "resourceBoxId": 1005,
         "unit": "theme_park",
-        "unitScore": 500000000
+        "unitScore": 2000000
       },
       {
         "id": 265,
-        "resourceBoxId": 58,
+        "resourceBoxId": 1006,
         "unit": "theme_park",
-        "unitScore": 600000000
+        "unitScore": 2500000
       },
       {
         "id": 266,
-        "resourceBoxId": 59,
+        "resourceBoxId": 1007,
         "unit": "theme_park",
-        "unitScore": 700000000
+        "unitScore": 3000000
       },
       {
         "id": 267,
-        "resourceBoxId": 53,
+        "resourceBoxId": 1001,
         "unit": "idol",
-        "unitScore": 100000000
+        "unitScore": 200000
       },
       {
         "id": 268,
-        "resourceBoxId": 54,
+        "resourceBoxId": 1002,
         "unit": "idol",
-        "unitScore": 200000000
+        "unitScore": 600000
       },
       {
         "id": 269,
-        "resourceBoxId": 55,
+        "resourceBoxId": 1003,
         "unit": "idol",
-        "unitScore": 300000000
+        "unitScore": 1000000
       },
       {
         "id": 270,
-        "resourceBoxId": 56,
+        "resourceBoxId": 1004,
         "unit": "idol",
-        "unitScore": 400000000
+        "unitScore": 1500000
       },
       {
         "id": 271,
-        "resourceBoxId": 57,
+        "resourceBoxId": 1005,
         "unit": "idol",
-        "unitScore": 500000000
+        "unitScore": 2000000
       },
       {
         "id": 272,
-        "resourceBoxId": 58,
+        "resourceBoxId": 1006,
         "unit": "idol",
-        "unitScore": 600000000
+        "unitScore": 2500000
       },
       {
         "id": 273,
-        "resourceBoxId": 59,
+        "resourceBoxId": 1007,
         "unit": "idol",
-        "unitScore": 700000000
+        "unitScore": 3000000
       },
       {
         "id": 274,
-        "resourceBoxId": 53,
+        "resourceBoxId": 1001,
         "unit": "street",
-        "unitScore": 100000000
+        "unitScore": 200000
       },
       {
         "id": 275,
-        "resourceBoxId": 54,
+        "resourceBoxId": 1002,
         "unit": "street",
-        "unitScore": 200000000
+        "unitScore": 600000
       },
       {
         "id": 276,
-        "resourceBoxId": 55,
+        "resourceBoxId": 1003,
         "unit": "street",
-        "unitScore": 300000000
+        "unitScore": 1000000
       },
       {
         "id": 277,
-        "resourceBoxId": 56,
+        "resourceBoxId": 1004,
         "unit": "street",
-        "unitScore": 400000000
+        "unitScore": 1500000
       },
       {
         "id": 278,
-        "resourceBoxId": 57,
+        "resourceBoxId": 1005,
         "unit": "street",
-        "unitScore": 500000000
+        "unitScore": 2000000
       },
       {
         "id": 279,
-        "resourceBoxId": 58,
+        "resourceBoxId": 1006,
         "unit": "street",
-        "unitScore": 600000000
+        "unitScore": 2500000
       },
       {
         "id": 280,
-        "resourceBoxId": 59,
+        "resourceBoxId": 1007,
         "unit": "street",
-        "unitScore": 700000000
+        "unitScore": 3000000
       },
       {
         "id": 281,
-        "resourceBoxId": 53,
+        "resourceBoxId": 1001,
         "unit": "light_sound",
-        "unitScore": 100000000
+        "unitScore": 200000
       },
       {
         "id": 282,
-        "resourceBoxId": 54,
+        "resourceBoxId": 1002,
         "unit": "light_sound",
-        "unitScore": 200000000
+        "unitScore": 600000
       },
       {
         "id": 283,
-        "resourceBoxId": 55,
+        "resourceBoxId": 1003,
         "unit": "light_sound",
-        "unitScore": 300000000
+        "unitScore": 1000000
       },
       {
         "id": 284,
-        "resourceBoxId": 56,
+        "resourceBoxId": 1004,
         "unit": "light_sound",
-        "unitScore": 400000000
+        "unitScore": 1500000
       },
       {
         "id": 285,
-        "resourceBoxId": 57,
+        "resourceBoxId": 1005,
         "unit": "light_sound",
-        "unitScore": 500000000
+        "unitScore": 2000000
       },
       {
         "id": 286,
-        "resourceBoxId": 58,
+        "resourceBoxId": 1006,
         "unit": "light_sound",
-        "unitScore": 600000000
+        "unitScore": 2500000
       },
       {
         "id": 287,
-        "resourceBoxId": 59,
+        "resourceBoxId": 1007,
         "unit": "light_sound",
-        "unitScore": 700000000
+        "unitScore": 3000000
       },
       {
         "id": 288,
-        "resourceBoxId": 53,
+        "resourceBoxId": 1001,
         "unit": "school_refusal",
-        "unitScore": 100000000
+        "unitScore": 200000
       },
       {
         "id": 289,
-        "resourceBoxId": 54,
+        "resourceBoxId": 1002,
         "unit": "school_refusal",
-        "unitScore": 200000000
+        "unitScore": 600000
       },
       {
         "id": 290,
-        "resourceBoxId": 55,
+        "resourceBoxId": 1003,
         "unit": "school_refusal",
-        "unitScore": 300000000
+        "unitScore": 1000000
       },
       {
         "id": 291,
-        "resourceBoxId": 56,
+        "resourceBoxId": 1004,
         "unit": "school_refusal",
-        "unitScore": 400000000
+        "unitScore": 1500000
       },
       {
         "id": 292,
-        "resourceBoxId": 57,
+        "resourceBoxId": 1005,
         "unit": "school_refusal",
-        "unitScore": 500000000
+        "unitScore": 2000000
       },
       {
         "id": 293,
-        "resourceBoxId": 58,
+        "resourceBoxId": 1006,
         "unit": "school_refusal",
-        "unitScore": 600000000
+        "unitScore": 2500000
       },
       {
         "id": 294,
-        "resourceBoxId": 59,
+        "resourceBoxId": 1007,
         "unit": "school_refusal",
-        "unitScore": 700000000
-      }
-    ]
-  },
-  {
-    "aggregateAt": 1772024399000,
-    "assetbundleName": "event_support_2022",
-    "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
-    "closeAt": 1772456399000,
-    "id": 8,
-    "liveBoostRates": [
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "solo"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "solo"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "solo"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "solo"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "solo"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "solo"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "solo"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "solo"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "solo"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "solo"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "solo"
-      },
-      {
-        "boost": 0,
-        "boostRate": 10,
-        "liveType": "challenge_live"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "multi_private"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_open"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "cheerful_carnival_private"
-      },
-      {
-        "boost": 0,
-        "boostRate": 1,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 1,
-        "boostRate": 5,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 2,
-        "boostRate": 10,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 3,
-        "boostRate": 15,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 4,
-        "boostRate": 20,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 5,
-        "boostRate": 25,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 6,
-        "boostRate": 27,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 7,
-        "boostRate": 29,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 8,
-        "boostRate": 31,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 9,
-        "boostRate": 33,
-        "liveType": "rank_match"
-      },
-      {
-        "boost": 10,
-        "boostRate": 35,
-        "liveType": "rank_match"
+        "unitScore": 3000000
       }
     ],
-    "liveScoreRankRates": [
+    "turn": 6,
+    "v2MapTiles": [
       {
-        "rate": 20,
-        "scoreRank": "S"
+        "giftTileId": 15,
+        "tileId": 1,
+        "x": 0,
+        "y": -300
       },
       {
-        "rate": 18,
-        "scoreRank": "A"
+        "giftTileId": 3,
+        "tileId": 2,
+        "x": -75,
+        "y": -300
       },
       {
-        "rate": 15,
-        "scoreRank": "B"
+        "giftTileId": 1,
+        "tileId": 3,
+        "x": -150,
+        "y": -300
       },
       {
-        "rate": 10,
-        "scoreRank": "C"
+        "giftTileId": 5,
+        "tileId": 4,
+        "x": -150,
+        "y": -225
       },
       {
-        "rate": 1,
-        "scoreRank": "D"
-      }
-    ],
-    "personalScoreRewards": [
-      {
-        "id": 757,
-        "resourceBoxId": 757,
-        "unit": "piapro",
-        "unitScore": 500
-      },
-      {
-        "id": 758,
-        "resourceBoxId": 758,
-        "unit": "piapro",
-        "unitScore": 1000
-      },
-      {
-        "id": 759,
-        "resourceBoxId": 759,
-        "unit": "piapro",
-        "unitScore": 2000
-      },
-      {
-        "id": 760,
-        "resourceBoxId": 760,
-        "unit": "piapro",
-        "unitScore": 3000
-      },
-      {
-        "id": 761,
-        "resourceBoxId": 761,
-        "unit": "piapro",
-        "unitScore": 4000
-      },
-      {
-        "id": 762,
-        "resourceBoxId": 762,
-        "unit": "piapro",
-        "unitScore": 5000
-      },
-      {
-        "id": 763,
-        "resourceBoxId": 763,
-        "unit": "piapro",
-        "unitScore": 7000
-      },
-      {
-        "id": 764,
-        "resourceBoxId": 764,
-        "unit": "piapro",
-        "unitScore": 10000
-      },
-      {
-        "id": 765,
-        "resourceBoxId": 765,
-        "unit": "piapro",
-        "unitScore": 15000
-      },
-      {
-        "id": 766,
-        "resourceBoxId": 766,
-        "unit": "piapro",
-        "unitScore": 20000
-      },
-      {
-        "id": 767,
-        "resourceBoxId": 767,
-        "unit": "piapro",
-        "unitScore": 25000
-      },
-      {
-        "id": 768,
-        "resourceBoxId": 768,
-        "unit": "piapro",
-        "unitScore": 30000
-      },
-      {
-        "id": 769,
-        "resourceBoxId": 769,
-        "unit": "piapro",
-        "unitScore": 40000
-      },
-      {
-        "id": 770,
-        "resourceBoxId": 770,
-        "unit": "piapro",
-        "unitScore": 50000
-      },
-      {
-        "id": 771,
-        "resourceBoxId": 771,
-        "unit": "piapro",
-        "unitScore": 100000
-      },
-      {
-        "id": 772,
-        "resourceBoxId": 772,
-        "unit": "piapro",
-        "unitScore": 200000
-      },
-      {
-        "id": 773,
-        "resourceBoxId": 773,
-        "unit": "piapro",
-        "unitScore": 390000
-      },
-      {
-        "id": 774,
-        "resourceBoxId": 774,
-        "unit": "theme_park",
-        "unitScore": 500
-      },
-      {
-        "id": 775,
-        "resourceBoxId": 775,
-        "unit": "theme_park",
-        "unitScore": 1000
-      },
-      {
-        "id": 776,
-        "resourceBoxId": 776,
-        "unit": "theme_park",
-        "unitScore": 2000
-      },
-      {
-        "id": 777,
-        "resourceBoxId": 777,
-        "unit": "theme_park",
-        "unitScore": 3000
-      },
-      {
-        "id": 778,
-        "resourceBoxId": 778,
-        "unit": "theme_park",
-        "unitScore": 4000
-      },
-      {
-        "id": 779,
-        "resourceBoxId": 779,
-        "unit": "theme_park",
-        "unitScore": 5000
-      },
-      {
-        "id": 780,
-        "resourceBoxId": 780,
-        "unit": "theme_park",
-        "unitScore": 7000
-      },
-      {
-        "id": 781,
-        "resourceBoxId": 781,
-        "unit": "theme_park",
-        "unitScore": 10000
-      },
-      {
-        "id": 782,
-        "resourceBoxId": 782,
-        "unit": "theme_park",
-        "unitScore": 15000
-      },
-      {
-        "id": 783,
-        "resourceBoxId": 783,
-        "unit": "theme_park",
-        "unitScore": 20000
-      },
-      {
-        "id": 784,
-        "resourceBoxId": 784,
-        "unit": "theme_park",
-        "unitScore": 25000
-      },
-      {
-        "id": 785,
-        "resourceBoxId": 785,
-        "unit": "theme_park",
-        "unitScore": 30000
-      },
-      {
-        "id": 786,
-        "resourceBoxId": 786,
-        "unit": "theme_park",
-        "unitScore": 40000
-      },
-      {
-        "id": 787,
-        "resourceBoxId": 787,
-        "unit": "theme_park",
-        "unitScore": 50000
-      },
-      {
-        "id": 788,
-        "resourceBoxId": 788,
-        "unit": "theme_park",
-        "unitScore": 100000
-      },
-      {
-        "id": 789,
-        "resourceBoxId": 789,
-        "unit": "theme_park",
-        "unitScore": 200000
-      },
-      {
-        "id": 790,
-        "resourceBoxId": 790,
-        "unit": "theme_park",
-        "unitScore": 390000
-      },
-      {
-        "id": 791,
-        "resourceBoxId": 791,
-        "unit": "idol",
-        "unitScore": 500
-      },
-      {
-        "id": 792,
-        "resourceBoxId": 792,
-        "unit": "idol",
-        "unitScore": 1000
-      },
-      {
-        "id": 793,
-        "resourceBoxId": 793,
-        "unit": "idol",
-        "unitScore": 2000
-      },
-      {
-        "id": 794,
-        "resourceBoxId": 794,
-        "unit": "idol",
-        "unitScore": 3000
-      },
-      {
-        "id": 795,
-        "resourceBoxId": 795,
-        "unit": "idol",
-        "unitScore": 4000
-      },
-      {
-        "id": 796,
-        "resourceBoxId": 796,
-        "unit": "idol",
-        "unitScore": 5000
-      },
-      {
-        "id": 797,
-        "resourceBoxId": 797,
-        "unit": "idol",
-        "unitScore": 7000
-      },
-      {
-        "id": 798,
-        "resourceBoxId": 798,
-        "unit": "idol",
-        "unitScore": 10000
-      },
-      {
-        "id": 799,
-        "resourceBoxId": 799,
-        "unit": "idol",
-        "unitScore": 15000
-      },
-      {
-        "id": 800,
-        "resourceBoxId": 800,
-        "unit": "idol",
-        "unitScore": 20000
-      },
-      {
-        "id": 801,
-        "resourceBoxId": 801,
-        "unit": "idol",
-        "unitScore": 25000
-      },
-      {
-        "id": 802,
-        "resourceBoxId": 802,
-        "unit": "idol",
-        "unitScore": 30000
-      },
-      {
-        "id": 803,
-        "resourceBoxId": 803,
-        "unit": "idol",
-        "unitScore": 40000
-      },
-      {
-        "id": 804,
-        "resourceBoxId": 804,
-        "unit": "idol",
-        "unitScore": 50000
-      },
-      {
-        "id": 805,
-        "resourceBoxId": 805,
-        "unit": "idol",
-        "unitScore": 100000
-      },
-      {
-        "id": 806,
-        "resourceBoxId": 806,
-        "unit": "idol",
-        "unitScore": 200000
-      },
-      {
-        "id": 807,
-        "resourceBoxId": 807,
-        "unit": "idol",
-        "unitScore": 390000
-      },
-      {
-        "id": 808,
-        "resourceBoxId": 808,
-        "unit": "street",
-        "unitScore": 500
-      },
-      {
-        "id": 809,
-        "resourceBoxId": 809,
-        "unit": "street",
-        "unitScore": 1000
-      },
-      {
-        "id": 810,
-        "resourceBoxId": 810,
-        "unit": "street",
-        "unitScore": 2000
-      },
-      {
-        "id": 811,
-        "resourceBoxId": 811,
-        "unit": "street",
-        "unitScore": 3000
-      },
-      {
-        "id": 812,
-        "resourceBoxId": 812,
-        "unit": "street",
-        "unitScore": 4000
-      },
-      {
-        "id": 813,
-        "resourceBoxId": 813,
-        "unit": "street",
-        "unitScore": 5000
-      },
-      {
-        "id": 814,
-        "resourceBoxId": 814,
-        "unit": "street",
-        "unitScore": 7000
-      },
-      {
-        "id": 815,
-        "resourceBoxId": 815,
-        "unit": "street",
-        "unitScore": 10000
-      },
-      {
-        "id": 816,
-        "resourceBoxId": 816,
-        "unit": "street",
-        "unitScore": 15000
-      },
-      {
-        "id": 817,
-        "resourceBoxId": 817,
-        "unit": "street",
-        "unitScore": 20000
-      },
-      {
-        "id": 818,
-        "resourceBoxId": 818,
-        "unit": "street",
-        "unitScore": 25000
-      },
-      {
-        "id": 819,
-        "resourceBoxId": 819,
-        "unit": "street",
-        "unitScore": 30000
-      },
-      {
-        "id": 820,
-        "resourceBoxId": 820,
-        "unit": "street",
-        "unitScore": 40000
-      },
-      {
-        "id": 821,
-        "resourceBoxId": 821,
-        "unit": "street",
-        "unitScore": 50000
-      },
-      {
-        "id": 822,
-        "resourceBoxId": 822,
-        "unit": "street",
-        "unitScore": 100000
-      },
-      {
-        "id": 823,
-        "resourceBoxId": 823,
-        "unit": "street",
-        "unitScore": 200000
-      },
-      {
-        "id": 824,
-        "resourceBoxId": 824,
-        "unit": "street",
-        "unitScore": 390000
-      },
-      {
-        "id": 825,
-        "resourceBoxId": 825,
-        "unit": "light_sound",
-        "unitScore": 500
-      },
-      {
-        "id": 826,
-        "resourceBoxId": 826,
-        "unit": "light_sound",
-        "unitScore": 1000
-      },
-      {
-        "id": 827,
-        "resourceBoxId": 827,
-        "unit": "light_sound",
-        "unitScore": 2000
-      },
-      {
-        "id": 828,
-        "resourceBoxId": 828,
-        "unit": "light_sound",
-        "unitScore": 3000
-      },
-      {
-        "id": 829,
-        "resourceBoxId": 829,
-        "unit": "light_sound",
-        "unitScore": 4000
-      },
-      {
-        "id": 830,
-        "resourceBoxId": 830,
-        "unit": "light_sound",
-        "unitScore": 5000
-      },
-      {
-        "id": 831,
-        "resourceBoxId": 831,
-        "unit": "light_sound",
-        "unitScore": 7000
-      },
-      {
-        "id": 832,
-        "resourceBoxId": 832,
-        "unit": "light_sound",
-        "unitScore": 10000
-      },
-      {
-        "id": 833,
-        "resourceBoxId": 833,
-        "unit": "light_sound",
-        "unitScore": 15000
-      },
-      {
-        "id": 834,
-        "resourceBoxId": 834,
-        "unit": "light_sound",
-        "unitScore": 20000
-      },
-      {
-        "id": 835,
-        "resourceBoxId": 835,
-        "unit": "light_sound",
-        "unitScore": 25000
-      },
-      {
-        "id": 836,
-        "resourceBoxId": 836,
-        "unit": "light_sound",
-        "unitScore": 30000
-      },
-      {
-        "id": 837,
-        "resourceBoxId": 837,
-        "unit": "light_sound",
-        "unitScore": 40000
-      },
-      {
-        "id": 838,
-        "resourceBoxId": 838,
-        "unit": "light_sound",
-        "unitScore": 50000
-      },
-      {
-        "id": 839,
-        "resourceBoxId": 839,
-        "unit": "light_sound",
-        "unitScore": 100000
-      },
-      {
-        "id": 840,
-        "resourceBoxId": 840,
-        "unit": "light_sound",
-        "unitScore": 200000
-      },
-      {
-        "id": 841,
-        "resourceBoxId": 841,
-        "unit": "light_sound",
-        "unitScore": 390000
-      },
-      {
-        "id": 842,
-        "resourceBoxId": 842,
-        "unit": "school_refusal",
-        "unitScore": 500
-      },
-      {
-        "id": 843,
-        "resourceBoxId": 843,
-        "unit": "school_refusal",
-        "unitScore": 1000
-      },
-      {
-        "id": 844,
-        "resourceBoxId": 844,
-        "unit": "school_refusal",
-        "unitScore": 2000
-      },
-      {
-        "id": 845,
-        "resourceBoxId": 845,
-        "unit": "school_refusal",
-        "unitScore": 3000
-      },
-      {
-        "id": 846,
-        "resourceBoxId": 846,
-        "unit": "school_refusal",
-        "unitScore": 4000
-      },
-      {
-        "id": 847,
-        "resourceBoxId": 847,
-        "unit": "school_refusal",
-        "unitScore": 5000
-      },
-      {
-        "id": 848,
-        "resourceBoxId": 848,
-        "unit": "school_refusal",
-        "unitScore": 7000
-      },
-      {
-        "id": 849,
-        "resourceBoxId": 849,
-        "unit": "school_refusal",
-        "unitScore": 10000
-      },
-      {
-        "id": 850,
-        "resourceBoxId": 850,
-        "unit": "school_refusal",
-        "unitScore": 15000
-      },
-      {
-        "id": 851,
-        "resourceBoxId": 851,
-        "unit": "school_refusal",
-        "unitScore": 20000
-      },
-      {
-        "id": 852,
-        "resourceBoxId": 852,
-        "unit": "school_refusal",
-        "unitScore": 25000
-      },
-      {
-        "id": 853,
-        "resourceBoxId": 853,
-        "unit": "school_refusal",
-        "unitScore": 30000
-      },
-      {
-        "id": 854,
-        "resourceBoxId": 854,
-        "unit": "school_refusal",
-        "unitScore": 40000
-      },
-      {
-        "id": 855,
-        "resourceBoxId": 855,
-        "unit": "school_refusal",
-        "unitScore": 50000
-      },
-      {
-        "id": 856,
-        "resourceBoxId": 856,
-        "unit": "school_refusal",
-        "unitScore": 100000
-      },
-      {
-        "id": 857,
-        "resourceBoxId": 857,
-        "unit": "school_refusal",
-        "unitScore": 200000
-      },
-      {
-        "id": 858,
-        "resourceBoxId": 858,
-        "unit": "school_refusal",
-        "unitScore": 390000
-      }
-    ],
-    "startAt": 1771138800000,
-    "totalScoreRewards": [
-      {
-        "id": 295,
-        "resourceBoxId": 60,
-        "unit": "piapro",
-        "unitScore": 100000000
-      },
-      {
-        "id": 296,
-        "resourceBoxId": 61,
-        "unit": "piapro",
-        "unitScore": 200000000
-      },
-      {
-        "id": 297,
-        "resourceBoxId": 62,
-        "unit": "piapro",
-        "unitScore": 300000000
-      },
-      {
-        "id": 298,
-        "resourceBoxId": 63,
-        "unit": "piapro",
-        "unitScore": 400000000
-      },
-      {
-        "id": 299,
-        "resourceBoxId": 64,
-        "unit": "piapro",
-        "unitScore": 500000000
-      },
-      {
-        "id": 300,
-        "resourceBoxId": 65,
-        "unit": "piapro",
-        "unitScore": 600000000
-      },
-      {
-        "id": 301,
-        "resourceBoxId": 66,
-        "unit": "piapro",
-        "unitScore": 700000000
-      },
-      {
-        "id": 302,
-        "resourceBoxId": 60,
-        "unit": "theme_park",
-        "unitScore": 100000000
-      },
-      {
-        "id": 303,
-        "resourceBoxId": 61,
-        "unit": "theme_park",
-        "unitScore": 200000000
-      },
-      {
-        "id": 304,
-        "resourceBoxId": 62,
-        "unit": "theme_park",
-        "unitScore": 300000000
-      },
-      {
-        "id": 305,
-        "resourceBoxId": 63,
-        "unit": "theme_park",
-        "unitScore": 400000000
+        "giftTileId": 3,
+        "tileId": 5,
+        "x": -225,
+        "y": -225
       },
       {
-        "id": 306,
-        "resourceBoxId": 64,
-        "unit": "theme_park",
-        "unitScore": 500000000
+        "giftTileId": 2,
+        "tileId": 6,
+        "x": -300,
+        "y": -225
       },
       {
-        "id": 307,
-        "resourceBoxId": 65,
-        "unit": "theme_park",
-        "unitScore": 600000000
+        "giftTileId": 12,
+        "tileId": 7,
+        "x": -300,
+        "y": -150
       },
       {
-        "id": 308,
-        "resourceBoxId": 66,
-        "unit": "theme_park",
-        "unitScore": 700000000
+        "giftTileId": 4,
+        "tileId": 8,
+        "x": -375,
+        "y": -150
       },
       {
-        "id": 309,
-        "resourceBoxId": 60,
-        "unit": "idol",
-        "unitScore": 100000000
+        "giftTileId": 2,
+        "tileId": 9,
+        "x": -375,
+        "y": -75
       },
       {
-        "id": 310,
-        "resourceBoxId": 61,
-        "unit": "idol",
-        "unitScore": 200000000
+        "giftTileId": 4,
+        "tileId": 10,
+        "x": -375,
+        "y": 0
       },
       {
-        "id": 311,
-        "resourceBoxId": 62,
-        "unit": "idol",
-        "unitScore": 300000000
+        "giftTileId": 2,
+        "tileId": 11,
+        "x": -300,
+        "y": 0
       },
       {
-        "id": 312,
-        "resourceBoxId": 63,
-        "unit": "idol",
-        "unitScore": 400000000
+        "giftTileId": 3,
+        "tileId": 12,
+        "x": -300,
+        "y": 75
       },
       {
-        "id": 313,
-        "resourceBoxId": 64,
-        "unit": "idol",
-        "unitScore": 500000000
+        "giftTileId": 13,
+        "tileId": 13,
+        "x": -300,
+        "y": 150
       },
       {
-        "id": 314,
-        "resourceBoxId": 65,
-        "unit": "idol",
-        "unitScore": 600000000
+        "giftTileId": 2,
+        "tileId": 14,
+        "x": -300,
+        "y": 225
       },
       {
-        "id": 315,
-        "resourceBoxId": 66,
-        "unit": "idol",
-        "unitScore": 700000000
+        "giftTileId": 6,
+        "tileId": 15,
+        "x": -225,
+        "y": 225
       },
       {
-        "id": 316,
-        "resourceBoxId": 60,
-        "unit": "street",
-        "unitScore": 100000000
+        "giftTileId": 3,
+        "tileId": 16,
+        "x": -225,
+        "y": 300
       },
       {
-        "id": 317,
-        "resourceBoxId": 61,
-        "unit": "street",
-        "unitScore": 200000000
+        "giftTileId": 9,
+        "tileId": 17,
+        "x": -150,
+        "y": 300
       },
       {
-        "id": 318,
-        "resourceBoxId": 62,
-        "unit": "street",
-        "unitScore": 300000000
+        "giftTileId": 3,
+        "tileId": 18,
+        "x": -75,
+        "y": 300
       },
       {
-        "id": 319,
-        "resourceBoxId": 63,
-        "unit": "street",
-        "unitScore": 400000000
+        "giftTileId": 4,
+        "tileId": 19,
+        "x": -75,
+        "y": 225
       },
       {
-        "id": 320,
-        "resourceBoxId": 64,
-        "unit": "street",
-        "unitScore": 500000000
+        "giftTileId": 2,
+        "tileId": 20,
+        "x": 0,
+        "y": 225
       },
       {
-        "id": 321,
-        "resourceBoxId": 65,
-        "unit": "street",
-        "unitScore": 600000000
+        "giftTileId": 4,
+        "tileId": 21,
+        "x": 75,
+        "y": 225
       },
       {
-        "id": 322,
-        "resourceBoxId": 66,
-        "unit": "street",
-        "unitScore": 700000000
+        "giftTileId": 3,
+        "tileId": 22,
+        "x": 150,
+        "y": 225
       },
       {
-        "id": 323,
-        "resourceBoxId": 60,
-        "unit": "light_sound",
-        "unitScore": 100000000
+        "giftTileId": 14,
+        "tileId": 23,
+        "x": 225,
+        "y": 225
       },
       {
-        "id": 324,
-        "resourceBoxId": 61,
-        "unit": "light_sound",
-        "unitScore": 200000000
+        "giftTileId": 3,
+        "tileId": 24,
+        "x": 300,
+        "y": 225
       },
       {
-        "id": 325,
-        "resourceBoxId": 62,
-        "unit": "light_sound",
-        "unitScore": 300000000
+        "giftTileId": 5,
+        "tileId": 25,
+        "x": 300,
+        "y": 150
       },
       {
-        "id": 326,
-        "resourceBoxId": 63,
-        "unit": "light_sound",
-        "unitScore": 400000000
+        "giftTileId": 2,
+        "tileId": 26,
+        "x": 375,
+        "y": 150
       },
       {
-        "id": 327,
-        "resourceBoxId": 64,
-        "unit": "light_sound",
-        "unitScore": 500000000
+        "giftTileId": 4,
+        "tileId": 27,
+        "x": 375,
+        "y": 75
       },
       {
-        "id": 328,
-        "resourceBoxId": 65,
-        "unit": "light_sound",
-        "unitScore": 600000000
+        "giftTileId": 3,
+        "tileId": 28,
+        "x": 375,
+        "y": 0
       },
       {
-        "id": 329,
-        "resourceBoxId": 66,
-        "unit": "light_sound",
-        "unitScore": 700000000
+        "giftTileId": 6,
+        "tileId": 29,
+        "x": 375,
+        "y": -75
       },
       {
-        "id": 330,
-        "resourceBoxId": 60,
-        "unit": "school_refusal",
-        "unitScore": 100000000
+        "giftTileId": 2,
+        "tileId": 30,
+        "x": 375,
+        "y": -150
       },
       {
-        "id": 331,
-        "resourceBoxId": 61,
-        "unit": "school_refusal",
-        "unitScore": 200000000
+        "giftTileId": 2,
+        "tileId": 31,
+        "x": 300,
+        "y": -150
       },
       {
-        "id": 332,
-        "resourceBoxId": 62,
-        "unit": "school_refusal",
-        "unitScore": 300000000
+        "giftTileId": 3,
+        "tileId": 32,
+        "x": 225,
+        "y": -150
       },
       {
-        "id": 333,
-        "resourceBoxId": 63,
-        "unit": "school_refusal",
-        "unitScore": 400000000
+        "giftTileId": 3,
+        "tileId": 33,
+        "x": 225,
+        "y": -225
       },
       {
-        "id": 334,
-        "resourceBoxId": 64,
-        "unit": "school_refusal",
-        "unitScore": 500000000
+        "giftTileId": 5,
+        "tileId": 34,
+        "x": 225,
+        "y": -300
       },
       {
-        "id": 335,
-        "resourceBoxId": 65,
-        "unit": "school_refusal",
-        "unitScore": 600000000
+        "giftTileId": 2,
+        "tileId": 35,
+        "x": 150,
+        "y": -300
       },
       {
-        "id": 336,
-        "resourceBoxId": 66,
-        "unit": "school_refusal",
-        "unitScore": 700000000
+        "giftTileId": 4,
+        "tileId": 36,
+        "x": 75,
+        "y": -300
       }
     ]
   }

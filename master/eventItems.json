@@ -1421,5 +1421,148 @@
     "eventId": 183,
     "id": 244,
     "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 184,
+    "id": 245,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 185,
+    "id": 246,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 187,
+    "id": 248,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 188,
+    "id": 249,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 189,
+    "id": 250,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 190,
+    "id": 251,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 191,
+    "id": 252,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 192,
+    "id": 253,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 193,
+    "id": 254,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 194,
+    "id": 255,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 195,
+    "id": 256,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 196,
+    "id": 257,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_happy",
+    "eventId": 197,
+    "id": 258,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_pure",
+    "eventId": 198,
+    "id": 259,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_cute",
+    "eventId": 199,
+    "id": 260,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_cool",
+    "eventId": 200,
+    "id": 261,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_mysterious",
+    "eventId": 201,
+    "id": 262,
+    "name": "活動徽章"
+  },
+  {
+    "assetbundleName": "badge_all",
+    "eventId": 202,
+    "id": 263,
+    "name": "世界徽章"
+  },
+  {
+    "assetbundleName": "badge_haruka",
+    "eventId": 202,
+    "gameCharacterId": 6,
+    "id": 264,
+    "name": "章節1徽章"
+  },
+  {
+    "assetbundleName": "badge_ichika",
+    "eventId": 202,
+    "gameCharacterId": 1,
+    "id": 265,
+    "name": "章節2徽章"
+  },
+  {
+    "assetbundleName": "badge_emu",
+    "eventId": 202,
+    "gameCharacterId": 14,
+    "id": 266,
+    "name": "章節3徽章"
+  },
+  {
+    "assetbundleName": "badge_kanade",
+    "eventId": 202,
+    "gameCharacterId": 17,
+    "id": 267,
+    "name": "章節4徽章"
+  },
+  {
+    "assetbundleName": "badge_miku",
+    "eventId": 202,
+    "gameCharacterId": 21,
+    "id": 268,
+    "name": "章節5徽章"
   }
 ]

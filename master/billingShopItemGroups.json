@@ -8,6 +8,7 @@
       300003,
       300004
     ],
+    "billingShopItemType": "costume_3d",
     "id": 1,
     "name": "「次文化男孩風格」服裝",
     "seq": 300000
@@ -21,6 +22,7 @@
       300013,
       300014
     ],
+    "billingShopItemType": "costume_3d",
     "id": 2,
     "name": "「毛茸茸防雪大衣」服裝",
     "seq": 300010
@@ -34,6 +36,7 @@
       300023,
       300024
     ],
+    "billingShopItemType": "costume_3d",
     "id": 3,
     "name": "「女僕／管家」服裝",
     "seq": 300020
@@ -47,6 +50,7 @@
       300063,
       300064
     ],
+    "billingShopItemType": "costume_3d",
     "id": 5,
     "name": "「甜點」服裝",
     "seq": 300060
@@ -60,6 +64,7 @@
       300073,
       300074
     ],
+    "billingShopItemType": "costume_3d",
     "id": 6,
     "name": "「近未來」服裝",
     "seq": 300070
@@ -73,6 +78,7 @@
       300093,
       300094
     ],
+    "billingShopItemType": "costume_3d",
     "id": 7,
     "name": "「怪盜」服裝",
     "seq": 300090
@@ -86,6 +92,7 @@
       300103,
       300104
     ],
+    "billingShopItemType": "costume_3d",
     "id": 8,
     "name": "「魔法」服裝",
     "seq": 300100
@@ -99,6 +106,7 @@
       300113,
       300114
     ],
+    "billingShopItemType": "costume_3d",
     "id": 9,
     "name": "「餐廳」服裝",
     "seq": 300110
@@ -112,6 +120,7 @@
       300123,
       300124
     ],
+    "billingShopItemType": "costume_3d",
     "id": 10,
     "name": "「海盜」服裝",
     "seq": 300120
@@ -125,6 +134,7 @@
       300133,
       300134
     ],
+    "billingShopItemType": "costume_3d",
     "id": 11,
     "name": "「Animal」服裝",
     "seq": 300130
@@ -138,6 +148,7 @@
       300143,
       300144
     ],
+    "billingShopItemType": "costume_3d",
     "id": 12,
     "name": "「睡衣」服裝",
     "seq": 300140
@@ -151,6 +162,7 @@
       300223,
       300224
     ],
+    "billingShopItemType": "costume_3d",
     "id": 13,
     "name": "「幽靈」服裝",
     "seq": 300220
@@ -164,6 +176,7 @@
       300233,
       300234
     ],
+    "billingShopItemType": "costume_3d",
     "id": 14,
     "name": "「歌德」服裝",
     "seq": 300230
@@ -177,6 +190,7 @@
       300243,
       300244
     ],
+    "billingShopItemType": "costume_3d",
     "id": 15,
     "name": "「格子紋」服裝",
     "seq": 300240
@@ -190,6 +204,7 @@
       300263,
       300264
     ],
+    "billingShopItemType": "costume_3d",
     "id": 16,
     "name": "「宇宙」服裝",
     "seq": 300260
@@ -203,6 +218,7 @@
       300283,
       300284
     ],
+    "billingShopItemType": "costume_3d",
     "id": 18,
     "name": "「幻想」服裝",
     "seq": 300280
@@ -216,6 +232,7 @@
       300323,
       300324
     ],
+    "billingShopItemType": "costume_3d",
     "id": 19,
     "name": "「復活節」服裝",
     "seq": 300320
@@ -229,6 +246,7 @@
       300333,
       300334
     ],
+    "billingShopItemType": "costume_3d",
     "id": 20,
     "name": "「Hip hop」服裝",
     "seq": 300330
@@ -242,6 +260,7 @@
       300343,
       300344
     ],
+    "billingShopItemType": "costume_3d",
     "id": 21,
     "name": "「運動」服裝",
     "seq": 300340
@@ -255,6 +274,7 @@
       300353,
       300354
     ],
+    "billingShopItemType": "costume_3d",
     "id": 22,
     "name": "「假期」服裝",
     "seq": 300350
@@ -268,6 +288,7 @@
       300363,
       300364
     ],
+    "billingShopItemType": "costume_3d",
     "id": 23,
     "name": "「外出服」服裝",
     "seq": 300360
@@ -281,6 +302,7 @@
       300373,
       300374
     ],
+    "billingShopItemType": "costume_3d",
     "id": 24,
     "name": "「復古」服裝",
     "seq": 300370
@@ -294,6 +316,7 @@
       300383,
       300384
     ],
+    "billingShopItemType": "costume_3d",
     "id": 25,
     "name": "「禮服、正裝」服裝",
     "seq": 300380
@@ -307,6 +330,7 @@
       300453,
       300454
     ],
+    "billingShopItemType": "costume_3d",
     "id": 26,
     "name": "「妖怪」衣装",
     "seq": 300450
@@ -320,6 +344,7 @@
       300473,
       300474
     ],
+    "billingShopItemType": "costume_3d",
     "id": 27,
     "name": "「玩具」服裝",
     "seq": 300470
@@ -333,6 +358,7 @@
       300493,
       300494
     ],
+    "billingShopItemType": "costume_3d",
     "id": 28,
     "name": "「冬季運動」服裝",
     "seq": 300500
@@ -346,6 +372,7 @@
       300523,
       300524
     ],
+    "billingShopItemType": "costume_3d",
     "id": 30,
     "name": "「Western」服裝",
     "seq": 300520
@@ -359,6 +386,7 @@
       300533,
       300534
     ],
+    "billingShopItemType": "costume_3d",
     "id": 31,
     "name": "「春服」服裝",
     "seq": 300530
@@ -372,6 +400,7 @@
       300553,
       300554
     ],
+    "billingShopItemType": "costume_3d",
     "id": 32,
     "name": "「花朵」服裝",
     "seq": 300550
@@ -385,6 +414,7 @@
       300563,
       300564
     ],
+    "billingShopItemType": "costume_3d",
     "id": 33,
     "name": "「馬卡龍色」服裝",
     "seq": 300560
@@ -398,6 +428,7 @@
       300573,
       300574
     ],
+    "billingShopItemType": "costume_3d",
     "id": 34,
     "name": "「夏裝」服裝",
     "seq": 300570
@@ -411,6 +442,7 @@
       300583,
       300584
     ],
+    "billingShopItemType": "costume_3d",
     "id": 35,
     "name": "「賭場荷官・幽靈」服裝",
     "seq": 300580
@@ -424,6 +456,7 @@
       300593,
       300594
     ],
+    "billingShopItemType": "costume_3d",
     "id": 36,
     "name": "「American casual」服裝",
     "seq": 300590
@@ -437,6 +470,7 @@
       300603,
       300604
     ],
+    "billingShopItemType": "costume_3d",
     "id": 37,
     "name": "「秋裝」服裝",
     "seq": 300600
@@ -450,6 +484,7 @@
       300673,
       300674
     ],
+    "billingShopItemType": "costume_3d",
     "id": 38,
     "name": "「華麗」服裝",
     "seq": 300670
@@ -463,6 +498,7 @@
       300693,
       300694
     ],
+    "billingShopItemType": "costume_3d",
     "id": 39,
     "name": "「牛仔布」服裝",
     "seq": 300690
@@ -476,6 +512,7 @@
       300713,
       300714
     ],
+    "billingShopItemType": "costume_3d",
     "id": 40,
     "name": "「冬裝」服裝",
     "seq": 300710
@@ -489,6 +526,7 @@
       300733,
       300734
     ],
+    "billingShopItemType": "costume_3d",
     "id": 41,
     "name": "「歌劇院」服裝",
     "seq": 300730
@@ -502,6 +540,7 @@
       300743,
       300744
     ],
+    "billingShopItemType": "costume_3d",
     "id": 42,
     "name": "「下午茶派對」服裝",
     "seq": 300740
@@ -515,6 +554,7 @@
       300753,
       300754
     ],
+    "billingShopItemType": "costume_3d",
     "id": 43,
     "name": "「櫻花」服裝",
     "seq": 300750
@@ -528,6 +568,7 @@
       300773,
       300774
     ],
+    "billingShopItemType": "costume_3d",
     "id": 44,
     "name": "「偵探」服裝",
     "seq": 300770
@@ -541,6 +582,7 @@
       300803,
       300804
     ],
+    "billingShopItemType": "costume_3d",
     "id": 45,
     "name": "「雨天」服裝",
     "seq": 300800
@@ -554,6 +596,7 @@
       300813,
       300814
     ],
+    "billingShopItemType": "costume_3d",
     "id": 46,
     "name": "「大海」服裝",
     "seq": 300810
@@ -567,6 +610,7 @@
       300833,
       300834
     ],
+    "billingShopItemType": "costume_3d",
     "id": 47,
     "name": "「T恤」服裝",
     "seq": 300830
@@ -580,6 +624,7 @@
       300843,
       300844
     ],
+    "billingShopItemType": "costume_3d",
     "id": 48,
     "name": "「警察」服裝",
     "seq": 300840
@@ -593,6 +638,7 @@
       300853,
       300854
     ],
+    "billingShopItemType": "costume_3d",
     "id": 49,
     "name": "「家居服」服裝",
     "seq": 300850
@@ -606,6 +652,7 @@
       30039,
       30040
     ],
+    "billingShopItemType": "costume_3d",
     "id": 1001,
     "name": "「潮流老虎」服裝",
     "seq": 300365
@@ -619,6 +666,7 @@
       30103,
       30104
     ],
+    "billingShopItemType": "costume_3d",
     "id": 1002,
     "name": "「絢麗琴鍵」服裝",
     "seq": 301000
