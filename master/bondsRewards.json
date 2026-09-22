@@ -70065,6 +70065,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": 1051513,
+    "description": "「實乃理和寧寧」稱號文本3",
+    "rank": 46,
+    "bondsGroupId": 10515,
+    "id": 10515050,
+    "seq": 50,
+    "bondsRewardType": "resource"
+  },
+  {
     "resourceBoxId": 2,
     "description": "「實乃理和寧寧」心願碎片",
     "rank": 46,
@@ -98601,6 +98610,15 @@
     "bondsGroupId": 10718,
     "id": 10718049,
     "seq": 49,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1071813,
+    "description": "「愛莉和真冬」稱號文本3",
+    "rank": 46,
+    "bondsGroupId": 10718,
+    "id": 10718050,
+    "seq": 50,
     "bondsRewardType": "resource"
   },
   {
@@ -161115,6 +161133,15 @@
     "bondsGroupId": 11318,
     "id": 11318049,
     "seq": 49,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1131813,
+    "description": "「司和真冬」稱號文本3",
+    "rank": 46,
+    "bondsGroupId": 11318,
+    "id": 11318050,
+    "seq": 50,
     "bondsRewardType": "resource"
   },
   {

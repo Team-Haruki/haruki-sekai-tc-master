@@ -578,18 +578,6 @@
     "requiredConvertFixtureLevel": 1
   },
   {
-    "consumeResourceBoxId": 20013,
-    "convertMinutes": 120,
-    "externalId": 20013,
-    "id": 52,
-    "mysekaiConvertItemObtainType": "resource_box",
-    "mysekaiConvertItemTabId": 2,
-    "onceConvertLimit": 10,
-    "refreshCycle": "none",
-    "requiredConvertFixtureLevel": 1,
-    "startAt": 4078526400000
-  },
-  {
     "consumeResourceBoxId": 50001,
     "convertLimit": 100,
     "convertMinutes": 120,
