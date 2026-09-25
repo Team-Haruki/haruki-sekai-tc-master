@@ -7,7 +7,7 @@
     "expireDays": 30,
     "id": 1,
     "livePointRate": 2,
-    "maxAutoPlayCount": 20,
+    "maxAutoPlayCount": 99,
     "maxLiveBonusCount": 50,
     "presentSentence": "此為「七彩通行證～BASIC～」的購買獎勵。",
     "virtualItemRelationGroupId": 1,
