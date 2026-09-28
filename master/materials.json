@@ -2269,7 +2269,7 @@
   },
   {
     "canUse": false,
-    "flavorText": "可用于升级回响称号",
+    "flavorText": "可用於升級回響稱號",
     "id": 3002,
     "materialType": "common",
     "name": "回响点数",
@@ -2285,7 +2285,7 @@
   },
   {
     "canUse": false,
-    "flavorText": "可用于升级應援称号",
+    "flavorText": "可用於升級應援稱號",
     "id": 3006,
     "materialType": "common",
     "name": "應援徽章",

@@ -5334,6 +5334,76 @@
     "startAt": 1788494400000
   },
   {
+    "assetbundleName": "birthday2027_06",
+    "endAt": 1791388799000,
+    "id": 1124,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1295,
+        "resourceBoxId": 1238,
+        "limitedLoginBonusId": 1124
+      }
+    ],
+    "startAt": 1791129600000
+  },
+  {
+    "assetbundleName": "birthday2026_03",
+    "endAt": 1793289599000,
+    "id": 1125,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1296,
+        "resourceBoxId": 1239,
+        "limitedLoginBonusId": 1125
+      }
+    ],
+    "startAt": 1793030400000
+  },
+  {
+    "assetbundleName": "birthday2026_25",
+    "endAt": 1794067199000,
+    "id": 1126,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1297,
+        "resourceBoxId": 1240,
+        "limitedLoginBonusId": 1126
+      }
+    ],
+    "startAt": 1793808000000
+  },
+  {
+    "assetbundleName": "birthday2026_11",
+    "endAt": 1794671999000,
+    "id": 1127,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1298,
+        "resourceBoxId": 1241,
+        "limitedLoginBonusId": 1127
+      }
+    ],
+    "startAt": 1794412800000
+  },
+  {
+    "assetbundleName": "login_2026tea",
+    "endAt": 1793375999000,
+    "id": 1128,
+    "limitedLoginBonusDetails": [
+      {
+        "day": 1,
+        "id": 1299,
+        "resourceBoxId": 1242,
+        "limitedLoginBonusId": 1128
+      }
+    ],
+    "startAt": 1791604800000
+  },
+  {
     "assetbundleName": "persona5royal_collab_2025",
     "endAt": 1755100799000,
     "id": 2025,
