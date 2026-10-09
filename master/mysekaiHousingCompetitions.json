@@ -262,5 +262,16 @@
     "reviewStartAt": 1789660800000,
     "submitEndAt": 1790524799000,
     "submitStartAt": 1789660800000
+  },
+  {
+    "aggregateAt": 1792944000000,
+    "backNumberAccentColorCode": "#dd5901",
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "description": "實裝我的「世界」百景紀念",
+    "id": 103,
+    "name": "「世界」的秋日2026",
+    "reviewStartAt": 1792080000000,
+    "submitEndAt": 1792943999000,
+    "submitStartAt": 1792080000000
   }
 ]

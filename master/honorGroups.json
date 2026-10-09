@@ -4461,6 +4461,12 @@
     "pronunciation": "在「5週年紀念集章任務」中完成任意一張集章卡獲得"
   },
   {
+    "honorType": "event",
+    "id": 20038,
+    "name": "最佳創作者 「世界」的秋日2026",
+    "pronunciation": "入圍2026年我的「世界」百景『「世界」的秋日2026』"
+  },
+  {
     "backgroundAssetbundleName": "honor_bg_supportv2_1",
     "frameName": "honor_bg_supportv2_1",
     "honorType": "limitevent_v2",

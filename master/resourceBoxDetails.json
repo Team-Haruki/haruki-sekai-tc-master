@@ -794536,6 +794536,22 @@
     "resourceType": "boost_item"
   },
   {
+    "resourceBoxId": 10090,
+    "resourceQuantity": 1000,
+    "resourceId": null,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 10090,
+    "resourceQuantity": 30,
+    "resourceId": 28,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
     "resourceBoxId": 9999999,
     "resourceQuantity": 1,
     "resourceId": 1,
@@ -1017939,6 +1017955,14 @@
     "resourceBoxId": 102,
     "resourceQuantity": 1,
     "resourceId": 20110,
+    "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 103,
+    "resourceQuantity": 1,
+    "resourceId": 20116,
     "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
     "resourceLevel": 1,
     "resourceType": "honor"
