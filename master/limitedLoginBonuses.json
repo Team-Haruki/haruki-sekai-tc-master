@@ -2516,20 +2516,6 @@
     "startAt": 1790697600000
   },
   {
-    "assetbundleName": "championship_2025",
-    "endAt": 1792339199000,
-    "id": 166,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 315,
-        "resourceBoxId": 208,
-        "limitedLoginBonusId": 166
-      }
-    ],
-    "startAt": 1792252800000
-  },
-  {
     "assetbundleName": "halloween_2025",
     "endAt": 1793548799000,
     "id": 195,
@@ -2542,48 +2528,6 @@
       }
     ],
     "startAt": 1793376000000
-  },
-  {
-    "assetbundleName": "countdown_connectlive_000_joint_mm_wd_01",
-    "endAt": 1793462399000,
-    "id": 196,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 345,
-        "resourceBoxId": 211,
-        "limitedLoginBonusId": 196
-      }
-    ],
-    "startAt": 1793376000000
-  },
-  {
-    "assetbundleName": "countdown_connectlive_000_joint_mm_wd_02",
-    "endAt": 1793548799000,
-    "id": 197,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 346,
-        "resourceBoxId": 211,
-        "limitedLoginBonusId": 197
-      }
-    ],
-    "startAt": 1793462400000
-  },
-  {
-    "assetbundleName": "countdown_connectlive_000_joint_mm_wd_03",
-    "endAt": 1793635199000,
-    "id": 198,
-    "limitedLoginBonusDetails": [
-      {
-        "day": 1,
-        "id": 347,
-        "resourceBoxId": 211,
-        "limitedLoginBonusId": 198
-      }
-    ],
-    "startAt": 1793548800000
   },
   {
     "assetbundleName": "akuno_collab_revival_2025",

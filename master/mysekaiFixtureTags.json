@@ -518,6 +518,12 @@
     "pronunciation": "せかいすてーじ"
   },
   {
+    "id": 89,
+    "mysekaiFixtureTagType": "series",
+    "name": "萬聖節",
+    "pronunciation": "はろうぃん"
+  },
+  {
     "id": 90,
     "mysekaiFixtureTagType": "series",
     "name": "浪漫花園",
@@ -5840,6 +5846,36 @@
     "pronunciation": "きりたにはるかばーすでーにじゅうご"
   },
   {
+    "id": 10889,
+    "mysekaiFixtureTagType": "none",
+    "name": "[萬聖節]南瓜",
+    "pronunciation": "はろうぃんのかぼちゃ"
+  },
+  {
+    "id": 10890,
+    "mysekaiFixtureTagType": "none",
+    "name": "[萬聖節]南瓜組合",
+    "pronunciation": "はろうぃんのかぼちゃせっと"
+  },
+  {
+    "id": 10891,
+    "mysekaiFixtureTagType": "none",
+    "name": "[萬聖節]枯樹",
+    "pronunciation": "はろうぃんのかれき"
+  },
+  {
+    "id": 10892,
+    "mysekaiFixtureTagType": "none",
+    "name": "[萬聖節]糖果",
+    "pronunciation": "はろうぃんのきゃんでぃ"
+  },
+  {
+    "id": 10893,
+    "mysekaiFixtureTagType": "none",
+    "name": "[萬聖節]妖怪稻草人",
+    "pronunciation": "はろうぃんのおばけかかし"
+  },
+  {
     "id": 10894,
     "mysekaiFixtureTagType": "none",
     "name": "[浪漫花園]房子",
@@ -6094,7 +6130,7 @@
   {
     "id": 10936,
     "mysekaiFixtureTagType": "none",
-    "name": "[復古風格]",
+    "name": "[復古風格]鏡子",
     "pronunciation": "ゔぃんてーじすたいるのかがみ"
   },
   {

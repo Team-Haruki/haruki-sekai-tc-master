@@ -103,5 +103,12 @@
     "id": 502,
     "name": "世界通行證",
     "seq": 502
+  },
+  {
+    "billingShopItemType": "mysekai_blueprint",
+    "billingShopTabParentId": 2,
+    "id": 601,
+    "name": "限定我的「世界」家具",
+    "seq": 601
   }
 ]

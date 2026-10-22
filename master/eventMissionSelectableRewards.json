@@ -308,5 +308,45 @@
     "groupId": 1007,
     "id": 1045,
     "resourceBoxId": 400136
+  },
+  {
+    "groupId": 1008,
+    "id": 1046,
+    "resourceBoxId": 400137
+  },
+  {
+    "groupId": 1008,
+    "id": 1047,
+    "resourceBoxId": 400138
+  },
+  {
+    "groupId": 1008,
+    "id": 1048,
+    "resourceBoxId": 400139
+  },
+  {
+    "groupId": 1008,
+    "id": 1049,
+    "resourceBoxId": 400140
+  },
+  {
+    "groupId": 1008,
+    "id": 1050,
+    "resourceBoxId": 400141
+  },
+  {
+    "groupId": 1008,
+    "id": 1051,
+    "resourceBoxId": 400142
+  },
+  {
+    "groupId": 1008,
+    "id": 1052,
+    "resourceBoxId": 400143
+  },
+  {
+    "groupId": 1008,
+    "id": 1053,
+    "resourceBoxId": 400144
   }
 ]

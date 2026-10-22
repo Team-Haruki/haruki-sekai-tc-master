@@ -1994,6 +1994,578 @@
     "seq": 20085
   },
   {
+    "assetbundleName": "vl_archive_thumbnail_20086",
+    "id": 20086,
+    "name": "志步2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200861,
+        "startAt": 1774972800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200862,
+        "startAt": 1774972800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20086,
+    "seq": 20086
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20087",
+    "id": 20087,
+    "name": "真冬 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200871,
+        "startAt": 1774972800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200872,
+        "startAt": 1774972800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20087,
+    "seq": 20087
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20088",
+    "id": 20088,
+    "name": "巡音流歌 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200881,
+        "startAt": 1774972800000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200882,
+        "startAt": 1774972800000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20088,
+    "seq": 20088
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20089",
+    "id": 20089,
+    "name": "奏 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200891,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200892,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20089,
+    "seq": 20089
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20090",
+    "id": 20090,
+    "name": "KAITO 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200901,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200902,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20090,
+    "seq": 20090
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20091",
+    "id": 20091,
+    "name": "心羽 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200911,
+        "startAt": 1748707200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200912,
+        "startAt": 1748707200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20091,
+    "seq": 20091
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20092",
+    "id": 20092,
+    "name": "愛莉 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200921,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200922,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20092,
+    "seq": 20092
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20093",
+    "id": 20093,
+    "name": "實乃理 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200931,
+        "startAt": 1751299200000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200932,
+        "startAt": 1751299200000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20093,
+    "seq": 20093
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20094",
+    "id": 20094,
+    "name": "繪名 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200941,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200942,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20094,
+    "seq": 20094
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20095",
+    "id": 20095,
+    "name": "咲希 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200951,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200952,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20095,
+    "seq": 20095
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20096",
+    "id": 20096,
+    "name": "司 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200961,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200962,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20096,
+    "seq": 20096
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20097",
+    "id": 20097,
+    "name": "冬彌 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200971,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200972,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20097,
+    "seq": 20097
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20098",
+    "id": 20098,
+    "name": "類 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200981,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200982,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20098,
+    "seq": 20098
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20099",
+    "id": 20099,
+    "name": "寧寧 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 200991,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 200992,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20099,
+    "seq": 20099
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20100",
+    "id": 20100,
+    "name": "杏 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201001,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201002,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20100,
+    "seq": 20100
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20101",
+    "id": 20101,
+    "name": "一歌 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201011,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201012,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20101,
+    "seq": 20101
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20102",
+    "id": 20102,
+    "name": "瑞希 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201021,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201022,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20102,
+    "seq": 20102
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20103",
+    "id": 20103,
+    "name": "未來 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201031,
+        "startAt": 1761926400000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201032,
+        "startAt": 1761926400000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20103,
+    "seq": 20103
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20104",
+    "id": 20104,
+    "name": "笑夢 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201041,
+        "startAt": 1764518400000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201042,
+        "startAt": 1764518400000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20104,
+    "seq": 20104
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20105",
+    "id": 20105,
+    "name": "遙 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201051,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201052,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20105,
+    "seq": 20105
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20106",
+    "id": 20106,
+    "name": "穗波 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201061,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201062,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20106,
+    "seq": 20106
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20107",
+    "id": 20107,
+    "name": "MEIKO 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201071,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201072,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20107,
+    "seq": 20107
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20108",
+    "id": 20108,
+    "name": "彰人 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201081,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201082,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20108,
+    "seq": 20108
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20109",
+    "id": 20109,
+    "name": "雫 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201091,
+        "startAt": 1772294400000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201092,
+        "startAt": 1772294400000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20109,
+    "seq": 20109
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20110",
+    "id": 20110,
+    "name": "鏡音鈴 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201101,
+        "startAt": 1772294400000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201102,
+        "startAt": 1772294400000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20110,
+    "seq": 20110
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_20111",
+    "id": 20111,
+    "name": "鏡音連 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 201111,
+        "startAt": 1772294400000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 201112,
+        "startAt": 1772294400000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 20111,
+    "seq": 20111
+  },
+  {
     "assetbundleName": "vl_archive_thumbnail_30008",
     "id": 30008,
     "name": "萬聖節 2021",
@@ -2828,6 +3400,116 @@
     "paidVirtualLiveShopItemPurchaseType": "single",
     "resourceBoxId": 30045,
     "seq": 30045
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30046",
+    "id": 30046,
+    "name": "情人節 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300461,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300462,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30046,
+    "seq": 30046
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30047",
+    "id": 30047,
+    "name": "白色情人節 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300471,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300472,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30047,
+    "seq": 30047
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30048",
+    "id": 30048,
+    "name": "七夕 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300481,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300482,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30048,
+    "seq": 30048
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30049",
+    "id": 30049,
+    "name": "萬聖節 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300491,
+        "startAt": 1759161600000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300492,
+        "startAt": 1759161600000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30049,
+    "seq": 30049
+  },
+  {
+    "assetbundleName": "vl_archive_thumbnail_30050",
+    "id": 30050,
+    "name": "聖誕節 2025",
+    "paidVirtualLiveShopCosts": [
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "jewel",
+        "id": 300501,
+        "startAt": 1772294400000
+      },
+      {
+        "costResourceQuantity": 300,
+        "costResourceType": "paid_jewel",
+        "id": 300502,
+        "startAt": 1772294400000
+      }
+    ],
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "resourceBoxId": 30050,
+    "seq": 30050
   },
   {
     "assetbundleName": "vl_archive_thumbnail_40001",

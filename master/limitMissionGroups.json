@@ -282,6 +282,18 @@
     "startAt": 1787986800000
   },
   {
+    "assetbundleName": "limitmission_meiko",
+    "barIcon": "LimitMissionMeiko",
+    "distributionEndAt": 1795352399000,
+    "endAt": 1794401999000,
+    "iconAssetbundleName": "limitmission_meiko",
+    "id": 30,
+    "keyMissionId": 209,
+    "name": "MEIKO纪念日限時任務",
+    "seq": 34,
+    "startAt": 1793689200000
+  },
+  {
     "assetbundleName": "limitmission_miku_25",
     "distributionEndAt": 1814975999000,
     "endAt": 1813755599000,

@@ -6561,6 +6561,50 @@
     "virtualShopType": "other"
   },
   {
+    "id": 314,
+    "name": "「コネクトライブ わん！もあ！HAPPY TIME」グッズショップ",
+    "virtualShopDisplayType": "out_of_scope",
+    "virtualShopItems": [
+      {
+        "costJewel": 1000,
+        "costVirtualCoin": 3000,
+        "endAt": 1794293999000,
+        "id": 510,
+        "limitValue": 1,
+        "resourceBoxId": 405,
+        "seq": 99870,
+        "startAt": 1793430000000,
+        "virtualShopId": 314,
+        "virtualShopItemType": "costume"
+      },
+      {
+        "costJewel": 1000,
+        "costVirtualCoin": 3000,
+        "endAt": 1794293999000,
+        "id": 511,
+        "limitValue": 1,
+        "resourceBoxId": 406,
+        "seq": 99871,
+        "startAt": 1793430000000,
+        "virtualShopId": 314,
+        "virtualShopItemType": "costume"
+      },
+      {
+        "costJewel": 1000,
+        "costVirtualCoin": 3000,
+        "endAt": 1794293999000,
+        "id": 512,
+        "limitValue": 1,
+        "resourceBoxId": 407,
+        "seq": 99868,
+        "startAt": 1793430000000,
+        "virtualShopId": 314,
+        "virtualShopItemType": "accessory"
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 315,
     "name": "ハッピーニューイヤーライブ",
     "virtualShopDisplayType": "out_of_scope",

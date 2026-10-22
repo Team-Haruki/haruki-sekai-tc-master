@@ -670,5 +670,11 @@
     "id": 1002,
     "name": "初音未來紀念日蛋糕頭套",
     "seq": 10020
+  },
+  {
+    "assetbundleName": "accessory_1005",
+    "id": 1006,
+    "name": "MEIKO紀念日蛋糕頭套",
+    "seq": 10060
   }
 ]

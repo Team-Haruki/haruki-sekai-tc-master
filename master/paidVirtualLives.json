@@ -1080,6 +1080,318 @@
     "virtualLivePart": 0
   },
   {
+    "backgroundAssetbundleName": "vl_archive_bg_07",
+    "iconAssetbundleName": "vl_archive_icon_2086",
+    "id": 2086,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "light_sound"
+    ],
+    "virtualLiveId": 277,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_06",
+    "iconAssetbundleName": "vl_archive_icon_2087",
+    "id": 2087,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "school_refusal"
+    ],
+    "virtualLiveId": 280,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_09",
+    "iconAssetbundleName": "vl_archive_icon_2088",
+    "id": 2088,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "piapro"
+    ],
+    "virtualLiveId": 281,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_19",
+    "iconAssetbundleName": "vl_archive_icon_2089",
+    "id": 2089,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "school_refusal"
+    ],
+    "virtualLiveId": 283,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_05",
+    "iconAssetbundleName": "vl_archive_icon_2090",
+    "id": 2090,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "piapro"
+    ],
+    "virtualLiveId": 286,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_18",
+    "iconAssetbundleName": "vl_archive_icon_2091",
+    "id": 2091,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "street"
+    ],
+    "virtualLiveId": 289,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_15",
+    "iconAssetbundleName": "vl_archive_icon_2092",
+    "id": 2092,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "idol"
+    ],
+    "virtualLiveId": 292,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_21",
+    "iconAssetbundleName": "vl_archive_icon_2093",
+    "id": 2093,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "idol"
+    ],
+    "virtualLiveId": 296,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_23",
+    "iconAssetbundleName": "vl_archive_icon_2094",
+    "id": 2094,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "school_refusal"
+    ],
+    "virtualLiveId": 298,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_16",
+    "iconAssetbundleName": "vl_archive_icon_2095",
+    "id": 2095,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "light_sound"
+    ],
+    "virtualLiveId": 300,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_08",
+    "iconAssetbundleName": "vl_archive_icon_2096",
+    "id": 2096,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "theme_park"
+    ],
+    "virtualLiveId": 302,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_18",
+    "iconAssetbundleName": "vl_archive_icon_2097",
+    "id": 2097,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "street"
+    ],
+    "virtualLiveId": 304,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_04",
+    "iconAssetbundleName": "vl_archive_icon_2098",
+    "id": 2098,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "theme_park"
+    ],
+    "virtualLiveId": 309,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_17",
+    "iconAssetbundleName": "vl_archive_icon_2099",
+    "id": 2099,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "theme_park"
+    ],
+    "virtualLiveId": 315,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_22",
+    "iconAssetbundleName": "vl_archive_icon_2100",
+    "id": 2100,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "street"
+    ],
+    "virtualLiveId": 316,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_16",
+    "iconAssetbundleName": "vl_archive_icon_2101",
+    "id": 2101,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "light_sound"
+    ],
+    "virtualLiveId": 319,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_06",
+    "iconAssetbundleName": "vl_archive_icon_2102",
+    "id": 2102,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "school_refusal"
+    ],
+    "virtualLiveId": 321,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_02",
+    "iconAssetbundleName": "vl_archive_icon_2103",
+    "id": 2103,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "piapro"
+    ],
+    "virtualLiveId": 322,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_24",
+    "iconAssetbundleName": "vl_archive_icon_2104",
+    "id": 2104,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "theme_park"
+    ],
+    "virtualLiveId": 324,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_21",
+    "iconAssetbundleName": "vl_archive_icon_2105",
+    "id": 2105,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "idol"
+    ],
+    "virtualLiveId": 328,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_07",
+    "iconAssetbundleName": "vl_archive_icon_2106",
+    "id": 2106,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "light_sound"
+    ],
+    "virtualLiveId": 332,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_18",
+    "iconAssetbundleName": "vl_archive_icon_2107",
+    "id": 2107,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "piapro"
+    ],
+    "virtualLiveId": 335,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_18",
+    "iconAssetbundleName": "vl_archive_icon_2108",
+    "id": 2108,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "street"
+    ],
+    "virtualLiveId": 337,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_05",
+    "iconAssetbundleName": "vl_archive_icon_2109",
+    "id": 2109,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "idol"
+    ],
+    "virtualLiveId": 340,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_02",
+    "iconAssetbundleName": "vl_archive_icon_2110",
+    "id": 2110,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "piapro"
+    ],
+    "virtualLiveId": 344,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_04",
+    "iconAssetbundleName": "vl_archive_icon_2111",
+    "id": 2111,
+    "isTheater": true,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "piapro"
+    ],
+    "virtualLiveId": 345,
+    "virtualLivePart": 0
+  },
+  {
     "backgroundAssetbundleName": "vl_archive_bg_05",
     "iconAssetbundleName": "vl_archive_icon_3008",
     "id": 3008,
@@ -1533,6 +1845,66 @@
       "none"
     ],
     "virtualLiveId": 276,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_01",
+    "iconAssetbundleName": "vl_archive_icon_3046",
+    "id": 3046,
+    "isTheater": true,
+    "paidVirtualLiveType": "season",
+    "units": [
+      "none"
+    ],
+    "virtualLiveId": 285,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_03",
+    "iconAssetbundleName": "vl_archive_icon_3047",
+    "id": 3047,
+    "isTheater": true,
+    "paidVirtualLiveType": "season",
+    "units": [
+      "none"
+    ],
+    "virtualLiveId": 291,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_19",
+    "iconAssetbundleName": "vl_archive_icon_3048",
+    "id": 3048,
+    "isTheater": true,
+    "paidVirtualLiveType": "season",
+    "units": [
+      "none"
+    ],
+    "virtualLiveId": 312,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_11",
+    "iconAssetbundleName": "vl_archive_icon_3049",
+    "id": 3049,
+    "isTheater": true,
+    "paidVirtualLiveType": "season",
+    "units": [
+      "none"
+    ],
+    "virtualLiveId": 333,
+    "virtualLivePart": 0
+  },
+  {
+    "backgroundAssetbundleName": "vl_archive_bg_15",
+    "iconAssetbundleName": "vl_archive_icon_3050",
+    "id": 3050,
+    "isTheater": true,
+    "paidVirtualLiveType": "season",
+    "units": [
+      "none"
+    ],
+    "virtualLiveId": 343,
     "virtualLivePart": 0
   },
   {

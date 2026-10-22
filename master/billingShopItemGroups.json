@@ -644,6 +644,20 @@
     "seq": 300850
   },
   {
+    "assetbundleName": "shop_400010",
+    "billingShopItemIds": [
+      400010,
+      400011,
+      400012,
+      400013
+    ],
+    "billingShopItemType": "mysekai_blueprint",
+    "id": 54,
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 2,
+    "name": "[七彩慶典風] 玩偶（第1彈）的設計圖",
+    "seq": 400010
+  },
+  {
     "assetbundleName": "shop_40006",
     "billingShopItemIds": [
       30036,
