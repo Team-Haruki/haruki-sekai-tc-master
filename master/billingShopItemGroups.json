@@ -644,6 +644,20 @@
     "seq": 300850
   },
   {
+    "assetbundleName": "shop_300920",
+    "billingShopItemIds": [
+      300920,
+      300921,
+      300922,
+      300923,
+      300924
+    ],
+    "billingShopItemType": "costume_3d",
+    "id": 50,
+    "name": "「布勞森外套」服裝",
+    "seq": 300920
+  },
+  {
     "assetbundleName": "shop_400010",
     "billingShopItemIds": [
       400010,
